@@ -30,6 +30,9 @@ anderen, die dem neuen Herrscher bei der Machtübernahme geholfen haben, mag er
 als Freunde nicht zu befriedigen, da sich diese mehr vom Machtwechsel erhofft
 haben.
 
+> Denn es ist wohl festzustellen, dass die Menschen entweder gütlich behandelt
+> oder vernichtet werden müssen.
+
 Man ist auf die Gunst der Einwohner angewiesen, möchte man seine neue Herrschaft
 absichern können. Nach dem Verlust einer Herrschaft trifft der Machthaber nach
 der Wiedereroberung oft strengere Vorkehrungen zum Machterhalt und verliert die
@@ -46,6 +49,13 @@ Wechselt der Eroberer seinen Wohnsitz ins neue Land, hat dies einige Vorteile:
 Er sieht Unruhen früh und kann diese im Keim ersticken. Die Ausplünderung des
 Landes durch die Beamten kann er unterbinden. Die Anwesenheit des Machthabers
 beruhigt das Volk, da man sich direkt an diesen wenden kann.
+
+> Denn was man von ferne kommen sieht, dem ist leicht zu begegnen; wartet man
+> aber, bis es nah ist, so kommt die Arznei zu spät, weil das Übel unheilbar
+> geworden ist, und es geht, wie die Ärzte von der Schwindsucht sagen, dass sie
+> anfangs leicht zu heilen, aber schwer zu erkennen ist; wird sie aber im Anfang
+> nicht erkannt und geschieht nichts dagegen, so ist sie in der Folge leicht zu
+> erkennen, aber schwer zu heilen.
 
 Durch das Aufschlagen von Kolonien im neu eroberten Land spart man sich eine
 teure Besatzung und verärgert dadurch nur eine kleine Minderheit, die nach ihrer
