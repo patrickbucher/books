@@ -103,7 +103,7 @@ Eroberer als mit der Regierungsform des Landes zu tun.
 
 # V
 
-Ein LAnd, das vor seiner Eroberung in Freiheit und nach den eigenen Gesetzen
+Ein Land, das vor seiner Eroberung in Freiheit und nach den eigenen Gesetzen
 lebte, kann auf drei Arten behandelt werden: Es wird zerstört; der Herrscher
 schlägt seine Resizend in ihm auf, um so seine Macht behaupten zu können; oder
 man lässt das Land in Freiheit weiterleben, installiert aber eine eigene
