@@ -117,3 +117,88 @@ Die wichtigsten Cloud-Anbieter sind:
   werden. Bei Microsoft 365 hängt das Land der Datenspeicherung hängt von der
   Rechnungsadresse des Kunden ab.
 
+# Datenschutz nach der DSGVO: Einführung und wichtigste Basics für die Cloud-Computing-Praxis
+
+Datenschutz bewahrt die Freiheit natürlicher Personen, selbst über den Umgang
+ihrer personenbezogenen Daten zu entscheiden und schützt das Recht auf
+informationelle Selbstbestimmung. Die DSGVO ist das Ergebnis einer
+Datenschutzreform, welche die Regeln EU-weit vereinheitlicht. Sie ist eine
+Verordnung und nicht nur eine blosse Richtlinie und damit direkt in den
+EU-Mitgliedsstaaten gültig. In den jeweiligen Ländern wird sie durch Anpassungs-
+und Umsetzungsvorschriften ergänzt. Ziel der DSGVO war es auch, Europa
+"cloud-friendly" und "cloud-active" zu machen, wobei Hindernisse im
+grenzüberschreitenden Cloud Computing beseitigt worden sind. Die DSGVO ist
+technologieneutral formuliert und schafft einen europaweiten einheitlichen
+Rahmen für Datenschutz. Den wirtschaftlichen Vorteilen des Cloud Computings
+stehen Sicherheits- und Datenschutzbedenken bei potentiellen Kunden gegenüber.
+Wichtige Fragestellungen hierbei sind u.a.:
+
+1. Wann lieft eine Verarbeitung personenbezogener Daten vor?
+2. Was ist bei der Auswahl eines Cloud-Anbieters zu berücksichtigen?
+3. Wo befinden sich die Daten, und wie sicher ist die Cloud-Infrastruktur?
+4. Wann und wie muss ein Auftragsverarbeitungsvertrag (AV-Vertrag) abgeschlossen werden?
+5. Wie ist die Datenübertragung in andere Länder geregelt?
+
+Personenbezogene Daten sind geschützt; deren Verarbeitung unterliegt einem
+Verbot mit Erlaubnisvorbehalt. (Was nicht explizit erlaubt worden ist, ist
+verboten.) Wird eine Datenverarbeitung erlaubt, bezeichnet man dies als
+_Erlaubnistatbestand_. Als personenbezogene Daten versteht man u.a.
+Informationen, die sich auf eine Person beziehen, und mithilfe derer eine Person
+identifiziert werden kann (Name, Adresse, Geburtsdatum, E-Mail-Adresse,
+IP-Adresse usw.). Eine Person, deren Daten verarbeitet werden, wird als
+_betroffene Person_ bezeichnet.  Unter einer Datenverarbeitung versteht man den
+ganzen Zyklus von Erhebung über Speicherung, Übermittlung, Nutzung bis zur
+Löschung der Daten. Die Datenverarbeitung ist rechtmässig, wenn ein
+Erlaubnisvorbehalt vorliegt und sie im Einklang mit gesetzlichen Vorgaben
+(DSGVO, weitere) erfolgt.
+
+Die wichtigsten Akteure im Datenschutz sind:
+
+- Die betroffene Person (_Data Subject_) ist eine natürliche Person, welche über
+  schützenswerte personenbezogene Daten zur Datenverarbeitung verfügt.
+- Der Verantwortliche (_Controller_) ist eine natürliche oder juristische
+  Person, welche mit anderen über Zweck und Mittel einer Datenverarbeitung
+  entscheidet; d.h. im Cloud Computing ist es der Nutzer eines Angebots. Im
+  Rahmen der DSGVO ist jedes Unternehmen als Verantwortlicher anzusehen.
+- Der gemeinsam Verantwortliche (_Joint Controller_) ist jemand, der die Zwecke
+  und Mittel zur personenbezogenen Datenverarbeitung mit einem anderen
+  Verantwortlichen zusammen festlegt. So können Kundendaten von mehreren
+  Unternehmen gemeinsam genutzt werden, wobei die jeweiligen Aufgaben und
+  Verpflichtungen in einer transparenten Vereinbarung festzulegen sind.
+- Der Auftragsverarbeiter (_Processor_) ist ein Dienstleister, der
+  personenbezogene Daten im Auftrag eines Verantwortlichen im Rahmen eines
+  Auftragverhältnis übernimmt. Er muss die vom Verantwortlichen festgelegten
+  Zwecke und Mittel einhalten, wozu diese Pflichten im Rahmen eines AV-Vertrags
+  an den Dienstleister weitergegeben werden.
+- Der Unterauftragsverarbeiter (_Sub-Processor_) ist ein Dienstleister, der für
+  andere Auftragsverarbeiter arbeitet, und für den wiederum die gleichen
+  Pflichten gelten, und diese auch an andere Auftragsverarbeiter weitergeben
+  kann.
+- Der Dritte (_Third Party_) ist ein Aussenstehender, der nicht wie eine der
+  oben erwähnten Akteure in eine personenbezogene Datenverarbeitung eingebunden
+  ist.
+- Der Empfänger (_Recipient_) ist jeder, dem personenbezogene Daten offengelegt
+  werden, unabhängig davon, ob er eine dritte Person ist oder nicht.
+- Der Datenschutzbeauftragte (_Data Protection Officer_) kümmert sich als
+  Ansprechpartner und Anlaufstelle um die Einhaltung von Datenschutzvorschriften
+  in einem Unternehmen und ist dabei weisungsfrei. Er sollte bei entsprechenden
+  Fragen eingebunden werden.
+- Die Aufsichtsbehörde (_Supervisory Authority_) ist eine unabhängige staatliche
+  Stelle, welche für die Einhaltung und Durchsetzung der DSGVO verantwortlich
+  ist.
+
+Die DSGVO unterscheidet zwischen folgenden Ländern:
+
+- EU-Mitglieds- und EWR-Vertragsstaaten (Island, Norwegen, Liechtenstein), die
+  direkt an die DSGVO gebunden sind.
+- Drittstaaten, die nicht an die DSGVO gebunden sind, und deren
+  Datenschutzniveau von der EU-Kommission eingeschätzt wird:
+    - Sichere Drittländer, die über ein mit der DSGVO vergleichbares
+      Datenschutzniveau verfügen (z.B. die Schweiz und das Vereinigte
+      Königreich).
+    - Unsichere Drittländer, deren Datenschutzniveau unter demjenigen der DSGVO
+      liegen.
+
+Man unterscheidet zwischen einer Datenübermittlung _1. Stufe_ innerhalb der
+direkt an die DSGVO gebundenen Länder und einer Datenübermittlung _2. Stufe_ bei
+einer Datenübermittlung mit Drittstaaten.
