@@ -202,3 +202,42 @@ Die DSGVO unterscheidet zwischen folgenden Ländern:
 Man unterscheidet zwischen einer Datenübermittlung _1. Stufe_ innerhalb der
 direkt an die DSGVO gebundenen Länder und einer Datenübermittlung _2. Stufe_ bei
 einer Datenübermittlung mit Drittstaaten.
+
+# Wann ist die DSGVO im Cloud Computing überhaupt anzuwenden?
+
+Bei der DSGVO stellt sich die Frage, ob diese auf einen bestimmten Fall
+überhaupt anwendbar ist. In sachlicher Sicht muss hierzu eine Verarbeitung
+personenbezogener Daten mit Speicherung vorliegen, für die keine Ausnahme gilt.
+Personenbezogene Daten sind alle Informationen, mit der eine Person direkt
+identifiziert (z.B. Name, Adresse) oder identifizierbar (z.B. Kundennummer,
+Benutzername, IP-Adresse) ist. Hierbei stellt sich die Frage, inwiefern das
+Wissen Dritter zur Identifikation notwendig ist (z.B. Auskunft durch eine
+Behörde). Für reine Sachdaten (z.B. mathematische Formeln) oder Daten
+juristischer Personen sowie Daten verstorbener natürlicher Personen findet die
+DSGVO keine Anwendung. Pseudonymisierte Daten sind weiterhin personenbezogene
+Daten, wenn die Informationen zur Identifikation der natürlichen Person
+weiterhin vorhanden sind, wenn auch getrennt aufbewahrt werden. Auf
+anonymisierte Daten, aufgrund derer nicht mehr auf eine natürliche Person
+geschlossen werden kann, findet die DSGVO hingegen keine Anwendung. Eine
+Verarbeitung kann manuell oder (teilweise) automatisch erfolgen und betrifft
+alle Vorgänge, die sich auf personenbezogene Daten beziehen. Erfolgt eine
+Verarbeitung rein zu persönlichen oder familiären Zwecken, gilt die
+Haushaltsausnahme, nach der die DSGVO keine Anwendung findet. (Das Hochladen von
+Geburtstagsfotos in einen Cloud-Speicher oder das Teilen solcher Bilder in einem
+begrenzten Personenkreis fällt dadurch nicht unter die DSGVO.) Geschieht die
+Verarbeitung jedoch für wirtschaftliche Zwecke, ist die DSGVO hingegen
+anwendbar. Für die DSGVO ist nicht der Datenverarbeitungsstandort sondern eine
+Niederlassung im EU-Raum ausschlaggebend. Nach dem Marktortprinzip unterliegt
+eine Verarbeitung der DSGVO, wenn diese durch eine Niederlassung innerhalb der
+EU erfolgt oder Personen betrifft, die sich im EU-Raum aufhalten. Ein
+Cloud-Anbieter, der sein eigenes Rechenzentrum als feste Einrichtung betreibt,
+gilt als in der EU niedergelassen. Gehören ihm jedoch nur einige Server in einem
+Rechenzenter, das nicht von seinen Angestellten betreten wird, liegt keine
+Niederlassung vor (Colocation). Bei der Auftragsverarbeitung durch einen
+Cloud-Anbieter innerhalb des EU-Raums liegt keine Niederlassung vor. Werden
+Angebote für Waren und Dienstleistungen an Personen im EU-Raum angeboten, oder
+wird deren Verhalten (zwecks Profilbildung) beobachtet, findet die DSGVO
+Anwendung (siehe Google-Spain-Urteil). Ob sich beispielsweise ein Online-Shop an
+Personen in der EU richtet, kann von verschiedenen Faktoren abhängen (z.B. die
+verwendete TLD, Preisangaben in EU-Währungen, Verwendung europäischer Sprachen
+usw.)
