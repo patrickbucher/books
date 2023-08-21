@@ -241,3 +241,47 @@ Anwendung (siehe Google-Spain-Urteil). Ob sich beispielsweise ein Online-Shop an
 Personen in der EU richtet, kann von verschiedenen Faktoren abhängen (z.B. die
 verwendete TLD, Preisangaben in EU-Währungen, Verwendung europäischer Sprachen
 usw.)
+
+# Wann ist die Datenverarbeitung erlaubt? ‒ Zulässigkeit (1. Stufe): Erlaubnistatbestände als Rechtsgrundlage
+
+Ob personenbezogene Daten verarbeiten werden dürfen, ist zunächst eine
+Zulässigkeitsprüfung erforderlich. Eine Verarbeitung ist grundsätzlich verboten,
+sofern nicht ein Erlaubnistatbestand vorliegt (Verbot mit Erlaubnisvorbehalt).
+Es gibt u.a. folgende Erlaubnistatbestände:
+
+- Einwilligung: Die betroffene Person stimmt einer Datenverarbeitung explizit
+  zu. Diese Einwilligung ist mit Wirkung auf die Zukunft widerrufbar und bedarf
+  keiner besonderen Form. Sie ist nur wirksam, wenn folgende Voraussetzungen
+  gegeben sind:
+    1. Freiwilligkeit: Es liegt keine Zwangssituation vor.
+    2. Bestimmtheit: Die Verarbeitung erfolgt auf einen klar bestimmten Zweck; es
+      liegt keine pauschale Einwilligung vor.
+    3. Informiertheit: Die betroffene Person wurde in klarer und verständlicher
+      Sprache über die Verarbeitung informiert.
+    4. Einwilligungsbewusstsein: Die Einwilligung muss explizit erfolgen (Opt-In,
+      z.B. durch Betätigung einer Schaltfläche oder Aktivierung einer Checkbox),
+      eine Stillschweigende Einwilligung (Opt-Out) ist nichtig.
+- Verarbeitung zur Erfüllung eines Vertrags: Zur Auslieferung einer bestellten
+  Ware muss beispielsweise die Anschrift verarbeitet werden können; ein
+  Vermieter muss die Kontaktdaten eines Mieters beispielsweise an den
+  Hausmeister oder an einen Elektriker weitergeben können.
+- Verarbeitung zur Erfüllung rechtlicher Verpflichtungen: Eine Firma muss
+  beispielsweise aufgrund einer Aufbewahrungspflicht die Lohnabrechnungen
+  ehemaliger Mitarbeiter für einige Zeit nach Beendigung des
+  Beschäftigungsverhältnisses aufbewahren.
+- Verarbeitung zur Wahrung berechtigter Interessen: Ein berechtigtes Interesse
+  liegt etwa dann vor, wenn personenbezogene Daten innerhalb einer
+  Unternehmensgruppe weitergeleitet werden, oder eine Datenverarbeitung zwecks
+  IT-Sicherheit nötig ist. Hierzu müssen folgende Kriterien erfüllt sein:
+    1. Der Verantwortliche muss ein berechtigtes Interesse an der
+       Datenverarbeitung haben.
+    2. Die Datenverarbeitung muss erforderlich sein, d.h. es gibt keine
+       milderen Alternativen zur Durchsetzung des gleichen Interesses.
+    3. Die Interessen des Berechtigten überwiegen das Schutzbedürfnis des
+       Betroffenen.
+- Auftragsverarbeitung: Ein Cloud-Anbieter verarbeitet Daten im Auftrag einer
+  anderen Person.
+
+Für besonders sensible Daten (z.B. genetische, biometrische oder
+Gesundheitsdaten) gibt es spezielle Regelungen, die im jeweiligen Fall zu prüfen
+sind.
