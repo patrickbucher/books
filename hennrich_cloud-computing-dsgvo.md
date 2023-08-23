@@ -208,35 +208,43 @@ einer Datenübermittlung mit Drittstaaten.
 Bei der DSGVO stellt sich die Frage, ob diese auf einen bestimmten Fall
 überhaupt anwendbar ist. In sachlicher Sicht muss hierzu eine Verarbeitung
 personenbezogener Daten mit Speicherung vorliegen, für die keine Ausnahme gilt.
+
 Personenbezogene Daten sind alle Informationen, mit der eine Person direkt
 identifiziert (z.B. Name, Adresse) oder identifizierbar (z.B. Kundennummer,
 Benutzername, IP-Adresse) ist. Hierbei stellt sich die Frage, inwiefern das
 Wissen Dritter zur Identifikation notwendig ist (z.B. Auskunft durch eine
 Behörde). Für reine Sachdaten (z.B. mathematische Formeln) oder Daten
 juristischer Personen sowie Daten verstorbener natürlicher Personen findet die
-DSGVO keine Anwendung. Pseudonymisierte Daten sind weiterhin personenbezogene
-Daten, wenn die Informationen zur Identifikation der natürlichen Person
-weiterhin vorhanden sind, wenn auch getrennt aufbewahrt werden. Auf
-anonymisierte Daten, aufgrund derer nicht mehr auf eine natürliche Person
-geschlossen werden kann, findet die DSGVO hingegen keine Anwendung. Eine
-Verarbeitung kann manuell oder (teilweise) automatisch erfolgen und betrifft
-alle Vorgänge, die sich auf personenbezogene Daten beziehen. Erfolgt eine
-Verarbeitung rein zu persönlichen oder familiären Zwecken, gilt die
+DSGVO keine Anwendung.
+
+Pseudonymisierte Daten sind weiterhin personenbezogene Daten, wenn die
+Informationen zur Identifikation der natürlichen Person weiterhin vorhanden
+sind, wenn auch getrennt aufbewahrt werden. Auf anonymisierte Daten, aufgrund
+derer nicht mehr auf eine natürliche Person geschlossen werden kann, findet die
+DSGVO hingegen keine Anwendung.
+
+Eine Verarbeitung kann manuell oder (teilweise) automatisch erfolgen und
+betrifft alle Vorgänge, die sich auf personenbezogene Daten beziehen. Erfolgt
+eine Verarbeitung rein zu persönlichen oder familiären Zwecken, gilt die
 Haushaltsausnahme, nach der die DSGVO keine Anwendung findet. (Das Hochladen von
 Geburtstagsfotos in einen Cloud-Speicher oder das Teilen solcher Bilder in einem
 begrenzten Personenkreis fällt dadurch nicht unter die DSGVO.) Geschieht die
 Verarbeitung jedoch für wirtschaftliche Zwecke, ist die DSGVO hingegen
-anwendbar. Für die DSGVO ist nicht der Datenverarbeitungsstandort sondern eine
-Niederlassung im EU-Raum ausschlaggebend. Nach dem Marktortprinzip unterliegt
-eine Verarbeitung der DSGVO, wenn diese durch eine Niederlassung innerhalb der
-EU erfolgt oder Personen betrifft, die sich im EU-Raum aufhalten. Ein
-Cloud-Anbieter, der sein eigenes Rechenzentrum als feste Einrichtung betreibt,
-gilt als in der EU niedergelassen. Gehören ihm jedoch nur einige Server in einem
-Rechenzenter, das nicht von seinen Angestellten betreten wird, liegt keine
-Niederlassung vor (Colocation). Bei der Auftragsverarbeitung durch einen
-Cloud-Anbieter innerhalb des EU-Raums liegt keine Niederlassung vor. Werden
-Angebote für Waren und Dienstleistungen an Personen im EU-Raum angeboten, oder
-wird deren Verhalten (zwecks Profilbildung) beobachtet, findet die DSGVO
+anwendbar.
+
+Für die Anwendbarkeit der DSGVO ist nicht der Datenverarbeitungsstandort sondern
+eine Niederlassung im EU-Raum ausschlaggebend. Nach dem Marktortprinzip
+unterliegt eine Verarbeitung der DSGVO, wenn diese durch eine Niederlassung
+innerhalb der EU erfolgt oder Personen betrifft, die sich im EU-Raum aufhalten.
+
+Ein Cloud-Anbieter, der sein eigenes Rechenzentrum als feste Einrichtung
+betreibt, gilt als in der EU niedergelassen. Gehören ihm jedoch nur einige
+Server in einem Rechenzenter, das nicht von seinen Angestellten betreten wird,
+liegt keine Niederlassung vor (Colocation). Bei der Auftragsverarbeitung durch
+einen Cloud-Anbieter innerhalb des EU-Raums liegt keine Niederlassung vor.
+
+Werden Angebote für Waren und Dienstleistungen an Personen im EU-Raum angeboten,
+oder wird deren Verhalten (zwecks Profilbildung) beobachtet, findet die DSGVO
 Anwendung (siehe Google-Spain-Urteil). Ob sich beispielsweise ein Online-Shop an
 Personen in der EU richtet, kann von verschiedenen Faktoren abhängen (z.B. die
 verwendete TLD, Preisangaben in EU-Währungen, Verwendung europäischer Sprachen
@@ -285,3 +293,92 @@ Es gibt u.a. folgende Erlaubnistatbestände:
 Für besonders sensible Daten (z.B. genetische, biometrische oder
 Gesundheitsdaten) gibt es spezielle Regelungen, die im jeweiligen Fall zu prüfen
 sind.
+
+# Auftragsverarbeitung
+
+Wird die Verarbeitung personenbezogener Daten an einen Cloud-Provider
+ausgelagert, spricht man von einer Auftragsverarbeitung. Diese liegt sowohl bei
+der Auslagerung einzelner IT-Ressourcen (z.B. Server) und Anwendungen (z.B.
+Microsoft 365) als auch bei einer vollständigen Auslagerung von
+Geschäftsprozessen (z.B. Lohnbuchhaltung) vor.
+
+Der im Rahmen der Auftragsverarbeitung herbeigezogene Dienstleister entscheidet
+dabei nicht über Zwecke und Mittel der Datenverarbeitung, sondern muss sich
+dabei nach dem Verantwortlichen richten, der die Datenverarbeitung in Auftrag
+gibt. Hat der Verantwortliche beim Betroffenen eine Erlaubnis zur
+Datenverarbeitung eingeholt, darf er diese Verarbeitung ohne weitere Absprache
+mit dem Betroffenen an einen Auftragsverarbeiter (d.h. an einen Cloud-Anbieter)
+weitergeben. Die Verantwortung für den Schutz der Daten des Betroffenen geht
+dabei nicht an den Auftragsverarbeiter weiter, sondern verbleibt beim
+Verantwortlichen.
+
+Der Auftragsverarbeiter gilt dabei nicht als Dritter, aber als Empfänger der
+Daten, der vom Verantwortlichen gegenüber dem Betroffenen auch als solcher in
+der Datenschutzerklärung zu benennen, bei Datenschutzauskünften mitzuteilen und
+im Verarbeitungsverzeichnis anzugeben ist. Typsische Beispiele für eine
+Auftragsverarbeitung sind:
+
+- IT-Outsourcing oder Betreuung der IT-Infrastruktur durch einen Dienstleister
+  (z.B. mit Fernzugriff auf personenbezogene Daten).
+- Betreuung von Webseiten, Webshops und Analyse der entsprechenden Interaktionen
+  durch Agenturen.
+- Auslagerung von Datensicherung und -archivierung sowie die Vernichtung
+  entsprechender Datenträger.
+- Verarbeitung von Kundendaten durch Callcenter aus Marketing- oder zu
+  Supportzwecken.
+- Scan und Druck von Dokumenten, die personenbezogene Informationen enthalten.
+
+Verarbeitet ein Cloud-Anbieter oder ein sonstiger Dienstleister Daten zu eigenen
+Zwecken, liegt keine Auftragsverarbeitung vor. (In diesem Fall ist ein
+Erlaubnistatbestand mit dem Betroffenen erforderlich.) Erlangt ein
+Sicherheitsdienst, ein Reinigungsunternehmen oder ein Berufsgeheimisträger
+(Anwalt, Steuerberater) im Rahmen einer Dienstleistung Zugriff auf
+personenbezogene Daten, liegt keine Auftragsverarbeitung vor. Mietet sich ein
+Unternehmen in einem Rechenzentrum ein (Colocation), ohne dem Anbieter dabei
+Zugriff auf personenbezogene Daten zu gewähren, liegt ebenfalls keine
+Auftragsverarbeitung vor.
+
+Ein Auftragsverarbeitungsvertrag (AV-Vertrag) setzt eine sorgfältige Auswahl
+eines Auftragsverarbeiters voraus. Dieser muss fachlich geeignet sein und
+hinreichende Garantien bieten, dass technische und organisatorische ergriffen
+werden, um den Anforderungen der DSGVO zu genügen. (Diese werden vom Anbieter in
+einer Liste der technischen und organisatorischen Massnahmen ‒ TOMs ‒
+ausgewiesen.) Der AV-Vertrag (Data Processing Agreement, DPA) wird zwischen dem
+Verantwortlichen und dem Auftragsverarbeiter abgeschlossen. Bei grossen
+Cloud-Anbieter sind das weitgehend standardisierte Verträge, die praktisch
+keinen Spielraum für besondere Regelungen bieten, und meist als Zusätze zu den
+allgemeinen Geschäftsbedingungen akzeptiert werden:
+
+- Amazon: AWS GDPR Data Processing Addendum
+- Google: Data Processing and Security Terms
+- Microsoft: Nachtrag zum Datenschutz für Microsoft-Produkte und -Services
+
+Bei kleineren Cloud-Anbietern besteht oftmals mehr Spielraum um den AV-Vertrag
+an die jeweiligen Anforderungen der jeweiligen Datenverarbeitung anzupassen.
+
+Im Rahmen eines AV-Vertrags kann auch die Auftragsverarbeitung vonseiten des
+Auftragsverarbeiters zu einem Unterauftragnehmer (Subunternehmer) geregelt sein.
+Diese Auftragsverarbeitung hat unter den gleichen Bedingungen wie diejenige
+zwischen dem Verantwortlichen und dessen Auftragsverarbeiter zu erfolgen.
+
+Grundsätzlich ist der Einsatz von einem Subunternehmer vom Verantwortlichen zu
+genehmigen, da eine Einzelgenehmigung jedoch in der Praxis kaum praktikabel ist
+(gerade bei grossen Cloud-Anbietern mit sehr vielen Kunden), müssen diesen
+oft allgemeine Genehmigungen erteilt werden. Es besteht jedoch die Möglichkeit,
+gegen den Einsatz bestimmter Subunternehmer Einspruch zu erheben, wenn hierzu
+ein wichtiger Grund vorliegt (z.B. wenn ein Subunternehmer als Konkurrent des
+Verantwortlichen Zugriff auf dessen personenbezogene Daten erhält). Grosse
+Cloud-Anbieter bieten jedoch oft keine solche Wiederspruchsmöglichkeit.
+
+Bei der Auftragsverarbeitung im Ausland ist der Standort der Datenverarbeitung
+relevant. Hier ist zwischen zwei Fällen zu unterscheiden:
+
+1. Innerhalb vom EU-/EWR-Ausland gibt es keine zusätzlichen Anforderungen, da
+   diese Weitergaben der DSGVO unterstehen.
+2. Beim Austausch mit Drittstaaten gelten besondere Anforderungen an
+   internationale Datentransfers; hierbei ist die Einschätzung der EU-Kommission
+   an das Datenschutzniveau des jeweiligen Ziellandes ausschlaggebend. (Die
+   Schweiz gilt beispielsweise als sicheres Drittland.)
+
+Sind bei einer Datenverarbeitung mehrere Staaten als Standorte involviert, ist
+die rechtliche Situation in allen Standorten zu berücksichtigen.
