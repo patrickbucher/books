@@ -437,3 +437,65 @@ folgenden Grundsätze zu achten:
   Aufsichtsbehörden nachweisen zu können. Kann die Einhaltung der DSGVO im
   Schadensfall nicht nachgewiesen werden, werden die Verantwortlichen nicht aus
   der Haftung befreit; Bussgelder drohen.
+
+# Verarbeitungsverzeichnis
+
+Verantwortliche, gemeinsame Verantwortliche und Auftragsverarbeiter müssen die
+von ihnen vorgenommenen Verarbeitungen personenbezogener Daten im der
+_Dokumentation aller Verarbeitungstätigkeiten_ (kurz: im
+_Verarbeitungsverzeichnis_) dokumentieren. Bis auf wenige Ausnahmen (Unternehmen
+mit weniger als 250 Beschäftigten, deren Datenverarbeitung keine Risiken birgt,
+nur gelegentlich erfolgt und keine besonderen personenbezogenen Daten betrifft)
+müssen alle Unternehmen ein solches Verarbeitungsverzeichnis führen.
+
+Das Verarbeitungsverzeichnis dient u.a. zum Nachweis der Einhaltung der DSGVO
+gegenüber Aufsichtsbehörden, zum Festhalten der konkreten Rechtsgrundlage und
+bildet die Grundlage für die Arbeit des Datenschutzbeauftragten. Das
+Verarbeitungsverzeichnis ist nicht öffentlich und muss betroffenen Personen
+nicht offengelegt werden. Es muss aber bei Bedarf den Aufsichtsbehörden zur
+Verfügung gestellt werden, wobei bei Nichtvorlegung (oder Nichtvorhandensein)
+Strafen drohen.
+
+Im Verarbeitungsverzeichnis werden _Verarbeitungstätigkeiten_ ‒ eine Reihe von
+Verarbeitungsschritten zur Erfüllung eines gemeinsamen Zwecks (z.B. der
+Newsletterversand an Kunden oder die Personalverwaltung) ‒ des Verantwortlichen
+abstrakt dokumentiert. Der Detailgrad der Beschreibung ist so zu wählen, dass
+das Verarbeitungsverzeichnis für Aussenstehende nachvollziehbar ist. Beim Aufbau
+dieser Dokumentation orientiert man sich oftmals anhand konkreter Anwendungen
+und Systeme, welche bei der Verarbeitung zum Einsatz kommen.
+
+Für das Verarbeitungsverzeichnis ist die Geschäftsleitung verantwortlich; diese
+Verantwortung wird meist jedoch an den Datenschutzbeauftragten weitergereicht,
+welcher das Verzeichnis mit den involvierten Fachabteilungen erstellt und
+pflegt.
+
+Im Verarbeitungsverzeichnis sind folgende Informationen festzuhalten:
+
+- Name und Kontaktdaten der/des Verantwortlichen und des Datenschutzbeauftragen
+  (zwecks Kontaktaufnahme)
+- Zwecke der Verarbeitung (z.B. Betrieb eines Online-Shops)
+- Kateogrien betroffener Personen (z.B. Webseitenbesucher, Kunden,
+  Interessenten)
+- Kategorien personenbezogener Daten (z.B. Kundenstammdaten,
+  Zahlungsinformationen)
+- Kategorien von ‒ internen und externen ‒ Empfängern (Abteilungen,
+  Dienstleister, Hoster, Cloud-Anbieter)
+- Datenübermittlungen in ein Drittland (z.B. in die USA)
+- Löschfristen (falls möglich)
+- Beschreibung der technischen und organisatorischen Massnahmen (hilfreich ist
+  oft der Bezug auf die TOMs der Auftragsverarbeiter)
+- optional: Ergänzende Beschreibung der Verarbeitugnstätigkeit
+- optional: Festhalten der Rechtsgrundlage (z.B. Einwilligung des Kunden bei der
+  Registrierung im Webshop)
+- optional: Dokumentation des Ergebnisses einer Datenschutz-Folgeabschätzung
+
+Es empfiehlt sich bei der Erstellung eines Verarbeitungsverzeichnis auf
+Mustervorlagen der jeweiligen Aufsichtsbehörde zurückzugreifen.
+
+Bei gemeinsamen Verantwortlichen müssen nicht beide ein Verarbeitungsverzeichnis
+führen. Es empfiehlt sich, diese Verantwortlichkeit unter den gemeinsam
+Verantwortlichen zu regeln.
+
+Das Verarbeitungsverzeichnis von Auftragsverarbeitern ist weniger ausführlich
+und muss u.a. die Kategorien der Empfänger nicht aufführen, was gerade bei
+grossen Cloud-Anbietern kaum praktikabel wäre.
