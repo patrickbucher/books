@@ -400,3 +400,40 @@ Die gemeinsamen Verantwortlichen legen neben Mittel und Zwecken auch die
 Verteilung der Pflichten untereinander in einer Vereinbarung zwischen den
 gemeinsamen Verantwortlichen fest. Diese Vereinbarung orientiert sich inhaltlich
 an einer Auftragsverarbeitungsvereinbarung.
+
+# Allgemeine Grundsätze für die Verarbeitung personenbezogener Daten
+
+Im Falle einer zulässigen Verarbeitung personenbezogener Daten ist dabei auf die
+folgenden Grundsätze zu achten:
+
+- _Rechtmässigkeit_: Es muss die Erlaubnis des Betroffenen (oder ein sonstiger
+  Erlaubnistatbestand) für die Verarbeitung vorliegen.
+- _Verarbeitung nach Treu und Glauben_: Die betroffene Person muss Kenntnis von
+  einer Verarbeitung haben und über deren Bedingungen informiert werden.
+- _Transparenz_: Es muss für den Betroffenen nachvollziehbar sein (z.B. über
+  eine Datenschutzerklärung), welche Daten von wem für welche Zwecke verarbeitet
+  werden.
+- _Zweckbindung_: Die Verarbeitung darf nur für festgelegte, eindeutige und
+  legitime Zwecke erfolgen. Ändert sich der Zweck der Verarbeitung, muss der
+  Betroffene auf diese einwilligen. (Eine Datenerhebung "auf Vorrat" ist nicht
+  zulässig.)
+- _Datenminimierung_: Die Verarbeitung soll auf das für den Zweck notwendige
+  Mass minimiert sein. Es gilt der Grundsatz der Verhältnismässigkeit, sodass
+  nicht das absolute Minimum der Verarbeitung zwingend ist. Hingegen ist zu
+  prüfen, ob die Daten zum jeweiligen Zweck auch anonymisiert verarbeitet werden
+  könnten.
+- _Richtigkeit_: Daten sind auf dem neuesten Stand zu halten; alte Daten sind zu
+  berichtigen oder zu löschen.
+- _Speicherbegrenzung_: Daten sollen nur so lange gespeichert werden, wie es für
+  den jeweiligen Zweck nötig ist.
+- _Integrität und Vertraulichkeit_: Eine angemessene Datensicherheit soll durch
+  dazu geeignete Massnahmen (Zugangssicherung, verschlüsselte Übertragung,
+  periodische Datensicherung) gewährleistet werden. (Da Datensicherungen ein
+  legitimes Mittel zur Gewährleistung von Integrität und Vertraulichkeit sind,
+  steht ihre Anfertigung nicht im Konflikt zu Datenminimierung und
+  Speicherbegrenzung.)
+- _Rechenschaftspflicht_: Die Verarbeitungsgrundsätze sind nicht nur
+  einzuhalten, sondern auch zu dokumentieren, etwa um die Einhaltung gegenüber
+  Aufsichtsbehörden nachweisen zu können. Kann die Einhaltung der DSGVO im
+  Schadensfall nicht nachgewiesen werden, werden die Verantwortlichen nicht aus
+  der Haftung befreit; Bussgelder drohen.
