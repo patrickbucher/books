@@ -559,3 +559,96 @@ Erarbeitung.
 
 Weiter empfiehlt es sich, Notfallpläne zu erstellen und ein entsprechendes
 Notfallmanagement zu etablieren.
+
+# Datenschutz-Folgeabschätzung
+
+Bei der _Datenschutz-Folgeabschätzung_ (_Data Protection Impact Assessment_,
+DPIA) handelt es sich um eine präventive Prüfung für besonders risikobehaftete
+Verarbeitungsvorgänge, die aufgrund ihrer Art, ihres Umfangs, ihrer Umstände
+oder ihrer Zwecke ein hohes Risiko für die Betroffenen zur Folge haben.
+
+Bei bestimmten Verarbeitungen (z.B. Einsatz von Profiling- oder
+Scoring-Verfahren, bei der umfangreichen Überwachung öffentlich zugänglicher
+Bereiche sowie bei weiteren von Aufsichtsbehörden aufgelisteter Vorgänge) ist
+eine DSFA zwingend durchzuführen. Diese muss Folgendes enthalten:
+
+- eine systematische Beschreibung der Verarbeitungsvorgänge mitsamt Zweck
+- eine Bewertung der Notwendigkeit und Verhältnismässigkeit der Verarbeitung
+  bezogen auf den Zweck
+- eine Bewertung der Risiken für die Rechte und Freiheit der Betroffenen
+- geplante Abhilfemassnahmen zum Schutz personenbezogener Daten im Einklang mit
+  der DSGVO
+
+Bei der Nutzung von Cloud-Angeboten ist der Nutzer als Verantwortlicher für die
+Ausarbeitung einer DSFA verantwortlich.
+
+Ein prominentes Beispiel ist der Einsatz von Microsoft 365, bei dem in der Regel
+eine DSFA durchzuführen ist. (Als Abhilfemassnahme ist etwa die Deaktivierung
+der Übertragung von Telemetrie- und Diagnosedaten an Microsoft verbreitet.)
+
+# Wann dürfen Daten in Länder ausserhalb der EU übermittelt werden? ‒ Zulässigkeit (2. Stufe): Internationale Datntransfers
+
+Da in verschiedenen Ländern unterschiedliche Datenschutzniveaus gewährleistet
+sind, muss sichergestellt werden, dass die DSGVO nicht durch einen Datentransfer
+über Landesgrenzen unterlaufen wird. Die Anforderungen an den Datenschutz müssen
+quasi mit den übertragenen Daten "mitreisen". Oftmals ist es die einfachste
+Lösung, Daten nur innerhalb des EU/EWR-Raumes zu übermitteln, wo die DSGVO
+verbindlich gilt.
+
+Als Datenübermittlung gilt ein Vorgang bei dem Daten an andere Empfänger
+weitergegeben bzw. zu deren Abruf bereitgestellt werden (etwa über
+Download-Plattformen). Bei einer internationalen Datenübermittlung stellt ein
+_Datenexporteur_ einem _Datenimporteur_ jenseits der Landesgränze Daten zur
+Verfügung. Hierbei ist zwischen zwei Grundkonstellationen zu unterscheiden:
+
+1. Eine Datenübertragung innerhalb der EU sowie zu den EWR-Staaten Island,
+   Norwegen und Liechtenstein, die nicht EU-Mitglieder sind. Diese sind
+   datenschutzrechtlich gleichgestellt; die DSGVO ist in diesen Ländern
+   verbindlich.
+2. Eine Datenübertragung in ein sogenanntes Drittland, wobei zwischen _sicheren
+   Drittländern_ mit angemessenem Datenschutzniveau (z.B. Schweiz, UK, Japan)
+   und _unsicheren Drittländern_ ohne angemessenem Datenniveau (z.B. USA)
+   unterschieden wird. (Ein angemessenes Datenschutzniveau wird von der
+   EU-Kommission in einem _Angemessenheitsbeschluss_ festgestellt.)
+
+Diese Unterscheidung macht es nötig, dass ein Verantwortlicher den genauen
+Standort der Datenverarbeitung kennt. Viele Cloud-Anbieter ermöglichen es, Daten
+ausschliesslich im EU-Raum zu verarbeiten, das für die Nutzer der jeweiligen
+Angebote datenschutztechnisch eine grosse Vereinfachung darstellt. Gewährt ein
+Anbieter jedoch technischem Personal aus einem Drittland Zugriff auf
+personenbezogene Daten, liegt wiederum eine Datenübertragung vor, wobei das
+technische Personal als Empfänger fungiert.
+
+Ein Sonderfall bilden Datenübertragungen in die USA, welche traditionell einen
+schwächer ausgeprägten bzw. nur branchenspezifischen Datenschutz kennen. Daher
+gelten die USA als unsicheres Drittland. Um Handelshemmnisse zwischen EU-Ländern
+und den USA abzubauen, wurden die _Safe-Harbor-Vereinbarung_ zwischen der EU und
+den USA abgeschlossen, die auf einer _freiwilligen Selbstregulierung_ basieren.
+Ein Anbieter in den USA verpflichtet sich dabei dazu, ein der EU vergleichbares
+Datenschutzniveau einzuhalten (Selbstzertifizierungsmechanismus). Dieses
+Abkommen bildete von 2000 bis 2015 die Grundlage für Datenübermittlungen in die
+USA, bis der Europäische Gerichtshof (EuGH) Safe Harbor für ungültig erklärte,
+da das Abkommen keinen genügenden Datenschutz gewähre.
+
+Mit dem _EU-U.S. Privacy Shield_ wurde 2016 ein weiteres Abkommen geschlossen,
+das wiederum auf einer freiwilligen Selbstzertifizierung der US-Unternehmen
+basierte. Die Enthüllungen von Edward Snowden zeigten jedoch, dass auch dieses
+Abkommen kein genügendes Schutzniveau bietet, zumal US-Behörden umfassenden
+Zugriff auf Daten von EU-Bürgern erhielten. Das _Privacy Shield_ wurde 2020 vom
+EuGH für ungültig erklärt, wodurch entsprechende Datentransfers über Nacht
+rechtswidrig wurden. Mit dem _Trans-Atlantic Data Privacy and Security
+Framework_ ist jedoch eine Nachfolgeregelung bereits in Arbeit.
+
+Eine Datenübertragung in die USA ist nur aufgrund besonderer Vereinbarungen
+möglich, bei der sich ein US-Unternehmen verpflichtet, ein angemessenes
+Datenschutzniveau zu gewährleisten, und hierzu entsprechende Massnahmen
+ergreift. Diese Vereinbarungen basieren entweder auf _verbindlichen internen
+Datenschutzvorschriften_ (_Binding Corporate Rules_, BCR) oder auf
+_Standardvertragsklauseln_ (_Standard Contractual Clauses_, SCC). Bei letzteren
+handelt es sich um einen modular aufgebauten Mustervertrag, der von beiden
+Parteien ‒ Datenexporteur und Datenimporteur ‒ zu ergänzen und zu unterschreiben
+ist. Diese sind ohne weitere Genehmigung einer Aufsichtsbehörde gültig, sofern
+der Standardvertrag nicht modifiziert wird. (Ergänzungen und zusätzliche
+Garantien sind jedoch möglich, sofern die DSGVO dadurch nicht unterlaufen wird.)
+Die neuen Standardvertragsklauseln von 2021 erfüllen gleichzeitig die
+Anforderungen an einen Auftragsverarbeitungsvertrag.
