@@ -652,3 +652,64 @@ der Standardvertrag nicht modifiziert wird. (Ergänzungen und zusätzliche
 Garantien sind jedoch möglich, sofern die DSGVO dadurch nicht unterlaufen wird.)
 Die neuen Standardvertragsklauseln von 2021 erfüllen gleichzeitig die
 Anforderungen an einen Auftragsverarbeitungsvertrag.
+
+# Datenzugriff durch Behörden nach dem Recht der USA
+
+US-Behörden können unter bestimmten Voraussetzungen nicht nur auf Daten
+zugreifen, die an einen Empfänger in die USA übermittelt worden sind, sondern
+auch auf solche, die ein US-Unternehmen ausserhalb von US-Territorium
+gespeichert hat. Wichtige Gesetze in diesem Zusammenhang sind:
+
+- Der _Foreign Intelligence Surveillance Act_ aus dem Jahr 1978 dient zur
+  Spionageabwehr und ermöglicht die Herausgabe von Geschäftsunterlagen an
+  US-Sicherheitsbehörden auf dem Wege gerichtlicher Anordnungen.
+- Die _Executive Order 12333_, 1981 von Ronald Reagan erlassen, ermöglicht
+  Überwachungsmassnahmen und Informationssammlungen ausserhalb der USA.
+- Der _USA Patriot Act_ ist eine Reaktion auf die Terroranschläge vom 11.
+  September 2001 und erweitert die Befugnisse von US-Sicherheitsbehörden zur
+  Terrorismusbekämpfung.
+- Der _USA Freedom Act_ ersetzt teilweise abgelaufene Vorschriften des Patriot
+  Act.
+- Der _CLOUD Act_ ermöglicht es US-Sicherheitsbehörden im Rahmen eines
+  Strafverfahrens auf Daten zuzugreifen, die von US-Unternehmen oder deren
+  Tochtergesellschaft kontrolliert werden, auch wenn diese extraterritorial
+  (z.B. im EU-Raum) abgespeichert sind. Dies betrifft nicht nur beispielsweise
+  die eigenen Daten eines Cloud-Unternehmens, sondern auch diejenigen des
+  Cloud-Nutzers, wodurch auch Geschäftsgeheimnisse von europäischen Unternehmen
+  betroffen sein können. Der CLOUD Act steht demnach in Konflikt zur DSGVO,
+  welche solche Daten vor einem entsprechenden Zugriff schützt. Ein
+  Datenverarbeiter steht so vor der Wahl, ob er gegen US-Recht oder gegen die
+  DSGVO verstossen soll, wobei in beiden Fällen hohe Strafen drohen. Ein
+  Rahmenabkommen zwischen der EU und den USA zur Auflösung dieses Konflikts ist
+  in Arbeit, aber noch nicht abgeschlossen.
+
+Durch die genannten Regelungen ergaben sich verschiedene Rechtsunsicherheiten
+und -streitigkeiten, beispielsweise:
+
+- Bei der Einführung von Office 365 sorgten die Aussagen eines
+  Microsoft-Mitarbeiters für Aufregung, gemäss derer Microsoft nicht in der Lage
+  sei den Verbleib von Anwenderdaten in der EU zu gewährleisten.
+- Microsoft sollte 2013 den E-Mail-Verkehrs eines mutmasslichen Drogenhändlers
+  an Ermittlungsbehörden herausgeben. Betroffen waren dabei nicht nur die in den
+  USA abgespeicherten E-Mails, sondern auch solche, die in Irland abgespeichert
+  waren. Microsoft verweigerte letzteres, wurde aber in erster Instanz durch ein
+  US-amerikanisches Gericht zur Herausgabe verurteilt. In zweiter Instanz bekam
+  Microsoft doch Recht und musste die Daten vorerst nicht herausgeben. Als
+  Reaktion auf dieses Urteil wurde jedoch bald der CLOUD Act verabschiedet und
+  Microsoft musste die Daten schliesslich doch offenlegen.
+
+Durch die Konfliktsituation zwischen US-Recht und DSGVO ergeben sich einige
+Rechtsunsicherheiten. So ist es nicht klar, inwiefern einem Verarbeiter ein
+Verstoss gegen die DSGVO zur Last gelegt werden kann, wenn dessen Daten von
+einem US-amerikanischen Cloud-Anbieter an US-Sicherheitsbehörden weitergeleitet
+werden. Hier kann für den Verarbeiter argumentiert werden, dass der
+Cloud-Anbieter als Auftragsverarbeiter fungiert und dem entsprechenden
+AV-Vertrag zuwider handelt.
+
+Weitere Fragen ergeben sich bei Konstellationen, wo die US-Tochter ein
+europäischen Unternehmens zur Datenherausgabe verpflichtet wird. Hier können die
+USA via Tochtergesellschaft Druck auf das Mutterhaus ausüben, um eine
+Datenherausgabe zu erreichen, wobei die DSGVO verletzt wird.
+
+Als Mitigationsmassnahmen empfehlen sich Datentrennungen nach Territorien oder
+der Einsatz von Verschlüsselungsverfahren bei übertragenen und ruhenden Daten.
