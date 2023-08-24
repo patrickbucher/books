@@ -382,3 +382,21 @@ relevant. Hier ist zwischen zwei Fällen zu unterscheiden:
 
 Sind bei einer Datenverarbeitung mehrere Staaten als Standorte involviert, ist
 die rechtliche Situation in allen Standorten zu berücksichtigen.
+
+# Gemeinsame Verantwortlichkeit (Joint Control)
+
+Werden personenbezogene Daten von zwei oder mehreren Parteien gemeinsam
+verarbeitet, und legen diese (im Gegensatz zur Auftragsverarbeitung) Zwecke und
+Mittel dieser Datenverarbeitung gemeinsam fest, spricht man von einer
+gemeinsamen Verantwortlichkeit (Joint Control).
+
+Die Abgrenzung gegenüber der Auftragsverarbeitung ist nicht immer klar, da ein
+vermeintlicher Auftragsverarbeiter oftmals eigene Zwecke und Mittel zur
+Datenverarbeitung hat, wie es beispielsweise bei Google Analytics der Fall ist.
+(Google fungiert hier als eigener Verantwortlicher, da es mit der
+Datenverarbeitung eigene Ziele verfolgt.)
+
+Die gemeinsamen Verantwortlichen legen neben Mittel und Zwecken auch die
+Verteilung der Pflichten untereinander in einer Vereinbarung zwischen den
+gemeinsamen Verantwortlichen fest. Diese Vereinbarung orientiert sich inhaltlich
+an einer Auftragsverarbeitungsvereinbarung.
