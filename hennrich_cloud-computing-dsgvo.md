@@ -499,3 +499,63 @@ Verantwortlichen zu regeln.
 Das Verarbeitungsverzeichnis von Auftragsverarbeitern ist weniger ausführlich
 und muss u.a. die Kategorien der Empfänger nicht aufführen, was gerade bei
 grossen Cloud-Anbietern kaum praktikabel wäre.
+
+# Datensicherheit
+
+Ein häufiger Vorbehalt gegenüber Cloud Computing sind Unsicherheiten im Bezug
+auf die Datensicherheit, welche folgende Ziele hat:
+
+- _Vertraulichkeit_: Unbefugter Zugriff auf Daten soll mithilfe von Zugriffs- und
+  Berechtigungskontrollen sowie mit dem Einsatz von Verschlüsselungstechnologien
+  ausgeschlossen werden.
+- _Integrität_: Die Unversehrtheit von Daten soll sichergestellt werden indem
+  unbefugtes Modifizieren an Daten und Metadaten (u.a. Autor,
+  Änderungszeitpunkt) verhindert wird. Hierzu kommen neben Zugriffs- und
+  Berechtigungsmechanismen auch zusätzliche Schutzmassnahmen wie Firewalls zum
+  Einsatz.
+- _Verfügbarkeit_: Dem Nutzer sollen die Daten jederzeit zur Verfügung stehen,
+  was mittels redundanten Setups von Hardware und Schutz vor DDoS-Attacken
+  gewährleistet werden soll.
+
+Diese Schutzziele werden mithilfe geeigneter technischer und organisatorischer
+Massnahmen (TOMs) gewährleistet.
+
+Die Datensicherheit beschäftigt sich mit dem Schutz sämtlicher Systeme,
+Anwendungen und Daten und bildet die Voraussetzung für den _Datenschutz_,
+welcher das Recht natürlicher Personen im Umgang mit ihren Daten regelt.
+
+Im Rahmen der DSGVO hat der Verantwortliche entsprechende Massnahmen zu
+ergreifen, diese zum Nachweis zu dokumentieren und auch von eingeschalteten
+Auftragsverarbeitern einzufordern.
+
+Ein angemessenes Schutzniveau kann auf Basis eines risikobasierten Ansatzes
+gewählt werden, wobei Eintretenswahrscheinlichkeit und Schadensausmass bei einem
+sicherheitsrelevanten Vorfall zu berücksichtigen sind.
+
+Beim Cloud Computing sind dabei neben den bekannten Sicherheitsrisiken auch
+cloud-spezifische Risiken wie beispielsweise die folgenden zu beobachten:
+
+- ungenügende Isolation der Mandanten bei gemeinsam genutzten IT-Ressourcen
+- Fehler in der Bedienung einer Cloud-Verwaltungsoberfläche
+- grenzüberschreitende Datenverarbeitung
+- Anbieterabhängigkeit (_Vendor-Lock-in_)
+
+Bei der Auswahl eines Cloud-Anbieters empfiehlt sich ein Blick der erlangten
+Zertifizierungen, wie beispielsweise:
+
+- der C5-Kriterienkatalog (_Cloud Computing Compliance Criteria Catalogue_) vom
+  BSI, der Mindestanforderungen an sicheres Cloud Computing enthält
+- ISO/IEC 27001, der die Abbildung eines
+  _Informationssicherheits-Managementsystems_ (_ISMS_) beschreibt
+- ISO 9001 zum Qualitätsmanagement und ISO 9004 zur kontinuierlichen
+  Verbesserung desselben
+- das IT-Grundschutz-Kompendium des BSI
+- der _EuroCloud Star Audit_
+- der Trusted-Cloud-Kriterienkatalog
+
+Für den Nachweis einer DSGVO-Konformität kann bisher keine offizielle
+Zertifizierung erlangt werden, entsprechende Programme sind jedoch in
+Erarbeitung.
+
+Weiter empfiehlt es sich, Notfallpläne zu erstellen und ein entsprechendes
+Notfallmanagement zu etablieren.
