@@ -713,3 +713,33 @@ Datenherausgabe zu erreichen, wobei die DSGVO verletzt wird.
 
 Als Mitigationsmassnahmen empfehlen sich Datentrennungen nach Territorien oder
 der Einsatz von Verschlüsselungsverfahren bei übertragenen und ruhenden Daten.
+
+# Rechte der Betroffenen
+
+Die DSGVO räumt Betroffenen zahlreiche Rechte ein, u.a. das Recht auf Löschung
+oder das Recht auf Berichtigung der Daten. Im Kontext des Cloud Computings sind
+die folgenden beiden Rechte besonders zu beachten, da deren Ausübung die
+Zusammenarbeit mit einem Cloud-Provider erfordert:
+
+- _Recht auf Information_: Der Verantwortliche hat den Betroffenen darüber zu
+  informieren, wie seine Daten verarbeitet werden. Erhebt der Verarbeiter diese
+  Daten direkt vom Betroffenen (_Direkterhebung_), muss diese Information
+  bereits zur Zeit der Erhebung erfolgen. Werden diese Daten durch einen Dritten
+  erhoben (_Dritterhebung_), sind die Informationen innert nützlicher Frist
+  (d.h. spätestens in Monatsfrist) zur Verfügung zu stellen. Diese Information
+  wird meistens über eine _Datenschutzerklärung_ bzw. _Privacy Note_ zur
+  Verfügung gestellt und deren Kenntnissnahme etwa durch Anklicken einer
+  Checkbox vom Betroffenen bestätigt. Aufseiten des Verantwortlichen ist zu
+  beachten, dass im AV-Vertrag die Mithilfe des Cloud-Anbieters geregelt ist.
+- _Recht auf Auskunft_: Der Betroffene hat ein Recht zu erfahren, welche Daten
+  bei einem Verantwortlichen über ihn vorliegen. Dieses Recht ist die
+  Voraussetzung für die Ausübung weiterer Rechte, da man eine Berichtigung oder
+  Löschung sinnvollerweise nur dann einfordern kann, wenn die aktuelle Datenlage
+  bekannt ist. Das Auskunftsrecht ist abgestuft: Auf erster Stufe kann ein
+  Betroffener anfragen, ob überhaupt Daten zu seiner Person vorliegen. Auf
+  zweiter Stufe kann der Betroffene die Herausgabe dieser Daten verlangen. Der
+  Verantwortliche sollte die Identität des Antragstellers unbedingt prüfen, da
+  bei Auskünften an Unbefugte Strafen drohen. Die Auskunft hat grundsätzlich
+  unverzüglich und unentgeltlich zu erfolgen, wobei sie in jedem Fall innerhalb
+  eines Monats nach Anfrage beantwortet werden muss, und für zusätzliche Kopien
+  der Daten ein angemessenes Entgelt verlangt werden darf.
