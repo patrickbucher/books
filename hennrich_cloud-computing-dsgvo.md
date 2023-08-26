@@ -743,3 +743,36 @@ Zusammenarbeit mit einem Cloud-Provider erfordert:
   unverzüglich und unentgeltlich zu erfolgen, wobei sie in jedem Fall innerhalb
   eines Monats nach Anfrage beantwortet werden muss, und für zusätzliche Kopien
   der Daten ein angemessenes Entgelt verlangt werden darf.
+
+# Aufsichtsbehörden
+
+Die Aufsichtsbehörden sind für die Überwachung und Durchsetzung der DSGVO
+zuständig und haben weitreichende Befugnisse bis zur Verhängung von Bussgeldern.
+Sie unterstützen aber auch Betroffene bei der Durchsetzung ihrer Rechte oder bei
+Beschwerden.
+
+Eine Aufsichtsbehörde ist eine unabhängige staatliche Stelle eines jeden
+EU-Mitgliedsstaats. In Deutschland ist der _Bundesbeauftragte für den
+Datenschutz und die Informationsfreiheit_ (BfDI) auf Bundesebene zuständig, und
+16 _Landesdatenschutzbehörden_ für jeweils ein Bundesland. Der BfDI hat dabei
+die Oberaufsicht über die Behörden der Länder, berät den Bundestag und Vertritt
+die Datenschutzbehörden im _Europäischen Datenschutzausschuss_.
+
+Die Landesdatenschutzbehörden sind die Anlaufstelle im jeweiligen Bundesland.
+(Die zuständige Behörde ist anhand des Sitzes des Verantwortlichen zu
+bestimmen.) Bei den Landesdatenschutzbehörden erhält man zudem Stellungnahmen
+und Empfehlungen zum Thema Cloud Computing, beispielsweise zum Einsatz von
+Microsoft Office 365 in Schulen.
+
+Aufsichtsbehörden haben Untersuchungsbefugnisse und Abhilfebefugnisse: Sie
+können die Einhaltung der DSGVO einerseits überprüfen, aber andererseits auch
+Warnungen gegenüber Verantwortlichen und Auftragsverarbeitern gegenüber
+aussprechen, ihnen Anweisungen erteilen oder die Aussetzung von
+Datenübertragungen in ein Drittland anordnen.
+
+Auf europäischer Ebene ist der _Europäische Datenschutzausschuss_ (EDSA) das
+höchste Gremium für den Datenschutz. Einsitz haben die Vertreter der nationalen
+Datenschutzbehörden und der _Europäischen Datenschutzbeauftrge_ (EDSB), aber
+auch (mit eingeschränkter Mitsprache) die entsprechenden Aufsichtsbehörden der
+EWR-/EFTA-Staaten, bei welchen die DSGVO auch gilt.
+
