@@ -134,7 +134,7 @@ Rahmen für Datenschutz. Den wirtschaftlichen Vorteilen des Cloud Computings
 stehen Sicherheits- und Datenschutzbedenken bei potentiellen Kunden gegenüber.
 Wichtige Fragestellungen hierbei sind u.a.:
 
-1. Wann lieft eine Verarbeitung personenbezogener Daten vor?
+1. Wann liegt eine Verarbeitung personenbezogener Daten vor?
 2. Was ist bei der Auswahl eines Cloud-Anbieters zu berücksichtigen?
 3. Wo befinden sich die Daten, und wie sicher ist die Cloud-Infrastruktur?
 4. Wann und wie muss ein Auftragsverarbeitungsvertrag (AV-Vertrag) abgeschlossen werden?
@@ -263,13 +263,13 @@ Es gibt u.a. folgende Erlaubnistatbestände:
   keiner besonderen Form. Sie ist nur wirksam, wenn folgende Voraussetzungen
   gegeben sind:
     1. Freiwilligkeit: Es liegt keine Zwangssituation vor.
-    2. Bestimmtheit: Die Verarbeitung erfolgt auf einen klar bestimmten Zweck; es
-      liegt keine pauschale Einwilligung vor.
+    2. Bestimmtheit: Die Verarbeitung erfolgt auf einen klar bestimmten Zweck;
+       es liegt keine pauschale Einwilligung vor.
     3. Informiertheit: Die betroffene Person wurde in klarer und verständlicher
-      Sprache über die Verarbeitung informiert.
-    4. Einwilligungsbewusstsein: Die Einwilligung muss explizit erfolgen (Opt-In,
-      z.B. durch Betätigung einer Schaltfläche oder Aktivierung einer Checkbox),
-      eine Stillschweigende Einwilligung (Opt-Out) ist nichtig.
+       Sprache über die Verarbeitung informiert.
+    4. Einwilligungsbewusstsein: Die Einwilligung muss explizit erfolgen
+       (Opt-In, z.B. durch Betätigung einer Schaltfläche oder Aktivierung einer
+       Checkbox), eine Stillschweigende Einwilligung (Opt-Out) ist nichtig.
 - Verarbeitung zur Erfüllung eines Vertrags: Zur Auslieferung einer bestellten
   Ware muss beispielsweise die Anschrift verarbeitet werden können; ein
   Vermieter muss die Kontaktdaten eines Mieters beispielsweise an den
@@ -780,7 +780,7 @@ EWR-/EFTA-Staaten, bei welchen die DSGVO auch gilt.
 # Datenschutzbeauftragter
 
 Der _Datenschutzbeauftragte_ (DSB) kontrolliert, überwacht und wirkt auf die
-Einhaltung der Datenschutzvorschriften in einem Unterhin hin. Er ist intern
+Einhaltung der Datenschutzvorschriften in einem Unternehmen hin. Er ist intern
 Ansprechpartner und Anlaufstelle zu Datenschutzthemen und arbeitet extern mit
 den Aufsichtsbehörden zusammen.
 
