@@ -13,8 +13,9 @@ Cloud geschieht oft länderübergreifend. Datenschutz ist jedoch oftmals nationa
 geregelt. Auch kann eine Datenverarbeitung mehrere Hersteller betreffen, mit
 denen man unterschiedliche vertragliche Regelungen getroffen hat.
 
-Die DSGVO wurde am 25. Mai 2018 eingeführt und sieht hohe Bussgelder bei
-Verstössen gegen den Datenschutz vor.
+Die DSGVO (engl. _GDPR_: General Data Protection Regulation) wurde am 25. Mai
+2018 eingeführt und sieht hohe Bussgelder bei Verstössen gegen den Datenschutz
+vor.
 
 # Cloud Computing: Einführung, Basics und wichtigste Begriffe
 
@@ -781,13 +782,14 @@ EWR-/EFTA-Staaten, bei welchen die DSGVO auch gilt.
 Der _Datenschutzbeauftragte_ (DSB) kontrolliert, überwacht und wirkt auf die
 Einhaltung der Datenschutzvorschriften in einem Unterhin hin. Er ist intern
 Ansprechpartner und Anlaufstelle zu Datenschutzthemen und arbeitet extern mit
-den Aufsichtsbehörden zusammen. Er sollte einerseits über Kenntnisse zum Thema
-Datenschutz verfügen und andererseits mit den Strukturen und Prozessen im
-Unternehmen vertraut sein. Er sollte wissen, an welchen Standorten und von
-welchen Subunternehmen Daten verarbeitet werden. Bei Fragen zum Datenschutz ist
-er frühzeitig einzubinden und berichtet an die Geschäftsleitung. Letztere hat
-ihn bei seinen Aufgaben zu unterstützen und sein Wissen mit
-Fortbildungsmassnahmen zu erhalten.
+den Aufsichtsbehörden zusammen.
+
+Er sollte einerseits über Kenntnisse zum Thema Datenschutz verfügen und
+andererseits mit den Strukturen und Prozessen im Unternehmen vertraut sein. Er
+sollte wissen, an welchen Standorten und von welchen Subunternehmen Daten
+verarbeitet werden. Bei Fragen zum Datenschutz ist er frühzeitig einzubinden und
+berichtet an die Geschäftsleitung. Letztere hat ihn bei seinen Aufgaben zu
+unterstützen und sein Wissen mit Fortbildungsmassnahmen zu erhalten.
 
 Ob ein Unternehmen einen Datenschutzbeauftragten ernennen muss, hängt von
 verschiedenen Faktoren ab:
@@ -808,3 +810,79 @@ Der Datenschutzbeauftragter kann intern oder extern sein vom Unternehmen sein,
 wobei ein interner besser mit den Strukturen und Abläufen im Unternehmen betraut
 ist, während ein externer möglicherweise über umfangreicheres Fachwissen
 zum Thema Datenschutz verfügt.
+
+# Umgang mit Datenschutzverletzungen
+
+Eine _Datenschutzverletzung_ oder umgangssprachlich "Datenpanne" liegt dann vor,
+wenn der Schutz personenbezogener Daten verletzt wird; d.h. wenn die Sicherheit
+bei der Übermittlung, der Speicherung oder einer sonstigen Verarbeitung verletzt
+ist und für die personenbezogenen Daten eine dieser Folgen hat:
+
+- _Vernichtung_: Die Daten existieren nicht mehr bzw. nur noch in einer
+  unlesbaren Form.
+- _Verlust_: Die Daten existieren noch, sind aber für den Verantwortlichen nicht
+  mehr zugänglich.
+- _Veränderung_: Die Daten wurden durch Unbefugte verändert.
+- _Unbefugte Offenlegung_ und _unbefugter Zugang_: Nicht autorisierte Personen
+  können Daten zur Kenntnis nehmen und darauf zugreifen.
+
+Im Falle einer Datenschutzverletzung besteht eine Meldepflicht an die dafür
+zuständige Aufsichtsbehörde binnen 72 Stunden, ausser wenn bloss ein _geringes
+Risiko_ besteht (etwa bei der Offenlegung verschlüsselter Daten ohne
+entsprechenden Schlüssel). Die Meldung sollte erfolgen, sobald belastbare
+Kenntnisse zu einer Datenschutzverletzung vorliegen, und nicht erst, wenn alle
+Details dazu aufgeklärt sind. Der Vorfall muss in jedem Fall dokumentiert
+werden. Liegt ein hohes Risiko vor, hat der Verantwortliche auch die betroffenen
+Personen zu informieren.
+
+Ist ein Auftragsverarbeiter von einer Datenschutzverletzung betroffen, hat er
+diese dem Verantwortlichen zu melden, der den Vorfall wiederum der
+Aufsichtsbehörde zu melden hat, sofern ein Risiko besteht.
+
+| Risiko/Pflichten | Dokumentation | Meldung Aufsichtsbehörde | Meldung Betroffene |
+|------------------|---------------|--------------------------|--------------------|
+| gering           | ja            | nein                     | nein               |
+| mittel           | ja            | ja                       | nein               |
+| hoch             | ja            | ja                       | ja                 |
+
+Es lohnt sich, das Vorgehen im Falle einer Datenschutzverletzung schon vorher
+als Notfallpläne festzuhalten. Bei besonders schweren Fällen sind weitere
+Behörden zu informieren, beispielsweise die Polizei im Falle einer Angriffs von
+Kriminellen. Wurde eine Versicherung für Cybercrime-Fälle abgeschlossen, ist
+auch umgehend die Versicherung zu informieren.
+
+# Bussgelder, Sanktionen und Haftung: Welche Strafen drohen bei einem Verstoss gegen die DSGVO?
+
+Im Falle einer Datenschutzverletzung hat der Verantwortliche trägt der
+Verantwortliche nicht nur einen Reputationsschaden davon und muss mit dem
+Abwandern von Kunden rechen, es drohen ihm auch hohe Bussgelder sowie
+Anordnungen der zuständigen Aufsichtsbehörde, z.B. das Aussetzen der
+Datenübertragung in ein Drittland.
+
+Die Bussgelder können bis zu 20'000'000 Euro oder 4% des Jahresumsatzes
+ausmachen. Bereits verhängte Bussgelder können beispielsweise auf dem [GDPR
+Encorcement Tracker](https://www.encorcementtracker.com/) eingesehen werden.
+Die DSGVO ist also kein "zahnloser Tiger" wie frühere Datenschutzregelungen. Die
+Geldbussen werden nach dem Grundsatz der Wirksamkeit, Verhältnismässigkeit und
+Abschreckung von der jeweils zuständigen Aufsichtsbehörde verhängt, wobei sie
+folgende Fragestellungen berücksichtigt:
+
+- Wie viele Personen waren über welchen Zeitraum betroffen, und welches Ausmass
+  hat der von ihnen erlittene Schaden?
+- Liegt Fahrlässigkeit oder gar Vorsätzlichkeit beim Verantwortlichen vor?
+- Hat der Verantwortliche Massnahmen zur Minderung des von den betroffenen
+  Personen erlittenen Schadens getroffen?
+- Gab es bereits frühere Verstösse durch den Verantwortlichen?
+- Wie hat der Verantwortliche mit der Aufsichtsbehörde kooperiert?
+- Welche Kategorien personenbezogener Daten sind betroffen? (z.B. Gesundheitsdaten)
+- Wie erlangte die Aufsichtsbehörde Kenntnis der Verletzung; durch eine
+  fristgerechte Meldung des Verantwortlichen?
+- Gibt es mildernde oder erschwerdende Umstände, wie beispielsweise erlangte
+  Finanzielle Vorteile durch die Datenschutzverletzung?
+
+Neben den Bussgeldern können Betroffene auch Anspruch auf Schadensersatz geltend
+machen. Dies können materielle Schäden, die in Geld bemessen werden können, aber
+auch immaterielle Schäden wie beispielsweise seelische Belastungen oder
+Rufverletzungen sein. Es gilt die Beweislastumkehr: Nicht der Betroffene muss
+eine Verletzung nachweisen; der Verantwortliche bzw. Auftragsverarbeiter muss
+nachweisen, dass er nicht für den entstandenen Schaden verantwortlich ist.
