@@ -861,7 +861,7 @@ Datenübertragung in ein Drittland.
 
 Die Bussgelder können bis zu 20'000'000 Euro oder 4% des Jahresumsatzes
 ausmachen. Bereits verhängte Bussgelder können beispielsweise auf dem [GDPR
-Encorcement Tracker](https://www.encorcementtracker.com/) eingesehen werden.
+Enforcement Tracker](https://www.encorcementtracker.com/) eingesehen werden.
 Die DSGVO ist also kein "zahnloser Tiger" wie frühere Datenschutzregelungen. Die
 Geldbussen werden nach dem Grundsatz der Wirksamkeit, Verhältnismässigkeit und
 Abschreckung von der jeweils zuständigen Aufsichtsbehörde verhängt, wobei sie
@@ -886,3 +886,37 @@ auch immaterielle Schäden wie beispielsweise seelische Belastungen oder
 Rufverletzungen sein. Es gilt die Beweislastumkehr: Nicht der Betroffene muss
 eine Verletzung nachweisen; der Verantwortliche bzw. Auftragsverarbeiter muss
 nachweisen, dass er nicht für den entstandenen Schaden verantwortlich ist.
+
+# Besonderheiten regulierter Märkte
+
+Bei regulierten Märkten gilt es im Zusammenhang mit Cloud Computing und der
+DSGVO einige Besonderheiten zu beachten:
+
+- _Öffentliche Verwaltung_: Bei grundrechtsrelevanten originär staatlichen und
+  hoheitlichen Aufgaben mit darf die Datenverarbeitung nicht vollständig an
+  einen Anbieter aus der Privatwirtschaft (z.B. an einen Cloud-Anbieter)
+  übertragen werden, sondern ist auf unterstützende, untergeordnete und
+  unselbständige technische Hilfestellungen zu beschränken. Entscheidungs- und
+  Weisungsbefugnis verbleibt bei der jeweiligen Verwaltung. Die Wahl eines
+  IT-Dienstleisters unter lokaler Hoheit stellt sicher, dass die
+  Datenverarbeitung der staatlichen Kontrolle unterliegt und keine Behörden
+  anderer Staaten Zugriff auf die Datne erhalten. Bei der Ausschreibung
+  entsprechender Aufträge ist das jeweilige Vergaberecht zu beachten.
+- _Berufsgeheimnisträger_: Berufsgeheimisträger wie Rechtsanwälte, Notare und
+  Ärzte haben bei der Datenverarbeitung in der Cloud rechtliche Besonderheiten
+  zu beachten. Die Offenbarung von Geheimnissen darf nur in einem Mass erfolgen,
+  wie dies für die jeweilige Tätigkeit erforderlich ist. (Ein
+  Berufsgeheimisträger darf nicht einfach alle seine Daten in die Cloud
+  verschieben.) Der Abschluss einer Auftragsverarbeitungsvereinbarung genügt
+  nicht um den externen Dienstleister in die Verschwiegenheitspflicht des
+  Berufsgeheimisträgers einzubeziehen. Es sind stattdessen entsprechende
+  Zusatzvereinbarungen mit dem Anbieter abzuschliessen, die auch als
+  Standardvertragszusätze verfügbar sein können.
+- _Finanzsektor und Versicherungen_: Banken und Versicherungen haben sich bei
+  der Auslagerung ihrer Datenverarbeitung in die Cloud an den Leitlinien der
+  jeweiligen Regulierungsbehörde zu orientieren. Es gelten auch hier die
+  Mindestanforderungen an das Risikomanagement der Banken. Neben der
+  Auftragsverarbeitungsvereinbarung sind weitergehende
+  Auslagerungsvereinbarungen abzuschliessen.
+
+
