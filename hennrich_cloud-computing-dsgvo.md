@@ -919,4 +919,41 @@ DSGVO einige Besonderheiten zu beachten:
   Auftragsverarbeitungsvereinbarung sind weitergehende
   Auslagerungsvereinbarungen abzuschliessen.
 
+# Handlungsempfehlungen für ein datenschutzkonformes Cloud Computing (im Lifecycle einer Cloud-Nutzung)
+
+Für eine datenschutzkonforme Verarbeitung ist nicht nur die eigentliche
+Verarbeitungstätigkeit, sondern der ganze Lebenszyklus zu beachten:
+
+1. _Marktanalyse_: Diese beginnt mit der Erfassung sämtlicher geeigneter
+   Cloud-Anbieter als Entscheidungsgrundlage. Entscheidungsrelevante Kriterien
+   (wirtschaftliche, technische aber auch den Datenschutz betreffende) sind
+   aufzustellen, anhand derer die Angebote bewertet werden können. Der
+   Schutzbedarf der zu verarbeitenden Daten mit einem dazu passenden
+   Bereitstellnugsmodell (Private Cloud, Public Cloud) ist festzustellen.
+2. _Auswahlentscheidung_: Neben konkreten angebotenen Leistungen sind auch die
+   Preise sowie die Erfahrungen des jeweiligen Anbieters zu beachten. Besteht
+   bei verbrauchsbasierten Nutzungsszenarien (_Pay per Use_) ein Kostenrisiko
+   bei unerwartet hoher Benutzung? Kann der tatsächliche Verbrauch im Auge
+   behalten werden? Erfüllt der Anbieter die datenschutzrechtlichen
+   Voraussetzungen? Auf jede Fall soll der Datenschutzbeauftragte in den
+   Auswahlprozess einbezogen werden.
+3. _Vertragsabschluss_: Es sind neben den üblichen Vertragsbedingungen (Kosten,
+   Laufzeit, Kündigungsfrist usw.) auch datenschutzrechtliche Bedingungen zu
+   prüfen. Ausserdem ist in der Regel mit dem Anbieter eine
+   Auftragsverarbeitungsvereinbarung abzuschliessen. Beim Vertragsabschluss mit
+   Resellern ist darauf zu achten, ob der Reseller selber als
+   Auftragsverarbeiter in Erscheinung tritt oder bloss den Vertrag mit dem
+   Cloud-Anbieter vermittelt.
+4. _Betriebsphase_: Neben der Erfüllung der Verträge (Leistung der vereinbarten
+   Zahlungen) ist auf die DSGVO-konforme Verarbeitung der personenbezogenen
+   Daten zu achten. Interne Konzepte und Dokumentationen sind entsprechend zu
+   ergänzen; Mitarbeiter weiterzubilden.
+5. _Ende der Cloud-Nutzung_: Ein Plan zum Wechsel zu einem anderen
+   Cloud-Anbieter bzw. für das Insourcing der jeweiligen Lösung sollte möglichst
+   schon vor deren Nutzung ausgearbeitet werden. Was passiert, wenn der Anbieter
+   den Vertrag kündigt, insolvent wird oder durch einen Konkurrenten übernommen
+   wird? Wie sind die Schnittstellen und Datenformate beschaffen; liegt ein
+   möglicher Vendor-Lock-in vor? Wie können die Daten nach Beendigung der
+   Nutzung datenschutzkonform und sicher gelöscht werden?
+
 
