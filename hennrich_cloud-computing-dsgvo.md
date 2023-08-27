@@ -956,4 +956,30 @@ Verarbeitungstätigkeit, sondern der ganze Lebenszyklus zu beachten:
    möglicher Vendor-Lock-in vor? Wie können die Daten nach Beendigung der
    Nutzung datenschutzkonform und sicher gelöscht werden?
 
+# Bekannte Cloud-Anbieter im Check ‒ worauf ist zu achten?
 
+Um die Cloud-Angebote der drei führenden Hyperscaler AWS, Google und Microsoft
+nutzen zu können sind jeweils unterschiedliche Vertragswerke relevant:
+
+- Amazon Web Services (AWS)
+    - AWS-Kundenvereinbarung: mit der Tochtergesellschaft _Amazon Web Services
+      EMEA SARL_ mit Sitz in Luxembourg
+    - AWS-Servicebedingungen: Regelung zum Datenschutz
+    - AWS Service Level Agreements: SLA für die jeweiligen Services
+    - Acceptable Use Policy: Richtlinie zur zulässigen Nutzung
+    - AWS GDPR Data Processing Addendum: Auftragsverarbeitungsvereinbarung
+- Google Cloud Platform (GCP)
+    - Nutzungsbedingungen: mit _Google Cloud EMEA Limited_ mit Sitz in Dublin
+      (für Frankreich, Italien und Polen gibt es separate Gesellschaften)
+    - Service Specific Terms: dienstspezifische Nutzungsbedingungen
+    - Service Level Agreements: SLA für die jeweiligen Services
+    - Acceptable Use Policy: Richtlinie zur zulässigen Nutzung
+    - Data Processing and Security Terms: Auftragsverarbeitungsvereinbarung
+- Microsoft 
+    - Microsoft-Kundenvereinbarung
+    - Microsoft-Online-Abonnementvereinbarung
+    - Volume License Agreement
+    - Datenschutznachtrag zu den Produkten und Services von Microsoft
+
+Eine Auflistung aller Vertragswerke und weiterer Informationen (etwa über
+Unterauftragsverarbeiter) findet sich auf den jeweiligen Webseiten.
