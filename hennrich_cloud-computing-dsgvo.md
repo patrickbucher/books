@@ -776,3 +776,35 @@ Datenschutzbehörden und der _Europäischen Datenschutzbeauftrge_ (EDSB), aber
 auch (mit eingeschränkter Mitsprache) die entsprechenden Aufsichtsbehörden der
 EWR-/EFTA-Staaten, bei welchen die DSGVO auch gilt.
 
+# Datenschutzbeauftragter
+
+Der _Datenschutzbeauftragte_ (DSB) kontrolliert, überwacht und wirkt auf die
+Einhaltung der Datenschutzvorschriften in einem Unterhin hin. Er ist intern
+Ansprechpartner und Anlaufstelle zu Datenschutzthemen und arbeitet extern mit
+den Aufsichtsbehörden zusammen. Er sollte einerseits über Kenntnisse zum Thema
+Datenschutz verfügen und andererseits mit den Strukturen und Prozessen im
+Unternehmen vertraut sein. Er sollte wissen, an welchen Standorten und von
+welchen Subunternehmen Daten verarbeitet werden. Bei Fragen zum Datenschutz ist
+er frühzeitig einzubinden und berichtet an die Geschäftsleitung. Letztere hat
+ihn bei seinen Aufgaben zu unterstützen und sein Wissen mit
+Fortbildungsmassnahmen zu erhalten.
+
+Ob ein Unternehmen einen Datenschutzbeauftragten ernennen muss, hängt von
+verschiedenen Faktoren ab:
+
+1. _Beschäftigtenzahl_: Sind im Unternehmen mindestens 20 Personen (Vollzeit-
+   und Teilzeitangestellte, Praktikanten, Auszubildende, externe Hilfskräfte)
+   mit der automatisierten Verarbeitung von Daten beschäftigt, ist ein
+   Datenschutzbeauftragter zu ernennen. Unter automatisierter Verarbeitung wird
+   dabei jeder Vorgang verstanden, bei dem personenbezogene Daten mithilfe von
+   Computern verarbeitet werden. Mitarbeiter ohne Zugriff auf IT-Systeme (wie
+   z.B. das Reinigungspersonal oder Fabrikarbeiter) zählen dabei nicht.
+2. _Art der Daten_: Werden besonders sensible Daten verarbeitet, die eine
+   Datenschutzfolgeabschätzung erforderlich machen, ist immer ein
+   Datenschutzbeauftragter zu ernennen, unabhängig von der Anzahl der
+   Beschäftigtenanzahl.
+
+Der Datenschutzbeauftragter kann intern oder extern sein vom Unternehmen sein,
+wobei ein interner besser mit den Strukturen und Abläufen im Unternehmen betraut
+ist, während ein externer möglicherweise über umfangreicheres Fachwissen
+zum Thema Datenschutz verfügt.
