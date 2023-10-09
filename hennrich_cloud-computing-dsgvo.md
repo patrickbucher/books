@@ -5,6 +5,10 @@ author: 'Patrick Bucher'
 lang: 'de'
 ---
 
+_Quelle_: Hennrich, T. (2022). Cloud Computing nach der
+Datenschutz-Grundverordnung: Amazon Web Services, Google, Microsoft & Clouds
+anderer Anbieter in der Praxis. Deutschland: O'Reilly.
+
 # Einleitung
 
 Die drei führenden Hyperscaler ‒ Amazon Web Services (AWS), Microsoft Azure und
@@ -22,7 +26,7 @@ vor.
 Cloud Computing ist im Grunde eine Auslagerung von Tätigkeiten mit IT-Bezug zu
 einem externen Dienstleister; eine flexible und nutzungsorientierte Form von
 IT-Outsourcing. "Cloud" wird oftmals als Synonym für Online-Datenspeicher oder
-Internet verwendet. (Siehe auch "NIST Definition of Cloud Computing" für eine
+Internet verwendet. (Siehe auch _NIST Definition of Cloud Computing_ für eine
 genauere Definition.) Das BSI versteht unter "Cloud Computing" ein dynamisch an
 den Bedarf angepasstes Anbieten, Nutzen und Abrechnen von IT-Dienstleistungen.
 
@@ -39,19 +43,19 @@ Service Providers (ASPs), die eine Anwendung zentral auf Servern zur Verfügung
 stellen, der serviceorientierten Architektur (SOA), wobei Anwendungen durch
 standardisierte Schnittstellen angeboten werden und der Virtualisierung, welche
 die Hardware abstrahiert, in Pools zusammenfasst und dadurch flexibel anbieten
-und optimal ausnutzen kann. Anwendungen können werden mitsamt benötigten
+und optimal ausnutzen kann. Anwendungen werden mitsamt benötigten
 Programmbibliotheken in unveränderlichen Containern gebündelt und können so
 unabhängig von einer bestimmten Umgebung ausgeführt werden. Container werden
 oftmals mit Docker gebaut und mit Kubernetes orchestriert.
 
 Cloud-Angebote können in drei Schichten eingeteilt werden:
 
-- Infrastructure as a Service (IaaS): Die Infrastruktur wird gemietet statt
+- _Infrastructure as a Service_ (IaaS): Die Infrastruktur wird gemietet statt
   angeschafft, wodurch Investitionskosten (etwa für Server) wegfallen bzw. in
   laufende Kosten umgewandelt werden. Durch die Auslagerung der IT-Infrastruktur
   ergeben sich Risiken im Datenschutz und in der Anbieterabhängigkeit.
   Beispiel: virtuelle Maschinen.
-- Platform as a Service (PaaS): Laufzeit- und Entwicklungsplattformen (mitsamt
+- _Platform as a Service_ (PaaS): Laufzeit- und Entwicklungsplattformen (mitsamt
   zugrundeliegender Hardware) werden gemietet statt selber entwickelt. Diese
   Ebene richtet sich v.a. an Kunden, die ihre eigene Software entwickeln und
   betreiben wollen. Der PaaS-Markt ist kleiner als der IaaS- und der SaaS-Markt,
@@ -65,57 +69,57 @@ Cloud-Angebote können in drei Schichten eingeteilt werden:
 
 Cloud-Angebote werden in verschiedenen Formen bereitgestellt:
 
-- Public Cloud: Diese Angebote sind für jedermann, d.h. öffentlich auf gemeinsam
-  genutzter Hardware verfügbar. Die gemeinsame Verarbeitung von Daten
+- _Public Cloud_: Diese Angebote sind für jedermann, d.h. öffentlich auf
+  gemeinsam genutzter Hardware verfügbar. Die gemeinsame Verarbeitung von Daten
   verschiedener Nutzer ist für diese transparent. Anbieter mit sehr
   umfangreichen Ressourcen, die massiv skalieren können, werden als
   _Hyperscaler_ bezeichnet.
-- Private Cloud: Eine Cloud-Umgebung wird von einer Organisation zur eigenen
+- _Private Cloud_: Eine Cloud-Umgebung wird von einer Organisation zur eigenen
   Verwendung oder zur Verwendung eines eingeschränkten Nutzerkreises aufgebaut.
   Die Skalierbarkeit ist zumeist geringer als bei einer Public Cloud, dafür
   können Risiken im Datenschutz und in der Datensicherheit besser kontrolliert
   werden. Es gibt Anbieter, die ihre vermeintliche Private Cloud selber auf
   einer Public Cloud hosten.
-- Hybrid Cloud: Hierbei werden Public Cloud und Private Cloud (und, optional,
+- _Hybrid Cloud_: Hierbei werden Public Cloud und Private Cloud (und optional:
   Legacy-Hardware) zu einer hybriden Cloud kombiniert. Daten können gemäss ihrem
   Schutzbedarf verarbeitet werden. Diese Mischform erschwert jedoch den Betrieb.
-- Multi Cloud: Angebote verschiedener Anbieter werden zusammengeschlossen und
-  können über eine einheitliche Managementoberfläche oder
+- _Multi Cloud_: Angebote verschiedener Anbieter werden zusammengeschlossen und
+  können über eine einheitliche Managementoberfläche oder über
   Orchestrierungswerkzeuge einheitlich genutzt werden. Hierdurch reduziert sich
   die Abhängigkeit von einzelnen Anbietern. Im Gegenzug erhöht sich die
   Komplexität, und den unterschiedlichen Standorten der Anbieter muss Rechnung
   getragen werden (bezogen auf Datenschutz und Datensicherheit).
-- Community Cloud: Mehrere Organisationen mit vergleichbaren Anforderungen
+- _Community Cloud_: Mehrere Organisationen mit vergleichbaren Anforderungen
   (regulatorisch, technisch) betreiben eine gemeinsame Cloud-Infrastruktur für
   ihren eigenen Bedarf.
 
 Die wichtigsten Cloud-Anbieter sind:
 
-- Amazon Web Services (AWS): Der weltweit grösste Cloud-Anbieter wurde 2006
+- _Amazon Web Services_ (AWS): Der weltweit grösste Cloud-Anbieter wurde 2006
   gegründet und bietet Hosting von Kleinkunden bis zu Grosskonzernen an, wobei
   Netflix einer der prominentesten Kunden ist. Wichtige Services sind die
   _Elastic Compute Cloud_ (EC2, virtuelle Server) und der _Simple Storage
-  Service_ (S3, Datenspeicher). Die Infrastruktur ist unterteilt in Regionen und
-  Availability Zones. Eine Region ist der Standort eines Rechenzentrumsclusters
-  in einem bestimmten Land oder geografischen Gebiet. Pro Region gibt es
-  mindestens eine Availability Zone bestehend aus einem oder mehreren
-  Rechenzentren. Availability Zones sind voneinander isoliert und physisch
-  getrennt, d.h. Ausfälle einer Zone können andere Zonen nicht beeinflussen. Die
-  Datenverarbeitung kann auf bestimmte Regionen eingeschränkt werden. Mit _AWS
-  Outposts_ kann On-Premise-Hardware in AWS eingebracht werden.
-- Google Cloud Platform (GCP): Der Suchmaschinenanbieter Google rief seine Cloud
-  im Jahr 2008 ins Leben und stellte die PaaS-Plattform _App Engine_ zur
+  Service_ (S3, Datenspeicher). Die Infrastruktur ist unterteilt in _Regionen_
+  und _Availability Zones_. Eine Region ist der Standort eines
+  Rechenzentrumsclusters in einem bestimmten Land oder geografischen Gebiet. Pro
+  Region gibt es mindestens eine Availability Zone bestehend aus einem oder
+  mehreren Rechenzentren. Availability Zones sind voneinander isoliert und
+  physisch getrennt, d.h. Ausfälle einer Zone können andere Zonen nicht
+  beeinflussen. Die Datenverarbeitung kann auf bestimmte Regionen eingeschränkt
+  werden. Mit _AWS Outposts_ kann On-Premise-Hardware in AWS eingebracht werden.
+- _Google Cloud Platform_ (GCP): Der Suchmaschinenanbieter Google rief seine
+  Cloud im Jahr 2008 ins Leben und stellte die PaaS-Plattform _App Engine_ zur
   Verfügung. Seit 2013 verfügt die GCP mit der _Compute Engine_ über ein
-  IaaS-Anegbot. Google unterschweidet (wie bei AWS) zwischen Regionen und
+  IaaS-Anegbot. Google unterscheidet (wie bei AWS) zwischen Regionen und
   (voneinander isolierten) Zonen. Nicht alle Angebote stehen in jeder Region zur
   Verfügung.
-- Microsoft Azure: Der derzeit zweitgrösste Cloud-Anbieter wurde 2010 gegründet
-  und verfügt über ein vergleichbares Angebot wie AWS und Google, wobei
-  Microsoft 365 eines der wichtigsten SaaS-Angebote ist. Die Infrastruktur ist
-  in Regionen und Verfügbarkeitszonen gegliedert. Mithilfe sogenannter
+- _Microsoft Azure_: Der derzeit zweitgrösste Cloud-Anbieter wurde 2010
+  gegründet und verfügt über ein vergleichbares Angebot wie AWS und Google,
+  wobei Microsoft 365 eines der wichtigsten SaaS-Angebote ist. Die Infrastruktur
+  ist in Regionen und Verfügbarkeitszonen gegliedert. Mithilfe sogenannter
   _Azure-Geografien_ können Daten und Dienste unter Wahrung von
   Compliance-Anforderungen innerhalb einer geografischen Region verschoben
-  werden. Bei Microsoft 365 hängt das Land der Datenspeicherung hängt von der
+  werden. Bei Microsoft 365 hängt das Land der Datenspeicherung von der
   Rechnungsadresse des Kunden ab.
 
 # Datenschutz nach der DSGVO: Einführung und wichtigste Basics für die Cloud-Computing-Praxis
