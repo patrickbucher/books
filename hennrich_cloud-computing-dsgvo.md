@@ -26,9 +26,11 @@ vor.
 Cloud Computing ist im Grunde eine Auslagerung von Tätigkeiten mit IT-Bezug zu
 einem externen Dienstleister; eine flexible und nutzungsorientierte Form von
 IT-Outsourcing. "Cloud" wird oftmals als Synonym für Online-Datenspeicher oder
-Internet verwendet. (Siehe auch _NIST Definition of Cloud Computing_ für eine
-genauere Definition.) Das BSI versteht unter "Cloud Computing" ein dynamisch an
-den Bedarf angepasstes Anbieten, Nutzen und Abrechnen von IT-Dienstleistungen.
+Internet verwendet. (Siehe auch [NIST Definition of Cloud
+Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+für eine genauere Definition.) Das BSI versteht unter "Cloud Computing" ein
+dynamisch an den Bedarf angepasstes Anbieten, Nutzen und Abrechnen von
+IT-Dienstleistungen.
 
 Zur Bereitstellung von IT-Ressourcen als Cloud benötigt es breitbandige
 Datennetzte mit tiefer Latenz (zwischen den Datenzentren, aber auch zu den
@@ -812,10 +814,10 @@ verschiedenen Faktoren ab:
    Datenschutzbeauftragter zu ernennen, unabhängig von der Anzahl der
    Beschäftigtenanzahl.
 
-Der Datenschutzbeauftragter kann intern oder extern sein vom Unternehmen sein,
-wobei ein interner besser mit den Strukturen und Abläufen im Unternehmen betraut
-ist, während ein externer möglicherweise über umfangreicheres Fachwissen
-zum Thema Datenschutz verfügt.
+Der Datenschutzbeauftragte kann intern oder extern vom Unternehmen sein, wobei
+ein interner besser mit den Strukturen und Abläufen im Unternehmen betraut ist,
+während ein externer möglicherweise über umfangreicheres Fachwissen zum Thema
+Datenschutz verfügt.
 
 # Umgang mit Datenschutzverletzungen
 
@@ -859,11 +861,10 @@ auch umgehend die Versicherung zu informieren.
 
 # Bussgelder, Sanktionen und Haftung: Welche Strafen drohen bei einem Verstoss gegen die DSGVO?
 
-Im Falle einer Datenschutzverletzung hat der Verantwortliche trägt der
-Verantwortliche nicht nur einen Reputationsschaden davon und muss mit dem
-Abwandern von Kunden rechen, es drohen ihm auch hohe Bussgelder sowie
-Anordnungen der zuständigen Aufsichtsbehörde, z.B. das Aussetzen der
-Datenübertragung in ein Drittland.
+Im Falle einer Datenschutzverletzung trägt der Verantwortliche nicht nur einen
+Reputationsschaden davon und muss mit dem Abwandern von Kunden rechen, es drohen
+ihm auch hohe Bussgelder sowie Anordnungen der zuständigen Aufsichtsbehörde,
+z.B. das Aussetzen der Datenübertragung in ein Drittland.
 
 Die Bussgelder können bis zu 20'000'000 Euro oder 4% des Jahresumsatzes
 ausmachen. Bereits verhängte Bussgelder können beispielsweise auf dem [GDPR
@@ -899,15 +900,15 @@ Bei regulierten Märkten gilt es im Zusammenhang mit Cloud Computing und der
 DSGVO einige Besonderheiten zu beachten:
 
 - _Öffentliche Verwaltung_: Bei grundrechtsrelevanten originär staatlichen und
-  hoheitlichen Aufgaben mit darf die Datenverarbeitung nicht vollständig an
-  einen Anbieter aus der Privatwirtschaft (z.B. an einen Cloud-Anbieter)
-  übertragen werden, sondern ist auf unterstützende, untergeordnete und
-  unselbständige technische Hilfestellungen zu beschränken. Entscheidungs- und
-  Weisungsbefugnis verbleibt bei der jeweiligen Verwaltung. Die Wahl eines
-  IT-Dienstleisters unter lokaler Hoheit stellt sicher, dass die
-  Datenverarbeitung der staatlichen Kontrolle unterliegt und keine Behörden
-  anderer Staaten Zugriff auf die Datne erhalten. Bei der Ausschreibung
-  entsprechender Aufträge ist das jeweilige Vergaberecht zu beachten.
+  hoheitlichen Aufgaben darf die Datenverarbeitung nicht vollständig an einen
+  Anbieter aus der Privatwirtschaft (z.B. an einen Cloud-Anbieter) übertragen
+  werden, sondern ist auf unterstützende, untergeordnete und unselbständige
+  technische Hilfestellungen zu beschränken. Entscheidungs- und Weisungsbefugnis
+  verbleiben bei der jeweiligen Verwaltung. Die Wahl eines IT-Dienstleisters
+  unter lokaler Hoheit stellt sicher, dass die Datenverarbeitung der staatlichen
+  Kontrolle unterliegt und keine Behörden anderer Staaten Zugriff auf die Daten
+  erhalten. Bei der Ausschreibung entsprechender Aufträge ist das jeweilige
+  Vergaberecht zu beachten.
 - _Berufsgeheimnisträger_: Berufsgeheimisträger wie Rechtsanwälte, Notare und
   Ärzte haben bei der Datenverarbeitung in der Cloud rechtliche Besonderheiten
   zu beachten. Die Offenbarung von Geheimnissen darf nur in einem Mass erfolgen,
@@ -935,7 +936,7 @@ Verarbeitungstätigkeit, sondern der ganze Lebenszyklus zu beachten:
    (wirtschaftliche, technische aber auch den Datenschutz betreffende) sind
    aufzustellen, anhand derer die Angebote bewertet werden können. Der
    Schutzbedarf der zu verarbeitenden Daten mit einem dazu passenden
-   Bereitstellnugsmodell (Private Cloud, Public Cloud) ist festzustellen.
+   Bereitstellungsmodell (Private Cloud, Public Cloud) ist festzustellen.
 2. _Auswahlentscheidung_: Neben konkreten angebotenen Leistungen sind auch die
    Preise sowie die Erfahrungen des jeweiligen Anbieters zu beachten. Besteht
    bei verbrauchsbasierten Nutzungsszenarien (_Pay per Use_) ein Kostenrisiko
