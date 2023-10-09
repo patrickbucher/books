@@ -311,13 +311,12 @@ Geschäftsprozessen (z.B. Lohnbuchhaltung) vor.
 
 Der im Rahmen der Auftragsverarbeitung herbeigezogene Dienstleister entscheidet
 dabei nicht über Zwecke und Mittel der Datenverarbeitung, sondern muss sich
-dabei nach dem Verantwortlichen richten, der die Datenverarbeitung in Auftrag
-gibt. Hat der Verantwortliche beim Betroffenen eine Erlaubnis zur
-Datenverarbeitung eingeholt, darf er diese Verarbeitung ohne weitere Absprache
-mit dem Betroffenen an einen Auftragsverarbeiter (d.h. an einen Cloud-Anbieter)
-weitergeben. Die Verantwortung für den Schutz der Daten des Betroffenen geht
-dabei nicht an den Auftragsverarbeiter weiter, sondern verbleibt beim
-Verantwortlichen.
+nach dem Verantwortlichen richten, der die Datenverarbeitung in Auftrag gibt.
+Hat der Verantwortliche beim Betroffenen eine Erlaubnis zur Datenverarbeitung
+eingeholt, darf er diese Verarbeitung ohne weitere Absprache mit dem Betroffenen
+an einen Auftragsverarbeiter (d.h. an einen Cloud-Anbieter) weitergeben. Die
+Verantwortung für den Schutz der Daten des Betroffenen geht dabei nicht an den
+Auftragsverarbeiter weiter, sondern verbleibt beim Verantwortlichen.
 
 Der Auftragsverarbeiter gilt dabei nicht als Dritter, aber als Empfänger der
 Daten, der vom Verantwortlichen gegenüber dem Betroffenen auch als solcher in
@@ -347,11 +346,11 @@ Auftragsverarbeitung vor.
 
 Ein Auftragsverarbeitungsvertrag (AV-Vertrag) setzt eine sorgfältige Auswahl
 eines Auftragsverarbeiters voraus. Dieser muss fachlich geeignet sein und
-hinreichende Garantien bieten, dass technische und organisatorische ergriffen
-werden, um den Anforderungen der DSGVO zu genügen. (Diese werden vom Anbieter in
-einer Liste der technischen und organisatorischen Massnahmen ‒ TOMs ‒
-ausgewiesen.) Der AV-Vertrag (Data Processing Agreement, DPA) wird zwischen dem
-Verantwortlichen und dem Auftragsverarbeiter abgeschlossen. Bei grossen
+hinreichende Garantien bieten, dass technische und organisatorische Massnahmen
+ergriffen werden, um den Anforderungen der DSGVO zu genügen. (Diese werden vom
+Anbieter in einer Liste der technischen und organisatorischen Massnahmen ‒ TOMs
+‒ ausgewiesen.) Der AV-Vertrag (_Data Processing Agreement_, DPA) wird zwischen
+dem Verantwortlichen und dem Auftragsverarbeiter abgeschlossen. Bei grossen
 Cloud-Anbieter sind das weitgehend standardisierte Verträge, die praktisch
 keinen Spielraum für besondere Regelungen bieten, und meist als Zusätze zu den
 allgemeinen Geschäftsbedingungen akzeptiert werden:
@@ -369,13 +368,13 @@ Diese Auftragsverarbeitung hat unter den gleichen Bedingungen wie diejenige
 zwischen dem Verantwortlichen und dessen Auftragsverarbeiter zu erfolgen.
 
 Grundsätzlich ist der Einsatz von einem Subunternehmer vom Verantwortlichen zu
-genehmigen, da eine Einzelgenehmigung jedoch in der Praxis kaum praktikabel ist
+genehmigen. Da eine Einzelgenehmigung jedoch in der Praxis kaum praktikabel ist
 (gerade bei grossen Cloud-Anbietern mit sehr vielen Kunden), müssen diesen
 oft allgemeine Genehmigungen erteilt werden. Es besteht jedoch die Möglichkeit,
 gegen den Einsatz bestimmter Subunternehmer Einspruch zu erheben, wenn hierzu
 ein wichtiger Grund vorliegt (z.B. wenn ein Subunternehmer als Konkurrent des
 Verantwortlichen Zugriff auf dessen personenbezogene Daten erhält). Grosse
-Cloud-Anbieter bieten jedoch oft keine solche Wiederspruchsmöglichkeit.
+Cloud-Anbieter bieten jedoch oft keine solche Widerspruchsmöglichkeit.
 
 Bei der Auftragsverarbeitung im Ausland ist der Standort der Datenverarbeitung
 relevant. Hier ist zwischen zwei Fällen zu unterscheiden:
@@ -410,7 +409,7 @@ an einer Auftragsverarbeitungsvereinbarung.
 
 # Allgemeine Grundsätze für die Verarbeitung personenbezogener Daten
 
-Im Falle einer zulässigen Verarbeitung personenbezogener Daten ist dabei auf die
+Im Falle einer zulässigen Verarbeitung personenbezogener Daten ist auf die
 folgenden Grundsätze zu achten:
 
 - _Rechtmässigkeit_: Es muss die Erlaubnis des Betroffenen (oder ein sonstiger
@@ -440,7 +439,7 @@ folgenden Grundsätze zu achten:
   steht ihre Anfertigung nicht im Konflikt zu Datenminimierung und
   Speicherbegrenzung.)
 - _Rechenschaftspflicht_: Die Verarbeitungsgrundsätze sind nicht nur
-  einzuhalten, sondern auch zu dokumentieren, etwa um die Einhaltung gegenüber
+  einzuhalten, sondern auch zu dokumentieren, etwa um deren Einhaltung gegenüber
   Aufsichtsbehörden nachweisen zu können. Kann die Einhaltung der DSGVO im
   Schadensfall nicht nachgewiesen werden, werden die Verantwortlichen nicht aus
   der Haftung befreit; Bussgelder drohen.
@@ -448,7 +447,7 @@ folgenden Grundsätze zu achten:
 # Verarbeitungsverzeichnis
 
 Verantwortliche, gemeinsame Verantwortliche und Auftragsverarbeiter müssen die
-von ihnen vorgenommenen Verarbeitungen personenbezogener Daten im der
+von ihnen vorgenommenen Verarbeitungen personenbezogener Daten in der
 _Dokumentation aller Verarbeitungstätigkeiten_ (kurz: im
 _Verarbeitungsverzeichnis_) dokumentieren. Bis auf wenige Ausnahmen (Unternehmen
 mit weniger als 250 Beschäftigten, deren Datenverarbeitung keine Risiken birgt,
@@ -521,8 +520,8 @@ auf die Datensicherheit, welche folgende Ziele hat:
   Berechtigungsmechanismen auch zusätzliche Schutzmassnahmen wie Firewalls zum
   Einsatz.
 - _Verfügbarkeit_: Dem Nutzer sollen die Daten jederzeit zur Verfügung stehen,
-  was mittels redundanten Setups von Hardware und Schutz vor DDoS-Attacken
-  gewährleistet werden soll.
+  was mittels redundanter Setups von Hardware und Schutzmassnahmen gegen
+  DDoS-Attacken gewährleistet werden soll.
 
 Diese Schutzziele werden mithilfe geeigneter technischer und organisatorischer
 Massnahmen (TOMs) gewährleistet.
@@ -593,7 +592,7 @@ Ein prominentes Beispiel ist der Einsatz von Microsoft 365, bei dem in der Regel
 eine DSFA durchzuführen ist. (Als Abhilfemassnahme ist etwa die Deaktivierung
 der Übertragung von Telemetrie- und Diagnosedaten an Microsoft verbreitet.)
 
-# Wann dürfen Daten in Länder ausserhalb der EU übermittelt werden? ‒ Zulässigkeit (2. Stufe): Internationale Datntransfers
+# Wann dürfen Daten in Länder ausserhalb der EU übermittelt werden? ‒ Zulässigkeit (2. Stufe): Internationale Datentransfers
 
 Da in verschiedenen Ländern unterschiedliche Datenschutzniveaus gewährleistet
 sind, muss sichergestellt werden, dass die DSGVO nicht durch einen Datentransfer
@@ -605,7 +604,7 @@ verbindlich gilt.
 Als Datenübermittlung gilt ein Vorgang bei dem Daten an andere Empfänger
 weitergegeben bzw. zu deren Abruf bereitgestellt werden (etwa über
 Download-Plattformen). Bei einer internationalen Datenübermittlung stellt ein
-_Datenexporteur_ einem _Datenimporteur_ jenseits der Landesgränze Daten zur
+_Datenexporteur_ einem _Datenimporteur_ jenseits der Landesgrenze Daten zur
 Verfügung. Hierbei ist zwischen zwei Grundkonstellationen zu unterscheiden:
 
 1. Eine Datenübertragung innerhalb der EU sowie zu den EWR-Staaten Island,
@@ -614,7 +613,7 @@ Verfügung. Hierbei ist zwischen zwei Grundkonstellationen zu unterscheiden:
    verbindlich.
 2. Eine Datenübertragung in ein sogenanntes Drittland, wobei zwischen _sicheren
    Drittländern_ mit angemessenem Datenschutzniveau (z.B. Schweiz, UK, Japan)
-   und _unsicheren Drittländern_ ohne angemessenem Datenniveau (z.B. USA)
+   und _unsicheren Drittländern_ ohne angemessenem Datenniveau (z.B. den USA)
    unterschieden wird. (Ein angemessenes Datenschutzniveau wird von der
    EU-Kommission in einem _Angemessenheitsbeschluss_ festgestellt.)
 
@@ -629,22 +628,23 @@ technische Personal als Empfänger fungiert.
 Ein Sonderfall bilden Datenübertragungen in die USA, welche traditionell einen
 schwächer ausgeprägten bzw. nur branchenspezifischen Datenschutz kennen. Daher
 gelten die USA als unsicheres Drittland. Um Handelshemmnisse zwischen EU-Ländern
-und den USA abzubauen, wurden die _Safe-Harbor-Vereinbarung_ zwischen der EU und
-den USA abgeschlossen, die auf einer _freiwilligen Selbstregulierung_ basieren.
+und den USA abzubauen, wurde die _Safe-Harbor-Vereinbarung_ zwischen der EU und
+den USA abgeschlossen, die auf einer _freiwilligen Selbstregulierung_ basiert.
 Ein Anbieter in den USA verpflichtet sich dabei dazu, ein der EU vergleichbares
 Datenschutzniveau einzuhalten (Selbstzertifizierungsmechanismus). Dieses
 Abkommen bildete von 2000 bis 2015 die Grundlage für Datenübermittlungen in die
 USA, bis der Europäische Gerichtshof (EuGH) Safe Harbor für ungültig erklärte,
-da das Abkommen keinen genügenden Datenschutz gewähre.
+da das Abkommen keinen genügenden Datenschutz gewähre (_Schrems-I-Urteil_).
 
 Mit dem _EU-U.S. Privacy Shield_ wurde 2016 ein weiteres Abkommen geschlossen,
 das wiederum auf einer freiwilligen Selbstzertifizierung der US-Unternehmen
 basierte. Die Enthüllungen von Edward Snowden zeigten jedoch, dass auch dieses
 Abkommen kein genügendes Schutzniveau bietet, zumal US-Behörden umfassenden
-Zugriff auf Daten von EU-Bürgern erhielten. Das _Privacy Shield_ wurde 2020 vom
+Zugriff auf Daten von EU-Bürgern erhielten. Der _Privacy Shield_ wurde 2020 vom
 EuGH für ungültig erklärt, wodurch entsprechende Datentransfers über Nacht
-rechtswidrig wurden. Mit dem _Trans-Atlantic Data Privacy and Security
-Framework_ ist jedoch eine Nachfolgeregelung bereits in Arbeit.
+rechtswidrig wurden (_Schrems-II-Urteil_). Mit dem _Trans-Atlantic Data Privacy
+and Security Framework_ ist jedoch eine Nachfolgeregelung bereits in Arbeit
+[Stand: Herbst 2022].
 
 Eine Datenübertragung in die USA ist nur aufgrund besonderer Vereinbarungen
 möglich, bei der sich ein US-Unternehmen verpflichtet, ein angemessenes
@@ -664,8 +664,8 @@ Anforderungen an einen Auftragsverarbeitungsvertrag.
 
 US-Behörden können unter bestimmten Voraussetzungen nicht nur auf Daten
 zugreifen, die an einen Empfänger in die USA übermittelt worden sind, sondern
-auch auf solche, die ein US-Unternehmen ausserhalb von US-Territorium
-gespeichert hat. Wichtige Gesetze in diesem Zusammenhang sind:
+auch auf solche, die ein US-Unternehmen ausserhalb von US-Territorien
+gespeichert hat. In diesem Zusammenhang gibt es einige wichtige Gesetze:
 
 - Der _Foreign Intelligence Surveillance Act_ aus dem Jahr 1978 dient zur
   Spionageabwehr und ermöglicht die Herausgabe von Geschäftsunterlagen an
@@ -679,16 +679,16 @@ gespeichert hat. Wichtige Gesetze in diesem Zusammenhang sind:
   Act.
 - Der _CLOUD Act_ ermöglicht es US-Sicherheitsbehörden im Rahmen eines
   Strafverfahrens auf Daten zuzugreifen, die von US-Unternehmen oder deren
-  Tochtergesellschaft kontrolliert werden, auch wenn diese extraterritorial
-  (z.B. im EU-Raum) abgespeichert sind. Dies betrifft nicht nur beispielsweise
-  die eigenen Daten eines Cloud-Unternehmens, sondern auch diejenigen des
-  Cloud-Nutzers, wodurch auch Geschäftsgeheimnisse von europäischen Unternehmen
-  betroffen sein können. Der CLOUD Act steht demnach in Konflikt zur DSGVO,
-  welche solche Daten vor einem entsprechenden Zugriff schützt. Ein
-  Datenverarbeiter steht so vor der Wahl, ob er gegen US-Recht oder gegen die
-  DSGVO verstossen soll, wobei in beiden Fällen hohe Strafen drohen. Ein
-  Rahmenabkommen zwischen der EU und den USA zur Auflösung dieses Konflikts ist
-  in Arbeit, aber noch nicht abgeschlossen.
+  Tochtergesellschaften kontrolliert werden, auch wenn diese extraterritorial
+  (z.B. im EU-Raum) abgespeichert sind. Dies betrifft nicht nur die eigenen
+  Daten eines Cloud-Unternehmens, sondern auch diejenigen des Cloud-Nutzers,
+  wodurch auch Geschäftsgeheimnisse von europäischen Unternehmen betroffen sein
+  können. Der CLOUD Act steht demnach in Konflikt zur DSGVO, welche solche Daten
+  vor einem entsprechenden Zugriff schützt. Ein Datenverarbeiter steht so vor
+  der Wahl, ob er gegen US-Recht oder gegen die DSGVO verstossen soll, wobei in
+  beiden Fällen hohe Strafen drohen. Ein Rahmenabkommen zwischen der EU und den
+  USA zur Auflösung dieses Konflikts ist in Arbeit, aber noch nicht
+  abgeschlossen [Stand: Herbst 2022].
 
 Durch die genannten Regelungen ergaben sich verschiedene Rechtsunsicherheiten
 und -streitigkeiten, beispielsweise:
@@ -696,14 +696,14 @@ und -streitigkeiten, beispielsweise:
 - Bei der Einführung von Office 365 sorgten die Aussagen eines
   Microsoft-Mitarbeiters für Aufregung, gemäss derer Microsoft nicht in der Lage
   sei den Verbleib von Anwenderdaten in der EU zu gewährleisten.
-- Microsoft sollte 2013 den E-Mail-Verkehrs eines mutmasslichen Drogenhändlers
+- Microsoft sollte 2013 den E-Mail-Verkehr eines mutmasslichen Drogenhändlers
   an Ermittlungsbehörden herausgeben. Betroffen waren dabei nicht nur die in den
   USA abgespeicherten E-Mails, sondern auch solche, die in Irland abgespeichert
   waren. Microsoft verweigerte letzteres, wurde aber in erster Instanz durch ein
   US-amerikanisches Gericht zur Herausgabe verurteilt. In zweiter Instanz bekam
   Microsoft doch Recht und musste die Daten vorerst nicht herausgeben. Als
   Reaktion auf dieses Urteil wurde jedoch bald der CLOUD Act verabschiedet und
-  Microsoft musste die Daten schliesslich doch offenlegen.
+  Microsoft musste die Daten schliesslich doch herausrücken.
 
 Durch die Konfliktsituation zwischen US-Recht und DSGVO ergeben sich einige
 Rechtsunsicherheiten. So ist es nicht klar, inwiefern einem Verarbeiter ein
@@ -762,7 +762,7 @@ Eine Aufsichtsbehörde ist eine unabhängige staatliche Stelle eines jeden
 EU-Mitgliedsstaats. In Deutschland ist der _Bundesbeauftragte für den
 Datenschutz und die Informationsfreiheit_ (BfDI) auf Bundesebene zuständig, und
 16 _Landesdatenschutzbehörden_ für jeweils ein Bundesland. Der BfDI hat dabei
-die Oberaufsicht über die Behörden der Länder, berät den Bundestag und Vertritt
+die Oberaufsicht über die Behörden der Länder, berät den Bundestag und vertritt
 die Datenschutzbehörden im _Europäischen Datenschutzausschuss_.
 
 Die Landesdatenschutzbehörden sind die Anlaufstelle im jeweiligen Bundesland.
@@ -773,13 +773,13 @@ Microsoft Office 365 in Schulen.
 
 Aufsichtsbehörden haben Untersuchungsbefugnisse und Abhilfebefugnisse: Sie
 können die Einhaltung der DSGVO einerseits überprüfen, aber andererseits auch
-Warnungen gegenüber Verantwortlichen und Auftragsverarbeitern gegenüber
-aussprechen, ihnen Anweisungen erteilen oder die Aussetzung von
-Datenübertragungen in ein Drittland anordnen.
+Warnungen Verantwortlichen und Auftragsverarbeitern gegenüber aussprechen, ihnen
+Anweisungen erteilen oder die Aussetzung von Datenübertragungen in ein Drittland
+anordnen.
 
 Auf europäischer Ebene ist der _Europäische Datenschutzausschuss_ (EDSA) das
 höchste Gremium für den Datenschutz. Einsitz haben die Vertreter der nationalen
-Datenschutzbehörden und der _Europäischen Datenschutzbeauftrge_ (EDSB), aber
+Datenschutzbehörden und der _Europäische Datenschutzbeauftragte_ (EDSB), aber
 auch (mit eingeschränkter Mitsprache) die entsprechenden Aufsichtsbehörden der
 EWR-/EFTA-Staaten, bei welchen die DSGVO auch gilt.
 
