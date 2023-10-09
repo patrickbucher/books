@@ -132,7 +132,7 @@ Verordnung und nicht nur eine blosse Richtlinie und damit direkt in den
 EU-Mitgliedsstaaten gültig. In den jeweiligen Ländern wird sie durch Anpassungs-
 und Umsetzungsvorschriften ergänzt. Ziel der DSGVO war es auch, Europa
 "cloud-friendly" und "cloud-active" zu machen, wobei Hindernisse im
-grenzüberschreitenden Cloud Computing beseitigt worden sind. Die DSGVO ist
+grenzüberschreitenden Cloud Computing abgebaut werden sollen. Die DSGVO ist
 technologieneutral formuliert und schafft einen europaweiten einheitlichen
 Rahmen für Datenschutz. Den wirtschaftlichen Vorteilen des Cloud Computings
 stehen Sicherheits- und Datenschutzbedenken bei potentiellen Kunden gegenüber.
@@ -154,55 +154,55 @@ IP-Adresse usw.). Eine Person, deren Daten verarbeitet werden, wird als
 _betroffene Person_ bezeichnet.  Unter einer Datenverarbeitung versteht man den
 ganzen Zyklus von Erhebung über Speicherung, Übermittlung, Nutzung bis zur
 Löschung der Daten. Die Datenverarbeitung ist rechtmässig, wenn ein
-Erlaubnisvorbehalt vorliegt und sie im Einklang mit gesetzlichen Vorgaben
+Erlaubnistatbestand vorliegt und sie im Einklang mit gesetzlichen Vorgaben
 (DSGVO, weitere) erfolgt.
 
 Die wichtigsten Akteure im Datenschutz sind:
 
-- Die betroffene Person (_Data Subject_) ist eine natürliche Person, welche über
-  schützenswerte personenbezogene Daten zur Datenverarbeitung verfügt.
-- Der Verantwortliche (_Controller_) ist eine natürliche oder juristische
+- Die _betroffene Person_ (_Data Subject_) ist eine natürliche Person, welche
+  über schützenswerte personenbezogene Daten zur Datenverarbeitung verfügt.
+- Der _Verantwortliche_ (_Controller_) ist eine natürliche oder juristische
   Person, welche mit anderen über Zweck und Mittel einer Datenverarbeitung
   entscheidet; d.h. im Cloud Computing ist es der Nutzer eines Angebots. Im
   Rahmen der DSGVO ist jedes Unternehmen als Verantwortlicher anzusehen.
-- Der gemeinsam Verantwortliche (_Joint Controller_) ist jemand, der die Zwecke
-  und Mittel zur personenbezogenen Datenverarbeitung mit einem anderen
+- Der _gemeinsam Verantwortliche_ (_Joint Controller_) ist jemand, der die
+  Zwecke und Mittel zur personenbezogenen Datenverarbeitung mit einem anderen
   Verantwortlichen zusammen festlegt. So können Kundendaten von mehreren
   Unternehmen gemeinsam genutzt werden, wobei die jeweiligen Aufgaben und
   Verpflichtungen in einer transparenten Vereinbarung festzulegen sind.
-- Der Auftragsverarbeiter (_Processor_) ist ein Dienstleister, der
+- Der _Auftragsverarbeiter_ (_Processor_) ist ein Dienstleister, der
   personenbezogene Daten im Auftrag eines Verantwortlichen im Rahmen eines
-  Auftragverhältnis übernimmt. Er muss die vom Verantwortlichen festgelegten
+  Auftragsverhältnisses übernimmt. Er muss die vom Verantwortlichen festgelegten
   Zwecke und Mittel einhalten, wozu diese Pflichten im Rahmen eines AV-Vertrags
   an den Dienstleister weitergegeben werden.
-- Der Unterauftragsverarbeiter (_Sub-Processor_) ist ein Dienstleister, der für
-  andere Auftragsverarbeiter arbeitet, und für den wiederum die gleichen
-  Pflichten gelten, und diese auch an andere Auftragsverarbeiter weitergeben
-  kann.
-- Der Dritte (_Third Party_) ist ein Aussenstehender, der nicht wie eine der
+- Der _Unterauftragsverarbeiter_ (_Sub-Processor_) ist ein Dienstleister, der
+  für andere Auftragsverarbeiter tätig ist, und für den wiederum die gleichen
+  Pflichten gelten, die er auch an weitere (Unter)auftragsverarbeiter
+  weiterreichen kann.
+- Der _Dritte_ (_Third Party_) ist ein Aussenstehender, der nicht wie eine der
   oben erwähnten Akteure in eine personenbezogene Datenverarbeitung eingebunden
   ist.
-- Der Empfänger (_Recipient_) ist jeder, dem personenbezogene Daten offengelegt
-  werden, unabhängig davon, ob er eine dritte Person ist oder nicht.
-- Der Datenschutzbeauftragte (_Data Protection Officer_) kümmert sich als
+- Der _Empfänger_ (_Recipient_) ist jeder, dem personenbezogene Daten
+  offengelegt werden, unabhängig davon, ob er eine dritte Person ist oder nicht.
+- Der _Datenschutzbeauftragte_ (_Data Protection Officer_) kümmert sich als
   Ansprechpartner und Anlaufstelle um die Einhaltung von Datenschutzvorschriften
   in einem Unternehmen und ist dabei weisungsfrei. Er sollte bei entsprechenden
   Fragen eingebunden werden.
-- Die Aufsichtsbehörde (_Supervisory Authority_) ist eine unabhängige staatliche
-  Stelle, welche für die Einhaltung und Durchsetzung der DSGVO verantwortlich
-  ist.
+- Die _Aufsichtsbehörde_ (_Supervisory Authority_) ist eine unabhängige
+  staatliche Stelle, welche für die Einhaltung und Durchsetzung der DSGVO
+  verantwortlich ist.
 
 Die DSGVO unterscheidet zwischen folgenden Ländern:
 
-- EU-Mitglieds- und EWR-Vertragsstaaten (Island, Norwegen, Liechtenstein), die
-  direkt an die DSGVO gebunden sind.
-- Drittstaaten, die nicht an die DSGVO gebunden sind, und deren
-  Datenschutzniveau von der EU-Kommission eingeschätzt wird:
-    - Sichere Drittländer, die über ein mit der DSGVO vergleichbares
+1. EU-Mitglieds- und EWR-Vertragsstaaten (Island, Norwegen, Liechtenstein), die
+   direkt an die DSGVO gebunden sind.
+2. Drittstaaten, die nicht an die DSGVO gebunden sind, und deren
+   Datenschutzniveau von der EU-Kommission eingeschätzt wird:
+    - _Sichere Drittländer_, die über ein mit der DSGVO vergleichbares
       Datenschutzniveau verfügen (z.B. die Schweiz und das Vereinigte
       Königreich).
-    - Unsichere Drittländer, deren Datenschutzniveau unter demjenigen der DSGVO
-      liegen.
+    - _Unsichere Drittländer_, deren Datenschutzniveau unter demjenigen der
+      DSGVO liegen.
 
 Man unterscheidet zwischen einer Datenübermittlung _1. Stufe_ innerhalb der
 direkt an die DSGVO gebundenen Länder und einer Datenübermittlung _2. Stufe_ bei
@@ -238,61 +238,63 @@ Verarbeitung jedoch für wirtschaftliche Zwecke, ist die DSGVO hingegen
 anwendbar.
 
 Für die Anwendbarkeit der DSGVO ist nicht der Datenverarbeitungsstandort sondern
-eine Niederlassung im EU-Raum ausschlaggebend. Nach dem Marktortprinzip
+eine Niederlassung im EU-Raum ausschlaggebend. Nach dem _Marktortprinzip_
 unterliegt eine Verarbeitung der DSGVO, wenn diese durch eine Niederlassung
 innerhalb der EU erfolgt oder Personen betrifft, die sich im EU-Raum aufhalten.
 
 Ein Cloud-Anbieter, der sein eigenes Rechenzentrum als feste Einrichtung
 betreibt, gilt als in der EU niedergelassen. Gehören ihm jedoch nur einige
-Server in einem Rechenzenter, das nicht von seinen Angestellten betreten wird,
-liegt keine Niederlassung vor (Colocation). Bei der Auftragsverarbeitung durch
-einen Cloud-Anbieter innerhalb des EU-Raums liegt keine Niederlassung vor.
+Server in einem Rechencenter, das nicht von seinen Angestellten betreten wird,
+liegt keine Niederlassung vor, sondern bloss eine _Colocation_. Bei der
+Auftragsverarbeitung durch einen Cloud-Anbieter innerhalb des EU-Raums liegt
+keine Niederlassung vor.
 
 Werden Angebote für Waren und Dienstleistungen an Personen im EU-Raum angeboten,
 oder wird deren Verhalten (zwecks Profilbildung) beobachtet, findet die DSGVO
-Anwendung (siehe Google-Spain-Urteil). Ob sich beispielsweise ein Online-Shop an
-Personen in der EU richtet, kann von verschiedenen Faktoren abhängen (z.B. die
-verwendete TLD, Preisangaben in EU-Währungen, Verwendung europäischer Sprachen
-usw.)
+Anwendung (siehe _Google-Spain_-Urteil). Ob sich beispielsweise ein Online-Shop
+an Personen in der EU richtet, kann von verschiedenen Faktoren abhängen (z.B.
+die verwendete TLD, Preisangaben in EU-Währungen, Verwendung europäischer
+Sprachen usw.)
 
 # Wann ist die Datenverarbeitung erlaubt? ‒ Zulässigkeit (1. Stufe): Erlaubnistatbestände als Rechtsgrundlage
 
-Ob personenbezogene Daten verarbeiten werden dürfen, ist zunächst eine
-Zulässigkeitsprüfung erforderlich. Eine Verarbeitung ist grundsätzlich verboten,
+Ob personenbezogene Daten verarbeiten werden dürfen, ist zunächst durch eine
+Zulässigkeitsprüfung zu klären. Eine Verarbeitung ist grundsätzlich verboten,
 sofern nicht ein Erlaubnistatbestand vorliegt (Verbot mit Erlaubnisvorbehalt).
 Es gibt u.a. folgende Erlaubnistatbestände:
 
-- Einwilligung: Die betroffene Person stimmt einer Datenverarbeitung explizit
+- _Einwilligung_: Die betroffene Person stimmt einer Datenverarbeitung explizit
   zu. Diese Einwilligung ist mit Wirkung auf die Zukunft widerrufbar und bedarf
   keiner besonderen Form. Sie ist nur wirksam, wenn folgende Voraussetzungen
   gegeben sind:
-    1. Freiwilligkeit: Es liegt keine Zwangssituation vor.
-    2. Bestimmtheit: Die Verarbeitung erfolgt auf einen klar bestimmten Zweck;
+    1. _Freiwilligkeit_: Es liegt keine Zwangssituation vor.
+    2. _Bestimmtheit_: Die Verarbeitung erfolgt auf einen klar bestimmten Zweck;
        es liegt keine pauschale Einwilligung vor.
-    3. Informiertheit: Die betroffene Person wurde in klarer und verständlicher
-       Sprache über die Verarbeitung informiert.
-    4. Einwilligungsbewusstsein: Die Einwilligung muss explizit erfolgen
-       (Opt-In, z.B. durch Betätigung einer Schaltfläche oder Aktivierung einer
-       Checkbox), eine Stillschweigende Einwilligung (Opt-Out) ist nichtig.
-- Verarbeitung zur Erfüllung eines Vertrags: Zur Auslieferung einer bestellten
+    3. _Informiertheit_: Die betroffene Person wurde in klarer und
+       verständlicher Sprache über die Verarbeitung informiert.
+    4. _Einwilligungsbewusstsein_: Die Einwilligung muss explizit erfolgen
+       (_Opt-In_, z.B. durch Betätigung einer Schaltfläche oder Aktivierung
+       einer Checkbox), eine Stillschweigende Einwilligung (_Opt-Out_) ist
+       nichtig.
+- _Verarbeitung zur Erfüllung eines Vertrags_: Zur Auslieferung einer bestellten
   Ware muss beispielsweise die Anschrift verarbeitet werden können; ein
   Vermieter muss die Kontaktdaten eines Mieters beispielsweise an den
   Hausmeister oder an einen Elektriker weitergeben können.
-- Verarbeitung zur Erfüllung rechtlicher Verpflichtungen: Eine Firma muss
+- _Verarbeitung zur Erfüllung rechtlicher Verpflichtungen_: Eine Firma muss
   beispielsweise aufgrund einer Aufbewahrungspflicht die Lohnabrechnungen
   ehemaliger Mitarbeiter für einige Zeit nach Beendigung des
   Beschäftigungsverhältnisses aufbewahren.
-- Verarbeitung zur Wahrung berechtigter Interessen: Ein berechtigtes Interesse
+- _Verarbeitung zur Wahrung berechtigter Interessen_: Ein berechtigtes Interesse
   liegt etwa dann vor, wenn personenbezogene Daten innerhalb einer
   Unternehmensgruppe weitergeleitet werden, oder eine Datenverarbeitung zwecks
   IT-Sicherheit nötig ist. Hierzu müssen folgende Kriterien erfüllt sein:
-    1. Der Verantwortliche muss ein berechtigtes Interesse an der
-       Datenverarbeitung haben.
+    1. Der Verantwortliche muss berechtigte Interessen an der Datenverarbeitung
+       haben.
     2. Die Datenverarbeitung muss erforderlich sein, d.h. es gibt keine
-       milderen Alternativen zur Durchsetzung des gleichen Interesses.
+       milderen Alternativen zur Durchsetzung der gleichen Interessen.
     3. Die Interessen des Berechtigten überwiegen das Schutzbedürfnis des
        Betroffenen.
-- Auftragsverarbeitung: Ein Cloud-Anbieter verarbeitet Daten im Auftrag einer
+- _Auftragsverarbeitung_: Ein Dienstleister verarbeitet Daten im Auftrag einer
   anderen Person.
 
 Für besonders sensible Daten (z.B. genetische, biometrische oder
