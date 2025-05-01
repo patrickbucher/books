@@ -1,10 +1,14 @@
-# Fjodor M. Dostojewskij: Die Brüder Karamasow
+---
+title: 'Fjodor M. Dostojewskij: Die Brüder Karamasow'
+subtitle: Inhaltsangabe
+author: Patrick Bucher
+---
 
-## Erster Teil
+# Erster Teil
 
-### Erstes Buch: Geschichte der Familie
+## Erstes Buch: Geschichte der Familie
 
-#### I) Fjodor Pawlowitsch Karamasow
+### I) Fjodor Pawlowitsch Karamasow
 
 Der Gutsbesitzer Fjodor Pawlowitsch Karamasow gilt als unseriös aber geschäftstüchtig, wodurch er sich im Laufe seines Lebens ein stattliches Vermögen zusammenrafft. Er hat drei Söhne: Dmitrij von seiner ersten; Iwan und Alexej von seiner zweiten Frau.
 

@@ -5,13 +5,14 @@ FONT_OPTS=-V mainfont='Crimson Pro' -V sansfont='Lato' -V monofont='Fantasque Sa
 DATE=-V date="`date +'%Y-%m-%d'`"
 DATE_DE=-V date="`date +'%d.%m.%Y'`"
 
-ALL=hennrich_cloud-computing-dsgvo.pdf
+ALL=hennrich_cloud-computing-dsgvo.pdf dostojewskij_brueder-karamasow.pdf
 
 .PHONY: all clean
 
 all: $(ALL)
 
-hennrich_cloud-computing-dsgvo.pdf: hennrich_cloud-computing-dsgvo.md
+.SUFFIXES: .md .pdf
+.md.pdf:
 	pandoc $(DOC_OPTS) $(PDF_OPTS_DE) $(FONT_OPTS) $(DATE_DE) $< -o $@
 clean:
 	rm -f $(ALL)
