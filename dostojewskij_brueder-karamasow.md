@@ -17,3 +17,15 @@ Seine erste Frau, Adalaida Iwanowna Miussowa, wurde von Fjodor Pawlowitsch entf�
 Die beiden lieben sich nicht, sodass es sogar zu Gewalttätigkeiten zwischen den beiden kommt, und Adalaida Iwanowna schliesslich mit einem bettelarmen Lehrer nach St. Petersburg durchbrennt. Zwar klagte Fjodor Pawlowitsch jedem sein Leid, führte von da an jedoch ein ausschweifendes und sündiges Leben.
 
 Als Fjodor Pawlowitsch um den Verbleib seiner Gattin in St. Petersburg erfährt, will er aufbrechen um sie zu suchen. Hierzu kommt es aber nicht mehr, da die Nachricht von ihrem Tod der Abreise zuvorkommt.
+
+### II) Die zweite Ehe und die zweiten Kinder
+
+Die Waise Sofja Iwanowna wächst bei der Witwe des Generals Worochow auf, unter der sie sehr zu leiden hat. Nachdem sie sich mit 16 Jahren hat erhängen wollen, hält Fjodor Pawlowitsch um ihre Hand an, wird aber aufgrund seines schlechten Rufs abgewiesen, worauf er Sofja Iwanowna entführte. Fjodor Pawlowitsch feierte weiterhin seine Orgien, worunter die schöne Sofja Iwanowna sehr leidet, was sich in hysterischen Anfällen äussert.
+
+Sie bringt die beiden Söhne Iwan und Alexej zur Welt, stribt aber bald darauf, worauf die beiden Söhne in ein Waisenhaus kommen. Als die Generalin Worochowa davon erfährt und die beiden Jungen in völlig verwahrlostem Zustand auffindet, nimmt sie die beiden zu sich.
+
+Nach ihrem Tod vermacht sie den beiden Söhnen je tausend Rubel für ihre Erziehung. Der Haupterbe ist jedoch der Adelsmarschall Jefim Petrowitsch Polenow, der sich der beiden Jungen annimmt und sich auf eigene Kosten um deren Erziehung kümmert.
+
+Der sehr talentierte Iwan geht mit dreizehn Jahren nach Moskau auf ein Gymnasium und schliesslich zur Universität, wo er Naturwissenschaften studiert und sich den Lebensunterhalt mit Unterrichten und dem Publizieren von Artikeln verdient. (Sein Erbe kann er aufgrund von Formalitäten erst später antreten.) Mit einer vielbeachteten Arbeit über die kirchliche Gerichtsbarkeit macht er sich bald schon einen Namen.
+
+Iwan kehrt auf Wunsch seines älteren Halbbruders Dmitrij zu seinem Vater zurück, mit dem er sich gut versteht ‒ und auf den er einen guten Einfluss hat. Alexej lebt damals seit bereits einem Jahr als Novize in einem Kloster.
