@@ -37,3 +37,17 @@ Nach ihrem Tod vermacht sie den beiden Söhnen je tausend Rubel für ihre Erzieh
 Der sehr talentierte Iwan geht mit dreizehn Jahren nach Moskau auf ein Gymnasium und schliesslich zur Universität, wo er Naturwissenschaften studiert und sich den Lebensunterhalt mit Unterrichten und dem Publizieren von Artikeln verdient. (Sein Erbe kann er aufgrund von Formalitäten erst später antreten.) Mit einer vielbeachteten Arbeit über die kirchliche Gerichtsbarkeit macht er sich bald schon einen Namen.
 
 Iwan kehrt auf Wunsch seines älteren Halbbruders Dmitrij zu seinem Vater zurück, mit dem er sich gut versteht ‒ und auf den er einen guten Einfluss hat. Alexej lebt damals seit bereits einem Jahr als Novize in einem Kloster.
+
+### IV) Der dritte Sohn Aljoscha
+
+Der zwanzigjährige Alexej («Aljoscha») entscheidet sich ‒ inspiriert durch die Begegnung mit dem Klosterstarez Sossima ‒ ins Kloster zu gehen. Obwohl er seine Mutter bereits mit vier Jahren verloren hat erinnert er sic immer noch genau an sie ‒ besonders an eine Szene des Gebets.
+
+Aljoscha gilt als Menschenfreund, zieht sich aber zurück, wenn es ihm zu lasterhaft zu und her geht, ohne aber die Leute dafür zu verurteilen. Selbst sein Vater ist gerührt von ihm, und in der Schule gilt er als der Liebling von allen, selbst wenn er sich gelegentlich lieber zurückzieht. Einzig die anzüglichen Sprüche seiner Klassenkameraden kann er nicht ertragen, womit er manchmal derart gehänselt wird, dass er sich die Ohren zuhält.
+
+Nach dem Tod Jefim Petrowitschs kommt er zu entfernten Verwandten von ihm. Über Geld macht er sich keine Gedanken, weiss aber auch nichts damit anzufangen. Das Gymnasium verlässt er ohne Abschluss um zu seinem Vater zu reisen, wo er sich nach dem Grab seiner Mutter erkundigt.
+
+Fjodor Pawlowitsch verbrachte einige Zeit in Odessa, wo er mit Juden Geschäfte machte. Nach seiner Rückkehr ist er zwar sichtlich gealtert, aber noch dreister und noch ein abstossenderer Lüstling geworden. Einzig der Diener Grigorij kann ihn von grösseren Dummheiten bewahren.
+
+Grigorij führt Aljoscha zum Grab seiner Mutter; er war es auch, der die Grabplatte für sie entwarf und bezahlte. Fjodor Pawlowitsch liess es verkümmern und hat vergessen, wo es liegt.
+
+Alexej bittet seinen Vater schliesslich um die Erlaubnis, als Novize ins Kloster eintreten zu dürfen. Er erhält die Erlaubnis ‒ und seine zweitausend Rubel Aussteuer.
