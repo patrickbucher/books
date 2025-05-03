@@ -18,11 +18,19 @@ Die beiden lieben sich nicht, sodass es sogar zu Gewalttätigkeiten zwischen den
 
 Als Fjodor Pawlowitsch um den Verbleib seiner Gattin in St. Petersburg erfährt, will er aufbrechen um sie zu suchen. Hierzu kommt es aber nicht mehr, da die Nachricht von ihrem Tod der Abreise zuvorkommt.
 
-### II) Die zweite Ehe und die zweiten Kinder
+### II) Der erste Sohn wird abgeschoben
+
+Fjodor Pawlowitsch vernachlässigt den kleinen Dmitrij («Mitja») seit dem Tod von dessen Mutter, worauf der Diener Grigorij sich um ihn kümmert und zu sich ins Gesindehaus nimmt.
+
+Pjotr Alexandrowitsch Miussow ‒ ein Vetter der Verstorbenen, der in Paris lebt und liberal gesinnt ist ‒ erfährt vom Verbleib des kleinen Mitja und will sich um dessen Erziehung kümmern. Da er selber nach Paris zurückkehrt, gibt er den Jungen zu Verwandten nach Moskau.
+
+Nach dem abgebrochenen Gymnasium besucht Mitja die Offiziersschule und gelangt so in den Kaukasus. Da er auf grossem Fuss lebt, sucht er seinen Vater Fjodor Pawlowitsch in Geldangelegenheiten aus, muss sich aber mit kleineren, unregelmässig ausgerichteten Summen begnügen. Sein Vater behauptet ihm gegenüber sogar, dass sein Vermögen aufgebraucht sei.
+
+### III) Die zweite Ehe und die zweiten Kinder
 
 Die Waise Sofja Iwanowna wächst bei der Witwe des Generals Worochow auf, unter der sie sehr zu leiden hat. Nachdem sie sich mit 16 Jahren hat erhängen wollen, hält Fjodor Pawlowitsch um ihre Hand an, wird aber aufgrund seines schlechten Rufs abgewiesen, worauf er Sofja Iwanowna entführte. Fjodor Pawlowitsch feierte weiterhin seine Orgien, worunter die schöne Sofja Iwanowna sehr leidet, was sich in hysterischen Anfällen äussert.
 
-Sie bringt die beiden Söhne Iwan und Alexej zur Welt, stribt aber bald darauf, worauf die beiden Söhne in ein Waisenhaus kommen. Als die Generalin Worochowa davon erfährt und die beiden Jungen in völlig verwahrlostem Zustand auffindet, nimmt sie die beiden zu sich.
+Sie bringt die beiden Söhne Iwan und Alexej zur Welt, stribt aber bald darauf, worauf die beiden Söhne ins Gesindehaus übersiedeln müssen. Als die Generalin Worochowa davon erfährt und die beiden Jungen in völlig verwahrlostem Zustand auffindet, nimmt sie die beiden zu sich.
 
 Nach ihrem Tod vermacht sie den beiden Söhnen je tausend Rubel für ihre Erziehung. Der Haupterbe ist jedoch der Adelsmarschall Jefim Petrowitsch Polenow, der sich der beiden Jungen annimmt und sich auf eigene Kosten um deren Erziehung kümmert.
 
