@@ -1,4 +1,4 @@
-DOC_OPTS=--toc -N -s
+DOC_OPTS=--toc -s
 PDF_OPTS=--pdf-engine=xelatex -V documentclass=scrartcl -V papersize=a4 -V urlcolor=blue -V lang=en
 PDF_OPTS_DE=--pdf-engine=xelatex -V documentclass=scrartcl -V papersize=a4 -V urlcolor=blue -V lang=de
 FONT_OPTS=-V mainfont='Crimson Pro' -V sansfont='Lato' -V monofont='Fantasque Sans Mono'

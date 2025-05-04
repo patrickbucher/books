@@ -51,3 +51,15 @@ Fjodor Pawlowitsch verbrachte einige Zeit in Odessa, wo er mit Juden Geschäfte 
 Grigorij führt Aljoscha zum Grab seiner Mutter; er war es auch, der die Grabplatte für sie entwarf und bezahlte. Fjodor Pawlowitsch liess es verkümmern und hat vergessen, wo es liegt.
 
 Alexej bittet seinen Vater schliesslich um die Erlaubnis, als Novize ins Kloster eintreten zu dürfen. Er erhält die Erlaubnis ‒ und seine zweitausend Rubel Aussteuer.
+
+### V) Die Starzen
+
+Aljoscha ist ein stattlicher, gesunder und gutaussehender junger Mann. Er ist tief gläubig doch Realist zugleich. Das Gymnasium bricht er nicht aus Unvermögen ab, sondern weil er sein Leben dem Glauben widmen will. Dabei spielt die Erinnerung an das Gebet mit seiner Mutter eine Rolle ‒ ausschlaggebend ist jedoch die Begegnung mit dem Starez Sossima.
+
+Das Starzentum ist in Russland lange in Vergessenheit geraten, kommt aber wieder zu neuer Blüte. Ein Starez ist ein Einsiedler, zu dem ratsuchende Leute pilgern. Ein Jüngling, der einem Starez folgt, verzichtet auf seinen eigenen Willen und überträgt diesen dem Starez, dem er nun vollen Gehorsam leistet, um sich so selber zu überwinden und um wirkliche Freiheit zu erlangen. Kein Geistlicher kann jemanden davon entbinden, seinem Starez Folge zu leisten, weswegen das Starzentum bei den Klöstern umstritten ist. Das Volk verehrt die Starzen und strömt ihnen auf der Suche nach Rat und Heilung entgegen.
+
+Aljoscha lebt in der Zelle des mittlerweilen fünfundsechzigjährigen, krank und schwach gewordenen Starez Sossima, der in seiner Jugend als Offizier im Kaukasus diente. Anfänglich verunsicherte Besucher zeigen sich durch die ans Hellseherische grenzende Auffassungsgabe des heiter wirkenden Starez erstaunt und gehen stets erleichtert von ihm weg. Die Leute pilgern aus ganz Russland zu ihm, und nach seinem Tod werde das sonst nicht gerade ruhmreiche Kloster in einem besseren Licht dastehen.
+
+Mit seinem Halbbruder Dmitrij freundet sich Aljosche schneller an als mit seinem leiblichen Bruder Iwan, der ihn eher ignoriert. Aljoscha glaubt, dass Iwan ‒ ein sehr gebildeter Atheist ‒ ihn als Novizen verachte. Der wenig gebildete Dmitrij hat hohe Achtung vor Iwan; die beiden finden trotz ihrer Charakterunterschiede schnell ein enges Verhältnis zueinander.
+
+Als die Streitigkeiten um das Vermögen in der Familie Karamasow nicht geschlichtet werden können, will man hierzu den Starez Sossima um Rat aufsuchen. Auch Pjotr Alexandrowitsch Miussow möchte am Gespräch teilnehmen um einen mit dem Kloster laufenden Rechtsstreit gützlich beizulegen. Aljoscha ist das anstehende Treffen unangenehm, denn er zweifeld an den Motiven seiner Familienangehörigen. Immerhin versichert ihm Dmitrij, dass er dem Starez mit der nötigen Hochachtung entgegentreten werde.
