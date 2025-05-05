@@ -63,3 +63,13 @@ Aljoscha lebt in der Zelle des mittlerweilen fünfundsechzigjährigen, krank und
 Mit seinem Halbbruder Dmitrij freundet sich Aljosche schneller an als mit seinem leiblichen Bruder Iwan, der ihn eher ignoriert. Aljoscha glaubt, dass Iwan ‒ ein sehr gebildeter Atheist ‒ ihn als Novizen verachte. Der wenig gebildete Dmitrij hat hohe Achtung vor Iwan; die beiden finden trotz ihrer Charakterunterschiede schnell ein enges Verhältnis zueinander.
 
 Als die Streitigkeiten um das Vermögen in der Familie Karamasow nicht geschlichtet werden können, will man hierzu den Starez Sossima um Rat aufsuchen. Auch Pjotr Alexandrowitsch Miussow möchte am Gespräch teilnehmen um einen mit dem Kloster laufenden Rechtsstreit gützlich beizulegen. Aljoscha ist das anstehende Treffen unangenehm, denn er zweifeld an den Motiven seiner Familienangehörigen. Immerhin versichert ihm Dmitrij, dass er dem Starez mit der nötigen Hochachtung entgegentreten werde.
+
+## Zweites Buch: Eine unziemliche Versammlung
+
+### I) Die Ankunft im Kloster
+
+Am Tag der Zusammenkunft treffen die Herrschaften in zwei Kutschen ein: In der ersten Miussow mit seinem entfernten Verwandten Pjotr Fomitsch Kalganow, der bald sein Studium aufnehmen möchte; und in der zweiten Fjodor Pawlowitsch in Begleitung seines Sohnes Iwan. Dmitrij fehlt jedoch.
+
+Die Besucher werden vom Gutsbesitzer Maximov empfangen, der sie zur Einsiedelei führen will. Ein herbeigeeilter Mönch lädt die Herrschaften dazu ein, nach der Unterredung mit dem Starez das Mittagessen beim Abt einzunehmen.
+
+Nach verschiedenen sarkastischen Bemerkungen vonseiten Fjodor Pawlowitsch warnt ihn Miussow, er möge sich beim Starez anständig benehmen, denn er fürchtet sich davor, sich beim Starez selber zu erniedrigen, wenn er weiter gereizt wird.
