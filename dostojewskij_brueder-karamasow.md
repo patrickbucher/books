@@ -73,3 +73,13 @@ Am Tag der Zusammenkunft treffen die Herrschaften in zwei Kutschen ein: In der e
 Die Besucher werden vom Gutsbesitzer Maximov empfangen, der sie zur Einsiedelei führen will. Ein herbeigeeilter Mönch lädt die Herrschaften dazu ein, nach der Unterredung mit dem Starez das Mittagessen beim Abt einzunehmen.
 
 Nach verschiedenen sarkastischen Bemerkungen vonseiten Fjodor Pawlowitsch warnt ihn Miussow, er möge sich beim Starez anständig benehmen, denn er fürchtet sich davor, sich beim Starez selber zu erniedrigen, wenn er weiter gereizt wird.
+
+### II) Der alte Narr
+
+Die Eintretenden werden von zwei Priestermönchen und dem Seminaristen Rakitin erwartet. Der Starez wird von Aljoscha und einem Novizen hineinbegleitet. Im Gegensatz zu den Mönchen lassen es die Besucher an angemessener Ehrerbietung fehlen, wofür Aljoscha sich schämt.
+
+Das Äussere des von Krankheit ausgemergelt wirkenden Starez missfällt Miussow. Fjodor Pawlowitsch irritiert Miussow mit verschiedenen Anekdoten und improvisierten Lügengeschichten, womit er diesen auch versucht in ein schlechtes Licht zu rücken.
+
+Der Starez beschwichtigt die teilweise sichtlich irritierten Anwesenden, wodurch Fjodor Pawlowitsch nur noch lebhafter wird, sich aber gleichzeitig unterwürfig zeigt. Der Starez rät ihm vom Laster abzulassen: vom Trunk, von der Wolllust, von der Geldgier ‒ aber besonders von der Lüge. Denn wer sich selber belüge, könne die Wahrheit nicht mehr erkennen, was zum Laster und zur Kränkung führe, die man dann auch noch mit Genugtuung empfinde.
+
+Fjodor Pawlowitsch pflichtet ihm bei und versucht sogleich Miussow mit einer alten Anekdote dafür zu beschuldigen, ihm in seinem Glauben erschüttert zu haben. Der Starez lässt sich davon nicht beirren, tritt aber aus um wartenden Gästen den Segen zu erteilen. Dabei behauptet Fjodor Pawlowitsch, er habe nur den Narren gespielt, um den Starez auf die Probe zu stellen.
