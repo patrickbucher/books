@@ -83,3 +83,17 @@ Das Äussere des von Krankheit ausgemergelt wirkenden Starez missfällt Miussow.
 Der Starez beschwichtigt die teilweise sichtlich irritierten Anwesenden, wodurch Fjodor Pawlowitsch nur noch lebhafter wird, sich aber gleichzeitig unterwürfig zeigt. Der Starez rät ihm vom Laster abzulassen: vom Trunk, von der Wolllust, von der Geldgier ‒ aber besonders von der Lüge. Denn wer sich selber belüge, könne die Wahrheit nicht mehr erkennen, was zum Laster und zur Kränkung führe, die man dann auch noch mit Genugtuung empfinde.
 
 Fjodor Pawlowitsch pflichtet ihm bei und versucht sogleich Miussow mit einer alten Anekdote dafür zu beschuldigen, ihm in seinem Glauben erschüttert zu haben. Der Starez lässt sich davon nicht beirren, tritt aber aus um wartenden Gästen den Segen zu erteilen. Dabei behauptet Fjodor Pawlowitsch, er habe nur den Narren gespielt, um den Starez auf die Probe zu stellen.
+
+### III) Gläubige Frauen
+
+Auf den Starez warten nebst zwanzig Bauernweiber auch die Witwe Chochlakowa und ihre vierzenjährige, seit einem halben Jahr gelähmte Tochter. Doch der Starez erteilt seinen Segen zuerst dem einfachen Volk.
+
+Er beruhigt eine Klikuscha ‒ eine Hysterikerin, die im Gottesdienst einen Anfall erleidet, der sich beim Abendmahl in der Messe dann legt.
+
+Eine Kleinbürgerin klagt ihr Leid: Den Verlust dreier Söhne konnte sie überwinden, doch das vierte Söhnchen, das nicht einmal drei Jahre alt geworden war, beweint sie noch immer. Solange sie auf Pilgerfahrt sei, betrinke sich ihr Mann, sodass sie nicht zu ihm nach Hause zurückkehren möchte. Der Starez will für ihr verstorbenes Kind beten und weist sie an, zu ihrem Mann zurückzukehren, sodass die Seele ihres Sohnes ein Zuhause und die Eltern beieinander finde.
+
+Eine Witwe, die lange nichts von ihrem Sohn gehört hat, will eine Seelenmesse für ihn lesen lassen, auf dass er sich endlich bei ihr melde. Der Starez rät ihr von dieser schweren Sünde ab. Sie solle stattdessen zur himmlischen Königin beten; der Sohn werde sich dann bald sehen oder von sich hören lassen.
+
+Eine ausgemergelte Bäuerin, deren gewalttätiger Mann vor drei Jahren verstorben ist ‒ sie fürchtete sich vor seiner Genesung ‒ bittet den Starez um die Vergebung einer grossen Sünde, die sie ihm ins Ohr flüstert. Sie solle dem Verstorbenen vergeben, sodass auch ihre grosse Sünde vergeben werde.
+
+Eine junge Mutter, die nach wenigen Tagen zurückgekehrt ist, um nach dem kranken Starez zu schauen, übergibt ihm sechzig Kopeken, die er an jemanden Bedürftigeren weitergeben soll. Der Starez bedankt sich und verneigt sich vor allen.
