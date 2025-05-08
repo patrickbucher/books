@@ -97,3 +97,13 @@ Eine Witwe, die lange nichts von ihrem Sohn gehört hat, will eine Seelenmesse f
 Eine ausgemergelte Bäuerin, deren gewalttätiger Mann vor drei Jahren verstorben ist ‒ sie fürchtete sich vor seiner Genesung ‒ bittet den Starez um die Vergebung einer grossen Sünde, die sie ihm ins Ohr flüstert. Sie solle dem Verstorbenen vergeben, sodass auch ihre grosse Sünde vergeben werde.
 
 Eine junge Mutter, die nach wenigen Tagen zurückgekehrt ist, um nach dem kranken Starez zu schauen, übergibt ihm sechzig Kopeken, die er an jemanden Bedürftigeren weitergeben soll. Der Starez bedankt sich und verneigt sich vor allen.
+
+### IV) Die kleingläubige Dame
+
+Der Starez wendet sich der herbeigereisten Chochlakowa zu, die sich bei ihm für die Heilung ihrer Tochter Lise bedankt. Zwar liegt sie immer noch im Krankensessel, ihre Fieberanfälle seien jedoch verschwunden und sie könne sogar wieder für kurze Zeit auf den Beinen stehen.
+
+Lise sieht die Ursache dafür in Aljoscha, der hinter dem Starez stehend ihren Blicken ausweichen will, die ihn verlegen machen. Sie überreicht ihm einen Brief, wonach er zu Katarina Iwanowna reisen soll; es betreffe seinen Bruder Dmitrij.
+
+Die Mutter Chochlakowa wendet sich an den Starez: Ihr seien Zweifel gekommen, was das Leben nach dem Tod betrifft. Sie wäre bereit dazu, als Schwester ins Kloster zu gehen, um sich um die Kranken zu kümmern. Der Starez weist sie zur tätigen Liebe an, die im Gegensatz zur schwärmerischen Liebe nicht der Erwartung auf sofortige Dankbarkeit entspringe, sondern Ausdauer verlange und undankbar sein könne.
+
+Zum Abschied segnet der Starez Lise, obwohl sie die ganze Zeit Aljoscha durch ihre Blicke in Verlegenheit brachte. Aljoscha solle sie endlich wieder einmal besuchen kommen, wie früher in ihrer Kindheit. Der Starez will ihn zu ihr schicken.
