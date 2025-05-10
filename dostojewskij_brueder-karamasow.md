@@ -107,3 +107,24 @@ Lise sieht die Ursache dafür in Aljoscha, der hinter dem Starez stehend ihren B
 Die Mutter Chochlakowa wendet sich an den Starez: Ihr seien Zweifel gekommen, was das Leben nach dem Tod betrifft. Sie wäre bereit dazu, als Schwester ins Kloster zu gehen, um sich um die Kranken zu kümmern. Der Starez weist sie zur tätigen Liebe an, die im Gegensatz zur schwärmerischen Liebe nicht der Erwartung auf sofortige Dankbarkeit entspringe, sondern Ausdauer verlange und undankbar sein könne.
 
 Zum Abschied segnet der Starez Lise, obwohl sie die ganze Zeit Aljoscha durch ihre Blicke in Verlegenheit brachte. Aljoscha solle sie endlich wieder einmal besuchen kommen, wie früher in ihrer Kindheit. Der Starez will ihn zu ihr schicken.
+
+### V) Amen, Amen!
+
+In der Abwesenheit des Starez ist eine lebhafte Unterhaltung zwischen den beiden Priestermönchen und Iwan entbrannt, an der sich auch Miussow gerne beteiligen will, aber zu seiner steigenden Irritation grösstenteils ignoriert wird ‒ was Fjodor Pawlowitsch Vergnügen bereitet.
+
+Der Priestermönch Jossif, ein Bibliothekar, führt den sichtlich ermüdeten Starez bei seiner Rückkehr in das Gespräch ein: Man diskutiere Iwan Fjodorowitschs Artikel über die kirchliche Gerichtsbarkeit, worin er auf ein von einem Geistlichen verfassten Buch zu diesem Thema reagiere, wonach der Kirche, die ein "Reich nicht von dieser Welt" sei, keine Gerichtsbarkeit obliegen solle.
+
+Iwan erläutert seinen Standpunkt: Der heidnische römische Staat habe sich durch seine Bekehrung zum Christentum die Kirche einverleibt, sei aber heidnisch geblieben. Um ihre Ziele erfüllen zu können, solle sich die Kirche nicht ‒ wie vom Autor des Buches "Grundlagen des Kirchenrechts" gefordert ‒ ein Nischenaseim im Staat begnügen, sondern darauf hinwirken, den Staat in eine Kirche zu verwandeln.
+
+Vater Paissij, der andere Priestermönch, ergänzt, dass gemäss solchen Theorien (wie aus diesem Buch) die Kirche im Staat aufgehen solle, wodurch sie ihren Platz der Wissenschaft, dem Zeitgeist und der Zivilisation räume. Nach russischem Verständnis hingegen solle nicht die Kirche zum Staat werden, sondern der Staat würdig, selber zur Kirche zu werden.
+
+Iwan ergänzt: Durch die Trennung von staatlicher und kirchlicher Gerichtsbarkeit könne man Verbrechen begehen, dadurch vom Staat bestraft werden ‒ aber ungestraft in der Kirche bleiben.
+
+Der Starez pflichtet ihm bei: Die weltliche Rechtsprechung mit ihren Strafmassnahmen führe nicht zur Besserung der Verbrecher, eher im Gegenteil. Nur das christliche Gesetz, das sich im eigenen Gewissen des Verbrechers vor der kirchlichen Gemeinschaft offenbare, mache dem Verbrecher seine Schuld bewusst. Und da der russische im Gegensatz zum europäischen Verbrecher noch Christ sei, habe die Verbannung durch die Kirche eine stärkere Wirkung auf ihn als die Strafmassnahmen des Staates.
+
+Im lutherischen Europa, wo die Kirche im Staat aufgegangen sei, sehe sich der Verbrecher aber nicht mehr als Teil der Kirche, wodurch eine Verbannung auf ihn keine Wirkung mehr zeige. Würde sich die gesamte Gesellschaft zur Kirche wandeln, gäbe es dadurch weniger Verbrechen.
+
+Miussow entgegnet, das dies dem päpstlichen Dogma (dem Montanismus) entspräche. Vater Paissij korrigiert ihn: Diese Idee, wonach die Kirche zum Staat werde, sei teuflisch! Die Bestimmung der Orthodoxie sei es umgekehrt, dass sich der Staat zur Kirche wandle. Miussow erinnert das an den christlich geprägten Sozialismus, den man im Ausland für "gefährlicher" als den atheistischen Sozialismus halte.
+
+Doch das Gespräch bricht ab, als Dmitrij Fjodorowitschs zur allseitigen Überraschung doch noch auftaucht.
+
