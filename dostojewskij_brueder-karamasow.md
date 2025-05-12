@@ -150,3 +150,15 @@ Sichtlich bestürzt verlassen die Besucher die Zelle des Starez ohne sich vorher
 
 Miussow möchte auf das Essen beim Abt, wozu man nun bereits verspätet ist, verzichten, geht dann aber doch hin, als Fjodor Pawlowitsch seinerseits verzichtet und abreist.
 
+### VII) Seminarist ‒ Karrierist
+
+Nachdem Alexej dem Starez ins Bett geholfen hat, soll er nicht bei ihm bleiben, denn er werde beim Essen des Abts gebraucht, da dort Unfrieden herrsche. Der Starez sieht seine letzte Stunde anbrechen und weist Alexej an, nach seinem Dahinscheiden das Kloster zu verlassen. Er werde einen grossen Dienst in der Welt tun und auch heiraten, bevor er nach langer Pilgerung ins Kloster zurückkehre.
+
+Auf dem Weg zum Abt trifft Alexej auf Rakitin, der den Kniefall des Starez vor Dmitrij dahingehend deutet, dass er einen Mord von Dmitrij an seinem Vater voraussagt. Die Karamasows seien Gottesnarren und Lüstlinge. Nun habe sich der Vater in die Gruschenka verliebt, die er auf Dmitrij ansetzte. Diese führe nun Vater und Sohn an der Nase herum.
+
+Iwan stelle gleichzeitig Dmitrijs Braut, der schönen Katarina Iwanowna, nach und sei an ihrer reichen Mitgift interessiert. Dmitrij stehe dem nicht im Wege, da er so seine Verlobung zu ihr auflösen und die Gruschenka ehelichen könne. Iwan sei ein niederträchtiger Mensch, was sich auch in seiner Theorie ‒ ohne Unsterblichkeit keine Tugend, also sei alles erlaubt ‒ äussere, welcher auch Dmitrij beipflichte.
+
+Alexej vermutet, dass Rakitin selber an Katarina Iwanowna interessiert sei. Rakitin will neulich, als er bei der Gruschenka im Schlafzimmer wartete, den im Nebenzimmer anwesenden Dmitrij belauscht haben. Dieser erzählte, wie Iwan neulich gegenüber Katarina Iwanowna ihm, Rakitin, eine unrühmliche Zukunft vorausgesagt habe.
+
+Zum Ende des Gesprächs sehen die beiden, wie die Gäste des Abts aus dem Kloster davonstürmen. Offenbar hat das Essen durch einen Skandal vorzeitig geendet.
+
