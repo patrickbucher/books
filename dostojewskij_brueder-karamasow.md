@@ -162,3 +162,13 @@ Alexej vermutet, dass Rakitin selber an Katarina Iwanowna interessiert sei. Raki
 
 Zum Ende des Gesprächs sehen die beiden, wie die Gäste des Abts aus dem Kloster davonstürmen. Offenbar hat das Essen durch einen Skandal vorzeitig geendet.
 
+### VIII) Der Skandal
+
+Miussow erscheint mit dem Vorsatz, dem Abt höflich und freundlich entgegenzutreten. Er will auch im Prozess, den er gegen das Kloster anstrengt, klein beigeben, nur schon um sich von Fjodor Pawlowitsch und dessen schändlichem Verhalten abzuheben.
+
+Als die Gäste vom Abt zu einem reich gedeckten Tisch empfangen werden, entschuldigen sie sich für das Fernbleiben Fjodor Pawlowitschs. Doch der hat es sich anders überlegt und taucht doch zum Essen auf, um sein Werk zu vollenden.
+
+Er behauptet, beim Starez sei gebeichtet worden, was der Verletzung eines Sakraments gleichkäme. (Solche Gerüchte, womit das Starzentum in ein schlechtes Licht gerückt werden sollte, kursierten damals.) Weiter beschuldigt er das Kloster im Anbetracht des reich gedeckten Tisches, dass es das arme Volk aussauge. Er selber wolle dem Kloster, das seine Frau gegen ihn aufgebracht haben soll, nie wieder Geld spenden.
+
+Miussow verlässt die Szene angewidert, doch Fjodor Pawlowitsch folgt ihm. Er will auch Aljoscha aus dem Kloster nehmen. Zunächst lädt er aber noch Maximov auf ein Gelage zu sich nach Hause ein. Doch Iwan stösst diesen von der Kutsche, sodass Vater und Sohn schweigend zu zweit nach Hause fahren.
+
