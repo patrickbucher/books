@@ -172,3 +172,19 @@ Er behauptet, beim Starez sei gebeichtet worden, was der Verletzung eines Sakram
 
 Miussow verlässt die Szene angewidert, doch Fjodor Pawlowitsch folgt ihm. Er will auch Aljoscha aus dem Kloster nehmen. Zunächst lädt er aber noch Maximov auf ein Gelage zu sich nach Hause ein. Doch Iwan stösst diesen von der Kutsche, sodass Vater und Sohn schweigend zu zweit nach Hause fahren.
 
+## Drittes Buch: Die Lüstlinge
+
+### I) In der Bedientenstube
+
+Fjodor Pawlowitsch lebt mit seinem Sohn Iwan alleine in einem geräumigen Haus, denn seine Bediensteten hat er mitsamt Küche in das Hinterhaus verbannt.
+
+Sein alter Diener Grigorij Wassiljewitsch Kutusow gilt als ehrlich und geradlinig; er lebt mit seiner Frau Marfa Ignatjewna zusammen, die nach der Aufhebung der Leibeigenschaft lieber nach Moskau gegangen wäre.
+
+Fjodor Pawlowitsch ist oft froh darüber, in Grigorij eine gute Seele als Beistand zu haben, gerade weil dieser einen Kontrast zu seinem eigenen lasterhaften Lebenswandel schafft.
+
+Dessen erste Frau, Adalaida Iwanowna, verachtet er, kümmert sich aus seiner Kinderliebe aber trotzdem um ihren Sohn Dmitrij; Sofja Iwanowna, die zweite Gattin, verehrt er hingegen geradezu, und zieht nach ihrem Ableben ihre Söhne Iwan und Alexej auf.
+
+Selber hat er mit seiner Frau nur einen Sohn, den er nicht taufen lassen will, da er mit sechs Fingern an einer Hand auf die Welt gekommen ist. Das Kind stirbt bereits nach zwei Wochen an Milchfieber, worauf sich Grigorij vor allem lesend der Religion und auch dem Mystizismus zuwendet.
+
+In der Nacht nach der Beerdigung dieses Kindes begibt es sich, dass die stadtbekannte Lisawetwa Smerdjastschaja im Badehaus der Karamasows heimlich ein Kind zur Welt bringt.
+
