@@ -188,3 +188,16 @@ Selber hat er mit seiner Frau nur einen Sohn, den er nicht taufen lassen will, d
 
 In der Nacht nach der Beerdigung dieses Kindes begibt es sich, dass die stadtbekannte Lisawetwa Smerdjastschaja im Badehaus der Karamasows heimlich ein Kind zur Welt bringt.
 
+### II) Lisaweta Smerdjastschaja
+
+Lisaweta Smerdjastschaja, die "Stinkende", ist eine verwaiste Gottesnärrin, die selbst winters barfuss und im blossen Hemd durch die Stadt zieht. Spendet man ihr Kleidung, Geld oder etwas zum Essen, schenkt sie es sofort weiter. Sie schläft vor dem Kirchenportal oder im Gemüsegarten fremder Leute; manchmal am Boden oder im Stall des Hauses, in dem ihr Vater diente.
+
+Eines Abends kommt eine Gruppe angetrunkener Herren, darunter der frisch verwitwete Fjodor Pawlowitsch, an der Schlafstatt Lisawetas vorbei. Man diskutiert darüber, ob ein Mann in diesem Wesen eine Frau erkennen und ihr beischlafen könne. Fjodor Pawlowitsch bejaht dies zur allgemeinen Belustigung, um sich als Emporkömmling in dieser Gruppe als Narr zu profilieren.
+
+Zwar behaupten alle Herren, in dieser Nacht weitergegangen zu sein, doch ist Lisaweta Monate nach dem Vorfall offensichtlich schwanger. Der Verdacht fällt auf Fjodor Pawlowitsch, der jedoch von Grigorij verteidigt wird: Ein entlaufener Gefangener soll es gewesen sein, der Lisaweta schändete.
+
+In der Nacht der Geburt verlässt Lisaweta das Haus, in das sie vorübergehend aufgenommen worden ist, und klettert über den Zaun der Karamasows, um dort ihr Kind zur Welt zu bringen. Zwar kann das Kind gerettet werden, doch Lisaweta stirbt nach der Geburt.
+
+Grigorij und Marfa ziehen das Kind auf und taufen es Pawel. Als Vatersname setzt sich bald Fjodorowitsch durch. Zwar streitet Fjodor Pawlowitsch seine Vaterschaft ab, wehrt sich aber nicht gegen diesen Namen. Als Nachnamen denkt er sich "Smerdjakow" aus.
+
+Dieser Pawel Fjodorowitsch Smerdjakow wird der zweite Diener im Haus Karamasow und übernimmt die Aufgabe des Kochs.
