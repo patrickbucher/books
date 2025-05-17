@@ -1,7 +1,7 @@
 ---
 title: 'Fjodor M. Dostojewskij: Die Brüder Karamasow'
-subtitle: Inhaltsangabe
-author: Patrick Bucher
+subtitle: 'Ausführliche Inhaltsangabe'
+author: 'Patrick Bucher'
 ---
 
 # Erster Teil
@@ -201,3 +201,11 @@ In der Nacht der Geburt verlässt Lisaweta das Haus, in das sie vorübergehend a
 Grigorij und Marfa ziehen das Kind auf und taufen es Pawel. Als Vatersname setzt sich bald Fjodorowitsch durch. Zwar streitet Fjodor Pawlowitsch seine Vaterschaft ab, wehrt sich aber nicht gegen diesen Namen. Als Nachnamen denkt er sich "Smerdjakow" aus.
 
 Dieser Pawel Fjodorowitsch Smerdjakow wird der zweite Diener im Haus Karamasow und übernimmt die Aufgabe des Kochs.
+
+### III) Die Beichte eines heissen Herzens. In Versen
+
+Mit einer gewissen Bedrücktheit entschliesst sich Aljoscha, seinen Vater und ‒ ihrer Aufforderung nachkommend ‒ Katarina Iwanowna aufzusuchen. Eine Abkürzung nehmend trifft er zufällig auf Dmitrij, der in einem fremden Garten einem Geheimnis nachspüre.
+
+Der angetrunkene Dmitrij erzählt Aljoscha, dass er sich in eine "Gemeine" verliebt abe und erledigt sei. Er ist dankbar für den Zufall, dass Aljoschas Weg zu Katarina Iwanowna und zu seinem Vater durch die gewählte Abkürzung zu ihm führte, denn Aljoscha soll bei Katarina Iwanowna und beim Vater für ihn ein Ende setzen, wozu er einen Engel vorbeischicken wolle.
+
+Aljoscha hört ihm geduldig zu, während Dmitrij Schillers _Ode an die Freude_ zitierend ihm sein Herz ausschüttet.
