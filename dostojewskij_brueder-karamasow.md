@@ -208,4 +208,17 @@ Mit einer gewissen Bedrücktheit entschliesst sich Aljoscha, seinen Vater und �
 
 Der angetrunkene Dmitrij erzählt Aljoscha, dass er sich in eine "Gemeine" verliebt abe und erledigt sei. Er ist dankbar für den Zufall, dass Aljoschas Weg zu Katarina Iwanowna und zu seinem Vater durch die gewählte Abkürzung zu ihm führte, denn Aljoscha soll bei Katarina Iwanowna und beim Vater für ihn ein Ende setzen, wozu er einen Engel vorbeischicken wolle.
 
-Aljoscha hört ihm geduldig zu, während Dmitrij Schillers _Ode an die Freude_ zitierend ihm sein Herz ausschüttet.
+Aljoscha hört ihm geduldig zu, während Dmitrij Schillers _Ode an die Freude_ rezitierend ihm sein Herz ausschüttet.
+
+### IV) Die Beichte eines heissen Herzens. In Anekdoten
+
+Dmitrij erzählt Aljoscha von seinen Frauengeschichten, bestreitet aber den Vorwurf seines Vaters, dafür tausende von Rubel verjubelt zu haben.
+
+Sein Vorgesetzter ‒ ein Oberst, zu dem sein Verhältnis zerrüttet ist ‒ hat zwei Töchter aus zwei Ehen, die er beide ohne Mitgift geschlossen hat: die ältere, etwas einfältige aber sehr reizende Agafja Iwanowna und die jüngere, gebildete, sehr hübsche und heiss umschwärmte Katarina Iwanowna. Zur ersten hat Dmitrij ein freundschaftliches Verhältnis, doch die zweite würdigt ihn keines Blickes ‒ sehr zu seiner Kränkung.
+
+Zu dieser Zeit schlägt Dmitrij das Erbe aus, wofür er mit sechstausend Rubel ausbezahlt wird. Er erfährt davon, dass man dem Obersten eine Falle stellen und ihn der Veruntreuung bezichtigen wolle. Dmitrij erzählt Agafja von dieser Verschwörung und bietet ihr an, die nötigen viertausendfündhundert Rubel auszulegen, damit ihr Vater seine Ehre retten könne. Agafja reagiert empört und will nichts davon wissen, doch Dmitrij ist sich sicher, dass sie ihrer Schwester Katarina davon erzählen wird.
+
+Tatsächlich lässt der Kaufmann Trifonow, der bisher immer zuverlässige Revisor des Obersten, die ihm anvertraute Regimentskasse verschwinden und streitet ab, diese je in seine Obhut genommen zu haben. Der Oberst will sich darauf das Leben nehmen, was Katarina gerade noch verhindern kann.
+
+Sie ersucht Dmitrij um die viertausendfündhundert Rubel. Dieser ringt zunächst mit dem Gedanken, sein Angebot gegenüber Agafja als einen Scherz preiszugeben, um sich so an Katarina für ihre Hochnäsigkeit ihm gegenüber zu rächen. Er kommt von diesem Gedanken ab, übergibt ihr das Geld, worauf sie sich ihm zu Füssen wirft.
+
