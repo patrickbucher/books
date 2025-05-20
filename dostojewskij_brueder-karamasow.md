@@ -220,5 +220,21 @@ Zu dieser Zeit schlägt Dmitrij das Erbe aus, wofür er mit sechstausend Rubel a
 
 Tatsächlich lässt der Kaufmann Trifonow, der bisher immer zuverlässige Revisor des Obersten, die ihm anvertraute Regimentskasse verschwinden und streitet ab, diese je in seine Obhut genommen zu haben. Der Oberst will sich darauf das Leben nehmen, was Katarina gerade noch verhindern kann.
 
-Sie ersucht Dmitrij um die viertausendfündhundert Rubel. Dieser ringt zunächst mit dem Gedanken, sein Angebot gegenüber Agafja als einen Scherz preiszugeben, um sich so an Katarina für ihre Hochnäsigkeit ihm gegenüber zu rächen. Er kommt von diesem Gedanken ab, übergibt ihr das Geld, worauf sie sich ihm zu Füssen wirft.
+Sie ersucht Dmitrij um die viertausendfündhundert Rubel. Dieser ringt zunächst mit dem Gedanken, sein Angebot gegenüber Agafja als einen Scherz preiszugeben, um sich so an Katarina für ihre Hochnäsigkeit ihm gegenüber zu rächen. Er kommt von diesem Gedanken ab, übergibt ihr einen Wechsel über fünftausend Ruben, worauf sie sich ihm zu Füssen wirft.
+
+### V) Die Beichte eines heissen Herzens. "Kopfüber"
+
+Am darauffolgenden Tag erhält Dmitrij ohne weiteren Kommentar in einem Umschlag den Rest des Geldes von Katarina Iwanowna zurück. Der Oberst kann die viertausendfündhundert Rubel der Regimentskasse vollständig zurückgeben, stirbt aber bald darauf und wird mit militärischen Ehren beigesetzt.
+
+Katarina Iwanowna fährt mit ihrer Schwester Agafja und ihrer Tante nach Moskau und schreibt Dmitrij, dass sie sich bei ihm melden werde. Durch Todesfälle in ihrer Verwandtschaft fällt ihr unverhofft ein grosses Erbe zu, wovon sie sogleich achtzigtausend Rubel als Mitgift erhält.
+
+Sie lässt Dmitrij die viertausendfündhundert Rubel zukommen und bietet sich ihm brieflich unterwürfig als seine Braut an. Dmitrij lässt ihr über Iwan einen Brief zukommen, worin er sich als unwürdiger, bettelarmer Grobian bezeichnet. So kommt es, dass Iwan sich in sie verliebt.
+
+Dmitrij hält Iwan für den würdigeren Bräutigam und kann nachvollziehen, von welchem Hass dieser nun erfüllt sein müsse, hat doch Katarina Iwanowna ihm einen Lump wie Dmitrij vorgezogen. Zwar ist es in Moskau zu einer feierlichen Verlobung zwischen Katarina Iwanowna und Dmitrij gekommen, und er gelobte ihr, sich zu bessern. Doch nun will Dmitrij diese Verlobung wieder auflösen und zu diesem Zweck Aljoscha zu ihr schicken.
+
+Er selber wolle zu Gruschenka gehen und sie heiraten. Von Katarina seien ihm dreitausend Rubel anvertraut worden, die er ihrer Schwester Agafja hätte zukommen lassen sollen. Stattdessen verjubelte er diese für Gruschenka. Aljoscha soll nun beim Vater um diese Summe bitten, damit er diese Katarina Iwanowna wenigstens zurückbezahlen könne.
+
+Dmitrij ist sich sicher, dass sein Vater ihm nichts geben werde ‒ aber von Smerdjakow wisse er auch, dass sein Vater ein für Gruschenka bestimmtes Couvert mit dreitausend Rubel bereithalte, damit sie ihn heirate. Nun lauert Dmitrij Gruschenka auf, um sie auf dem Weg zum Vater abzufangen.
+
+Der Vater wolle Iwan unter einem gechäftlichem Vorwand ausser Haus schicken, damit er sie nicht zu sehen bekomme. Dmitrij glaubt an ein Wunder: noch heute solle Aljoscha mit den dreitausend Rubel zu Katarina Iwanowna gehen. Und falls Gruschenka doch noch heute beim Vater auftauchen werde, wolle Dmitrij ihn notfalls ermorden.
 
