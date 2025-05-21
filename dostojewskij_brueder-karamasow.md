@@ -238,3 +238,15 @@ Dmitrij ist sich sicher, dass sein Vater ihm nichts geben werde ‒ aber von Sme
 
 Der Vater wolle Iwan unter einem gechäftlichem Vorwand ausser Haus schicken, damit er sie nicht zu sehen bekomme. Dmitrij glaubt an ein Wunder: noch heute solle Aljoscha mit den dreitausend Rubel zu Katarina Iwanowna gehen. Und falls Gruschenka doch noch heute beim Vater auftauchen werde, wolle Dmitrij ihn notfalls ermorden.
 
+### VI) Smerdjakow
+
+Zu Hause angekommen trifft Aljoscha seinen Vater und seinen Bruder Iwan am Mittagstisch an, wo sie bereits den von Smerdjakow zubereiteten Kaffee trinken.
+
+Smerdjakow ist ein verschwiegener Misanthrop, der als Kind Katzen aufknüpfte und sie feierlich beerdigte. Hierfür, und für seine Hochmut im Bibelunterricht, wird er von seinem Ziehvater Grigorij gezüchtigt. Als der Junge an epileptischen Anfällen zu leiden beginnt, untersagt Fjodor Pawlowitsch diese Züchtigungen und nimmt sich des Jungen an.
+
+Smerdjakow zeigt zunächst Interesse für Fjodor Pawlowitschs reichen aber ungenutzten Bücherschrank, zu dem er auch den Schlüssel bekommt, kann sich aber dann fürs Lesen nicht begeistern. Da er sich beim Essen äusserst heikel gibt, schickt ihn Fjodor Pawlowitsch nach Moskau in die Lehre als Koch.
+
+Sichtlich gealtert und etwas eingefallen, aber tadellos gekleidet, kehrt er aus Moskau zurück. Sein Charakter hat sich nicht verändert, doch gibt er nun seinen ganzen Lohn für Bekleidung aus. Seine eptileptischen Anfälle sind heftiger geworden, sodass Marfa Ignatjewna öfters die Mahlzeiten zubereiten muss.
+
+Smerdjakow verhält sich Fjodor Pawlowitsch gegenüber sehr ehrlich, sodass er dessen vollstes Vertrauen geniesst. Oft trifft man ihn in minutenlanger Kontemplation versunken an; worüber er dabei nachdenkt, ist nicht bekannt.
+
