@@ -250,3 +250,13 @@ Sichtlich gealtert und etwas eingefallen, aber tadellos gekleidet, kehrt er aus 
 
 Smerdjakow verhält sich Fjodor Pawlowitsch gegenüber sehr ehrlich, sodass er dessen vollstes Vertrauen geniesst. Oft trifft man ihn in minutenlanger Kontemplation versunken an; worüber er dabei nachdenkt, ist nicht bekannt.
 
+### VII) Die Kontroverse
+
+Das Tischgespräch handelt von einem russischen Soldaten, der im Balkankrieg gefangengenommen seinem Glauben unter Folter nicht abschwören wollte und so zu Tode geschunden worden ist.
+
+Smerdjakow reizt Grigorij mit der Aussage, dass es unter diesen Umständen keine Sünde sei, Christus zu verleugnen. Sobald man auch nur an die Absicht denke, seinem Glauben abzuschwören, werde man sogleich zu einem Ungläubigen, sodass die Verleugnung des Glaubens gar keine Sünde mehr sei. Und Gott könne einen Ungläubigen nicht mit dem gleichen Mass messen wie einen Christ.
+
+Fjodor Pawlowitsch bereitet der Wortwechsel offensichtlich Vergnügen. Dabei richtet Smerdjakow seine Rede an Grigorij, obwohl die Einwände von Fjodor Pawlowitsch stammen. Dieser äussert Iwan gegenüber, dass sich Smerdjakow nor so aufspiele, um Iwan zu beeindrucken.
+
+Smerdjakow argumentiert weiter, dass doch der Glaube Berge versetzen könne (Matthäus 17, 20), wodurch der wahrhaft gläubige Soldat seine Peiniger hätte zermalmen lassen können. Da dies offenbar nicht geschehen sei, hätten dem Soldaten berechtigte Zweifel an seinem Glauben kommen können. Durch Gottes Gnade könne man dennoch auf Vergebung hoffen.
+
