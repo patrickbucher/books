@@ -260,3 +260,13 @@ Fjodor Pawlowitsch bereitet der Wortwechsel offensichtlich Vergnügen. Dabei ric
 
 Smerdjakow argumentiert weiter, dass doch der Glaube Berge versetzen könne (Matthäus 17, 20), wodurch der wahrhaft gläubige Soldat seine Peiniger hätte zermalmen lassen können. Da dies offenbar nicht geschehen sei, hätten dem Soldaten berechtigte Zweifel an seinem Glauben kommen können. Durch Gottes Gnade könne man dennoch auf Vergebung hoffen.
 
+### VIII) Beim Kognäckchen
+
+Nach diesem Streitgespräch schickt Fjodor Pawlowitsch die Diener fort. Er fragt seine Söhne, ob es Gott und die Unsterblichkeit gebe, was Aljoscha bejaht und Iwan verneint.
+
+Fjodor Pawlowitsch betrinkt sich und erzählt Geschichten vom Starez, den er des Unglaubens, der Lüsternheit und der Veruntreuung bezichtigt. Diese Vorwürfe gibt es aber sogleich als Lügen preis. In seiner Trunkenheit wird er immer streitlustiger.
+
+Über seine zweite Frau ‒ die Klikuscha, Iwans und Aljoschas Mutter ‒ erzählt er, dass sie zu viel gebetet habe, und er sie damit züchtigte, dass er eine ihrer Ikonen vor ihren Augen bespuckt habe, um ihr das auszutreiben. Aljoscha erleidet bei dieser Erzählung einen Weinkrampf ‒ genau wie seine Mutter damals. Dies erklärend wendet sich Fjodor Pawlowitsch an Iwan. Dabei vergisst er, dass sie auch dessen Mutter ist.
+
+In diesem Moment stürmt Dmitrij ins Haus, und sein Vater glaubt, dass er ihn umbringen wolle.
+
