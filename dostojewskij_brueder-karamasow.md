@@ -270,3 +270,17 @@ Fjodor Pawlowitsch betrinkt sich und erzählt Geschichten vom Starez, den er des
 
 In diesem Moment stürmt Dmitrij ins Haus, und sein Vater glaubt, dass er ihn umbringen wolle.
 
+### IX) Die Lüstlinge
+
+Die Diener Grigorij und Smerdjakow sind instruiert, Dmitrij mit aller Gewalt von Fjodor Pawlowitsch fernzuhalten, werden jedoch von ihm überwältigt, worauf er in den Saal gelangt.
+
+Dieser vermutet hinter einer Tür, die Grigorij bei seinem Eintritt verschliesst, den Aufenthaltsort Gruschenkas. Er will sie gesehen haben, wie sie auf das Haus zuging, und äussert diesen Verdacht mit einer Gewissheit, die auch Fjodor Pawlowitsch von ihrer Anwesenheit überzeugt. Iwan und Aljoscha können ihm diese Idee damit austreiben, dass doch alle Türen und Fenster fest verschlossen seien.
+
+Fjodor Pawlowitsch stürzt darauf Dmitrij nach, um ihn davon abzuhalten, in seinem Schlafzimmer die dreitausend Rubel von ihm zu stehlen. Dort bringt Dmitrij ihn zu Boden und traktiert ihn mit Tritten. Seine Brüder können ihn gemeinsam von ihrem Vater losbringen, sodass dieser mit kleineren Verletzungen davonkommt.
+
+Nun will Dmitrij zu Gruschenka gehen; Aljoscha soll Katarina Iwanowna besuchen, um ihr Dmitrijs Abschied mitzuteilen; das Geld soll er nicht erwähnen, ihr jedoch die vergangene Szene schildern.
+
+Sich im Bett erholend glaubt Fjodor Pawlowitsch weiterhin, dass Gruschenka da gewesen sei, was ihm Aljoscha jedoch bald austreiben kann. Aljoscha soll ihn morgen unbedingt besuchen kommen. Er darf aber ins Kloster zurückkehren und auch die Ikone seiner verstorbenen Mutter mitnehmen.
+
+Iwan versteht nun den Konflikt zwischen Dmitrij und seinem Vater. Aljoscha gegenüber versichert er, dass er den Vater mit all seiner Macht vor Dmitrij beschützen wolle.
+
