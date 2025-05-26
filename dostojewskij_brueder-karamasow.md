@@ -284,3 +284,19 @@ Sich im Bett erholend glaubt Fjodor Pawlowitsch weiterhin, dass Gruschenka da ge
 
 Iwan versteht nun den Konflikt zwischen Dmitrij und seinem Vater. Aljoscha gegenüber versichert er, dass er den Vater mit all seiner Macht vor Dmitrij beschützen wolle.
 
+### X) Beide zusammen
+
+Bedrückt vom Erlebten und dem sich für Dmitrij abzeichnenden schlechten Ausgang der Geschichte begibt sich Aljoscha zu Katarina Iwanowna. Diese trifft er in freudiger Erregung an; sie wolle die ganze Wahrheit von ihm erfahren.
+
+Aljoscha richtet ihr aus, dass Dmitrij "sich empfehlen" lasse und auf diesen genauen Wortlaut bestanden habe. Katarina Iwanowna ist zunächst bestürzt, ahnt aber eine Verzweiflung hinter dieser Mitteilung ‒ und schöpft dadurch sogleich Hoffnung. Über die veruntreuten dreitausend Rubel wisse sie bescheid, doch solle sich Dmitrij deswegen vor ihr nicht schämen.
+
+Aljoscha berichtet ihr vom Vorfall vorhin beim Vater und von Dmitrijs Absicht, Gruschenka heiraten zu wollen. Doch Katarina Iwanowna zeigt sich überzeugt davon, dass dies nicht passieren werde ‒ und bittet Gruschenka aus dem Nebenzimmer, in das sie sich bei Aljoschas Eintreten zurückgezogen hat, herein.
+
+Verzückt von der schönen zweiundzwanzigjährigen Gruschenka erzählt Katarina Iwanowna, dass deren frühere Liebe, ein Offizier, mittlerweile verwitwet und auf dem Weg zu ihr sei, um sie zu heiraten. Sie liebe nur ihn und habe Katarina Iwanowna versprochen, diesen Offizier und nicht Dmitrij zu heiraten.
+
+Doch diese will plötzlich nichts mehr von ihrem vorherigen Versprechen wissen, denn sie tue nur das, worauf sie gerade Lust habe, und nun wolle sie vielleicht doch lieber Dmitrij heiraten. Gruschenka lässt Katarina Iwanowna auch wissen, dass sie von Dmitrij davon erfahren habe, wie sie ihn damals um das Geld für ihren Vater ersucht ‒ und sich dadurch käuflich gemacht habe.
+
+Aljoscha und die zwei herbeigeeilten Tanten können verhindern, dass sich Katarina Iwanowna auf Gruschenka stürzt. Gruschenka fordert beim Verlassen der Szene Aljoscha auf, ihr zu folgen, was er ablehnt.
+
+Katarina Iwanowna bittet ihn, morgen erneut bei ihm vorbeizukommen. Als er sich bereits entfernt, wird ihm noch ein Brief von der Chochlakowa überreicht.
+
