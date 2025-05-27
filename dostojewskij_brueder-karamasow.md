@@ -300,3 +300,13 @@ Aljoscha und die zwei herbeigeeilten Tanten können verhindern, dass sich Katari
 
 Katarina Iwanowna bittet ihn, morgen erneut bei ihm vorbeizukommen. Als er sich bereits entfernt, wird ihm noch ein Brief von der Chochlakowa überreicht.
 
+### XI) Noch ein ruinierter guter Ruf
+
+Auf dem Weg zum Kloster lauert Dmitrij Aljoscha auf. Aljoscha schildert ihm, was sich bei Katarina Iwanowna zugetragen hat. Dmitrij glaubt, dass Katarina Iwanowna in ihrem Hochmut glaubte, sich gegen Gruschenka durchsetzen zu können, aber dann selber ihrem Zauber erlegen sei.
+
+Dmitrij erinnert sich nun daran, wie er Gruschenka von der Demütigung Katarina Iwanownas erzählt hat. Er verabschiedet sich von Aljoscha, wobei er eine "noch grössere Schändlichkeit" ankündigt, die in seiner Brust reife.
+
+Im Kloster geht Aljoscha zur Einsiedelei, wo es dem Starez immer schlechter geht, sodass das abendliche Beichtgespräch mit den Mönchen in seiner Zelle ausfällt. Entgegen seinem Versprechen, am nächsten Tag verschiedene Leute zu besuchen, will Aljoscha nun nicht mehr vom Starez weichen, da dieser offenbar im Sterben liegt.
+
+Bei seinem Gebet erinnert sich Aljoscha an den Brief, der ihm vorher überreicht worden ist: Darin gesteht Lise Chochlakowa ihm seine Liebe, und dass sie ihn heiraten wolle, sobald sie volljährig und vollständig genesen sei.
+
