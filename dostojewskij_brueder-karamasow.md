@@ -310,3 +310,19 @@ Im Kloster geht Aljoscha zur Einsiedelei, wo es dem Starez immer schlechter geht
 
 Bei seinem Gebet erinnert sich Aljoscha an den Brief, der ihm vorher überreicht worden ist: Darin gesteht Lise Chochlakowa ihm seine Liebe, und dass sie ihn heiraten wolle, sobald sie volljährig und vollständig genesen sei.
 
+# Zweiter Teil
+
+## Viertes Buch: Nadryw
+
+### I) Vater Verapont
+
+Starez Sossima erwacht aus seinem Schlaf und möchte das Abendmahl empfangen, die Beichte ablegen sowie die letzte Ölung erhalten. Er spricht zu den Mönchen: Dadurch, dass sie hinter den Klostermauern lebten, seien sie nicht besser als die anderen; denn sie lebten nur im Kloster, weil sie ihre eigene Schlechtigkeit erkannt hätten.
+
+Aljoscha, der diese Rede später niederschreibt, wird wegen eines ankommenden Briefes der Chochlakowa herausgebeten. Darin schildert sie, wie der Sohn der Witwe Prochonowna, die sich vortags beim Starez wegen ihres Sohnes erkundigte, von dem sie schon lange auf ein Lebenszeichen warte, nun von sich habe hören lassen und auf dem Heimweg zu ihr sei ‒ genau wie es der Starez ihr gegenüer prophezeite! Aljoscha soll im Kloster von diesem "letzten Wunder" berichten. Dort verbreitet sich die Kunde davon schnell, sodass auch ein aus Obdorsk angereister Mönch davon erfährt.
+
+Dieser sucht im Kloster Vater Verapont auf, der als Einsiedler lebend als grosser Schweiger und Faster gilt, aber auch als der Gegenspieler des Starez Sossima und als Gegner des Starzentums insgesamt. Vater Verapont befragt den Mönch darüber, wie er es mit dem Fasten halte, und erzählt wie er bei seinem letzten Besuch beim Abt verschiedene Teufel erblickte, die sich an seinen Besuchern festhielten oder bei diesen unter dem Rock oder im Bauch Unterschlupf gefunden hätten.
+
+Einem sich hinter einer Tür versteckenden Teufel habe er den Schwanz in der Tür eingeklemmt, sodass dieser zugrunde ging und dort verweste, was die anderen im Kloster aber weder sehen noch riechen könnten. Der heilige Geist komme als sprechenden Vogel zu ihm, und Christus zeige sich ihm in einer Ulme, mit deren Ästen er nach ihm greife, um ihn zu sich zu holen.
+
+Starez Sossima erinnert Aljoscha an seine Pflicht, die Leute in der Stadt aufzusuchen, denen er seinen Besuch versprochen hat. Bei seiner Rückkehr werde er ihm ein letztes Wort sagen, das er als sein Vermächtnis empfangen soll. Der Aljoscha gegenüber bisher immer streng und schroff auftretende Vater Paissij gibt ihm auch noch einige belehrende Worte mit auf den Weg, und Aljoscha spürt in ihm einen neuen Freund gefunden zu haben.
+
