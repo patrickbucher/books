@@ -326,3 +326,13 @@ Einem sich hinter einer Tür versteckenden Teufel habe er den Schwanz in der Tü
 
 Starez Sossima erinnert Aljoscha an seine Pflicht, die Leute in der Stadt aufzusuchen, denen er seinen Besuch versprochen hat. Bei seiner Rückkehr werde er ihm ein letztes Wort sagen, das er als sein Vermächtnis empfangen soll. Der Aljoscha gegenüber bisher immer streng und schroff auftretende Vater Paissij gibt ihm auch noch einige belehrende Worte mit auf den Weg, und Aljoscha spürt in ihm einen neuen Freund gefunden zu haben.
 
+### II) Bei Vater
+
+Aljoscha besucht seinen Vater, der alleine im Hause ist: Smerdjakow tätigt Einkäufe, Iwan ist ausgegangen und Grigorij liegt krank im Bett. Fjodor Pawlowitsch ist an Stirn und Nase sichtlich gezeichnet und schlechter Laune.
+
+Er will seinen Söhnen nichts vererben, sondern das Geld für seinen Sündenpfuhl durchbringen. Iwan hält er für einen Angeber, der Dmitrij die Braut ausspannen wolle. Dmitrij will er aber für die Schläge vom Vortag nicht verklagen, da ansonsten Gruschenka zu ihm halten würde.
+
+Iwan bleibe nur hier, um auszuspionieren, wie viel Geld Fjodor Pawlowitsch Gruschenka geben wolle. Er spielt mit dem Gedanken, Dmitrij eine Summe von ein- oder zweitausend Rubel auszubezahlen, auf dass er weggehe, verwirft jedoch den Gedanken, nachdem Aljoscha die dafür notwendige Summe auf dreitausend Rubel einschätzt.
+
+Er schickt Aljoscha weg um sich auszuruhen; doch er solle ihn morgen erneut besuchen.
+
