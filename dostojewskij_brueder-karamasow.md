@@ -336,3 +336,13 @@ Iwan bleibe nur hier, um auszuspionieren, wie viel Geld Fjodor Pawlowitsch Grusc
 
 Er schickt Aljoscha weg um sich auszuruhen; doch er solle ihn morgen erneut besuchen.
 
+### III) Er lässt sich mit Schuljungen ein
+
+Auf dem Weg zur Chochlakowa fällt Aljoscha eine Gruppe von Schuljungen auf, die alle Steine in der Hand halten. Auf der gegenüberliegenden Seite des Kanals steht ein einzelner Schuljunge, ebenfalls mit einem Stein bewaffnet, den er nun auf die Gruppe der Jungen wirft. Die Jungen werfen nun Steine zu ihm, sodass bald Steine in beide Richtungen fliegen.
+
+Aljoscha wird dabei an der Schulter getroffen. Die Jungen erkennen ihn als einen Karamasow und weisen ihn darauf hin, dass der andere Junge auf ihn ziele. Aljoscha gelingt es, den Schusswechsel zu stoppen und will zum anderen Jungen herübergehen, wovor die anderen ihn jedoch warnen.
+
+Der Junge ist klein, schmächtig und sehr ärmlich gekleidet. Auf Aljoschas Nachfrage reagiert der Junge nur mit Provokationen, sodass Aljoscha sich bald von ihm abwendet. Da wirft der Junge ihm einen Stein in den Rücken. Doch da der vom Jungen erwartete Angriff von Aljoscha ausbleibt, greift der Junge ihn an und beisst ihn in den Finger, wodurch eine schmerzhafte, blutende Wunde entsteht.
+
+Aljoscha erkundigt sich darauf bloss bei ihm, was er ihm denn angetan habe. Doch der Junge gibt keine Antwort, sondern fängt an zu weinen und läuft davon. Aljoscha möchte später mehr über ihn herausfinden, muss aber nun weiter.
+
