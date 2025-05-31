@@ -346,3 +346,13 @@ Der Junge ist klein, schmächtig und sehr ärmlich gekleidet. Auf Aljoschas Nach
 
 Aljoscha erkundigt sich darauf bloss bei ihm, was er ihm denn angetan habe. Doch der Junge gibt keine Antwort, sondern fängt an zu weinen und läuft davon. Aljoscha möchte später mehr über ihn herausfinden, muss aber nun weiter.
 
+### IV) Bei Chochlakows
+
+Bei Chochlakows angekommen erkundigt sich die Hausherrin nach ihrem Brief über das sich gerade ereignete "Wunder". Aljoscha bestätigt, dass sich die Kunde davon im Kloster verbreitet habe ‒ und dass der Starez Sossima wohl noch am gleichen Tag sterben werde.
+
+Die Chochlakowa erzählt Aljoscha, wie Lise eine sehr unruhige Nacht verbracht und bei seiner Ankunft gar einen hysterischen Anfall erlitten habe. Im Salon sei Katarina Iwanowna mit seinem Bruder ‒ Iwan, nicht Dmitrij! Sie wisse nicht, ob sich dort eine Komödie oder Tragödie abspiele. Sie sei verliebt in Iwan, rede sich aber ein, Dmitrij zu lieben.
+
+Aljoscha unterbricht sie mit der Bitte, ihm ein sauberes Tuch für seine Wunde zu geben, worauf er von ihr und Lise sorgsam verarztet wird. Als Lise die Dienerin und ihre Mutter um Eis und Verbandsmeterial aus dem Zimmer schickt, verlangt sie von Aljoscha ihren gestrigen Brief zurück und bezeichnet ihre darin geschilderte Heiratsabsicht als dummen Spass. Aljoscha entgegnet, dass er den Brief nicht dabei habe und nicht an einen Spass glaube; der Starez habe von ihm verlangt, das Kloster nach seinem Ableben zu verlassen und zu heiraten, und darum wolle er sie zur gegebenen Zeit auch zur Frau nehmen.
+
+Ihrer zurückkehrenden Mutter erzält Lise, dass Aljoscha die Absicht habe zu heiraten, doch selber noch ein kleiner Junge und damit heiratsunfähig sei, zumal er sich selber mit kleinen Jungen einlasse, denn davon habe er seine Bisswunde davongezogen. Die Chochlakowa schickt ihre sichtlich erregte Tochter darauf auf ihr Zimmer, damit sie sich ausschlafe; Aljoscha bringt sie in den Salon.
+
