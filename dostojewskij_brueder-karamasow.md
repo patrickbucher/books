@@ -102,7 +102,7 @@ Eine junge Mutter, die nach wenigen Tagen zurückgekehrt ist, um nach dem kranke
 
 Der Starez wendet sich der herbeigereisten Chochlakowa zu, die sich bei ihm für die Heilung ihrer Tochter Lise bedankt. Zwar liegt sie immer noch im Krankensessel, ihre Fieberanfälle seien jedoch verschwunden und sie könne sogar wieder für kurze Zeit auf den Beinen stehen.
 
-Lise sieht die Ursache dafür in Aljoscha, der hinter dem Starez stehend ihren Blicken ausweichen will, die ihn verlegen machen. Sie überreicht ihm einen Brief, wonach er zu Katarina Iwanowna reisen soll; es betreffe seinen Bruder Dmitrij.
+Lise sieht die Ursache dafür in Aljoscha, der hinter dem Starez stehend ihren Blicken ausweichen will, die ihn verlegen machen. Sie überreicht ihm einen Brief, wonach er zu Katerina Iwanowna reisen soll; es betreffe seinen Bruder Dmitrij.
 
 Die Mutter Chochlakowa wendet sich an den Starez: Ihr seien Zweifel gekommen, was das Leben nach dem Tod betrifft. Sie wäre bereit dazu, als Schwester ins Kloster zu gehen, um sich um die Kranken zu kümmern. Der Starez weist sie zur tätigen Liebe an, die im Gegensatz zur schwärmerischen Liebe nicht der Erwartung auf sofortige Dankbarkeit entspringe, sondern Ausdauer verlange und undankbar sein könne.
 
@@ -156,9 +156,9 @@ Nachdem Alexej dem Starez ins Bett geholfen hat, soll er nicht bei ihm bleiben, 
 
 Auf dem Weg zum Abt trifft Alexej auf Rakitin, der den Kniefall des Starez vor Dmitrij dahingehend deutet, dass er einen Mord von Dmitrij an seinem Vater voraussagt. Die Karamasows seien Gottesnarren und Lüstlinge. Nun habe sich der Vater in die Gruschenka verliebt, die er auf Dmitrij ansetzte. Diese führe nun Vater und Sohn an der Nase herum.
 
-Iwan stelle gleichzeitig Dmitrijs Braut, der schönen Katarina Iwanowna, nach und sei an ihrer reichen Mitgift interessiert. Dmitrij stehe dem nicht im Wege, da er so seine Verlobung zu ihr auflösen und die Gruschenka ehelichen könne. Iwan sei ein niederträchtiger Mensch, was sich auch in seiner Theorie ‒ ohne Unsterblichkeit keine Tugend, also sei alles erlaubt ‒ äussere, welcher auch Dmitrij beipflichte.
+Iwan stelle gleichzeitig Dmitrijs Braut, der schönen Katerina Iwanowna, nach und sei an ihrer reichen Mitgift interessiert. Dmitrij stehe dem nicht im Wege, da er so seine Verlobung zu ihr auflösen und die Gruschenka ehelichen könne. Iwan sei ein niederträchtiger Mensch, was sich auch in seiner Theorie ‒ ohne Unsterblichkeit keine Tugend, also sei alles erlaubt ‒ äussere, welcher auch Dmitrij beipflichte.
 
-Alexej vermutet, dass Rakitin selber an Katarina Iwanowna interessiert sei. Rakitin will neulich, als er bei der Gruschenka im Schlafzimmer wartete, den im Nebenzimmer anwesenden Dmitrij belauscht haben. Dieser erzählte, wie Iwan neulich gegenüber Katarina Iwanowna ihm, Rakitin, eine unrühmliche Zukunft vorausgesagt habe.
+Alexej vermutet, dass Rakitin selber an Katerina Iwanowna interessiert sei. Rakitin will neulich, als er bei der Gruschenka im Schlafzimmer wartete, den im Nebenzimmer anwesenden Dmitrij belauscht haben. Dieser erzählte, wie Iwan neulich gegenüber Katerina Iwanowna ihm, Rakitin, eine unrühmliche Zukunft vorausgesagt habe.
 
 Zum Ende des Gesprächs sehen die beiden, wie die Gäste des Abts aus dem Kloster davonstürmen. Offenbar hat das Essen durch einen Skandal vorzeitig geendet.
 
@@ -204,9 +204,9 @@ Dieser Pawel Fjodorowitsch Smerdjakow wird der zweite Diener im Haus Karamasow u
 
 ### III) Die Beichte eines heissen Herzens. In Versen
 
-Mit einer gewissen Bedrücktheit entschliesst sich Aljoscha, seinen Vater und ‒ ihrer Aufforderung nachkommend ‒ Katarina Iwanowna aufzusuchen. Eine Abkürzung nehmend trifft er zufällig auf Dmitrij, der in einem fremden Garten einem Geheimnis nachspüre.
+Mit einer gewissen Bedrücktheit entschliesst sich Aljoscha, seinen Vater und ‒ ihrer Aufforderung nachkommend ‒ Katerina Iwanowna aufzusuchen. Eine Abkürzung nehmend trifft er zufällig auf Dmitrij, der in einem fremden Garten einem Geheimnis nachspüre.
 
-Der angetrunkene Dmitrij erzählt Aljoscha, dass er sich in eine "Gemeine" verliebt abe und erledigt sei. Er ist dankbar für den Zufall, dass Aljoschas Weg zu Katarina Iwanowna und zu seinem Vater durch die gewählte Abkürzung zu ihm führte, denn Aljoscha soll bei Katarina Iwanowna und beim Vater für ihn ein Ende setzen, wozu er einen Engel vorbeischicken wolle.
+Der angetrunkene Dmitrij erzählt Aljoscha, dass er sich in eine "Gemeine" verliebt abe und erledigt sei. Er ist dankbar für den Zufall, dass Aljoschas Weg zu Katerina Iwanowna und zu seinem Vater durch die gewählte Abkürzung zu ihm führte, denn Aljoscha soll bei Katerina Iwanowna und beim Vater für ihn ein Ende setzen, wozu er einen Engel vorbeischicken wolle.
 
 Aljoscha hört ihm geduldig zu, während Dmitrij Schillers _Ode an die Freude_ rezitierend ihm sein Herz ausschüttet.
 
@@ -214,29 +214,29 @@ Aljoscha hört ihm geduldig zu, während Dmitrij Schillers _Ode an die Freude_ r
 
 Dmitrij erzählt Aljoscha von seinen Frauengeschichten, bestreitet aber den Vorwurf seines Vaters, dafür tausende von Rubel verjubelt zu haben.
 
-Sein Vorgesetzter ‒ ein Oberst, zu dem sein Verhältnis zerrüttet ist ‒ hat zwei Töchter aus zwei Ehen, die er beide ohne Mitgift geschlossen hat: die ältere, etwas einfältige aber sehr reizende Agafja Iwanowna und die jüngere, gebildete, sehr hübsche und heiss umschwärmte Katarina Iwanowna. Zur ersten hat Dmitrij ein freundschaftliches Verhältnis, doch die zweite würdigt ihn keines Blickes ‒ sehr zu seiner Kränkung.
+Sein Vorgesetzter ‒ ein Oberst, zu dem sein Verhältnis zerrüttet ist ‒ hat zwei Töchter aus zwei Ehen, die er beide ohne Mitgift geschlossen hat: die ältere, etwas einfältige aber sehr reizende Agafja Iwanowna und die jüngere, gebildete, sehr hübsche und heiss umschwärmte Katerina Iwanowna. Zur ersten hat Dmitrij ein freundschaftliches Verhältnis, doch die zweite würdigt ihn keines Blickes ‒ sehr zu seiner Kränkung.
 
-Zu dieser Zeit schlägt Dmitrij das Erbe aus, wofür er mit sechstausend Rubel ausbezahlt wird. Er erfährt davon, dass man dem Obersten eine Falle stellen und ihn der Veruntreuung bezichtigen wolle. Dmitrij erzählt Agafja von dieser Verschwörung und bietet ihr an, die nötigen viertausendfündhundert Rubel auszulegen, damit ihr Vater seine Ehre retten könne. Agafja reagiert empört und will nichts davon wissen, doch Dmitrij ist sich sicher, dass sie ihrer Schwester Katarina davon erzählen wird.
+Zu dieser Zeit schlägt Dmitrij das Erbe aus, wofür er mit sechstausend Rubel ausbezahlt wird. Er erfährt davon, dass man dem Obersten eine Falle stellen und ihn der Veruntreuung bezichtigen wolle. Dmitrij erzählt Agafja von dieser Verschwörung und bietet ihr an, die nötigen viertausendfündhundert Rubel auszulegen, damit ihr Vater seine Ehre retten könne. Agafja reagiert empört und will nichts davon wissen, doch Dmitrij ist sich sicher, dass sie ihrer Schwester Katerina davon erzählen wird.
 
-Tatsächlich lässt der Kaufmann Trifonow, der bisher immer zuverlässige Revisor des Obersten, die ihm anvertraute Regimentskasse verschwinden und streitet ab, diese je in seine Obhut genommen zu haben. Der Oberst will sich darauf das Leben nehmen, was Katarina gerade noch verhindern kann.
+Tatsächlich lässt der Kaufmann Trifonow, der bisher immer zuverlässige Revisor des Obersten, die ihm anvertraute Regimentskasse verschwinden und streitet ab, diese je in seine Obhut genommen zu haben. Der Oberst will sich darauf das Leben nehmen, was Katerina gerade noch verhindern kann.
 
-Sie ersucht Dmitrij um die viertausendfündhundert Rubel. Dieser ringt zunächst mit dem Gedanken, sein Angebot gegenüber Agafja als einen Scherz preiszugeben, um sich so an Katarina für ihre Hochnäsigkeit ihm gegenüber zu rächen. Er kommt von diesem Gedanken ab, übergibt ihr einen Wechsel über fünftausend Ruben, worauf sie sich ihm zu Füssen wirft.
+Sie ersucht Dmitrij um die viertausendfündhundert Rubel. Dieser ringt zunächst mit dem Gedanken, sein Angebot gegenüber Agafja als einen Scherz preiszugeben, um sich so an Katerina für ihre Hochnäsigkeit ihm gegenüber zu rächen. Er kommt von diesem Gedanken ab, übergibt ihr einen Wechsel über fünftausend Ruben, worauf sie sich ihm zu Füssen wirft.
 
 ### V) Die Beichte eines heissen Herzens. "Kopfüber"
 
-Am darauffolgenden Tag erhält Dmitrij ohne weiteren Kommentar in einem Umschlag den Rest des Geldes von Katarina Iwanowna zurück. Der Oberst kann die viertausendfündhundert Rubel der Regimentskasse vollständig zurückgeben, stirbt aber bald darauf und wird mit militärischen Ehren beigesetzt.
+Am darauffolgenden Tag erhält Dmitrij ohne weiteren Kommentar in einem Umschlag den Rest des Geldes von Katerina Iwanowna zurück. Der Oberst kann die viertausendfündhundert Rubel der Regimentskasse vollständig zurückgeben, stirbt aber bald darauf und wird mit militärischen Ehren beigesetzt.
 
-Katarina Iwanowna fährt mit ihrer Schwester Agafja und ihrer Tante nach Moskau und schreibt Dmitrij, dass sie sich bei ihm melden werde. Durch Todesfälle in ihrer Verwandtschaft fällt ihr unverhofft ein grosses Erbe zu, wovon sie sogleich achtzigtausend Rubel als Mitgift erhält.
+Katerina Iwanowna fährt mit ihrer Schwester Agafja und ihrer Tante nach Moskau und schreibt Dmitrij, dass sie sich bei ihm melden werde. Durch Todesfälle in ihrer Verwandtschaft fällt ihr unverhofft ein grosses Erbe zu, wovon sie sogleich achtzigtausend Rubel als Mitgift erhält.
 
 Sie lässt Dmitrij die viertausendfündhundert Rubel zukommen und bietet sich ihm brieflich unterwürfig als seine Braut an. Dmitrij lässt ihr über Iwan einen Brief zukommen, worin er sich als unwürdiger, bettelarmer Grobian bezeichnet. So kommt es, dass Iwan sich in sie verliebt.
 
-Dmitrij hält Iwan für den würdigeren Bräutigam und kann nachvollziehen, von welchem Hass dieser nun erfüllt sein müsse, hat doch Katarina Iwanowna ihm einen Lump wie Dmitrij vorgezogen. Zwar ist es in Moskau zu einer feierlichen Verlobung zwischen Katarina Iwanowna und Dmitrij gekommen, und er gelobte ihr, sich zu bessern. Doch nun will Dmitrij diese Verlobung wieder auflösen und zu diesem Zweck Aljoscha zu ihr schicken.
+Dmitrij hält Iwan für den würdigeren Bräutigam und kann nachvollziehen, von welchem Hass dieser nun erfüllt sein müsse, hat doch Katerina Iwanowna ihm einen Lump wie Dmitrij vorgezogen. Zwar ist es in Moskau zu einer feierlichen Verlobung zwischen Katerina Iwanowna und Dmitrij gekommen, und er gelobte ihr, sich zu bessern. Doch nun will Dmitrij diese Verlobung wieder auflösen und zu diesem Zweck Aljoscha zu ihr schicken.
 
-Er selber wolle zu Gruschenka gehen und sie heiraten. Von Katarina seien ihm dreitausend Rubel anvertraut worden, die er ihrer Schwester Agafja hätte zukommen lassen sollen. Stattdessen verjubelte er diese für Gruschenka. Aljoscha soll nun beim Vater um diese Summe bitten, damit er diese Katarina Iwanowna wenigstens zurückbezahlen könne.
+Er selber wolle zu Gruschenka gehen und sie heiraten. Von Katerina seien ihm dreitausend Rubel anvertraut worden, die er ihrer Schwester Agafja hätte zukommen lassen sollen. Stattdessen verjubelte er diese für Gruschenka. Aljoscha soll nun beim Vater um diese Summe bitten, damit er diese Katerina Iwanowna wenigstens zurückbezahlen könne.
 
 Dmitrij ist sich sicher, dass sein Vater ihm nichts geben werde ‒ aber von Smerdjakow wisse er auch, dass sein Vater ein für Gruschenka bestimmtes Couvert mit dreitausend Rubel bereithalte, damit sie ihn heirate. Nun lauert Dmitrij Gruschenka auf, um sie auf dem Weg zum Vater abzufangen.
 
-Der Vater wolle Iwan unter einem gechäftlichem Vorwand ausser Haus schicken, damit er sie nicht zu sehen bekomme. Dmitrij glaubt an ein Wunder: noch heute solle Aljoscha mit den dreitausend Rubel zu Katarina Iwanowna gehen. Und falls Gruschenka doch noch heute beim Vater auftauchen werde, wolle Dmitrij ihn notfalls ermorden.
+Der Vater wolle Iwan unter einem gechäftlichem Vorwand ausser Haus schicken, damit er sie nicht zu sehen bekomme. Dmitrij glaubt an ein Wunder: noch heute solle Aljoscha mit den dreitausend Rubel zu Katerina Iwanowna gehen. Und falls Gruschenka doch noch heute beim Vater auftauchen werde, wolle Dmitrij ihn notfalls ermorden.
 
 ### VI) Smerdjakow
 
@@ -278,7 +278,7 @@ Dieser vermutet hinter einer Tür, die Grigorij bei seinem Eintritt verschliesst
 
 Fjodor Pawlowitsch stürzt darauf Dmitrij nach, um ihn davon abzuhalten, in seinem Schlafzimmer die dreitausend Rubel von ihm zu stehlen. Dort bringt Dmitrij ihn zu Boden und traktiert ihn mit Tritten. Seine Brüder können ihn gemeinsam von ihrem Vater losbringen, sodass dieser mit kleineren Verletzungen davonkommt.
 
-Nun will Dmitrij zu Gruschenka gehen; Aljoscha soll Katarina Iwanowna besuchen, um ihr Dmitrijs Abschied mitzuteilen; das Geld soll er nicht erwähnen, ihr jedoch die vergangene Szene schildern.
+Nun will Dmitrij zu Gruschenka gehen; Aljoscha soll Katerina Iwanowna besuchen, um ihr Dmitrijs Abschied mitzuteilen; das Geld soll er nicht erwähnen, ihr jedoch die vergangene Szene schildern.
 
 Sich im Bett erholend glaubt Fjodor Pawlowitsch weiterhin, dass Gruschenka da gewesen sei, was ihm Aljoscha jedoch bald austreiben kann. Aljoscha soll ihn morgen unbedingt besuchen kommen. Er darf aber ins Kloster zurückkehren und auch die Ikone seiner verstorbenen Mutter mitnehmen.
 
@@ -286,25 +286,25 @@ Iwan versteht nun den Konflikt zwischen Dmitrij und seinem Vater. Aljoscha gegen
 
 ### X) Beide zusammen
 
-Bedrückt vom Erlebten und dem sich für Dmitrij abzeichnenden schlechten Ausgang der Geschichte begibt sich Aljoscha zu Katarina Iwanowna. Diese trifft er in freudiger Erregung an; sie wolle die ganze Wahrheit von ihm erfahren.
+Bedrückt vom Erlebten und dem sich für Dmitrij abzeichnenden schlechten Ausgang der Geschichte begibt sich Aljoscha zu Katerina Iwanowna. Diese trifft er in freudiger Erregung an; sie wolle die ganze Wahrheit von ihm erfahren.
 
-Aljoscha richtet ihr aus, dass Dmitrij "sich empfehlen" lasse und auf diesen genauen Wortlaut bestanden habe. Katarina Iwanowna ist zunächst bestürzt, ahnt aber eine Verzweiflung hinter dieser Mitteilung ‒ und schöpft dadurch sogleich Hoffnung. Über die veruntreuten dreitausend Rubel wisse sie bescheid, doch solle sich Dmitrij deswegen vor ihr nicht schämen.
+Aljoscha richtet ihr aus, dass Dmitrij "sich empfehlen" lasse und auf diesen genauen Wortlaut bestanden habe. Katerina Iwanowna ist zunächst bestürzt, ahnt aber eine Verzweiflung hinter dieser Mitteilung ‒ und schöpft dadurch sogleich Hoffnung. Über die veruntreuten dreitausend Rubel wisse sie bescheid, doch solle sich Dmitrij deswegen vor ihr nicht schämen.
 
-Aljoscha berichtet ihr vom Vorfall vorhin beim Vater und von Dmitrijs Absicht, Gruschenka heiraten zu wollen. Doch Katarina Iwanowna zeigt sich überzeugt davon, dass dies nicht passieren werde ‒ und bittet Gruschenka aus dem Nebenzimmer, in das sie sich bei Aljoschas Eintreten zurückgezogen hat, herein.
+Aljoscha berichtet ihr vom Vorfall vorhin beim Vater und von Dmitrijs Absicht, Gruschenka heiraten zu wollen. Doch Katerina Iwanowna zeigt sich überzeugt davon, dass dies nicht passieren werde ‒ und bittet Gruschenka aus dem Nebenzimmer, in das sie sich bei Aljoschas Eintreten zurückgezogen hat, herein.
 
-Verzückt von der schönen zweiundzwanzigjährigen Gruschenka erzählt Katarina Iwanowna, dass deren frühere Liebe, ein Offizier, mittlerweile verwitwet und auf dem Weg zu ihr sei, um sie zu heiraten. Sie liebe nur ihn und habe Katarina Iwanowna versprochen, diesen Offizier und nicht Dmitrij zu heiraten.
+Verzückt von der schönen zweiundzwanzigjährigen Gruschenka erzählt Katerina Iwanowna, dass deren frühere Liebe, ein Offizier, mittlerweile verwitwet und auf dem Weg zu ihr sei, um sie zu heiraten. Sie liebe nur ihn und habe Katerina Iwanowna versprochen, diesen Offizier und nicht Dmitrij zu heiraten.
 
-Doch diese will plötzlich nichts mehr von ihrem vorherigen Versprechen wissen, denn sie tue nur das, worauf sie gerade Lust habe, und nun wolle sie vielleicht doch lieber Dmitrij heiraten. Gruschenka lässt Katarina Iwanowna auch wissen, dass sie von Dmitrij davon erfahren habe, wie sie ihn damals um das Geld für ihren Vater ersucht ‒ und sich dadurch käuflich gemacht habe.
+Doch diese will plötzlich nichts mehr von ihrem vorherigen Versprechen wissen, denn sie tue nur das, worauf sie gerade Lust habe, und nun wolle sie vielleicht doch lieber Dmitrij heiraten. Gruschenka lässt Katerina Iwanowna auch wissen, dass sie von Dmitrij davon erfahren habe, wie sie ihn damals um das Geld für ihren Vater ersucht ‒ und sich dadurch käuflich gemacht habe.
 
-Aljoscha und die zwei herbeigeeilten Tanten können verhindern, dass sich Katarina Iwanowna auf Gruschenka stürzt. Gruschenka fordert beim Verlassen der Szene Aljoscha auf, ihr zu folgen, was er ablehnt.
+Aljoscha und die zwei herbeigeeilten Tanten können verhindern, dass sich Katerina Iwanowna auf Gruschenka stürzt. Gruschenka fordert beim Verlassen der Szene Aljoscha auf, ihr zu folgen, was er ablehnt.
 
-Katarina Iwanowna bittet ihn, morgen erneut bei ihm vorbeizukommen. Als er sich bereits entfernt, wird ihm noch ein Brief von der Chochlakowa überreicht.
+Katerina Iwanowna bittet ihn, morgen erneut bei ihm vorbeizukommen. Als er sich bereits entfernt, wird ihm noch ein Brief von der Chochlakowa überreicht.
 
 ### XI) Noch ein ruinierter guter Ruf
 
-Auf dem Weg zum Kloster lauert Dmitrij Aljoscha auf. Aljoscha schildert ihm, was sich bei Katarina Iwanowna zugetragen hat. Dmitrij glaubt, dass Katarina Iwanowna in ihrem Hochmut glaubte, sich gegen Gruschenka durchsetzen zu können, aber dann selber ihrem Zauber erlegen sei.
+Auf dem Weg zum Kloster lauert Dmitrij Aljoscha auf. Aljoscha schildert ihm, was sich bei Katerina Iwanowna zugetragen hat. Dmitrij glaubt, dass Katerina Iwanowna in ihrem Hochmut glaubte, sich gegen Gruschenka durchsetzen zu können, aber dann selber ihrem Zauber erlegen sei.
 
-Dmitrij erinnert sich nun daran, wie er Gruschenka von der Demütigung Katarina Iwanownas erzählt hat. Er verabschiedet sich von Aljoscha, wobei er eine "noch grössere Schändlichkeit" ankündigt, die in seiner Brust reife.
+Dmitrij erinnert sich nun daran, wie er Gruschenka von der Demütigung Katerina Iwanownas erzählt hat. Er verabschiedet sich von Aljoscha, wobei er eine "noch grössere Schändlichkeit" ankündigt, die in seiner Brust reife.
 
 Im Kloster geht Aljoscha zur Einsiedelei, wo es dem Starez immer schlechter geht, sodass das abendliche Beichtgespräch mit den Mönchen in seiner Zelle ausfällt. Entgegen seinem Versprechen, am nächsten Tag verschiedene Leute zu besuchen, will Aljoscha nun nicht mehr vom Starez weichen, da dieser offenbar im Sterben liegt.
 
@@ -326,7 +326,7 @@ Einem sich hinter einer Tür versteckenden Teufel habe er den Schwanz in der Tü
 
 Starez Sossima erinnert Aljoscha an seine Pflicht, die Leute in der Stadt aufzusuchen, denen er seinen Besuch versprochen hat. Bei seiner Rückkehr werde er ihm ein letztes Wort sagen, das er als sein Vermächtnis empfangen soll. Der Aljoscha gegenüber bisher immer streng und schroff auftretende Vater Paissij gibt ihm auch noch einige belehrende Worte mit auf den Weg, und Aljoscha spürt in ihm einen neuen Freund gefunden zu haben.
 
-### II) Bei Vater
+### II) Beim Vater
 
 Aljoscha besucht seinen Vater, der alleine im Hause ist: Smerdjakow tätigt Einkäufe, Iwan ist ausgegangen und Grigorij liegt krank im Bett. Fjodor Pawlowitsch ist an Stirn und Nase sichtlich gezeichnet und schlechter Laune.
 
@@ -350,7 +350,7 @@ Aljoscha erkundigt sich darauf bloss bei ihm, was er ihm denn angetan habe. Doch
 
 Bei Chochlakows angekommen erkundigt sich die Hausherrin nach ihrem Brief über das sich gerade ereignete "Wunder". Aljoscha bestätigt, dass sich die Kunde davon im Kloster verbreitet habe ‒ und dass der Starez Sossima wohl noch am gleichen Tag sterben werde.
 
-Die Chochlakowa erzählt Aljoscha, wie Lise eine sehr unruhige Nacht verbracht und bei seiner Ankunft gar einen hysterischen Anfall erlitten habe. Im Salon sei Katarina Iwanowna mit seinem Bruder ‒ Iwan, nicht Dmitrij! Sie wisse nicht, ob sich dort eine Komödie oder Tragödie abspiele. Sie sei verliebt in Iwan, rede sich aber ein, Dmitrij zu lieben.
+Die Chochlakowa erzählt Aljoscha, wie Lise eine sehr unruhige Nacht verbracht und bei seiner Ankunft gar einen hysterischen Anfall erlitten habe. Im Salon sei Katerina Iwanowna mit seinem Bruder ‒ Iwan, nicht Dmitrij! Sie wisse nicht, ob sich dort eine Komödie oder Tragödie abspiele. Sie sei verliebt in Iwan, rede sich aber ein, Dmitrij zu lieben.
 
 Aljoscha unterbricht sie mit der Bitte, ihm ein sauberes Tuch für seine Wunde zu geben, worauf er von ihr und Lise sorgsam verarztet wird. Als Lise die Dienerin und ihre Mutter um Eis und Verbandsmeterial aus dem Zimmer schickt, verlangt sie von Aljoscha ihren gestrigen Brief zurück und bezeichnet ihre darin geschilderte Heiratsabsicht als dummen Spass. Aljoscha entgegnet, dass er den Brief nicht dabei habe und nicht an einen Spass glaube; der Starez habe von ihm verlangt, das Kloster nach seinem Ableben zu verlassen und zu heiraten, und darum wolle er sie zur gegebenen Zeit auch zur Frau nehmen.
 
