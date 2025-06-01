@@ -60,7 +60,7 @@ Das Starzentum ist in Russland lange in Vergessenheit geraten, kommt aber wieder
 
 Aljoscha lebt in der Zelle des mittlerweilen fünfundsechzigjährigen, krank und schwach gewordenen Starez Sossima, der in seiner Jugend als Offizier im Kaukasus diente. Anfänglich verunsicherte Besucher zeigen sich durch die ans Hellseherische grenzende Auffassungsgabe des heiter wirkenden Starez erstaunt und gehen stets erleichtert von ihm weg. Die Leute pilgern aus ganz Russland zu ihm, und nach seinem Tod werde das sonst nicht gerade ruhmreiche Kloster in einem besseren Licht dastehen.
 
-Mit seinem Halbbruder Dmitrij freundet sich Aljosche schneller an als mit seinem leiblichen Bruder Iwan, der ihn eher ignoriert. Aljoscha glaubt, dass Iwan ‒ ein sehr gebildeter Atheist ‒ ihn als Novizen verachte. Der wenig gebildete Dmitrij hat hohe Achtung vor Iwan; die beiden finden trotz ihrer Charakterunterschiede schnell ein enges Verhältnis zueinander.
+Mit seinem Halbbruder Dmitrij freundet sich Aljoscha schneller an als mit seinem leiblichen Bruder Iwan, der ihn eher ignoriert. Aljoscha glaubt, dass Iwan ‒ ein sehr gebildeter Atheist ‒ ihn als Novizen verachte. Der wenig gebildete Dmitrij hat hohe Achtung vor Iwan; die beiden finden trotz ihrer Charakterunterschiede schnell ein enges Verhältnis zueinander.
 
 Als die Streitigkeiten um das Vermögen in der Familie Karamasow nicht geschlichtet werden können, will man hierzu den Starez Sossima um Rat aufsuchen. Auch Pjotr Alexandrowitsch Miussow möchte am Gespräch teilnehmen um einen mit dem Kloster laufenden Rechtsstreit gützlich beizulegen. Aljoscha ist das anstehende Treffen unangenehm, denn er zweifeld an den Motiven seiner Familienangehörigen. Immerhin versichert ihm Dmitrij, dass er dem Starez mit der nötigen Hochachtung entgegentreten werde.
 
@@ -355,4 +355,20 @@ Die Chochlakowa erzählt Aljoscha, wie Lise eine sehr unruhige Nacht verbracht u
 Aljoscha unterbricht sie mit der Bitte, ihm ein sauberes Tuch für seine Wunde zu geben, worauf er von ihr und Lise sorgsam verarztet wird. Als Lise die Dienerin und ihre Mutter um Eis und Verbandsmeterial aus dem Zimmer schickt, verlangt sie von Aljoscha ihren gestrigen Brief zurück und bezeichnet ihre darin geschilderte Heiratsabsicht als dummen Spass. Aljoscha entgegnet, dass er den Brief nicht dabei habe und nicht an einen Spass glaube; der Starez habe von ihm verlangt, das Kloster nach seinem Ableben zu verlassen und zu heiraten, und darum wolle er sie zur gegebenen Zeit auch zur Frau nehmen.
 
 Ihrer zurückkehrenden Mutter erzält Lise, dass Aljoscha die Absicht habe zu heiraten, doch selber noch ein kleiner Junge und damit heiratsunfähig sei, zumal er sich selber mit kleinen Jungen einlasse, denn davon habe er seine Bisswunde davongezogen. Die Chochlakowa schickt ihre sichtlich erregte Tochter darauf auf ihr Zimmer, damit sie sich ausschlafe; Aljoscha bringt sie in den Salon.
+
+### V) Nadryw im Salon
+
+Bedrückt vom Gedanken, dass Katerina Iwanowna doch Iwan und nicht Dmitrij ‒ oder gar keinen der beiden ‒ lieben könnte, betritt Aljoscha den Salon.
+
+Katerina Iwanowna verkündet ihren Beschluss: Sie wolle stets zu Dmitrij halten; selbst wenn er Gruschenka heirate, wolle sie ihn immerhin wie eine Schwester lieben. Er solle sehen, wie treu sie ihm sei, auch wenn er selber untreu war. Iwan heisse diesen Beschluss gut, was dieser bestätigt: Sie spreche aufrichtig, wenn auch diese Rede aus dem Mund einer jeder anderen Frau unglaubwürdig wirkte.
+
+Über Iwans angekündigte Reise nach Moskau gibt sie sich höchst erfreut; nicht wegen seiner Abwesenheit, die sie natürlich bedauere, sondern über die sich daraus ergebende Möglichkeit zu einem Besuch Iwans bei ihren Tanten, wo er für sie um Rat fragen könne.
+
+Zögernd äussert Aljoscha den Verdacht, dass Katerina Iwanowna eine Komödie spiele und Dmitrij so wenig liebe wie er sie. Diese Liebe habe sie sich nur eingeredet und quäle nun Iwan damit. Iwan entgegnet: Sie liebe ihn nicht, sondern behalte ihn nur in ihrer Nähe, damit sie sich an ihm für die durch Dmitrij erlittenen Kränkungen rächen könne. Solange sie zum untreuen Dmitrij halte, könne sie stolz die Heldin spielen. Sie habe ihn bewusst gequält, was er ihr jetzt nicht, aber vielleicht später einmal verzeihen könne. Darum verabschiede er sich nun für immer von ihr.
+
+Aljoscha bedauert nun seine Rede, wodurch er alles nur schlimmer gemacht habe. Doch die Chochlakowa muntert ihn auf, denn er habe wunderbar gesprochen; sie wolle die Abreise von Iwan schon verhindern.
+
+Katerina Iwanowna übergibt Aljoscha zweihundert Rubel, die er dem Stabskapität Snegirjow, den Dmitrij neulich in aller Öffentlichkeit durchprügelte, in aller Diskretion zukommen lassen solle: nicht um ihn zu beschwichtigen und um damit eine Klage gegen Dmitrij zu verhindern, sondern aus reinem Mitgefühl mit ihm und seiner verarmten Familie.
+
+Vor seinem Abschied verrät die Chochlakowa Aljoscha, dass sich alle in ihrem Haus darüber freuten, würde Katerina Iwanowna nicht Dmitrij sondern Iwan heiraten. Aljoscha schämt sich nun noch mehr für seine Rede, worauf die Chochlakowa ihm entgegnet, dass er wie ein Engel gesprochen habe. Katarina Iwanowna erleide derweil einen hysterischen Anfall, was die Chochlakowa für ein gutes Zeichen hält.
 
