@@ -368,7 +368,21 @@ Zögernd äussert Aljoscha den Verdacht, dass Katerina Iwanowna eine Komödie sp
 
 Aljoscha bedauert nun seine Rede, wodurch er alles nur schlimmer gemacht habe. Doch die Chochlakowa muntert ihn auf, denn er habe wunderbar gesprochen; sie wolle die Abreise von Iwan schon verhindern.
 
-Katerina Iwanowna übergibt Aljoscha zweihundert Rubel, die er dem Stabskapität Snegirjow, den Dmitrij neulich in aller Öffentlichkeit durchprügelte, in aller Diskretion zukommen lassen solle: nicht um ihn zu beschwichtigen und um damit eine Klage gegen Dmitrij zu verhindern, sondern aus reinem Mitgefühl mit ihm und seiner verarmten Familie.
+Katerina Iwanowna übergibt Aljoscha zweihundert Rubel, die er dem Stabskapitän Snegirjow, den Dmitrij neulich in aller Öffentlichkeit durchprügelte, in aller Diskretion zukommen lassen solle: nicht um ihn zu beschwichtigen und um damit eine Klage gegen Dmitrij zu verhindern, sondern aus reinem Mitgefühl mit ihm und seiner verarmten Familie.
 
 Vor seinem Abschied verrät die Chochlakowa Aljoscha, dass sich alle in ihrem Haus darüber freuten, würde Katerina Iwanowna nicht Dmitrij sondern Iwan heiraten. Aljoscha schämt sich nun noch mehr für seine Rede, worauf die Chochlakowa ihm entgegnet, dass er wie ein Engel gesprochen habe. Katarina Iwanowna erleide derweil einen hysterischen Anfall, was die Chochlakowa für ein gutes Zeichen hält.
+
+### VI) Nadryw in der Bauernstube
+
+Aljoscha plagen Gewissensbisse wegen seiner vorherigen Äusserungen: Der Starez habe ihn geschickt um zu versöhnen, doch habe er stattdessen alles nur noch schlimmer gemacht.
+
+Der Weg zum Stabskapitän führt Aljoscha an der Wohnung Dmitrijs vorbei. Doch der ist nicht da, und seine Wirtsleute wollen nichts über seinen Verbleib wissen; er sei nämlich schon drei Tage ausgeblieben.
+
+Der Stabskapitän Snegirjow lebt in einer ärmlichen, heruntergekommenen und muffigen Bauernstube zusammen mit seiner Frau, zweien Töchtern und seinem Sohn, der sich als der Junge herausstellt, von dem Aljoscha zuvor in den Finger gebissen worden ist. (Der Junge war Zeuge, wie Dmitrij seinen Vater in aller Öffentlichkeit demütigte. Die anderen Jungen zogen ihn vorher mit dem Ausdruck "Bastwisch" auf; und tatsächlich erinnert Snegirjows Bart, an den ihn Dmitrij auf die Strasse gezogen haben soll, Aljoscha an einen Bastwisch.)
+
+Der Junge, der offenbar im Fieber liegt, glaubt, dass Aljoscha wegen des Vorfalls von vorhin bei ihnen vorbeigekommen sei. Nach Aljoschas Schilderung des Vorfalls redet Snegirjow davon, den Jungen durchprügeln und sich selber vier Finger zur Satisfaktion Aljoschas abzuschneiden.
+
+Aljoscha versteht, dass der Junge ihn als Dmitrijs Bruder erkannt und ihn deswegen in den Finger gebissen hat. Doch Dmitrij bereue seine Tat und sei dazu bereit, den Stabskapitän um Verzeihung zu bitten, wie Aljoscha ihm versichert.
+
+Snegirjows unterwürfiges und theatralisches Gerede macht seine Frau und Töchter wütend, worauf dieser die Unterredung mit Aljoscha nach draussen verschiebt.
 
