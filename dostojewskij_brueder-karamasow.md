@@ -386,3 +386,15 @@ Aljoscha versteht, dass der Junge ihn als Dmitrijs Bruder erkannt und ihn desweg
 
 Snegirjows unterwürfiges und theatralisches Gerede macht seine Frau und Töchter wütend, worauf dieser die Unterredung mit Aljoscha nach draussen verschiebt.
 
+### VII) Und an der frischen Luft
+
+Snegirjow erzählt vom Vorfall mit Dmitrij: Dieser habe ihn gerade zu der Zeit an seinem Bart auf die Strasse gezerrt, als gerade die Schuljungen unterwegs waren, wodurch sie die ganze Demütigung mitbekommen hätten. Dmitrij soll ihm ein Duell angeboten haben, doch das könne Snegirjow nicht riskieren, da seine Familie ohne sein Einkommen verloren sei.
+
+Dmitrij könne er nicht vors Gericht bringen, weil Gruschenka ihm drohte, in diesem Fall den Hintergrund der Geschichte publik zu machen, wodurch sein Ruf ruiniert wäre.
+
+Seinem Sohn, der von Rachegelüsten erfüllt ist, hat er versprochen, niemals Geld von Dmitrij anzunehmen. Gerne würden sie in eine andere Stadt umziehen, wozu ihnen jedoch das Geld fehle. Seinen Sohn will er für den Vorfall mit Aljoscha nicht züchtigen. Diesem würde es genügen, wenn Snegirjow ihn mit seinem Sohn aussöhnen könnte.
+
+Aljoscha übergibt ihm die zweihundert Rubel, die nicht etwa von Dmitrij, sondern von einer Frau stammten, die ebenfalls von seinem Bruder gekränkt worden sei. Snegirjow kann sein Glück kaum fassen, denn vom Geld könne er nicht nur seine Frau und seine kranke Tochter medizinisch versorgen, sondern die zweite Tochter ihr Studium in St. Petersburg wieder aufnehmen ‒ und die ganze Familie in eine andere Stadt ziehen, wo eine Stelle für Snegirjow frei sei.
+
+Doch da zerknüllt er die Scheine, tritt sie wutentbrannt und voller Stolz in den Sand: Aljoscha solle Katerina Iwanowna ausrichten, dass er seine Ehre nicht verkaufe. Dann stürzt er weinend davon. Aljoscha hebt die zerknitterten Geldscheine auf, um damit zurück zu Katerina Iwanowna zu gehen.
+
