@@ -398,3 +398,19 @@ Aljoscha übergibt ihm die zweihundert Rubel, die nicht etwa von Dmitrij, sonder
 
 Doch da zerknüllt er die Scheine, tritt sie wutentbrannt und voller Stolz in den Sand: Aljoscha solle Katerina Iwanowna ausrichten, dass er seine Ehre nicht verkaufe. Dann stürzt er weinend davon. Aljoscha hebt die zerknitterten Geldscheine auf, um damit zurück zu Katerina Iwanowna zu gehen.
 
+## Fünftes Buch: Pro und Kontra
+
+### I) Das Verlöbnis
+
+Bei Chochlakows angekommen, unterrichtet die Dame des Hauses Aljoscha über die neuesten Entwicklungen: Katerina Iwanowna sei nach ihrem hysterischen Anfall ohnmächtig geworden und liege nun im Fieber; ihre beiden Tanten seien bereits eingetroffen, auf den Arzt Herzenstube warte man jedoch noch.
+
+Aljoscha soll bei Lise warten und sie etwas aufheitern. Diese erkundigt sich, ob Snegirjow das Geld erhalten habe. Aljoscha erzählt ihr die Geschichte: Er habe das Geld nicht angenommen, denn einer gekränkten Seele falle es schwer, Wohltaten anzunehmen. Da er aber nun seinen Stolz unter Beweis gestellt habe, werde er das Geld am nächstn Tag gewiss annehmen, zumal er es dringend benötige.
+
+Lise gesteht Aljoscha, dass ihr Brief doch ernst gemeint war, worüber sich Aljoscha freut, auch wenn er darüber nicht überrascht ist. Vor und während dieses Gesprächs bittet Lise Aljoscha nachzuschauen, dass ihre Mutter die beiden auch nicht belausche. Aljoscha hielte das für eine Niedertracht, doch Lise findet, dass dies unter diesen Umständen berechtigt sei.
+
+Sie möchte Aljoscha, der sichtlich vom nahenden Tod des Starez und vom Konflikt zwischen seinen Brüdern mitgenommen ist, nicht länger aufhalten und verabschiedet sich von ihm.
+
+Dieser möchte das Haus verlassen, ohne sich von der Chochlakowa zu verabschieden, doch lauert sie ihm im Treppenhaus auf ‒ und hat offenbar alles mitbekommen. Sie hält die Liebeserklärung von Lise für eine Kinderei, und Aljoscha handle offenbar nur aus Mitleid. So wolle sie mit Lise verreisen. Doch Aljoscha besänftigt sie, dass es bis zur Eheschliessung noch lange dauern werde.
+
+Die Chochlakowa möchte unbedingt den Brief sehen, den Aljoscha (entgegen seiner früheren Behauptung gegenüber Lise) doch bei sich trägt und nicht im Kloster gelassen hat. Aljoscha verweigert dies und kehrt ins Kloster zurück.
+
