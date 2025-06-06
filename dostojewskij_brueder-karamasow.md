@@ -414,3 +414,13 @@ Dieser möchte das Haus verlassen, ohne sich von der Chochlakowa zu verabschiede
 
 Die Chochlakowa möchte unbedingt den Brief sehen, den Aljoscha (entgegen seiner früheren Behauptung gegenüber Lise) doch bei sich trägt und nicht im Kloster gelassen hat. Aljoscha verweigert dies und kehrt ins Kloster zurück.
 
+### II) Smerdjakow mit der Gitarre
+
+Bevor er ins Kloster zurückkehrt, möchte Aljoscha unbedingt Dmitrij sehen, denn er glaubt, eine sich abzeichnende Katastrophe noch verhindern zu können. Er lauert ihm in der Gartenlaube auf, in der er sich gestern mit ihm unterhalten hat.
+
+Auf einer nahegelegenen Bank hat sich Smerdjakow singend und Gitarre spielend niedergelassen. Bei ihm sitzt die Nachbarstochter, die offenbar sehr von ihm angetan ist. Smerdjakow äussert sich abschätzig über Gedichte, das russische Volk ‒ und Karamasows, besonders über Dmitrij.
+
+Nach diesem erkundigt sich nun Aljoscha bei ihm. Smerdjakow weiss nicht, wo Dmitrij ist, doch habe Iwan ihn heute morgen zu ihm geschickt, damit er ihn aufs Mittagessen ins Restaurant bestelle. Doch in seiner Wohnung sei er nicht anzutreffen gewesen, und seine Wirtsleute hätten gesagt, dass er bereits ausgegangen sei. Aljoscha solle aber niemandem sagen, dass er diese Information von ihm erhalten habe, denn Dmitrij habe ihm schon mehrmals gedroht, ihn umzubringen.
+
+Im Restaurant trifft Aljoscha Iwan alleine beim Mittagessen an.
+
