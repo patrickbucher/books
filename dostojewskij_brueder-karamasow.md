@@ -424,3 +424,17 @@ Nach diesem erkundigt sich nun Aljoscha bei ihm. Smerdjakow weiss nicht, wo Dmit
 
 Im Restaurant trifft Aljoscha Iwan alleine beim Mittagessen an.
 
+### III) Die Brüder lernen einander kennen
+
+Iwan freut sich darüber, vor seiner morgigen Abreise noch Aljoscha zu treffen, denn er wolle ihn nun endlich kennenlernen. Iwan meint, Aljoscha sei zwar noch ein kleiner Bube, stehe aber fest auf seinen Füssen. Aljoscha entgegnet, dass er Iwan nach der heutigen Szene bei Katerina Iwanowna noch für einen Grünschnabel halte.
+
+Iwan will seinen Lebensdurst stillen, bis er dreissig ist, und nach Europa reisen. Er erkundigt sich bei Aljoscha nach Dmitrij, doch dieser konnte auch nichts über seinen Verbleib herausfinden. Doch da die Sache mit Katerina Iwanowna nun erledigt sei, kümmere sich Iwan nicht weiter darum, wie es zwischen Dmitrij und seinem Vater ausgehe.
+
+Katarina Iwanowna habe ihm gefallen, doch sei es wohl keine Liebe gewesen, da es ihm schliesslich sehr leicht gefallen sei, mit ihr Schluss zu machen. Sie hingegen sei unfähig zu erkennen, dass sie Iwan liebe, und sich mit Dmitrij bloss selber quäle.
+
+Doch Iwan wolle sich nicht mehr darüber unterhalten, sondern über "die grossen Fragen", wie es eben alle jungen russischen Männer täten. Zwar habe er vortags die Existenz Gottes verneint, doch nur um Aljoscha damit zu necken. Tatsächlich nehme er hin, dass es Gott gebe. Ihm sei es egal, ob Gott die Menschheit erschaffen oder die Menschen Gott erfunden hätte.
+
+Habe Gott die Welt erschaffen, dann nach der euklidischen Geometrie, und den menschlichen Verstand nur mit der Vorstellung von drei Dimensionen. Da Spekulationen über eine nicht-euklidische Geometrie, nach der sich parallele Geraden in der Unendlichkeit schnitten, seinen Verstand überstiegen, würde er sich an noch höhere Fragen ‒ wie nach der Existenz Gottes ‒ nicht heranwagen. So nehme er Gott und seine für die Menschheit unergründlichen Ziele einfach als gegeben hin.
+
+Die Welt, die Gott geschaffen habe, wolle er hingegen nicht hinnehmen. Seine Rede habe er möglichst einfältig gehalten, denn der Verstand sei ein Schurke ‒ doch die Einfalt ehrlich. Aljoscha wünscht sich, dass Iwan sich erkläre, warum er die Welt nicht hinnehme, was dieser gerne tun wolle.
+
