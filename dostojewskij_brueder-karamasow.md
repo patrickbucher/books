@@ -438,3 +438,15 @@ Habe Gott die Welt erschaffen, dann nach der euklidischen Geometrie, und den men
 
 Die Welt, die Gott geschaffen habe, wolle er hingegen nicht hinnehmen. Seine Rede habe er möglichst einfältig gehalten, denn der Verstand sei ein Schurke ‒ doch die Einfalt ehrlich. Aljoscha wünscht sich, dass Iwan sich erkläre, warum er die Welt nicht hinnehme, was dieser gerne tun wolle.
 
+### IV) Die Revolte
+
+Iwan hält Nächstenliebe und Mitgefühl für unmöglich, da man den Menschen nicht lieben könne, wenn er sein wahres Gesicht zeige, und niemals im Stande sei zu wissen, wie sehr ein Anderer leide. Seinen Nächsten könne man nur abstrakt und aus der Ferne lieben, nicht konkret und in der Nähe.
+
+Er wolle über das Leiden der Kinder reden, denn diese seien liebenswert und noch unschuldig. Hierzu erzählt er verschiedene wahre Geschichten, in denen Kindern grosses Leid zugefügt worden ist: Von Türken, wie sie in Bulgarien Kinder unter den Augen ihrer Mütter umbrachten; von einem Jungen, der als uneheliches Kind geboren an Hirten verschenkt wird, die ihn verwahrlosen lassen, und er sich nach Erreichen des Erwachsenenalters davon macht, wegen Raubs und Totschlags zum Tode verurteilt wird, doch vor seiner Hinrichtung zum Christentum bekehrt werden kann, sodass man ihm mit der Gnade Gottes und als Bruder den Kopf abgeschlagen habe; von einem Vater, der wegen der Züchtigung seiner Tochter mit einer Rute vor Gericht landet ‒ und unter dem Beifall des Publikums freigesprochen wird; von einem Elternpaar, das seine Tochter schwer misshandelt und bei Frost über Nacht im Abort einsperrt; und schliesslich von einem General, der einen Achtjährigen vor den Augen seiner Mutter von seinen Hetzhunden zerfleischen liess, weil dieser seinen Lieblingshund mit einem Stein am Bein verletzt habe. Der Mensch habe den Teufel nach seinem Bilde erschaffen.
+
+Nach seiner Meinung gefragt antwortet Aljoscha, dass man diesen General erschiessen müsse. Iwan meint, dass der Mensch eben nach Vergeltung trachte ‒ hier und jetzt, und nicht später einmal in der Unendlichkeit. Was sei eine Harmonie wert, zu welcher die Mutter einem solchen General vergebe, und all die Tränen dieser Kinder ungesühnt blieben? So eine Mutter könne nur ihr eigenes Leid, doch niemals das durch ihr Kind erlittene vergeben.
+
+Eine solche Harmonie wolle er nicht hinnehmen, auch wenn er dadurch im Unrecht sei. Aljoscha bezeichnet dies als eine Revolte, doch Iwan entgegnet, ob es Ruhe und Frieden auf der Welt wert seien, wenn hierzu selbst nur ein einziges Kind zu Tode gemartert werden müsste, was Aljoscha verneint: Es gäbe nur ein einziges Wesen, das dies vergeben könne und hierzu auch das Recht hätte, weil es sein schuldloses Blut geopfert habe.
+
+Darüber habe Iwan ein Poem verfasst, wovon er Aljoscha gerne erzählen wolle.
+
