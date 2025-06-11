@@ -450,3 +450,35 @@ Eine solche Harmonie wolle er nicht hinnehmen, auch wenn er dadurch im Unrecht s
 
 Darüber habe Iwan ein Poem verfasst, wovon er Aljoscha gerne erzählen wolle.
 
+### V) Der Grossinquisitor
+
+Iwans Poem spielt im sechzehnten Jahrhundert in Sevilla ‒ zum Höhepunkt der Inquisition ‒ und handelt von der Wiederkunft Christi. Jesus tritt am Tag auf, nach dem der Grossinquisitor fast einhundert Heretiker auf dem Scheiterhaufen hat verbrennen lassen.
+
+Das Volk erkennt Jesus, strömt ihm entgegen und fällt ihm zu Füssen. Er heilt einen blinden Greis und erweckt ein Mädchen in ihrem Sarg liegend wieder zum Leben. Als der Grossinquisitor das sieht, lässt er Jesus von seiner Wache verhaften und in ein Verlies werfen.
+
+Des Nachts besucht der greise Grossinquisitor den Gefangenen, fragt ihn, warum er gekommen sei, um zu stören, und kündigt an, ihn am nächsten Tag auf dem Scheiterhaufen zu verbrennen. Schliesslich habe er damals alles dem Papst übergeben und brauche nun nicht mehr zurückzukommen, so der Grossinquisitor.
+
+Jesus habe ihnen die Freiheit gebracht, und die Menschheit hätte sich fünfzehn Jahrhunderte lang damit abgeplagt. Diese Freiheit ende nun (durch die Inquisition, so Iwan), und die Menschen könnten endlich glücklich werden, denn der Rebell könne bloss unglücklich sein.
+
+Die drei Versuchungen [Matthäus 4.1-11] ‒ auf die kein irdischer Verstand, sondern nur der absolute Geist kommen könne ‒ prophezeiten und enthielten die ganze künftige Menschheitsgeschichte. Wäre Jesus der Versuchung nicht widerstanden, hätte er dadurch das menschliche Leiden um tausend Jahre verkürzen können.
+
+Freiheit und Brot für alle seien nicht miteinander vereinbar, denn die Menschen könnten nicht teilen. Millionen hätten für das irdische Brot Gehorsam gelernt, doch nur zehntausende folgten dem Pfad zum himmlischen Brot. Er habe es abgelehnt, die Menschneit unter dem Banner des irdischen Brotes in einem gemeinsamen Glauben zu einigen und dadurch in Kauf genommen, dass sich die Menschen aufgrund ihres unterschiedlichen Glaubens bekriegten.
+
+Ruhe und selbst der Tod seien dem Menschen lieber als die Wahl zwischen Gut und Böse. Durch das Widerstehen der drei Versuchungen habe er die drei Kräfte des Wunders, des Geheimnisses und der Autorität von sich gewiesen, womit man das Gewissen der Menschen hätte unterwerfen können.
+
+Der Mensch, der das Wunder verneine, verneine auch Gott ‒ und schaffe sich seine eigenen Wunder. Die Menschen seien Sklaven, und Jesus habe sie überschätzt und überfordert, als er ihnen die Freiheit schenkte anstelle des Wunders, als er es unterliess, vom Kreuz herabzusteigen.
+
+Hätte er wirklich Mitleid mit den Menschen gehabt, hätte er ihnen eine solche Last nicht aufgebürdet. Nur wenige Starke ‒ die Jünger Jesu und ihre Nachfahren ‒ seien ihm aus eigener Kraft gefolgt. Der grosse Rest der armen Seelen musste von der Kirche geführt werden, um sie von ihrer schweren Last zu befreien.
+
+Man folge nicht mehr ihm sondern dem Papst, und bald schon könne das Glück den Menschen auf der ganzen Welt zuteil werden. Jesus hätte dies tun können, wäre er der dritten Versuchung nicht widerstanden. Doch statt ein Weltreich ewigen Friedens zu gründen, habe er die Menschneit in den Abgrund der Sklaverei geführt. Man werde die zersprengte Herde wieder zusammenführen, und diese werde sich gehorsam unterwerfen.
+
+Die Sünden, die man den Menschen zustehe, würden ihnen vergeben, und alle würden glücklich werden. Mit der Verheissung auf das Jenseits wolle man sie locken, auch wenn nach dem Tod nur noch das Grab auf sie warte. Morgen schon werde er sehen, wie das gehorsame Volk die Glut für seinen Scheiterhaufen schüre.
+
+Aljoscha sieht in diesem Grossinquisitor eine Widerspiegelung Roms, und nicht der Orthodoxie. Das Geschilderte entspreche den schlimmsten Auswüchsen des Katholizismus und der Jesuiten, die angeführt vom Imperator Roms nach Macht strebten und die Sünden der Menscheit als Stellvertreter für Gott auf sich nähmen; als die Gutsbesitzer einer künftigen Leibeigenschaft. Der Grossinquisitor glaube schlicht nicht an Gott.
+
+Iwan ergänzt, dass der Grossinquisitor am Ende seines Lebens angekommen eingesehen habe, dass sich die Menschheit auf den Weg in die Vernichtung zumindest glücklich fühle, wenn sie sich der Versuchung hingeben dürfe und man ihnen die Täuschung aufrecht erhalte.
+
+Die Erzählung endet damit, dass der Gefangene, nachdem er sich die Rede des Grossinquisitor geduldigt angehört hat, diesem nicht antwortet, sondern ihm einen Kuss gibt, worauf der erschauernde Grossinquisitor ihn in die Freiheit entlässt ‒ mit der Anweisung, nie mehr wiederzukommen.
+
+Iwan meint, dass er sich von der Formel, dass alles erlaubt sei, nicht lossagen könne ‒ und darum in Aljoschas Herzen kein Platz für ihn sei. Aljoscha entgegnet dies mit einem Kuss, den Iwan sogleich als Plagiat erkennt. Iwan verabschiedet sich mit der Bitte, dass Aljoscha das Besprochene und Dmitrij bei einem künftigen Treffen nicht ansprechen solle.
+
