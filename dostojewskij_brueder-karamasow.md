@@ -482,3 +482,15 @@ Die Erzählung endet damit, dass der Gefangene, nachdem er sich die Rede des Gro
 
 Iwan meint, dass er sich von der Formel, dass alles erlaubt sei, nicht lossagen könne ‒ und darum in Aljoschas Herzen kein Platz für ihn sei. Aljoscha entgegnet dies mit einem Kuss, den Iwan sogleich als Plagiat erkennt. Iwan verabschiedet sich mit der Bitte, dass Aljoscha das Besprochene und Dmitrij bei einem künftigen Treffen nicht ansprechen solle.
 
+### VI) Ein vorerst noch höchst Unklares
+
+Iwan kehrt zurück ins väterliche Haus, wobei ihn ein Widerwille plagt, über dessen Ursache er sich zunächst im Unklaren ist. Als er Smerdjakow neben der Pforte sitzend antrifft, kann er diesen als den Grund seines Unmuts identifizieren. Zwar unterhielt er sich zu Beginn seines Aufenthalts mit ihm, bemerkte aber bald eine gekränkte Selbstsucht und eine ihm gegenüber an den Tag gelegte Vertraulichkeit, was ihn beides abstösst.
+
+Smerdjakow klagt, dass er von Fjodor Pawlowitsch und von Dmitrij belagert werde was den noch nicht erfolgten Besuch von Gruschenka betrifft. Er fürchte sich vor den beiden. Mit einem simulierten epileptischen Anfall, der durchaus mehrere Tage anhalten könne, wolle er sich aus der Affäre ziehen.
+
+Mit Fjodor Pawlowitsch, der sich des Nachts im Haus einschliesse, habe er geheime Klopfzeichen vereinbart ‒ diese jedoch unter Drohung an Dmitrij verraten. Wenn Dmitrij vorbeikomme und er (Smerdjakow) gerade einen Anfall erleide, könne er nicht einschreiten. Auch Grigorij falle wegen seiner Krankheit und einer von seiner Frau verabreichten Kur als Wächter aus.
+
+Dmitrij wisse vom versiegelten und für Gruschenka bestimmten Kuvert mit den dreitausend Rubel, die Dmitrij so dringend benötige. Gruschenka wolle keinen armen Schlucker wie Dmitrij heiraten. Falls der Alte, der kein Testament ausgestellt hat, sterben sollte, würden seine Söhne je vierzigtausend Rubel erben. Falls Gruschenka den Vater heirate, würden die Söhne jedoch leer ausgehen.
+
+Smerdjakow empfiehlt Iwan, die vom Vater angeordnete Reise in die Provinz anzutreten. Iwan verrät, dass er sattdessen morgen früh nach Moskau zurückkehren wolle. So oder so werde man ihn bei einem Vorfall per Telegramm informieren, so Smerdjakow, worauf Iwan in ein für sich selber unerklärliches lautes Lachen ausbricht.
+
