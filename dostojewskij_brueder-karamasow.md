@@ -494,3 +494,15 @@ Dmitrij wisse vom versiegelten und für Gruschenka bestimmten Kuvert mit den dre
 
 Smerdjakow empfiehlt Iwan, die vom seinem Vater erbetene geschäftliche Reise nach Tscheremaschnja anzutreten. Iwan verrät, dass er sattdessen morgen früh nach Moskau zurückkehren wolle. So oder so werde man ihn bei einem Vorfall per Telegramm informieren, so Smerdjakow, worauf Iwan in ein für sich selber unerklärliches lautes Lachen ausbricht.
 
+### VII) "Schon die Unterhaltung mit einem klugen Mensch ist ein Gewinn"
+
+Beim Eintritt ins Haus weicht Iwan seinem Vater aus und geht direkt auf sein Zimmer. Einschlafen kann er nicht, denn er ist von einem diffusen Hass erfüllt, sodass er am liebsten Smerdjakow verprügeln würde. Er belauscht die erwartungsvollen Schritte seines Vaters, wofür er sich später noch schämen sollte.
+
+Als er frühmorgens aufwacht, packt er sofort seinen Koffer und kündigt dem Vater seine Abreise an. Dieser bedauert zwar den Abschied nicht, bittet ihn aber darum, einen Umweg über Tscheremaschnja zu nehmen, weil sich dort gerade ein Interessent für eines seiner Waldstücke aufhalte. Er selber sei unabkömmlich, und Iwan soll für ihn herausfinden, ob es dieser Geschäftsmann mit seiner Kaufabsicht ernst meine.
+
+Iwan steckt das hierzu von seinem Vater ausgestellte Schreiben ein, wolle sich aber erst unterwegs entscheiden, ob er den Umweg auch tatsächlich auf sich nehme. Bei der Abreise entfährt es Iwan gegenüber Smerdjakow, dass er nach Tscheremaschnja fahre, worauf Smerdjakow bemerkt, dass die Unterhaltung mit einem klugen Menschen ein Gewinn sei und wirft Iwan einen einvernehmlichen Blick zu.
+
+Auf der Fahrt über diese Bemerkung rätselnd entscheidet sich Iwan bei der Poststation am Scheidepunkt seines Weges angekommen, dass er doch direkt nach Moskau fahre. Er lässt eine Kutsche zum Vater schicken um ihn darüber zu informieren, dass Iwan nicht nach Tscheremaschnja unterwegs sei.
+
+Bei diesem zu Hause stürzt Smerdjakow derweil von der Kellertreppe und erleidet dabei einen schweren epileptischen Anfall. Grigorij liegt gleichzeitig mit einem steifen Kreuz flach, sodass seine Frau Fjodor Pawlowitsch bekocht ‒ sehr zu dessen Unzufriedenheit. Doch dieser ist überzeugt davon, dass Gruschenka nun endlich auftauchen werde und wartet gespannt auf die vereinbarten Klopfzeichen.
+
