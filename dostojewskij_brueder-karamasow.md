@@ -506,3 +506,17 @@ Auf der Fahrt über diese Bemerkung rätselnd entscheidet sich Iwan bei der Post
 
 Bei diesem zu Hause stürzt Smerdjakow derweil von der Kellertreppe und erleidet dabei einen schweren epileptischen Anfall. Grigorij liegt gleichzeitig mit einem steifen Kreuz flach, sodass seine Frau Fjodor Pawlowitsch bekocht ‒ sehr zu dessen Unzufriedenheit. Doch dieser ist überzeugt davon, dass Gruschenka nun endlich auftauchen werde und wartet gespannt auf die vereinbarten Klopfzeichen.
 
+## Sechstes Buch: Der russische Mönch
+
+### I) Starez Sossima und seine Besucher
+
+In der Zelle des Starez angekommen findet Aljoscha diesen auf einem Stuhl sitzend im Gespräch mit seinen langjährigen Freunden: die drei Priestermönche Vater Jossif, Vater Paissij und Vater Michail (der Vorsteher der Einsiedelei); Bruder Anfim, mit dem der Starez in jungen Jahren lange durch Russland gepilgert ist; sowie dem Zellendiener Porfirij, der die vortags erhaltene Spende der Frau, die mit ihrer kranken Tochter zum Starez kam, einer kinderreichen Frau überbrachte, deren Haus abgebrannt war.
+
+Der Starez erkundigt sich, ob Aljoscha den Bruder angetroffen habe. Aljoscha antwortet, dass er nur den einen Bruder finden konnte, den anderen jedoch vergebens suchte. Der Starez interessiert sich jedoch für diesen anderen ‒ vor dem er sich vortags bis zur Erde verneigte.
+
+Aljoscha müsse diesen am nächsten Tag unbedingt finden, um etwas Furchtbares zu verhindern. Denn er habe sich vor diesem wegen seines zukünftigen grossen Leidens verneigt. Einen solchen Blick wie den gestrigen von Dmitrij habe der Starez erst ein- oder zweimal in seinem Leben gesehen, und darin spiegelte sich das ganze Geschick dieses Menschen.
+
+Für sein Leben ausserhalb des Klosters prophezeit er Aljoscha, dass er viele Feinde haben werde, die ihn jedoch liebten, wobei Aljoscha glücklich sein werde. Aljoscha erinnere ihn ‒ trotz geringer äusserlicher, aber umso grösserer geistiger Ähnlichkeit ‒ an seinen älteren Bruder, der jedoch bereits mit siebzehn Jahren verstorben sei. Der Zellendiener Porfirij, der sich oftmals sichtlich gegenüber Aljoscha zurückgesetzt vorkam, tröstet er mit dieser Tatsache.
+
+Das folgende Gespräch, in welchem der Starez seine Lebenserinnerung schildert, wird von Aljoscha festgehalten ‒ und wohl auch um frühere Erzählungen darüber ergänzt.
+
