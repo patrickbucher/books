@@ -520,3 +520,17 @@ Für sein Leben ausserhalb des Klosters prophezeit er Aljoscha, dass er viele Fe
 
 Das folgende Gespräch, in welchem der Starez seine Lebenserinnerung schildert, wird von Aljoscha festgehalten ‒ und wohl auch um frühere Erzählungen darüber ergänzt.
 
+### II) Aus der Vita des in Gott entschlafenen Hieromonachos Starez Sossima, nach seinen eigenen Worten zusammengestellt von Alexej Fjodorowitsch Karamasow
+
+#### Biographische Notizen
+
+##### a) Von dem Jüngling, dem älteren Bruder des Starez Sossima
+
+Er, Sinowij, ist in eine zwar adelige, aber eher einfache Familie geboren worden. Der Vater starb, als er noch zwei Jahre alt war und hinterliess der Mutter eine Geldsumme gross genug für ein Auskommen mit ihren beiden Kindern.
+
+Sein Bruder Markel ist acht Jahre älter und eher schweigsam. Im Gymnasium hat er keine Freunde, besucht aber einen Winter lang einen freigeistigen Gelehrten, der aus Moskau in die Provinz verbannt worden ist. Bald darauf verweigert Martel das Fasten und streitet die Existenz Gottes ab ‒ sehr zum Schrecken seiner Mutter, seines Bruders und der Bediensteten.
+
+Im Frühjahr erkrankt er unheilbar an der Schwindsucht, und seine Mutter drängt ihm zum Empfang des Abendmahls. Den Ernst der Lage erkennend, aber auch seiner Mutter zuliebe, empfängt er in der Karwoche zum ersten mal wieder die Sakramente.
+
+Die Kirche kann er aufgrund der fortschreitenden Krankheit bald nicht mehr besuchen, ist aber wie verwandelt: preist die ganze Schöpfung und freut sich seines Lebens, das sich bald dem Ende neigt. Seinen kleinen Bruder weist er an, an seiner Statt zu leben. Dieser ist dann auch sehr erschüttert über seinen frühen Tod.
+
