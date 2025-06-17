@@ -534,3 +534,15 @@ Im Frühjahr erkrankt er unheilbar an der Schwindsucht, und seine Mutter drängt
 
 Die Kirche kann er aufgrund der fortschreitenden Krankheit bald nicht mehr besuchen, ist aber wie verwandelt: preist die ganze Schöpfung und freut sich seines Lebens, das sich bald dem Ende neigt. Seinen kleinen Bruder weist er an, an seiner Statt zu leben. Dieser ist dann auch sehr erschüttert über seinen frühen Tod.
 
+##### b) Von der Heiligen Schrift im Leben des Vaters Sossima
+
+Seine Mutter will ihn nicht um eine glänzende Zukunft bringen und lässt den Jungen auf Anraten ihrer Bekannten und trotz starkem Trennungsschmerz nach Petersburg ziehen, wo er ins Kadettenkorps eintritt. Da sie drei Jahre darauf bereits stirbt, sieht er sie nie wieder.
+
+Das Lesen lernt er aus einem Buch mit biblischen Geschichten, das er immer noch wie einen teuren Schatz aufbewahrt. Mit acht Jahren versteht er zum ersten mal, was in der Kirche gelesen wird: Es handelt sich um die Geschichte Hiobs, dem Satan alles nimmt, um ihn in seinem Glauben zu erschüttern; doch Hiob bleibt standhaft und findet sein Glück von Neuem.
+
+Nun sei er zwar am Ende seines irdischen Lebens angelangt, doch erfülle ihn die Aussicht auf das nahende ewige Leben mit Freude.
+
+Von den Priestern vernehme man, dass sie wegen ihres geringen Auskommens ‒ gerade auf dem Lande ‒ Mühe hätten, die Gläubigen in der Kirche zu behalten. Die Priester sollten einmal wöchentlich die Kinder bei sich besammeln, worauf auch bald ihre Väter kommen würden. Man solle ihnen ohne grosse Reden aus der Bibel vorlesen, etwa die Geschichte von Joseph, der von seinen Brüdern in die Sklaverei verkauft worden ist, er diese aber trotzdem noch liebt und später wiederfindet. Auch im einfachen Volk werde man das alles verstehen.
+
+Als er einst auf Pilgerreise einen Jüngling trifft, der den Wald über alles liebt, erklärt er diesem, dass Gott auch mit den Tieren sei, denn in der Natur sei alles Wahrheit ‒ nur der Mensch sündige.
+
