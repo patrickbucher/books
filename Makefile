@@ -5,14 +5,20 @@ FONT_OPTS=-V mainfont='Libertinus Serif' -V sansfont='Libertinus Sans' -V monofo
 DATE=-V date="`date +'%Y-%m-%d'`"
 DATE_DE=-V date="`date +'%d.%m.%Y'`"
 
-ALL=hennrich_cloud-computing-dsgvo.pdf dostojewskij_brueder-karamasow.pdf
+ALL=dobelli_kunst-des-digitalen-lebens.pdf \
+	dostojewskij_brueder-karamasow.pdf \
+	hennrich_cloud-computing-dsgvo.pdf
 
 .PHONY: all clean
 
 all: $(ALL)
 
+dobelli_kunst-des-digitalen-lebens.pdf: dobelli_kunst-des-digitalen-lebens.md
+	pandoc -s $(PDF_OPTS_DE) $(FONT_OPTS) $(DATE_DE) $< -o $@
+
 .SUFFIXES: .md .pdf
 .md.pdf:
 	pandoc $(DOC_OPTS) $(PDF_OPTS_DE) $(FONT_OPTS) $(DATE_DE) $< -o $@
+
 clean:
 	rm -f $(ALL)
