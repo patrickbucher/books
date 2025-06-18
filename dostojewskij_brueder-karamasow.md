@@ -546,3 +546,17 @@ Von den Priestern vernehme man, dass sie wegen ihres geringen Auskommens ‒ ger
 
 Als er einst auf Pilgerreise einen Jüngling trifft, der den Wald über alles liebt, erklärt er diesem, dass Gott auch mit den Tieren sei, denn in der Natur sei alles Wahrheit ‒ nur der Mensch sündige.
 
+##### c) Erinnerungen an die Knaben- und Jugendjahre des Starez Sossima, als er noch in der Welt war. Das Duell
+
+Im Kadettenkorps bleibt er fast acht Jahre und wird dann Offizier. Er führt ein ausschweifendes Leben; doch ein Laster wie die Trunksucht gilt unter seinesgleichen beinahe als Tugend. Er liest zwar, doch nicht in der Bibel, die er trotzdem bei sich mitträgt.
+
+Nach vier Jahren im Dienst verliebt er sich in eine junge Frau aus gutem Hause, doch kann sich nicht zu einem Liebesgeständnis geschweige denn zu einem Heiratsantrag überwinden, zumal er noch nicht Abschied von seinem Junggesellenleben nehmen will.
+
+Als er für zwei Monate abkommandiert wird, ist die Dame bei seiner Rückkehr bereits verheiratet. Von seinen eigenen Vorzügen geblendet bemerkte er den Nebenbuhler als einzigen nicht. So fordert er diesen zum Duell.
+
+Am Abend zuvor schlägt er seinen Burschen so heftig ins Gesicht, dass er am Morgen von Reue überwältigt ist und sich bei ihm für die Schläge entschuldigt, wobei er sich ihm zu Füssen wirft.
+
+Beim Duell streift ihn der Schuss seines Gegners nur an Wange und Ohr. Er verzichtet auf seinen Schuss, wirft die Pistole weg und bittet seinen Gegner um Verzeihung, indem er seine Einsicht erläutert. Dieser vergibt ihn, wenn auch etwas verwundert.
+
+Als man diese Schande im Regiment diskutiert und zum Schluss kommt, dass es sich hierbei um etwas "Originelles" handle, verkündet er seinen Abschied, den er bereits eingereicht habe: Er wolle ins Kloster gehen. Im Regiment und in der Stadt wird er für diesen Schritt geachtet, und das Duell wird bald als ein Scherz abgetan. Auch seine frühere Angebetete spricht ihm ihre Hochachtung für sein Verhalten aus.
+
