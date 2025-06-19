@@ -560,3 +560,29 @@ Beim Duell streift ihn der Schuss seines Gegners nur an Wange und Ohr. Er verzic
 
 Als man diese Schande im Regiment diskutiert und zum Schluss kommt, dass es sich hierbei um etwas "Originelles" handle, verkündet er seinen Abschied, den er bereits eingereicht habe: Er wolle ins Kloster gehen. Im Regiment und in der Stadt wird er für diesen Schritt geachtet, und das Duell wird bald als ein Scherz abgetan. Auch seine frühere Angebetete spricht ihm ihre Hochachtung für sein Verhalten aus.
 
+##### d) Der geheimnisvolle Besucher
+
+Ein angesehener Beamte der Stadt sucht Sossima auf und ist beeindruckt, dass er sich dazu durchringen konnte, die allgemeine Verachtung auf sich zu ziehen um damit der Wahrheit zu dienen. Der Besucher möchte erfahren, was er in dem Moment empfunden habe, als er beim Duell seinen Gegner um Vergebung bat.
+
+Nach der Schilderung der Hintergrundgeschichte taucht der Besucher jeden Abend bei Sossima auf, ohne jedoch zu verraten, welches Geheimnis ihn dazu treibt. Das Paradies trage jeder in sich, doch es könne sich erst verwirklichen, wenn die Menschen ihre Abgesondertheit überwänden, so der Besucher.
+
+Diese Besuche ziehen sich über einen Monat hin und geben in der Stadt bereits Anlass zu Klatsch, als der Besucher Sossima sein Geheimnis gesteht: Er habe vor vierzehn Jahren einen Mord begangen!
+
+Er sei in eine verwitwete, reiche Gutsbesitzerin verliebt gewesen, welche jedoch seinen Heiratsantrag abgelehnt habe, da sie einen ranghohen, derzeit noch im Feld stehenden Militär habe heiraten wollen. Er sei nachts bei ihr ins Haus eingestiegen, habe ihr einen Dolch mitten ins Herz gestossen und die Tat wie einen Raub aussehen lassen, der sich ihren Bediensteten anlasten liesse.
+
+Ihr Diener Pjotr, den sie damals im Begriff war als Rekrut abzugeben, sei kurz zuvor abgehauen und soll im Rausch eine Morddrohung gegen seine Herrin ausgesprochen haben. Er sei bald darauf betrunken an einem Wegrand liegend aufgegriffen worden und habe bald als der Täter gegolten, sei jedoch schon nach wenigen Tagen in Haft an einer Erkältung gestorben, die er sich auf der Flucht aufgelesen habe. Die Mordsache habe damit als erledigt gegolten.
+
+Der wahre Täter habe sein Gewissen wegen des Diebstahls mit Spenden an eine Armenanstalt beruhigt. Mit seiner Arbeit und Wohltätigkeit habe er sich lange ablenken können. Er habe geglaubt, die Mordgeschichte endgültig überwunden zu haben, als er eine junge Frau heiratete.
+
+Doch als diese ihm Kinder zur Welt brachte, hätten ihn Gewissensbisse zu quälen angefangen: Wie solle er seinen Kindern in ihr unschuldiges Gesicht blicken und ihnen tugendhaftes Verhalten anerziehen, wenn er doch selber ein Mörder sei?
+
+Nachdem er sich jahrelang gequält und endlich vom Vorfall beim Duell erfahren habe, soll er sich endlich durchgerungen haben können: Er müsse ein Geständnis ablegen! Für ihn selber würde damit das Paradies anbrechen, doch werde er damit seinen Kindern und seiner Frau Schaden zufügen, weswegen er noch zögere.
+
+Mittlerweile quält sich auch Sossima wegen seines Besuchers, doch dieser fasst endlich den Entschluss zu seinem Geständnis am darauffolgenden Tag, kehrt aber nach dieser Ankündigung tief in der Nacht zu Sossima zurück. Er betrachtet seinen Gastgeber nur schweigend und verabschiedet sich dann aufs Neue mit einem Kuss. Sossima solle sich dieses zweiten Besuches unbedingt erinnern, so der Gast zu ihm.
+
+Am darauffolgenden Tag ‒ an seinem Geburtstag, zu dem er Gäste aus der ganzen Stadt bei sich versammelt ‒ liest er eine an die Obrigkeit verfasste Selbstanzeige gegen sich vor und präsentiert die Beweisstücke, die er die ganzen Jahre lang bei sich aufbewahrte. Ein Verfahren wird zwar gegen ihn eröffnet, doch niemand will ihm glauben. Bald verdächtigt man Sossima: die Geschichte gehe auf seine Machenschaften zurück! 
+
+Der reuige Täter erkrankt kurz nach seinem Geständnis und wird bald darauf für geisteskrank gehalten. Auf seinem Sterbebett, zu dem Sossima nach einigen Versuchen endlich vorgelassen wird, gesteht er diesem den Grund für seine damalige Rückkehr nach seinem letzten Besuch bei ihm: Er habe ihn ermorden wollen!
+
+Als er bald darauf stirbt, beginnt man sich in der Stadt gegen Sossima zu empören. Doch dieser tritt ohnehin bald ins Kloster ein.
+
