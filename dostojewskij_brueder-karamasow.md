@@ -586,3 +586,15 @@ Der reuige Täter erkrankt kurz nach seinem Geständnis und wird bald darauf fü
 
 Als er bald darauf stirbt, beginnt man sich in der Stadt gegen Sossima zu empören. Doch dieser tritt ohnehin bald ins Kloster ein.
 
+### III) Aus den Gesprächen und Unterweisungen des Starez Sossima
+
+#### e) Einiges über den russischen Mönch und über seine mögliche Bedeutung
+
+Zwar gebe es unter den Mönchen auch faule und genusssüchtige, auf welche die Weltlichen mit dem Finger zeigten, doch übersähen diese die sanftmütigen und frommen unter ihnen, die bloss in Abgeschiedenheit ihrem Gebet nachgehen wollten.
+
+Die Wissenschaft handle nur davon, was die Sinne fassen könnten, doch die geistige Welt sei ihr unzugänglich.
+
+Die falsche Freiheit bestehe darin, dass man den Menschen Bedürfnisse zugestehe, die er dann doch nicht befriedigen könne. Dies führe zu Neid, welcher wiederum im Trunk oder gar im Selbstmord ende. Eine solche Freiheit führe in die Sklaverei und in die Abgesondertheit; Brüderlichkeit und Gemeinschaft gingen dabei verloren.
+
+Der Weg des Mönches über Gehorsam, Gebet und Fasten führe in die Freiheit; in eine Befreiung von überflüssigen Bedürfnissen. Das Volk trage Gott in sich und müsse nur im Stillen erzogen werden, worauf das einige, rechtgläubige Russland erstehe.
+
