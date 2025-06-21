@@ -554,7 +554,7 @@ Nach vier Jahren im Dienst verliebt er sich in eine junge Frau aus gutem Hause, 
 
 Als er für zwei Monate abkommandiert wird, ist die Dame bei seiner Rückkehr bereits verheiratet. Von seinen eigenen Vorzügen geblendet bemerkte er den Nebenbuhler als einzigen nicht. So fordert er diesen zum Duell.
 
-Am Abend zuvor schlägt er seinen Burschen so heftig ins Gesicht, dass er am Morgen von Reue überwältigt ist und sich bei ihm für die Schläge entschuldigt, wobei er sich ihm zu Füssen wirft.
+Am Abend zuvor schlägt er seinen Burschen Afanassij so heftig ins Gesicht, dass er am Morgen von Reue überwältigt ist und sich bei ihm für die Schläge entschuldigt, wobei er sich ihm zu Füssen wirft.
 
 Beim Duell streift ihn der Schuss seines Gegners nur an Wange und Ohr. Er verzichtet auf seinen Schuss, wirft die Pistole weg und bittet seinen Gegner um Verzeihung, indem er seine Einsicht erläutert. Dieser vergibt ihn, wenn auch etwas verwundert.
 
@@ -597,4 +597,14 @@ Die Wissenschaft handle nur davon, was die Sinne fassen könnten, doch die geist
 Die falsche Freiheit bestehe darin, dass man den Menschen Bedürfnisse zugestehe, die er dann doch nicht befriedigen könne. Dies führe zu Neid, welcher wiederum im Trunk oder gar im Selbstmord ende. Eine solche Freiheit führe in die Sklaverei und in die Abgesondertheit; Brüderlichkeit und Gemeinschaft gingen dabei verloren.
 
 Der Weg des Mönches über Gehorsam, Gebet und Fasten führe in die Freiheit; in eine Befreiung von überflüssigen Bedürfnissen. Das Volk trage Gott in sich und müsse nur im Stillen erzogen werden, worauf das einige, rechtgläubige Russland erstehe.
+
+#### f) Von Herren und Knechten und ob Herren und Knechte einander Brüder im Geiste werden können
+
+Die Sünde fresse sich von oben nach unten durch die Gesellschaft. Das Trinken führe zu Grausamkeit selbst an Kindern, die in der Fabrik arbeiten müssten statt sich des Lebens freuen zu können. Das Volk glaube noch an Gott, doch die Höheren wollten eine wissenschaftliche Ordnung ohne Gott errichten, wo es keine Sünde mehr gebe und also alles erlaubt sei.
+
+Die Mönche sollen den Glauben des Volkes bewahren, denn Gott habe das russische Volk errettet ‒ und errette es von Neuem. Der Reiche werde sich seines Reichtums schämen, und der Arme werde ihm diese Demut vergelten.
+
+Acht Jahre nach der Trennung von seinem Burschen Afanassij habe er diesen durch Zufall wiedergetroffen. Dieser sei gerührt gewesen von Sossimas Anblick ‒ und darüber, dass er sein Vermögen dem Kloster abtrat. Einst sei der eine Herr und der andere Diener gewesen ‒ da seien sie beide zu Brüdern geworden.
+
+Wenn der Mensch sich nicht länger andere Menschen zum Diener machen wolle und stattdessen zum Diener seiner Mitmenschen werde, bilde dies das Fundament für ein neues Zeitalter. Denn eine gerechte Ordnung entstehe nicht durch das Blutvergiessen, wodurch sich auch die letzten beiden Menschen noch ausrotten würden ‒ durch Mord und Selbstmord.
 
