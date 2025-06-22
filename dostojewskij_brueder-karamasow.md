@@ -608,3 +608,9 @@ Acht Jahre nach der Trennung von seinem Burschen Afanassij habe er diesen durch 
 
 Wenn der Mensch sich nicht länger andere Menschen zum Diener machen wolle und stattdessen zum Diener seiner Mitmenschen werde, bilde dies das Fundament für ein neues Zeitalter. Denn eine gerechte Ordnung entstehe nicht durch das Blutvergiessen, wodurch sich auch die letzten beiden Menschen noch ausrotten würden ‒ durch Mord und Selbstmord.
 
+#### g) Vom Gebet, von der Liebe und von der Berührung mit anderen Welten
+
+Man solle das Gebet nicht vergessen und für diejenigen um Erbarmung bitten, welche vor Gottes Thron träten. Wenn man die ganze Schöpfung liebe, werde einem das Geheimnis Gottes in allen Dingen offenbar. Auf seine Erscheinung soll man Acht geben, denn eine jede Handlung und Äusserung, die ein Kind mitbekomme, könne auf dieses eine schädliche Wirkung haben. Man solle für alle Zeit lieben, denn auch ein Bösewicht könne zufällig einmal lieben. Und man solle stets heiter bleiben und sich in seinem Werk nicht von der Sünde beirren lassen.
+
+Wie in einem Ozean berühre sich alles, und man sei für alles schuldig und verantwortlich. Wer seine Ohnmacht und Trägheit anderen anlaste, verfalle dem satanischen Stolz und glaube dabei auch noch, etwas Gutes zu tun. Zwar könne man die menschliche Natur nicht zur Gänze verstehen, doch werde man am Ende nur für das gerichtet, was man davon verstehen konnte.
+
