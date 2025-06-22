@@ -614,3 +614,10 @@ Man solle das Gebet nicht vergessen und für diejenigen um Erbarmung bitten, wel
 
 Wie in einem Ozean berühre sich alles, und man sei für alles schuldig und verantwortlich. Wer seine Ohnmacht und Trägheit anderen anlaste, verfalle dem satanischen Stolz und glaube dabei auch noch, etwas Gutes zu tun. Zwar könne man die menschliche Natur nicht zur Gänze verstehen, doch werde man am Ende nur für das gerichtet, was man davon verstehen konnte.
 
+#### h) Kann man Richter über seinesgleichen sein? Vom Glauben bis ans Ende
+
+Nur wer erkennt, dass er selber Verbrecher sei, könne über den Verbrecher richten, denn er erkenne, dass auch er Anteil an seinem Verbrechen habe. Der Richter, der ein Verbrechen auf sich nehme und anstelle des Verbrechers leiden könne, solle diesen ohne Verurteilung laufen lassen, denn seine Stunde werde noch kommen.
+
+Man solle auch Gott dann noch rühmen, wenn alle von ihm abgefallen seien; finde sich noch ein zweiter, habe sich Gottes Wahrheit erfüllt. Der Bosheit der Menschen solle man nicht mit Rachegelüsten entgegentreten, sondern erkennen, dass man ihnen kein Licht gewesen sei.
+
+Die geistige Wonne der Gerechten erleben zu dürfen sei Lohn genug. Seiner Tränen von Verzückung und Freude solle man sich nicht schämen, denn sie seien eine Gabe, die nur den Auserwählten zuteil werde.
