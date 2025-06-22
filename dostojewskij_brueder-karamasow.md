@@ -621,3 +621,12 @@ Nur wer erkennt, dass er selber Verbrecher sei, könne über den Verbrecher rich
 Man solle auch Gott dann noch rühmen, wenn alle von ihm abgefallen seien; finde sich noch ein zweiter, habe sich Gottes Wahrheit erfüllt. Der Bosheit der Menschen solle man nicht mit Rachegelüsten entgegentreten, sondern erkennen, dass man ihnen kein Licht gewesen sei.
 
 Die geistige Wonne der Gerechten erleben zu dürfen sei Lohn genug. Seiner Tränen von Verzückung und Freude solle man sich nicht schämen, denn sie seien eine Gabe, die nur den Auserwählten zuteil werde.
+
+#### i) Von der Hölle und dem höllischen Feuer, eine mystische Betrachtung
+
+Die Hölle bestehe im Leiden daran, nicht mehr lieben zu können. Wer vor Gottes Thron trete und auf Erden nie geliebt habe, sehe ein, dass es nun zu spät sei. Diese geistige Qual sei schlimmer als die materielle, von Flammen ausgehende.
+
+Niemand sei unglücklicher als die Selbstmörder, und obwohl die Kirche das Gebet für sie als Sünde ansehe, solle man doch für sie beten, denn Christus werde der Liebe nicht zürnen.
+
+Damit enden die Aufzeichnungen Alexej Fjodorowitschs. Der Starez verstirbt unverhofft plötzlich am selben Abend, wobei er sich mit letzter Kraft am Boden verneigt, die Erde küsst und betend seine Seele Gott zurückgibt. Die Mönche richten seinen Leichnam her, und die Nachricht von seinem Tode dringt noch vor Tagesanbruch aus dem Kloster in die Stadt.
+
