@@ -630,3 +630,23 @@ Niemand sei unglücklicher als die Selbstmörder, und obwohl die Kirche das Gebe
 
 Damit enden die Aufzeichnungen Alexej Fjodorowitschs. Der Starez verstirbt unverhofft plötzlich am selben Abend, wobei er sich mit letzter Kraft am Boden verneigt, die Erde küsst und betend seine Seele Gott zurückgibt. Die Mönche richten seinen Leichnam her, und die Nachricht von seinem Tode dringt noch vor Tagesanbruch aus dem Kloster in die Stadt.
 
+# Dritter Teil
+
+## Siebentes Buch: Aljoscha
+
+### I) Verwesungsgeruch
+
+Nachdem Vater Paissij den Leichnam des Starez zur Beisetzung hergerichtet hat, wird dessen Sarg in der Zelle aufgebahrt. Hier soll den ganzen Tag aus dem Evangelium gelesen werden, wofür sich Vater Paissij und Vater Jossif abwechseln.
+
+Menschenmengen strömen bald dem Kloster entgegen; viele bringen in Erwartung an eine Wunderheilung ihre Kranken mit. Vater Paissij hält dies für unschicklich, ja gar für eine Anfechtung. Besonders der Mönch aus Obdorsk und Rakitin beobachten das Treiben mit sehr geschäftiger Aufmerksamkeit; letzterer im Auftrag der Chochlakowa, der er alles schriftlich berichten soll.
+
+Vater Paissij findet Aljoscha am Grab des Starez Iow, einem Vorgänger Sossimas, weinend vor. Er solle bedenken, wo der Starez jetzt sei und sich seiner freuen; doch Vater Paissij kann die Tränen Aljoschas verstehen ‒ und ist ihnen selber sehr nahe.
+
+Ab Mittag beginnt dem Sarg ein Verwesungsgeruch zu entströmen, der am Nachmittag ganz deutlich wahrnehmbar wird. Zwar ist dies selbst beim Leichnam eines Mönches nach einem redlich geführten Leben zu erwarten, doch gab es auch welche, deren Leichnam kein Verwesungsgeruch, sondern sogar einen Wohlgeruch ausgeströmt haben sollen ‒ wie etwa bei den Starzen Iow und Warssonofij ‒ beides Vorgänger Sossimas.
+
+Durch diesen Verwesungsgeruch fühlen sich viele Neider bestätigt, und schon bald gewinnt die Minderheit der Zweifler unter den Mönchen meinungsmässig Oberhand. Vater Jossif tritt den Lästerern entgegen, dass nicht der ausbleibende Verwesungsgeruch, sondern die Farbe der Gebeine (gelb statt schwarz) die Verherrlichung des Entschlafenen durch Gott anzeige. Die Spötter kann er damit nicht überzeugen, und schon bald werden überall Anschuldigungen betreffend des Lebenswandels und der Lehre des verstorbenen Starez laut.
+
+Vom Obdorsker Mönch über das Geschehen informiert betritt Vater Ferapont die Zelle, in der er zunächst lauthals die Teufel austreibt, wie er es beim Betreten eines jeden Raumes zu tun pflegt. Nach mehreren spöttischen Bemerkungen und Anschuldigungen schickt Vater Paissij ihn fort, worauf er draussen vor der Einsidelei triumphierend zur Sonne betet ‒ und bald eine Gefolgschaft, die sich um ihn versammelt, Ferapont für den wahren Heiligen hält.
+
+Als die Glocke zum Gottesdienst läutet, geht Aljoscha an Vater Paissij vorbei ‒ doch nicht der Kirche entgegen. Er verlässt die Einsiedelei.
+
