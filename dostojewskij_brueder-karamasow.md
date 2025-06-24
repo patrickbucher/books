@@ -650,3 +650,15 @@ Vom Obdorsker Mönch über das Geschehen informiert betritt Vater Ferapont die Z
 
 Als die Glocke zum Gottesdienst läutet, geht Aljoscha an Vater Paissij vorbei ‒ doch nicht der Kirche entgegen. Er verlässt die Einsiedelei.
 
+### II) Eine ganz besondere Minute
+
+Tatsächlich ist Aljoscha aufgrund der ausbleibenden Wunder und wegen der früh einsetzenden Verwesung des Leichnams seines so geliebten Starez niedergeschlagen. Doch nicht etwa, weil Aljoschas Ansehen seines Vorbilds vom Ausbleiben dieser Wunder leidet; er kann bloss die Ungerechtigkeit nicht ertragen, mit der die Leute ihn deswegen aburteilen und verspotten.
+
+Immer wieder denkt Aljoscha an das gestrige, ihn so quälende Gespräch mit Iwan zurück, doch vergisst dabei völlig Dmitrij und die zweihundert Rubel für Snegirjow, die er ihm heute unbedingt überreichen wollte.
+
+Rakitin findet Aljoscha schliesslich mit dem Gesicht zur Erde im Kiefernwäldchen des Klosters liegend. Er wirkt gereizt und die Sanftmut ist aus seinen Gesichtszügen verschwunden. Zu Rakitins Erstaunen nimmt Aljoscha dessen Angebot von Wurst und sogar Wodka an.
+
+Rakitin möchte mit ihm in die Stadt gehen. Er müsse nämlich der Chochlakowa Bericht über das Vorgefallene erstatten. Sie habe ihm in einem Briefchen geschildert, dass sie ein solches "Verhalten" von Starez Sossima nicht erwartet hätte.
+
+Weiter will er Aljoscha mit zu Gruschenka nehmen, worauf dieser zu Rakitins Überraschung sogar einwilligt. Mit Schadenfreude blickt Rakitin seinem Triumph entgegen, einen "Gerechten" zu Fall zu bringen.
+
