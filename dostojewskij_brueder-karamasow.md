@@ -662,3 +662,33 @@ Rakitin möchte mit ihm in die Stadt gehen. Er müsse nämlich der Chochlakowa B
 
 Weiter will er Aljoscha mit zu Gruschenka nehmen, worauf dieser zu Rakitins Überraschung sogar einwilligt. Mit Schadenfreude blickt Rakitin seinem Triumph entgegen, einen "Gerechten" zu Fall zu bringen.
 
+### III) Das Zwiebelchen
+
+Gruschenkas Gönner, der Kaufmann Samsonow, liess das damals achtzehnjährige Mädchen im Hinterhaus vom Anwesen der Kaufmannswitwe Morosowa einquartieren, damit diese ihren strengen Blick auf sie werfe. Mit siebzehn Jahren habe sich Gruschenka von einem Offizier verführen lassen, der sie dann im Stich gelassen habe.
+
+Aus dem einst mageren und mitleiderregenden Mädchien ist mittlerweile eine stattliche wie dreiste Schönheit geworden, die sich aufs Geschäftemachen versteht. Von Samsonow, zu dem sie ein gegenseitiges Vertrauensverhältnis unterhält, bekam sie achttausend Rubel; in seinem Testament taucht ihr Name jedoch nicht auf.
+
+Das Buhlen Fjodor Pawlowitschs um sie nimmt Samsonow mit Belustigung zur Kenntnis ‒ dasjenige von Dmitrij bereitet ihm hingegen Sorgen. Gruschenka solle sich nur auf den alten Karamasow einlassen, wenn er sie heirate und ihr vorher eine gewisse Summe überlasse. Auf Dmitrij solle sie sich hingegen nicht einlassen. Man sagt, dass sie ihn nur aus Angst vor ihm empfange.
+
+Über den unerwarteten Besuch Rakitins und Aljoschas ist sie sichtlich erschrocken, denn sie fürchtet sich einerseits vor dem Besuch Dmitrijs und wartet andererseits auf eine Nachricht. Gruschenka zeigt sich erfreut über Aljoschas Besuch und setzt sich sogleich auf dessen Schoss, wobei Aljoscha plötzlich keine Angst mehr vor ihr empfindet, sondern grosses Interesse für die im Gegensatz zum letzten Aufeinandertreffen völlig natürlich und unverstellt auftretende Gruschenka zeigt.
+
+Sie erwarte eine Nachricht von ihrem Offizier, brauche sich nun nicht mehr vor Dmitrij zu fürchten und sei darüber besorgt, dass ihr Aljoscha den Auftritt bei Katerina Iwanowna immer noch verüble. Sie liebe Aljoscha von ganzem Herzen, wenn auch auf eine andere Weise als ihren Offizier; Aljoscha sei ihr Gewissen.
+
+Als Rakitin ihr mitteilt, dass Starez Sossima verstorben sei, äussert sie Mitleid mit Aljoscha. Er meint, dass er sich sich zu ihr begeben habe, um zu sündigen, doch sie habe ihn geschont ‒ und er habe dadurch in ihr eine Schwester gefunden. Rakitin entgegnet, dass sie ihn gerade eben noch habe verschlingen wollen. Gruschenka reagiert empört, dass dies zwar stimme, sie aber trotz ihres bösen Charakters "ein Zwiebelchen gereicht" habe.
+
+Dieser Ausdruck entstamme einer Fabel: Als ein altes, böses Weib stirbt, wird sie von Teufeln in einen Feuersee geworfen. Ihr Schutzengel erinnert sich einer guten Tat von ihr: Sie habe einer Bettlerin ein Zwiebelchen aus ihrem Garten geschenkt. Als der Engel Gott davon erzählt, er laubt er es ihm, sie an diesem Zwiebelchen aus dem Feuersee zu ziehen. Wenn das Zwiebelchen halte, dürfe sie ins Paradies eingehen; sonst bleibe sie für immer in den Flammen. Als der Engel sie herauszieht, klammern sich andere Sünder an ihr fest, um ebenfalls errettet zu werden. Doch sie schlägt mit den Beiden um sich, um die anderen abzuschütteln: es sei _ihr_ Zwiebelchen! Da reisst das Zwiebelchen, und das Weib fällt für immer in die Flammen, worauf der Engel weinend davongeht.
+
+Gruschenka sei selber dieses böse Weib, und wenn Aljoscha sie lobe, so müsse sie sich dafür schämen. Rakitin habe sie fünfundzwanzig Rubel versprochen, wenn er Aljoscha zu ihr bringe ‒ diese bezahlt sie ihm auch sogleich aus. Rakitin streitet dies zwar ab, steckt aber das Geld ein. Er ist wütend darüber, dass Gruschenka ihm das Geld vor Aljoschas Augen gegeben hat.
+
+Sie spricht zu Aljoscha: Sie sei eine bissige Hündin und habe ihn verschlingen und verderben wollen. Jahrelang habe sie Rachegelüste gegen ihren Offizier von damals gehegt. Vor einem Monat habe er ihr geschrieben, dass er nun verwitwet sei und zu ihr komme, und sie wolle schuldbewusst wie ein kleines Hündchen auf ihn zukriechen. Mit Dmitrij habe sie bloss gespielt.
+
+Nach dieser Rede lässt sich Gruschenka weinend aufs Sofa fallen. Aljoscha reagiert auf Rakitins Spott: Gruschenka sein bereit nach jahrelanger Qual alles zu verzeihen, weil jemand einen Schritt auf sie zu gemacht habe. Ihre Liebe sei grösser als die ihresgleichen; man müsse ihre noch unversöhnte Seele schonen.
+
+Gruschenka fragt Aljoscha, ob sie ihren Verderber wirklich liebe und ob sie ihm verzeihen soll. Aljoscha meint, dass sie ihm doch längst verziehen habe, worauf Gruschenka entgegnet, dass sie mit ihrem Herzen noch kämpfe, da sie doch an ihren Tränen mittlerweile Gefallen gefunden habe.
+
+Auf Rakitins Frage, warum sie sich so schön für ihren Offizier gemacht habe, antwortet Gruschenka, dass sie vielleicht ihm damit nur vorzeigen wolle, was ihm nun entgehe. Rakitin will gehen, um noch ins Kloster eingelassen zu werden. Gruschenka fällt vor Aljoscha auf die Knie: Er möge doch noch bleiben, ihr ganzes Leben habe sie auf jemanden wie ihn gewartet!
+
+Da kommt der Brief vom Offizier an: Gruschenka will sofort zu ihm reisen und schickt ihre Besucher fort. Aljoscha soll Dmitrij noch von ihr ausrichten, dass ein Schuft sie nun bekomme, und er sich über das Stündchen freuen solle, für das sie ihn geliebt habe.
+
+Der Offizier habe bloss seine Stellung verloren und mitbekommen, dass Gruschenka mittlerweile zu Geld gekommen sei, worin das ganze Wunder von Gruschenkas Bekehrung liege, spottet Rakitin. Als Aljoscha nicht auf diese Provokation reagiert, entfernt sich Rakitin wütend von ihm.
+
