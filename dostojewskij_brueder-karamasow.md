@@ -692,3 +692,13 @@ Da kommt der Brief vom Offizier an: Gruschenka will sofort zu ihm reisen und sch
 
 Der Offizier habe bloss seine Stellung verloren und mitbekommen, dass Gruschenka mittlerweile zu Geld gekommen sei, worin das ganze Wunder von Gruschenkas Bekehrung liege, spottet Rakitin. Als Aljoscha nicht auf diese Provokation reagiert, entfernt sich Rakitin wütend von ihm.
 
+### IV) Zu Kana in Galiläa
+
+Um neun Uhr kommt Aljoscha beim Kloster an, wo er entgegen der Regel noch Einlass findet. In der Zelle liest Vater Paissij über dem Sarg aus dem Evangelium. Das Fenster wurde mittlerweile wegen des stärker werdenden Verwesungsgeruchs geöffnet.
+
+Aljoscha kniet sich zum Gebet nieder, doch wird dabei immer wieder von losen Gedankenfetzen abgelenkt. Gerade wird vom ersten Wunder an der Hochzeit von Kana gelesen, wo Jesus das Wasser in Wein verwandelte. Im Traum sieht sich der kniend eingeschlafene Aljoscha an diesem Hochzeitsfest, wo auch Starez Sossima zugegen ist. Sie allen seien eingeladen, weil sie ein Zwiebelchen gereicht hätten. Auch Aljoscha habe an diesem Tag einer Dürstenden ein Zwiebelchen gereicht.
+
+Als er erwacht, schaut er zunächst zum Sarg, stürzt dann aus der Zelle. Er betrachtet den klaren Sternenhimmel, stürzt auf die Erde nieder, küsst und umarmt sie ‒ und tränkt sie schliesslich mit seinen Tränen der Verzückung. Da spürt er, wie sich etwas aus dem Himmelsgewölbe in seine Seele herabsenkt und erhebt sich, als sei er ein neuer Mensch geworden.
+
+Er verlässt das Kloster drei Tage später, wie es ihn der Starez geheissen hat.
+
