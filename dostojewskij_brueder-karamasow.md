@@ -664,11 +664,11 @@ Weiter will er Aljoscha mit zu Gruschenka nehmen, worauf dieser zu Rakitins Übe
 
 ### III) Das Zwiebelchen
 
-Gruschenkas Gönner, der Kaufmann Samsonow, liess das damals achtzehnjährige Mädchen im Hinterhaus vom Anwesen der Kaufmannswitwe Morosowa einquartieren, damit diese ihren strengen Blick auf sie werfe. Mit siebzehn Jahren habe sich Gruschenka von einem Offizier verführen lassen, der sie dann im Stich gelassen habe.
+Gruschenkas Gönner, der Kaufmann Samssonow, liess das damals achtzehnjährige Mädchen im Hinterhaus vom Anwesen der Kaufmannswitwe Morosowa einquartieren, damit diese ihren strengen Blick auf sie werfe. Mit siebzehn Jahren habe sich Gruschenka von einem Offizier verführen lassen, der sie dann im Stich gelassen habe.
 
-Aus dem einst mageren und mitleiderregenden Mädchien ist mittlerweile eine stattliche wie dreiste Schönheit geworden, die sich aufs Geschäftemachen versteht. Von Samsonow, zu dem sie ein gegenseitiges Vertrauensverhältnis unterhält, bekam sie achttausend Rubel; in seinem Testament taucht ihr Name jedoch nicht auf.
+Aus dem einst mageren und mitleiderregenden Mädchien ist mittlerweile eine stattliche wie dreiste Schönheit geworden, die sich aufs Geschäftemachen versteht. Von Samssonow, zu dem sie ein gegenseitiges Vertrauensverhältnis unterhält, bekam sie achttausend Rubel; in seinem Testament taucht ihr Name jedoch nicht auf.
 
-Das Buhlen Fjodor Pawlowitschs um sie nimmt Samsonow mit Belustigung zur Kenntnis ‒ dasjenige von Dmitrij bereitet ihm hingegen Sorgen. Gruschenka solle sich nur auf den alten Karamasow einlassen, wenn er sie heirate und ihr vorher eine gewisse Summe überlasse. Auf Dmitrij solle sie sich hingegen nicht einlassen. Man sagt, dass sie ihn nur aus Angst vor ihm empfange.
+Das Buhlen Fjodor Pawlowitschs um sie nimmt Samssonow mit Belustigung zur Kenntnis ‒ dasjenige von Dmitrij bereitet ihm hingegen Sorgen. Gruschenka solle sich nur auf den alten Karamasow einlassen, wenn er sie heirate und ihr vorher eine gewisse Summe überlasse. Auf Dmitrij solle sie sich hingegen nicht einlassen. Man sagt, dass sie ihn nur aus Angst vor ihm empfange.
 
 Über den unerwarteten Besuch Rakitins und Aljoschas ist sie sichtlich erschrocken, denn sie fürchtet sich einerseits vor dem Besuch Dmitrijs und wartet andererseits auf eine Nachricht. Gruschenka zeigt sich erfreut über Aljoschas Besuch und setzt sich sogleich auf dessen Schoss, wobei Aljoscha plötzlich keine Angst mehr vor ihr empfindet, sondern grosses Interesse für die im Gegensatz zum letzten Aufeinandertreffen völlig natürlich und unverstellt auftretende Gruschenka zeigt.
 
@@ -701,4 +701,20 @@ Aljoscha kniet sich zum Gebet nieder, doch wird dabei immer wieder von losen Ged
 Als er erwacht, schaut er zunächst zum Sarg, stürzt dann aus der Zelle. Er betrachtet den klaren Sternenhimmel, stürzt auf die Erde nieder, küsst und umarmt sie ‒ und tränkt sie schliesslich mit seinen Tränen der Verzückung. Da spürt er, wie sich etwas aus dem Himmelsgewölbe in seine Seele herabsenkt und erhebt sich, als sei er ein neuer Mensch geworden.
 
 Er verlässt das Kloster drei Tage später, wie es ihn der Starez geheissen hat.
+
+## Achtes Buch: Mitja
+
+### I) Kusjma Samssonow
+
+Dmitrij, dessen Brüder ihn zwei Tage lang vergebens gesucht haben, quält sich derweil mit der Frage, ob Gruschenka sich für ihn oder für seinen Vater entscheiden werde. Im Offizier, der bald zu Gruschenka kommen möchte, wähnt er keinen Nebenbuhler, obwohl Gruschenka ihm dessen Brief vor einem Monat zeigte; zu fest ist Dmitrij auf den kommenden Zusammenstoss mit seinem Vater fokussiert.
+
+Mit Gruschenka, wenn sie sich denn für ihn entscheide, möchte er weit weg reisen um sich inkognito mit ihr niederzulassen ‒ um anschliessend mit ihr ein tugendhaftes Leben zu führen. Da ihm hierzu das Geld fehlt, er aus Stolz nicht von Gruschenkas Geld leben will und stärker werdende Gewissensbisse wegen der unterschlagenen dreitausend Rubel von Katerina Iwanowna hat, die er ihr zuallererst zurückgeben möchte, will er das fehlende Geld nun schnellstmöglich selber auftreiben.
+
+In Gruschenkas Gönner Kusjma Samssonow sieht Dmitrij einen Verbündeten, von dem er glaubt, dass er Gruschenka lieber in der Ehe mit ihm als mit seinem Vater sehen würde. Er beschliesst, bei Samssonow wegen seines Plans vorzusprechen, wird aber erst zu ihm vorgelassen, als er diesen in einem Zettel darüber informiert, dass es eine dringende Angelegenheit Gruschenkas betreffe.
+
+Nervös und verunsichert spricht er beim greisen, kranken und schwachen Kaufmann vor: Ein Advokat habe ihm versichert, dass er der rechtmässige Erbe des Dorfes Tscheremaschnja sei, er selber aber dies vor der Justiz nicht durchsetzen könne. Darum wolle er die Erbrechte an Samssonow für dreitausend Rubel abtreten; dieser könne nach gewonnenem Prozess mit einem Gewinn von sechs- bis siebentausend Rubel rechnen. Mit diesem Geschäft, dass er am liebsten sofort tätigen wolle, würde sich auch der Streit um Gruschenka lösen, was sicherlich in seinem Sinne als väterlichen Gönner sei.
+
+Er selber wolle mit solchen Geschäften nichts zu tun haben, entgegnet Samssonow, doch der Geschäftsmann Ljagawyj, der mit Fjodor Pawlowitsch derzeit über ein Waldstück in diesem Dorf verhandle, dürfte sicherlich daran interessiert sein. 
+
+Dmitrij bedankt sich bei ihm für diesen Vorschlag, und obwohl er noch zweifelt, ob der Alte ihn vielleicht nicht doch zum Narren hält, will er sich sogleich auf den Weg machen. Seinen Sohn weist Samssonow unter unausgesprochener Drohung an, Dmitrij nicht mehr auf seinen Hof zu lassen. Er hat ihn wissentlich in die Irre geführt.
 
