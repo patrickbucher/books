@@ -718,3 +718,13 @@ Er selber wolle mit solchen Geschäften nichts zu tun haben, entgegnet Samssonow
 
 Dmitrij bedankt sich bei ihm für diesen Vorschlag, und obwohl er noch zweifelt, ob der Alte ihn vielleicht nicht doch zum Narren hält, will er sich sogleich auf den Weg machen. Seinen Sohn weist Samssonow unter unausgesprochener Drohung an, Dmitrij nicht mehr auf seinen Hof zu lassen. Er hat ihn wissentlich in die Irre geführt.
 
+### II) Ljagawyj
+
+Um das Geld für die Reise aufzutreiben veräussert der vormals wohlhabende Dmitrij eine alte Silberuhr für sechs Rubel und leiht sich drei weitere Rubel von seinen Wirtsleuten. Seine Abwesenheit sollen sie geheim halten, damit niemand diese Gelegenheit gegen ihn ausnutzen könne.
+
+Den Gastgeber von Ljagawyj, Pater Pawel, findet Dmitrij erst spät am Tag im Nachbardorf auf. Widerwillig begleitet er Dmitrij zum neuen Aufenthaltsort Ljagawyjs bei einem Waldhüter im nächsten Ort. Der Geistliche, der selber mit Fjodor Pawlowitsch zu schaffen hat, weist Dmitrij darauf hin, dass Ljagawyj unbedingt als "Gorstkin" angesprochen werden wolle, da er sich sonst beleidigt fühle. (Dass Samssonow Dmitrij an "Ljagawyj" statt an "Gorstkin" verwiesen hat, bestätigt den Verdacht, dass er Dmitrij in die Irre führen wollte.)
+
+Beim Waldhüter angekommen treffen sie dessen Gast schlafend und betrunken an. Dmitrij versucht ihn erfolglos zu wecken, doch der Pater hält dies für sinnlos, da Ljagawyj ja doch nicht verhandlungsfähig sei. Der Pater macht sich auf den Rückweg, und Dmitrij will Wache neben dem Schlafenden halten, schläft dann aber selber ein.
+
+Am nächsten Morgen ist Ljagawyj zwar wach, doch bereits wieder betrunken als Dmitrij zu sich kommt. Als Ljagawyj ihm kein einziges Wort glaubt und ihn als Gauner bezeichnet, versteht Dmitrij, dass er zum Narren gehalten worden ist. Er eilt zurück nach Hause, wo er sofort Gruschenka aufsuchen will. Unterwegs legt er sich hierzu einen neuen, "unfehlbaren" Plan zurecht.
+
