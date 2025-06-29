@@ -742,5 +742,19 @@ Als Dmitrij bei ihr auftaucht, habe sie ihn angeblich bereits erwartet. Er werde
 
 Erbost stürzt Dmitrij davon und überrennt draussen die Magd Samssonows. Von ihr erfährt er, dass Gruschenka kurz bei ihnen gewesen sei, sich über eine Geschichte Samssonows amüsiert habe ‒ aber darauf gleich wieder wegging. 
 
-Er eilt zu Gruschenka, die bei seiner Ankunft bereits zu ihrem Offizier abgereist ist. Ihre Zofe Fenja will von nichts wissen, was Dmitrij ihr nicht glaubt. Er stürmt aus dem Haus und greift sich beim Herausgehen noch einen herumstehenden Mörser aus Messing. Fenja glaubt, dass er damit jemanden umbringen will!
+Er eilt zu Gruschenka, die bei seiner Ankunft bereits zu ihrem Offizier abgereist ist. Ihre Zofe Fenja will von nichts wissen, was Dmitrij ihr nicht glaubt. Er stürmt aus dem Haus und greift sich beim Herausgehen noch einen herumstehenden Messing-Stössel aus einem Mörser. Fenja glaubt, dass er damit jemanden umbringen will!
+
+### IV) Im Dunkeln
+
+Über einen Umweg gelangt Dmitrij zum Haus seines Vaters, wo er über den Zaun in den Garten gelangt. Er schleicht sich zum Fenster des Schlafzimmers, in dem eine Lampe brennt, und versteckt sich hinter den Büschen. Im Zimmer sieht er seinen Vater, der einen Morgenmantel und immer noch einen Verband um den Kopf trägt.
+
+Zwar vermutet er Gruschenka hinter dem Wandschirm im selben Zimmer, das Verhalten seines Vaters deutet aber eher darauf hin, dass er alleine ist. Er klopft das Zeichen, das gemäss Smerdjakows und Fjodor Pawlowitschs Abmachung die Ankunft Gruschenkas anzeigen soll, worauf letzterer ans Fenster tritt, es öffnet und nach Gruschenka fragt. Er erwähnt ein Geschenk, das es für sie bereithalte ‒ die dreitausend Rubel, denkt sich Dmitrij. Der Anblick von Fjodor Pawlowitschs Gesicht widert Dmitrij dermassen an, dass er den Stössel aus der Tasche zieht.
+
+Zu dieser Zeit erwacht Grigorij und begibt sich in den Garten um dort nach dem Rechten zu sehen. Er schliesst das noch offenstehende Gartentor ab, worauf er im Garten das noch geöffnete und beleuchtete Fenster erblickt, in dem mittlerweile niemand mehr zu sehen ist.
+
+Da fällt ihm ein sich schnell bewegender Schatten auf, dem er sofort nacheilt. Er kann gerade noch das Bein des sich über den Zaun Flüchtenden festhalten. Diesen erkennt er als Dmitrij und ruft bei seinem Anblick sogleich "Vatermörder!" aus, bevor er wie vom Blitz getroffen zu Boden sinkt.
+
+Dmitrij wirft den Mörser weg und versucht das Blut von Grigorijs Stirn mit einem Taschentuch abzuwischen, das sich jedoch sofort mit dem herausspritzenden Blut vollsaugt. Er flüchtet über den Zaun, rennt weg, wobei er von Passanten gesehen wird und steckt sich das blutdurchtränkte Taschentuch in die Hintertasche.
+
+Er gelangt zum Haus Gruschenkas, wo Fenjas Anweisung, Dmitrij auf keinen Fall einzulassen, nicht bis zum Burschen durchdringt, der an der Pforte steht. Dieser informiert Dmitrij sogar über Gruschenkas Abreise, wonach Dmitrij bei Fenja hereinstürmt.
 
