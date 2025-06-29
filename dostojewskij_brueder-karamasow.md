@@ -220,7 +220,7 @@ Zu dieser Zeit schlägt Dmitrij das Erbe aus, wofür er mit sechstausend Rubel a
 
 Tatsächlich lässt der Kaufmann Trifonow, der bisher immer zuverlässige Revisor des Obersten, die ihm anvertraute Regimentskasse verschwinden und streitet ab, diese je in seine Obhut genommen zu haben. Der Oberst will sich darauf das Leben nehmen, was Katerina gerade noch verhindern kann.
 
-Sie ersucht Dmitrij um die viertausendfündhundert Rubel. Dieser ringt zunächst mit dem Gedanken, sein Angebot gegenüber Agafja als einen Scherz preiszugeben, um sich so an Katerina für ihre Hochnäsigkeit ihm gegenüber zu rächen. Er kommt von diesem Gedanken ab, übergibt ihr einen Wechsel über fünftausend Ruben, worauf sie sich ihm zu Füssen wirft.
+Sie ersucht Dmitrij um die viertausendfündhundert Rubel. Dieser ringt zunächst mit dem Gedanken, sein Angebot gegenüber Agafja als einen Scherz preiszugeben, um sich so an Katerina für ihre Hochnäsigkeit ihm gegenüber zu rächen. Er kommt von diesem Gedanken ab, übergibt ihr einen Wechsel über fünftausend Rubel, worauf sie sich ihm zu Füssen wirft.
 
 ### V) Die Beichte eines heissen Herzens. "Kopfüber"
 
@@ -727,4 +727,20 @@ Den Gastgeber von Ljagawyj, Pater Pawel, findet Dmitrij erst spät am Tag im Nac
 Beim Waldhüter angekommen treffen sie dessen Gast schlafend und betrunken an. Dmitrij versucht ihn erfolglos zu wecken, doch der Pater hält dies für sinnlos, da Ljagawyj ja doch nicht verhandlungsfähig sei. Der Pater macht sich auf den Rückweg, und Dmitrij will Wache neben dem Schlafenden halten, schläft dann aber selber ein.
 
 Am nächsten Morgen ist Ljagawyj zwar wach, doch bereits wieder betrunken als Dmitrij zu sich kommt. Als Ljagawyj ihm kein einziges Wort glaubt und ihn als Gauner bezeichnet, versteht Dmitrij, dass er zum Narren gehalten worden ist. Er eilt zurück nach Hause, wo er sofort Gruschenka aufsuchen will. Unterwegs legt er sich hierzu einen neuen, "unfehlbaren" Plan zurecht.
+
+### III) Die Goldminen
+
+Dmitrij sucht Gruschenka an dem Abend auf, an dem sie noch Besuch von Rakitin und Aljoscha und die erwartete Nachricht von ihrem Offizier bekommen soll. Unter dem Vorwand, dass sie bei Samssonow noch Geld zählen müsse, lässt sie sich von Dmitrij dorthin begleiten. Er soll sie um Mitternacht dort wieder abholen kommen.
+
+Dmitrij gehört zu der Sorte Eifersüchtiger, die sofort zum Verzeihen bereit sind, wenn sie das unschuldige Gesicht ihrer Angebeteten zu sehen bekommen und Gewissheit darüber haben, dass der Nebenbuhler nicht mehr auftauche, aber sofort einen neuen Verdacht schöpfen, auch wenn sie den Anlass hierzu erfinden müssen.
+
+Da er all sein Geld für die Reise ausgegeben hat, versetzt er seine Duellierpistolen für zehn Rubel. Von der Nachbarin seines Vaters erfährt er, dass Iwan abgereist sei und Smerdjakow einen Sturz mit darauffolgendem Anfall erlitten habe. Es sei aber niemand zum väterlichen Haus gekommen.
+
+Nun schreitet Dmitrij zur Ausführung seines "Plans": Er will seine Rechte am Dorf Tscheremaschnja der Chochlakowa als Pfand für ein Darlehen in der Höhe von dreitausend Rubel hinterlegen. Diese werde bestimmt darauf eingehen, da er sich mit diesem Geld von Katerina Iwanowna lösen könne, die dann seinen Bruder Iwan heiraten werde ‒ was ganz im Sinne der Chochlakowa sei.
+
+Als Dmitrij bei ihr auftaucht, habe sie ihn angeblich bereits erwartet. Er werde nicht nur die verlangten dreitausend Rubel bekommen, sondern unendlich mehr, denn er werde eine Goldader entdecken und mit Goldminen reich werden! Statt der erhofften dreitausend Rubel überreicht sie ihm eine Ikone der Märtyrerin Warwara, die sie ihm sogleich umhängt, worauf er sich auf den Weg machen soll. Geld habe sie keines, und sie würde auch keines verleihen, wenn sie welches hätte.
+
+Erbost stürzt Dmitrij davon und überrennt draussen die Magd Samssonows. Von ihr erfährt er, dass Gruschenka kurz bei ihnen gewesen sei, sich über eine Geschichte Samssonows amüsiert habe ‒ aber darauf gleich wieder wegging. 
+
+Er eilt zu Gruschenka, die bei seiner Ankunft bereits zu ihrem Offizier abgereist ist. Ihre Zofe Fenja will von nichts wissen, was Dmitrij ihr nicht glaubt. Er stürmt aus dem Haus und greift sich beim Herausgehen noch einen herumstehenden Mörser aus Messing. Fenja glaubt, dass er damit jemanden umbringen will!
 
