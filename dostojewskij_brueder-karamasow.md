@@ -758,3 +758,25 @@ Dmitrij wirft den Mörser weg und versucht das Blut von Grigorijs Stirn mit eine
 
 Er gelangt zum Haus Gruschenkas, wo Fenjas Anweisung, Dmitrij auf keinen Fall einzulassen, nicht bis zum Burschen durchdringt, der an der Pforte steht. Dieser informiert Dmitrij sogar über Gruschenkas Abreise, wonach Dmitrij bei Fenja hereinstürmt.
 
+### V) Der überraschende Entschluss
+
+Mit blutverschmierten Händen und Blutflecken im Gesicht packt Dmitrij Fenja an der Kehle und will von ihr wissen, mit wem Gruschenka in Mokroje sei. Fenja antwortet, dass es sich um den Offizier von damals handle ‒ und Dmitrij versteht sofort alles.
+
+Er wundert sich darüber, wie er den Offizier trotz Kenntnis seines Briefs an Gruschenka bloss ignorieren konnte. Er fragt Fenja über alle Einzelheiten aus, und sie antwortet ihm bereitwillig und aufrichtig. Nachdenklich verlässt er die Szene mit den Worten, dass er des Morgens über einen hohen und abweisenden Zaun setzen werde.
+
+Dmitrij geht weiter zu Pjotr Iljitsch Perchotin, dem er zuvor seine Duellierpistolen verpfändet hat. Diese will er nun bereits wieder auslösen, wozu er bereits einen Stoss Geldscheine in der rechten Hand bereithält. Perchotin fallen die Blutflecken an Händen, im Gesicht und an der Kleidung von Dmitrij auf, worauf er ihn an den Waschtisch führt.
+
+Da Dmitrij nur Hundert-Rubel-Scheine hat, und Perchotin ihm nicht auf zehn Rubel für die Pistolen herausgegben kann, schickt er seinen Burschen zu Plotnikows Feinkostgeschäft zum Geldwechseln. Da kommt Dmitrij ein Einfall: Der Bursche soll bei Plotnikows gleich Champagner und eine Vielzahl anderer Spezialitäten bestellen ‒ wie damals, als er mit Gruschenka in Mokroje war! Perchotin meint, dass Dmitrij besser selber vorbeigehe, da sein Bursche diese grosse Bestellung ansonsten durcheinander bringe.
+
+Perchotin hilft Dmitrij beim Waschen und erkundigt sich, ob er sich geprügelt habe. Dieser antwortet ihm nur, dass er jemanden über den Haufen gerannt habe, aber mit dieser Person in Frieden auseinandergegangen sei. Als sich Perchotin über den plötzlichen Reichtum wundert und fragt, ob Dmitrij etwa eine Goldmine besitze, verweist dieser ihn an die Chochlakowa: bei ihr könne er sich morgen erkundigen, ob das Geld (dreitausend Rubel seien es) von ihr stamme.
+
+Dmitrij lädt eine Pistole, wobei er die Kugel im Kerzenlicht betrachtet. Auf Perchotins Frage, warum er das tue, antwortet er, dass es interessant sei sie anzusehen, wo sie doch in sein Gehirn eindringen werde, tut dies aber sogleich wieder als Blödsinn ab.
+
+Als der Bursche zurückkommt, Dmitrij über die Bestellung informiert und ihm das Wechselgeld übergibt, wovon Perchotin die zehn Rubel für die Pistolen zurückerhält, fordert Dmitrij Perchotin auf, mit ihm nach Mokroje zu kommen. Weiter gibt er ihm ein Rätsel auf: "Ich richte mich für mein ganzes Leben, mein ganzes Leben strafe ich!" ‒ Zeilen, die er sich gerade eben bei Perchotin auf ein Blatt Papier geschrieben hat.
+
+Die beiden begeben sich zu Plotnikows Geschäft, wo bereits eine Trojka auf Dmitrij wartet. Es soll Ware für vierhnundert Rubel eingepackt werden, wovon der grösste Teil mit einer zusätzlichen Trojka nachgeliefert werden soll. Im Hinterzimmer stossen die beiden mit Champagner an, wobei Dmitrij erwähnt, dass er ein "gewisses stinkendes Insekt austilgen" wolle.
+
+Nach Begleichung der Rechnung ‒ Perchotin konnte die Bestellung auf dreihundert Rubel verringern ‒ betritt Dmitrij die Kutsche, wobei er von der herbeigeeilten Fenja aufgehalten wird: Er solle Erbarmen mit Gruschanka und dem Offizier haben, fleht sie ihn an, worauf Perchotin die Pistolen zurückverlangt. Dmitrij wolle diese auf dem Weg in eine Pfütze werfen; er lässt abfahren.
+
+Perchotin vermutet, dass sich Dmitrij bloss prügeln werde und macht sich auf ins Gasthaus, wo er erfahren will, von wem die Blutflecken stammen. Beim Billard erzäht er vom Vorfall, verschweigt jedoch die Blutflecken. Auf dem Heimweg will er sich zuerst im Haus von Fjodor Pawlowitsch erkundigen, was er sogleich wieder verwirft, dann aber doch im Hause von Gruschenka vorbeigehen, wo bereits alles schläft.
+
