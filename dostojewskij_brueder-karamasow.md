@@ -780,3 +780,17 @@ Nach Begleichung der Rechnung ‒ Perchotin konnte die Bestellung auf dreihunder
 
 Perchotin vermutet, dass sich Dmitrij bloss prügeln werde und macht sich auf ins Gasthaus, wo er erfahren will, von wem die Blutflecken stammen. Beim Billard erzäht er vom Vorfall, verschweigt jedoch die Blutflecken. Auf dem Heimweg will er sich zuerst im Haus von Fjodor Pawlowitsch erkundigen, was er sogleich wieder verwirft, dann aber doch im Hause von Gruschenka vorbeigehen, wo bereits alles schläft.
 
+### VI) Komme in eigener Person!
+
+Auf der Fahrt nach Mokroje empfindet Dmitrij nicht die leiseste Eifersucht gegenüber dem Offizier, zumal er Gruschenkas erste Liebe sei, und er sei dieser bloss in die Quere gekommen. Zwar spielt er schon während der Fahrt mit dem Gedanken, mit der Pistole aus der Kutsche zu springen und allem ein Ende zu setzen, doch möchte er Gruschenka unbedingt noch einmal sehen und auch den Sonnenaufgang erleben.
+
+Auf seine geäusserte Befürchtung, dass schon alle schlafen könnten, entgegnet der Kutscher Andrej, dass er von seinem Kollegen erfahren habe, dass sie zuletzt in der Herberge mit dem Kartenspiel begonnen hätten und es also gut möglich sei, dass sie noch immer dabei sässen. Dmitrij erkundigt sich bei Andrej, ob dieser bereit sei, ihm für alles zu vergeben, wodurch diesem der Gedanke, Andrej in äusserster Eile ans Ziel zu bringen, langsam unangenehm wird.
+
+Beim Erreichen der Herberge brennt in dieser ‒ sehr zur Freude Dmitrijs ‒ in allen Fenstern Licht. Der sonst schon wohlhabende Wirt Plastunow, der sich an Dmitrijs letzter Orgie vor einem Monat eine goldene Nase verdiente, begrüsst ihn vor seiner Herberge.
+
+Dmitrij erkundigt sich nach den Gästen und erfährt, dass neben Gruschenka mit ihrem Polen (er sei kein Offizier, so Plastunow) auch Maximow mit einem Neffen Miussows (Kalganow) anwesend sei. Dmitrij will, dass der Wirt wie beim letzten Mal Zigeuner zum Musizieren herbeischaffe, doch es seien nur Juden und Dorfmädchen da, die der Wirt zur gebotenen Summe aber gerne aufwecken und herbringen wolle.
+
+Bei seinem letzten Besuch habe er dreitausend Rubel verheizt, und so viel habe er auch heute dabei. Selbst dem Kutscher Andrej will er fünfzig Rubel Trinkgeld geben, dieser begnügt sich aber mit deren fünf, was der Wirt bezeugen soll.
+
+Dieser soll Dmitrij an einen Platz in der Herberge führen, von wo aus er Gruschenka in der Gaststube beobachten könne, ohne dabei selbst gesehen zu werden. Von dort aus sieht er den Offizier mit seinem Begleiter, einen lauthals lachenden Maximow, über den sich der gegenüber sitzende Kalganow offenbar ärgert, sowie Gruschenka, die Kalganows Hand hält. Dmitrij hält das nicht aus, verlässt seinen Posten und geht auf Gruschenka zu.
+
