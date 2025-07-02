@@ -788,9 +788,25 @@ Auf seine geäusserte Befürchtung, dass schon alle schlafen könnten, entgegnet
 
 Beim Erreichen der Herberge brennt in dieser ‒ sehr zur Freude Dmitrijs ‒ in allen Fenstern Licht. Der sonst schon wohlhabende Wirt Plastunow, der sich an Dmitrijs letzter Orgie vor einem Monat eine goldene Nase verdiente, begrüsst ihn vor seiner Herberge.
 
-Dmitrij erkundigt sich nach den Gästen und erfährt, dass neben Gruschenka mit ihrem Polen (er sei kein Offizier, so Plastunow) auch Maximow mit einem Neffen Miussows (Kalganow) anwesend sei. Dmitrij will, dass der Wirt wie beim letzten Mal Zigeuner zum Musizieren herbeischaffe, doch es seien nur Juden und Dorfmädchen da, die der Wirt zur gebotenen Summe aber gerne aufwecken und herbringen wolle.
+Dmitrij erkundigt sich nach den Gästen und erfährt, dass neben Gruschenka mit ihrem Polen (er sei kein Offizier, so Plastunow) auch Maximov mit einem Neffen Miussows (Kalganow) anwesend sei. Dmitrij will, dass der Wirt wie beim letzten Mal Zigeuner zum Musizieren herbeischaffe, doch es seien nur Juden und Dorfmädchen da, die der Wirt zur gebotenen Summe aber gerne aufwecken und herbringen wolle.
 
 Bei seinem letzten Besuch habe er dreitausend Rubel verheizt, und so viel habe er auch heute dabei. Selbst dem Kutscher Andrej will er fünfzig Rubel Trinkgeld geben, dieser begnügt sich aber mit deren fünf, was der Wirt bezeugen soll.
 
-Dieser soll Dmitrij an einen Platz in der Herberge führen, von wo aus er Gruschenka in der Gaststube beobachten könne, ohne dabei selbst gesehen zu werden. Von dort aus sieht er den Offizier mit seinem Begleiter, einen lauthals lachenden Maximow, über den sich der gegenüber sitzende Kalganow offenbar ärgert, sowie Gruschenka, die Kalganows Hand hält. Dmitrij hält das nicht aus, verlässt seinen Posten und geht auf Gruschenka zu.
+Dieser soll Dmitrij an einen Platz in der Herberge führen, von wo aus er Gruschenka in der Gaststube beobachten könne, ohne dabei selbst gesehen zu werden. Von dort aus sieht er den Offizier mit seinem Begleiter, einen lauthals lachenden Maximov, über den sich der gegenüber sitzende Kalganow offenbar ärgert, sowie Gruschenka, die Kalganows Hand hält. Dmitrij hält das nicht aus, verlässt seinen Posten und geht auf Gruschenka zu.
+
+### VII) Der Einstige und Unbestrittene
+
+Dmitrij verkündet seine Absicht, nur diesen einen Abend als Durchreisender in ihrer Gesellschaft verbringen zu wollen. Gruschenkas damaliger Verführer, ein kleiner Pole, lehnt das ab, denn es sei eine private Gesellschaft. Kolganow hingegen nimmt ihn herzlich in die Runde auf. Dmitrij wolle seine letzte Nacht mit Champagner und Musik begehen, wobei er sein Geldbündel vorzeigt; er wolle mit dem Polena auf die Versöhnung anstossen. Gruschenka und ihr Verführer akzeptieren das, worauf Dmitrij in Tränen ausbricht.
+
+Der Pole ist klein, rundlich, trägt eine schäbige Perücke und ein feines Schnurrbärtchen. Er wird von einem gross gewachsenen Polen begleitet; offenbar eine Art "Leibwächter" von ihm. Maximov erzählt Geschichten aus seinem Leben: seine erste Frau sei aus Polen gekommen, seine zweite Frau habe ihm sein Gut abgenommen und sei dann durchgebrannt. Weiter vergleicht er sich mit der gleichnamigen Romanfigur Maximov aus Gogols "Toten Seelen", zumal er auch einmal ausgepeitscht worden sei.
+
+Dmitrij will mit den beiden Polen anstossen, da er bemerkt, wie sich die Stimmung anspannt: Zuerst auf Polen, dann auf Russland ‒ wobei der "Leibwächter" auf letzteres nur "in den Grenzen von 1772" trinken will. Darauf entbrennt ein Streit, den Dmitrij aber durch seine Entschuldigung schlichten kann.
+
+Man beschliesst Karten zu spielen. Der kleine Pole besteht darauf, ein versiegeltes Kartenspiel vom Wirt zu verwenden. Dieser informiert Dmitrij sogleich über das Eintreffen der ersten Musikanten, denen Dmitrij sofort Anweisungen erteilen und vom mitgebrachten Naschwerk geben will. Zurück am Tisch verliert Dmitrij ein Spiel nach dem anderen; insgesamt zweihundert Rubel, bis Kalganow, der vorher bereits fünfzig Rubel an die beiden verloren hat, Dmitrij zum Aufhören drängt ‒ sehr zum Ärger der beiden Polen.
+
+Da kommt Dmitrij eine Idee: er führt den kleinen Polen ins Nebenzimmer, wohin ihm auch dessen "Leibwächter" folgt. Dmitrij bietet ihm dreitausend, wenn er ein für alle mal verschwinde: fünfhundert sofort, den Rest morgen. Der kleine Pole will die Anzahlung zunächst auf siebenhundert Rubel erhöhen, lehnt dann aber doch ab und kehrt zurück zum Rest der Gesellschaft.
+
+Als er Gruschenka von diesem Angebot erzählt, ärgert sich diese, denn sie sei schliesslich nicht käuflich. Als Dmitrij ergänzt, dass der Pole die dreitausend bloss sofort gewollt und dann gleich abgereist wäre, wird Gruschenka auf ihren Verführer wütend: er wolle sie nur heiraten, weil ihm zu Ohren gekommen sei, dass sie Geld habe!
+
+Der Wirt tritt hinzu und zeigt, dass die Polen mit falschen Karten gespielt haben, indem er das noch versiegelte Kartenspiel aus dem Sofa zieht. Kalganow bestätigt den Verdacht, denn ihm sei der Betrug ebenfalls aufgefallen. Weder er noch Dmitrij möchten ihr Geld zurückhaben; sie sperren die beiden Polen aus.
 
