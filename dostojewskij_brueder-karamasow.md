@@ -70,7 +70,7 @@ Als die Streitigkeiten um das Vermögen in der Familie Karamasow nicht geschlich
 
 Am Tag der Zusammenkunft treffen die Herrschaften in zwei Kutschen ein: In der ersten Miussow mit seinem entfernten Verwandten Pjotr Fomitsch Kalganow, der bald sein Studium aufnehmen möchte; und in der zweiten Fjodor Pawlowitsch in Begleitung seines Sohnes Iwan. Dmitrij fehlt jedoch.
 
-Die Besucher werden vom Gutsbesitzer Maximov empfangen, der sie zur Einsiedelei führen will. Ein herbeigeeilter Mönch lädt die Herrschaften dazu ein, nach der Unterredung mit dem Starez das Mittagessen beim Abt einzunehmen.
+Die Besucher werden vom Gutsbesitzer Maximow empfangen, der sie zur Einsiedelei führen will. Ein herbeigeeilter Mönch lädt die Herrschaften dazu ein, nach der Unterredung mit dem Starez das Mittagessen beim Abt einzunehmen.
 
 Nach verschiedenen sarkastischen Bemerkungen vonseiten Fjodor Pawlowitsch warnt ihn Miussow, er möge sich beim Starez anständig benehmen, denn er fürchtet sich davor, sich beim Starez selber zu erniedrigen, wenn er weiter gereizt wird.
 
@@ -170,7 +170,7 @@ Als die Gäste vom Abt zu einem reich gedeckten Tisch empfangen werden, entschul
 
 Er behauptet, beim Starez sei gebeichtet worden, was der Verletzung eines Sakraments gleichkäme. (Solche Gerüchte, womit das Starzentum in ein schlechtes Licht gerückt werden sollte, kursierten damals.) Weiter beschuldigt er das Kloster im Anbetracht des reich gedeckten Tisches, dass es das arme Volk aussauge. Er selber wolle dem Kloster, das seine Frau gegen ihn aufgebracht haben soll, nie wieder Geld spenden.
 
-Miussow verlässt die Szene angewidert, doch Fjodor Pawlowitsch folgt ihm. Er will auch Aljoscha aus dem Kloster nehmen. Zunächst lädt er aber noch Maximov auf ein Gelage zu sich nach Hause ein. Doch Iwan stösst diesen von der Kutsche, sodass Vater und Sohn schweigend zu zweit nach Hause fahren.
+Miussow verlässt die Szene angewidert, doch Fjodor Pawlowitsch folgt ihm. Er will auch Aljoscha aus dem Kloster nehmen. Zunächst lädt er aber noch Maximow auf ein Gelage zu sich nach Hause ein. Doch Iwan stösst diesen von der Kutsche, sodass Vater und Sohn schweigend zu zweit nach Hause fahren.
 
 ## Drittes Buch: Die Lüstlinge
 
@@ -788,17 +788,17 @@ Auf seine geäusserte Befürchtung, dass schon alle schlafen könnten, entgegnet
 
 Beim Erreichen der Herberge brennt in dieser ‒ sehr zur Freude Dmitrijs ‒ in allen Fenstern Licht. Der sonst schon wohlhabende Wirt Plastunow, der sich an Dmitrijs letzter Orgie vor einem Monat eine goldene Nase verdiente, begrüsst ihn vor seiner Herberge.
 
-Dmitrij erkundigt sich nach den Gästen und erfährt, dass neben Gruschenka mit ihrem Polen (er sei kein Offizier, so Plastunow) auch Maximov mit einem Neffen Miussows (Kalganow) anwesend sei. Dmitrij will, dass der Wirt wie beim letzten Mal Zigeuner zum Musizieren herbeischaffe, doch es seien nur Juden und Dorfmädchen da, die der Wirt zur gebotenen Summe aber gerne aufwecken und herbringen wolle.
+Dmitrij erkundigt sich nach den Gästen und erfährt, dass neben Gruschenka mit ihrem Polen (er sei kein Offizier, so Plastunow) auch Maximow mit einem Neffen Miussows (Kalganow) anwesend sei. Dmitrij will, dass der Wirt wie beim letzten Mal Zigeuner zum Musizieren herbeischaffe, doch es seien nur Juden und Dorfmädchen da, die der Wirt zur gebotenen Summe aber gerne aufwecken und herbringen wolle.
 
 Bei seinem letzten Besuch habe er dreitausend Rubel verheizt, und so viel habe er auch heute dabei. Selbst dem Kutscher Andrej will er fünfzig Rubel Trinkgeld geben, dieser begnügt sich aber mit deren fünf, was der Wirt bezeugen soll.
 
-Dieser soll Dmitrij an einen Platz in der Herberge führen, von wo aus er Gruschenka in der Gaststube beobachten könne, ohne dabei selbst gesehen zu werden. Von dort aus sieht er den Offizier mit seinem Begleiter, einen lauthals lachenden Maximov, über den sich der gegenüber sitzende Kalganow offenbar ärgert, sowie Gruschenka, die Kalganows Hand hält. Dmitrij hält das nicht aus, verlässt seinen Posten und geht auf Gruschenka zu.
+Dieser soll Dmitrij an einen Platz in der Herberge führen, von wo aus er Gruschenka in der Gaststube beobachten könne, ohne dabei selbst gesehen zu werden. Von dort aus sieht er den Offizier mit seinem Begleiter, einen lauthals lachenden Maximow, über den sich der gegenüber sitzende Kalganow offenbar ärgert, sowie Gruschenka, die Kalganows Hand hält. Dmitrij hält das nicht aus, verlässt seinen Posten und geht auf Gruschenka zu.
 
 ### VII) Der Einstige und Unbestrittene
 
 Dmitrij verkündet seine Absicht, nur diesen einen Abend als Durchreisender in ihrer Gesellschaft verbringen zu wollen. Gruschenkas damaliger Verführer, ein kleiner Pole, lehnt das ab, denn es sei eine private Gesellschaft. Kolganow hingegen nimmt ihn herzlich in die Runde auf. Dmitrij wolle seine letzte Nacht mit Champagner und Musik begehen, wobei er sein Geldbündel vorzeigt; er wolle mit dem Polena auf die Versöhnung anstossen. Gruschenka und ihr Verführer akzeptieren das, worauf Dmitrij in Tränen ausbricht.
 
-Der Pole ist klein, rundlich, trägt eine schäbige Perücke und ein feines Schnurrbärtchen. Er wird von einem gross gewachsenen Polen begleitet; offenbar eine Art "Leibwächter" von ihm. Maximov erzählt Geschichten aus seinem Leben: seine erste Frau sei aus Polen gekommen, seine zweite Frau habe ihm sein Gut abgenommen und sei dann durchgebrannt. Weiter vergleicht er sich mit der gleichnamigen Romanfigur Maximov aus Gogols "Toten Seelen", zumal er auch einmal ausgepeitscht worden sei.
+Der Pole ist klein, rundlich, trägt eine schäbige Perücke und ein feines Schnurrbärtchen. Er wird von einem gross gewachsenen Polen begleitet; offenbar eine Art "Leibwächter" von ihm. Maximow erzählt Geschichten aus seinem Leben: seine erste Frau sei aus Polen gekommen, seine zweite Frau habe ihm sein Gut abgenommen und sei dann durchgebrannt. Weiter vergleicht er sich mit der gleichnamigen Romanfigur Maximow aus Gogols "Toten Seelen", zumal er auch einmal ausgepeitscht worden sei.
 
 Dmitrij will mit den beiden Polen anstossen, da er bemerkt, wie sich die Stimmung anspannt: Zuerst auf Polen, dann auf Russland ‒ wobei der "Leibwächter" auf letzteres nur "in den Grenzen von 1772" trinken will. Darauf entbrennt ein Streit, den Dmitrij aber durch seine Entschuldigung schlichten kann.
 
@@ -809,4 +809,20 @@ Da kommt Dmitrij eine Idee: er führt den kleinen Polen ins Nebenzimmer, wohin i
 Als er Gruschenka von diesem Angebot erzählt, ärgert sich diese, denn sie sei schliesslich nicht käuflich. Als Dmitrij ergänzt, dass der Pole die dreitausend bloss sofort gewollt und dann gleich abgereist wäre, wird Gruschenka auf ihren Verführer wütend: er wolle sie nur heiraten, weil ihm zu Ohren gekommen sei, dass sie Geld habe!
 
 Der Wirt tritt hinzu und zeigt, dass die Polen mit falschen Karten gespielt haben, indem er das noch versiegelte Kartenspiel aus dem Sofa zieht. Kalganow bestätigt den Verdacht, denn ihm sei der Betrug ebenfalls aufgefallen. Weder er noch Dmitrij möchten ihr Geld zurückhaben; sie sperren die beiden Polen aus.
+
+### VIII) Irrsinn
+
+Nachdem sowohl die Trojka mit Wein und Speisen als auch die Musiker alle eingetroffen sind, ist die Orgie bald in vollem Gange. Der Wirt sorgt dafür, dass Dmitrij sein Geld nicht völlig wahllos verschleudert und findet es übertrieben, die einfachen Bauern mit derlei Feinkost zu bewirten.
+
+Immer wieder will Dmitrij sich mit Gruschenka unterhalten, wird aber dabei von ihr weggeschickt, denn er solle sich amüsieren gehen! Kalganow ist mittlerweile betrunken, ärgert sich über die unanständigen Lieder und Tänze der Bauernmädchen und schläft auf einem Sofa ein. Maximow amüsiert sich und führt allerlei Tänze auf.
+
+Dmitrij ringt mit der Frage, ob er sich mit der Pistole das Leben nehmen wolle, worauf ihn Gruschenka bereits angesprochen hat: Meint er es ernst damit? Vorher, als er Gruschenka schon für verloren glaubte, war das einfacher; aber jetzt hat er wieder einen Grund zum Leben ‒ und hofft, dass der am Zaun Niedergeschlagene lebt! Er ist bereit dazu, das Geld zurückzubezahlen und alles wiedergutzumachen!
+
+Da finde er Gruschenka weinend vor: Sie habe den Polen wirklich geliebt für die letzten fünf Jahre, dieser sei aber von seiner Frau verdorben worden; jetzt schämt sie sich ihrer Liebe. Als Dmitrij am Abend eingetreten ist, habe sie verstanden, dass sie einzig und alleine ihn liebe. Im Rausch kündigt sie an, später ins Kloster gehen zu wollen, aber heute wolle sie noch tanzen und sich amüsieren.
+
+Dmitrij solle auch die beiden Polen mitfeiern lassen, doch diese beleidigen ihn bloss auf seine Anforderung hin. Als er Gruschenka ‒ mittlerweile völlig betrunken ‒ ins Bett trägt und sie küsst, will sie damit warten, denn in Zukunft soll bei ihnen alles in Ehren geschehen, am liebsten weit weg! Dmitrij gesteht ihr, dass er von Katerina Iwanowna Geld gestohlen habe, doch Gruschenka meint, dass er dieses notfalls von ihr nehmen könne.
+
+Von weitem ist ein Glöckchen zu hören, das plötzlich verstummt ‒ genau wie die Musik. Aus dem Nebenzimmer werden sie von den Angekommenen beobachtet. Dies sind: der Polizeichef Michail Makarytsch, der Zweite Staatsanwalt, der Ermittlungsrichter und der Landkommissar Mawrikij Mawrikitsch.
+
+Dmitrij versteht sofort, und der Polizeichef beschuldigt ihn ‒ des Vatermordes! Der Ermittlungsrichter ermahnt ihn zur Zurückhaltung. Dieser bezeichnet die ganze Szene ‒ der des Mordes Verdächtige mit blutverschmierten Kleidern in Gesellschaft einer Dirne ‒ als "Irrsinn". Der Ermittlungsrichter teilt Dmitrij mit, dass er unter Verdacht stehe seinen Vater ermordet zu haben.
 
