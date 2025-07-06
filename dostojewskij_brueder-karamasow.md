@@ -826,3 +826,13 @@ Von weitem ist ein Glöckchen zu hören, das plötzlich verstummt ‒ genau wie 
 
 Dmitrij versteht sofort, und der Polizeichef beschuldigt ihn ‒ des Vatermordes! Der Ermittlungsrichter ermahnt ihn zur Zurückhaltung. Dieser bezeichnet die ganze Szene ‒ der des Mordes Verdächtige mit blutverschmierten Kleidern in Gesellschaft einer Dirne ‒ als "Irrsinn". Der Ermittlungsrichter teilt Dmitrij mit, dass er unter Verdacht stehe seinen Vater ermordet zu haben.
 
+## Neuntes Buch: Die Voruntersuchung
+
+### I) Die Karriere des Beamten Perchotin nimmt ihren Anfang
+
+Nachdem Perchotin zu später Stunde noch zu Fenja vorgelassen wird, befragt er sie zu Dmitrij. Sie berichtet, dass er den Stössel aus dem Mörser mitgenommen habe, aber ohne diesen dafür mit blutverschmierten Händen zu ihr zurückgekehrt sei. Zwar könne sie nicht mit Sicherheit sagen, ob er dazwischen bei seinem Vater war, aber er habe gestanden, dass es sich um Menschenblut an seinen Händen handle, und dass er jemand umgebracht habe. Sie hatte Angst, dass er nach Mokroje fahren werde um dort Gruschenka umzubringen, und sah, wie er die Kutsche dorthin mit sauberen Händen betrat.
+
+Um einen möglichen Skandal zu vermeiden geht Perchotin als nächstes nicht bei Fjodor Pawlowitsch vorbei, sondern möchte sich zuerst bei der Chochlakowa erkundigen, ob sie nicht vielleicht Dmitrij das Geld gegeben habe. Diese gibt Perchotin widerwillig Auskunft (sie ist bereits fürs Schlafengehen umgekleidet) und ärgert sich darüber, weiter wegen Dmitrij gequält zu werden. Er habe sie vor wenigen Stunden beinahe umbringen wollen, aber Geld habe sie ihm keines gegeben. Sie glaubt an ein Wunder, denn nur weil sie Dmitrij das Ikönchen um den Hals hängte, habe Gott über ihr gewacht ‒ und Dmitrij sie nicht umgebracht.
+
+Perchotin möchte nun zum Polizeichef gehen, doch die Chochlakowa will den jungen, gutaussehenden Beamten kaum gehen lassen. Auf seine Aufforderung hin stellt sie eine schriftliche Bestätigung aus, dass sie Dmitrij niemals Geld gegeben habe. Perchotin macht sich auf den Weg. Die Chochlakowa legt sich entzückt von ihrer neuen Bekanntschaft ins Bett, wo sie trotz der Aufregung bald einen ruhigen Schlaf findet.
+
