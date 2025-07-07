@@ -836,3 +836,19 @@ Um einen möglichen Skandal zu vermeiden geht Perchotin als nächstes nicht bei 
 
 Perchotin möchte nun zum Polizeichef gehen, doch die Chochlakowa will den jungen, gutaussehenden Beamten kaum gehen lassen. Auf seine Aufforderung hin stellt sie eine schriftliche Bestätigung aus, dass sie Dmitrij niemals Geld gegeben habe. Perchotin macht sich auf den Weg. Die Chochlakowa legt sich entzückt von ihrer neuen Bekanntschaft ins Bett, wo sie trotz der Aufregung bald einen ruhigen Schlaf findet.
 
+### II) Alarm
+
+Der Polizeichef Michail Makarowitsch Makarow ist verwitwet und lebt mit seiner ebenfalls bereits verwitweten Tochter und deren beiden Töchtern zusammen. Praktisch täglich empfängt er Gäste zum Essen in seinem Haus, wodurch er den Ruf erlangte, die Gesellschaft der Stadt zu vereinen. Wenig gebildet verrichtet er seine Amtsgeschäfte sorglos aber dennoch akzeptabel.
+
+Auch an diesem Abend ist Besuch beim ihm: der junge Staatsanwalt und Amtsarzt Warwinskij; der Zweite Staatsanwalt Ippolit Kirillowitsch, der seine psychologischen Fähigkeiten zum Durchschauen von Verbrechern gerne überschätzt; sowie der junge Ermittlungsrichter Nikolaj Parfjonowitsch Neljudow.
+
+Als Perchotin entrifft, ist man dort bereits über die Ermordung Fjodor Pawlowitsch Karamasows informiert. Dies hat sich so zugetragen: Durch einen Schrei Smerdjakows, der bei ihm einen eptileptischen Anfall ankündigt, wird Marfa Ignatjewna aufgeweckt. Sie will ihren Mann Grigorij um Hilfe holen, der jedoch nicht im Bett liegt, sondern stöhnend im Garten zu hören ist. Er ist in der Zwischenzeit vom Gartenzaun weggekrochen und kann seiner Frau zu Verstehen geben, dass der Herr des Hauses ermordet worden sei, und sie sofort Leute rufen solle.
+
+Sie erblickt Fjodor Pawlowitsch durch das noch offenstehende Fenster auf dem Rücken in seinem Zimmer liegend und in Blut getränkt. Sie eilt zu ihrer Nachbarin Marja Kondratjewna, die sich an Grigorijs Schrei "Vatermörder!" erinnert. Nachdem Grigorij ins Haus gebracht und fürs erste verarztet worden ist, überzeugt man sich davon, dass Fjodor Pawlowitsch wirklich tot ist. Grigorij befiehlt, sofort den Polizeichef zu informieren.
+
+Dort trifft Marfa Ignatjewna fünf Minuten vor Perchotin ein. Gemeinsam eilt man zum Tatort, der unter Einhaltung sämtlicher Formalitäten und unter Aufsicht von Zeugen inspiziert wird: Fjodor Pawlowitschs Schädel ist eingeschlagen, sehr wahrscheinlich durch den messingnen Stössel, den man aufgrund Grigorijs Zeugenbericht bald findet. Das an Gruschenka adressierte und mit dem Geldbetrag beschriftete Kuvert wird aufgerissen am Boden gefunden.
+
+Aufgrund Perchotins Bericht über den auf den nächsten Morgen geplanten Selbstmord Dmitrijs beschliesst man keine Zeit zu verlieren und schickt sofort den Landkommissar Mawrikij Mawrikowitsch Schmerzow nach Mokroje. Dieser observiert Dmitrij so lange, bis der Rest eintrifft; eingeweiht ist nur der Wirt, der die Pistole Dmitrijs beiseite schafft und sicher versteckt.
+
+Als um fünf Uhr morgens der Rest der Gruppe in Mokroje eintrifft, wird Dmitrij mit dem Mordvorwurf konfrontiert. Einzig der Amtsarzt reist nicht mit, denn er will eine Obduktion an Fjodor Pawlowitsch vornehmen ‒ und Smerdjakows ungewöhnlich lange anhaltenden Anfall aus wissenschaftlichem Interesse beobachten. Er bezweifelt, dass dieser den nächsten Tag noch erleben werde.
+
