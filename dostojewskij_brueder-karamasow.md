@@ -852,3 +852,15 @@ Aufgrund Perchotins Bericht über den auf den nächsten Morgen geplanten Selbstm
 
 Als um fünf Uhr morgens der Rest der Gruppe in Mokroje eintrifft, wird Dmitrij mit dem Mordvorwurf konfrontiert. Einzig der Amtsarzt reist nicht mit, denn er will eine Obduktion an Fjodor Pawlowitsch vornehmen ‒ und Smerdjakows ungewöhnlich lange anhaltenden Anfall aus wissenschaftlichem Interesse beobachten. Er bezweifelt, dass dieser den nächsten Tag noch erleben werde.
 
+### III) Der Gang der Seele durch die Peinigungen. Die erste Peinigung
+
+In Mokroje gesteht Dmitrij zwar, dass er die Absicht hatte, seinen Vater umzubringen, dass er dies dann aber doch nicht getan habe: er sei unschuldig! Gruschenka wirft sich dem Polizeichef zu Füssen: Sie sei schuldig, denn sie hätte sowohl Dmitrij als auch den Alten aus Bosheit gequält. Sie sei bereit, Dmitrij bis aufs Schafott zu folgen. Dieser sinkt neben ihr auf die Knie und beteuert ihre Unschuld. Die beiden müssen voneinander getrennt werden; Gruschenka wird in ein anderes Zimmer gebracht, und Dmitrij an den Tisch gesetzt, an dem nun das Verhör stattfinden kann.
+
+Dmitrij beteuert abermals seine Unschuld am Tod seines Vaters, doch gesteht Grigorij niedergeschlagen zu haben. Der (Zweite) Staatsanwalt teilt Dmitrij mit, dass Grigorij lebe und seine Verletzungen wohl überstehen werde, worüber sich Dmitrij derart freut, als sei ein Wunder geschehen; durch diese freudige Mitteilung habe man ihm zu neuem Leben erweckt!
+
+Grigorij habe Dmitrij mit seinen Aussagen schwer belastet, so der Staatsanwalt, doch Dmitrij will seine Unschuld am Mord beweisen, nachdem er seine Schuld an der Verletzung Grigorijs zu Protokoll gegeben hat. Er habe einen Monat lang jedem erzählt, dass er seinen eigenen Vater umbringen wolle und stehe nun zugegebenermassen sehr schlecht da.
+
+Nach seinem Motiv befragt gibt Dmitrij Hassgefühle an, die durch Eifersucht und Streitereien um Geld aufgekommen seien. So stünden ihm zwar bis zu zehntausend Rubel aus seinem Erbteil zu, doch habe er sich mit den dreitausend Rubel aus dem Kuvert für Gurschenka zufriedengegeben, die er nicht als gestohlen sondern als seinen rechtmässigen Besitz betrachtet. Zwar habe er selber sein ganzes Leben lang Schändlichkeiten begangen, sei aber dennoch ein nobler Mensch, und das Ehrlose seines Vaters habe ihm missfallen.
+
+Da stürmt Gruschenka plötzlich aus ihrem Zimmer, und als Dmitrij das merkt, stürzt er sofort ihr entgegen, worauf man die beiden gewaltsam auseinanderhalten muss. Nachdem man Gruschenka nach unten und Dmitrij zurück an den Tisch gebracht hat ‒ Gruschenka habe verstanden, dass sich Dmitrij unter solcherlei Aufregung möglicherweise nur selber belasten werde ‒ kann das Verhör fortgeführt werden.
+
