@@ -864,3 +864,11 @@ Nach seinem Motiv befragt gibt Dmitrij Hassgefühle an, die durch Eifersucht und
 
 Da stürmt Gruschenka plötzlich aus ihrem Zimmer, und als Dmitrij das merkt, stürzt er sofort ihr entgegen, worauf man die beiden gewaltsam auseinanderhalten muss. Nachdem man Gruschenka nach unten und Dmitrij zurück an den Tisch gebracht hat ‒ Gruschenka habe verstanden, dass sich Dmitrij unter solcherlei Aufregung möglicherweise nur selber belasten werde ‒ kann das Verhör fortgeführt werden.
 
+### IV) Die zweite Peinigung
+
+Nach den verpfändeten Pistolen und den dafür erhaltenen zehn Rubel gefragt gibt Dmitrij zu erkennen, dass er die Stadt am Vortag der Tat verlassen habe. Beim Erzählen dieser Begebenheit erwähnt er die Summe von dreitausend Rubel, die er benötigt habe, worauf sich der Staatsanwalt nach dem Zweck dieser Geldsumme erkundigt. Hierauf antwortet Dmitrij ausweichend, dass man an ihm nicht die bürokratische Art der Befragung anwenden solle, die ja nur auf die Ermüdung des Befragten abziele, den man dann mit der alles entscheidenden Frage überrumpeln könne.
+
+Auf die Nachfrage betreffend des Zwecks der dreitausend Rubel vonseiten des Staatsanwalts antwortet Dmitrij, dass dies sein Privatleben betreffe und es dabei um die Begleichung einer Ehrendschuld gehe; mehr wolle er dazu nicht sagen. Der Staatsanwalt erinnert Dmitrij daran, dass er die Aussage auch verweigern dürfe, worauf Dmitrij den Ablauf der letzten beiden Tage zu Protokoll gibt: wie Samssonow ihn zum Narren gehalten hat; von der Reise zu Ljagawyj; über seine Eifersuchtsqualen um Gruschenka.
+
+Dabei erwähnt er auch seinen Beobachtungspunkt beim Nachbarshaus, seine Absprache mit Smerdjakow sowie die Absicht, jemanden wegen der Summe von dreitausend Rubel notfalls umbringen zu wollen, und dass er Fenja nur verschonte, weil er in Eile gewesen sei. Ihm wird der Stössel gezeigt, den er wiedererkennt. Auf die Frage, warum er den Stössel von Fenja mitgenommen habe, antwortet er sehr gereizt, dass er damit seinen Vater habe erschlagen wollen. Da der Staatsanwalt erkennt, dass diese Aussage nur Dmitrijs Gereiztheit entsprungen ist, lässt er Dmitrij ergänzen, dass er den Stössel einfach so mitgenommen habe und dann damit weggerannt sei.
+
