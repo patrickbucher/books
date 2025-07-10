@@ -872,3 +872,17 @@ Auf die Nachfrage betreffend des Zwecks der dreitausend Rubel vonseiten des Staa
 
 Dabei erwähnt er auch seinen Beobachtungspunkt beim Nachbarshaus, seine Absprache mit Smerdjakow sowie die Absicht, jemanden wegen der Summe von dreitausend Rubel notfalls umbringen zu wollen, und dass er Fenja nur verschonte, weil er in Eile gewesen sei. Ihm wird der Stössel gezeigt, den er wiedererkennt. Auf die Frage, warum er den Stössel von Fenja mitgenommen habe, antwortet er sehr gereizt, dass er damit seinen Vater habe erschlagen wollen. Da der Staatsanwalt erkennt, dass diese Aussage nur Dmitrijs Gereiztheit entsprungen ist, lässt er Dmitrij ergänzen, dass er den Stössel einfach so mitgenommen habe und dann damit weggerannt sei.
 
+### V) Die dritte Peinigung
+
+Dmitrij erzählt, wie er über den Zaun in den Garten gelangt sei und sich dort unter dem Fenster seines Vaters Schlafzimmer in Position gebracht habe. Den Stössel habe er bereits in der Hand gehalten, als sich sein Vater aus dem Fenster beugte, doch statt diesen zu erschlagen sei er davongestürzt, worauf der Vater vom Fenster zurückgewichen sei. Bereits rittlings auf dem Zaun sitzend habe Grigorij ihn eingeholt.
+
+Der Staatsanwalt erkundigt sich, ob Dmitrij die offene Haustür zum Garten hin nicht aufgefallen sei, denn der Mord habe zweifelsfrei im Zimmer und nicht durchs offene Fenster stattgefunden, was Dmitrij verblüfft. Er selber habe die Tür nur geschlossen gesehen, und sie wäre auch höchstens auf das Klopfzeichen hin geöffnet worden, das nur ihm, seinem Vater und Smerdjakow bekannt gewesen sei.
+
+Auf die Nachfrage des Staatsanwalts weiht Dmitrij die Runde in die vereinbarten Klopfzeichen ein, und schildert, wie er damit die Ankunft Gruschenkas am Fenster des Vaters ankündigte. Als der Staatsanwalt bemerkt, dass demnach auch Smerdjakow unter Verdacht stehe, wittert Dmitrij eine Falle: Smerdjakow sei dafür zu feige und auch zu schwach; er komme nicht in Frage. Verhören habe man ihn, den man durchaus verdächtige, jedoch nicht können, zumal er einen eptileptischen Anfall nach dem anderen erleide ‒ und die Nacht wohl nicht überleben werde.
+
+Dmitrij schildert, wie er Grigorij ‒ noch auf dem Zaun sitzend ‒ niedergeschlagen habe, wobei sich der Staatsanwalt dafür interessiert, warum Dmitrij vom Zaun in den Garten heruntergesprungen sei, als Grigorij bereits am Boden gelegen habe. Dmitrij verschweigt, das er dies aus Mitleid getan habe, kann aber weder ausschliessen noch bestätigen, dass er Hilfe leisten wollte. Der Staatsanwalt schliesst daraus, dass sich Dmitrij vergewissern wollte, dass der einzige Zeuge seiner Tat auch wirklich tot war.
+
+Weiter erzählt Dmitrij, dass er noch ein rauschendes Fest feiern und sich danach am Morgen am Dorfrand die Kugel habe geben wollen, was er mit dem Abschiedsbrief belegt, den er noch bei Perchotin geschrieben hat. Nach dem Usprung des Geldes gefragt verweigert Dmitrij die Aussage; dies zu beantworten komme für ihn einer riesigen Schmach gleich; lieber bewahre er seinen Stolz.
+
+Auch die Summe will er nicht nennen, wonach der Betrag von dreitausend Rubel gemäss der Aussage von Perchotin ins Feld geführt wird. Nachdem Dmitrij sein verbliebenes Geld abgibt und man die Ausgaben gemäss seiner Erzählung damit aufrechnet, kommt man lediglich auf einen Betrag von etwa tausendfünfhundert Rubel. Das Verhör wird mit der Untersuchung von Dmitrijs Kleidung fortgeführt, wozu dieser sich entkleiden muss.
+
