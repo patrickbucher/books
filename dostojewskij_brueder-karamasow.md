@@ -886,3 +886,15 @@ Weiter erzählt Dmitrij, dass er noch ein rauschendes Fest feiern und sich danac
 
 Auch die Summe will er nicht nennen, wonach der Betrag von dreitausend Rubel gemäss der Aussage von Perchotin ins Feld geführt wird. Nachdem Dmitrij sein verbliebenes Geld abgibt und man die Ausgaben gemäss seiner Erzählung damit aufrechnet, kommt man lediglich auf einen Betrag von etwa tausendfünfhundert Rubel. Das Verhör wird mit der Untersuchung von Dmitrijs Kleidung fortgeführt, wozu dieser sich entkleiden muss.
 
+### VI) Der Staatsanwalt hat Mitja an der Angel
+
+Der Staatsanwalt und der Ermittlungsrichter untersuchen die Überkleider Dmitrijs nach Geld, wobei ihnen eingetrocknete Blutflecken an Überrock und Hose auffallen. Ein weiterer Blutfleck findet sich an der Manschette des Hemdes, das Dmitrij ebenfalls ausziehen muss, genau wie seine Strümpfe, weswegen er sich geniert und ärgert.
+
+Da seine Kleider für die Beweisaufnahme beschlagnahmt werden, muss er vorerst mit Ersatzkleidern vorlieb nehmen, die ihm Kalganow aus seinem Reisegepäck überlässt ‒ und die ihm leider etwas zu lang und zu eng sind, sodass Dmitrij sich kostümiert und zum Narren gehalten vorkommt.
+
+Das Verhör wird fortgesetzt, und man konfrontiert Dmitrij mit der Aussage Grigorijs, wonach die Haustür zum Garten hin bereits sperrangelweit offengestanden habe, als Dmitrij sich vom Fenster in Richtung Zaun in Bewegung setzte. Zwar habe Grigorij nicht gesehen, wie Dmitrij aus dieser Tür herausstürzte, sei sich dessen aber sicher. Dmitrij hält diese Aussage für eine Verleumdung Grigorijs, die ihren Ursprung darin habe, dass Grigorij ihm böse sei.
+
+Als man Dmitrij das an der Seite aufgerissene Kuvert zeigt, gibt er sofort zu erkennen, dass es sich hierbei um den Umschlag handeln müsse, der die dreitausend Rubel für Gruschenka enthielt. Er verdächigt nun lauthals Smerdjakow, da dieser als einziger gewusst habe, dass sich dieses Kuvert unter dem Kopfkissen seines Vaters befand ‒ obwohl Dmitrij sein Wissen um eben diesen Verwahrungsort vorhin zu Protokoll gegeben habe, so der Staatsanwalt. Dmitrij entgegnet, dass er dies bloss aus der Luft gegriffen habe.
+
+Smerdjakow müsse der Schuldige sein, denn einzig er habe die vereinbarten Klopfzeichen zum Öffnen der Tür gekannt. Der Staatsanwalt entgegnet, dass Kenntnisse der Klopfzeichen nicht nötig gewesen seien, zumal die Tür bereits offengestanden habe. Der Staatsanwalt weist Dmitrij angesichts dieser für ihn schlecht stehenden Indizienlage darauf hin, dass eine Auskunft über den Ursprung seines mitgeführten Geldes ihm wohl helfen könnte.
+
