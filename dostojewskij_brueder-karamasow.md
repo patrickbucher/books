@@ -898,3 +898,15 @@ Als man Dmitrij das an der Seite aufgerissene Kuvert zeigt, gibt er sofort zu er
 
 Smerdjakow müsse der Schuldige sein, denn einzig er habe die vereinbarten Klopfzeichen zum Öffnen der Tür gekannt. Der Staatsanwalt entgegnet, dass Kenntnisse der Klopfzeichen nicht nötig gewesen seien, zumal die Tür bereits offengestanden habe. Der Staatsanwalt weist Dmitrij angesichts dieser für ihn schlecht stehenden Indizienlage darauf hin, dass eine Auskunft über den Ursprung seines mitgeführten Geldes ihm wohl helfen könnte.
 
+### VII) Mitjas grosses Geheimnis. Ausgepfiffen
+
+Die tausendfünfhundert Rubel habe er einen Monat lang in einen Stofffetzen eingenäht um seinen Hals getragen. Er habe dreitausend Rubel von Katerina Iwanowna erhalten, damit er diese ihrer Schwester zukommen lasse. Die eine Hälfte habe er dann bei seinem ersten Gelage in Mokroje durchgebracht, die andere Hälfte aber aufbewahrt.
+
+Der Staatsanwalt wundert sich, warum Dmitrij so ein Geheimnis aus dem verbliebenen Geld mache, zumal sich in der Stadt alle herumerzählten, wie er das Geld von Katerina Iwanowna für eine Orgie in Mokroje ausgegeben habe. Er habe die tausendfünfhundert aufbewahrt, um damit mit Gruschenka durchbrennen zu können, sollte sie sich plötzlich für ihn und nicht für seinen Vater entscheiden.
+
+Darin bestehe seine ganze Schmach und Niedertracht, zumal das Geld doch von seiner Braut stamme. Einen Monat lang habe er es sich offengelassen, den Rest des Geldes der rechtmässigen Besitzerin zurückzubringen, auf dass er eben doch kein Dieb wäre. Doch auf dem Weg von Fenja zu Perchotin habe er den Stofflappen, in den das Geld eingenäht war, zerrissen und weggeworfen.
+
+Er habe allen erzählt, dass er dreitausend Rubel durchgebracht hätte, was geschwindelt war, vielleicht nur aus reiner Angeberei. Vom verbliebenen Betrag habe er niemanden erzählt, nicht einmal Aljoscha habe er es anvertraut. Den Stofffetzen habe er von seiner Wirtin genommen, nähen könne er als Soldat selber, und der zerrissene Fetzen müsse jetzt irgendwo auf dem Platz in der Stadt herumliegen, den man doch am besten gleich fegen sollte, um das Beweisstück zu finden.
+
+Nachdem man das Verhör abgeschlossen und Dmitrij versichert hat, dass Gruschenka trotz ihres Schuldbekenntnisses nicht belangt werde, gönnt man sich eine Tasse Tee bevor mit der Zeugenvernehmung in Anwesenheit Dmitrijs begonnen werden soll.
+
