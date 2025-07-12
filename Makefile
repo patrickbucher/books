@@ -5,7 +5,8 @@ FONT_OPTS=-V mainfont='Libertinus Serif' -V sansfont='Libertinus Sans' -V monofo
 DATE=-V date="`date +'%Y-%m-%d'`"
 DATE_DE=-V date="`date +'%d.%m.%Y'`"
 
-ALL=dobelli_kunst-des-digitalen-lebens.pdf \
+ALL=linz-spillner-basiswissen-softwaretest.pdf \
+	dobelli_kunst-des-digitalen-lebens.pdf \
 	dostojewskij_brueder-karamasow.pdf \
 	hennrich_cloud-computing-dsgvo.pdf
 
@@ -15,6 +16,9 @@ all: $(ALL)
 
 dobelli_kunst-des-digitalen-lebens.pdf: dobelli_kunst-des-digitalen-lebens.md
 	pandoc -s $(PDF_OPTS_DE) $(FONT_OPTS) $(DATE_DE) $< -o $@
+
+linz-spillner-basiswissen-softwaretest.pdf: linz-spillner-basiswissen-softwaretest.md
+	pandoc -s -N $(DOC_OPTS) $(PDF_OPTS_DE) $(FONT_OPTS) $(DATE_DE) $< -o $@
 
 .SUFFIXES: .md .pdf
 .md.pdf:
