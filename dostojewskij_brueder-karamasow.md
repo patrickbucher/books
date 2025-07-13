@@ -910,3 +910,21 @@ Er habe allen erzählt, dass er dreitausend Rubel durchgebracht hätte, was gesc
 
 Nachdem man das Verhör abgeschlossen und Dmitrij versichert hat, dass Gruschenka trotz ihres Schuldbekenntnisses nicht belangt werde, gönnt man sich eine Tasse Tee bevor mit der Zeugenvernehmung in Anwesenheit Dmitrijs begonnen werden soll.
 
+### VIII) Die Zeugenaussagen. ’s Klei’
+
+Die anwesenden Zeugen werden befragt: Waren es dieses und letztes Mal tausendfünfhundert oder dreitausend Rubel, die Dmitrij für das Fest in Mokroje ausgegeben hat?
+
+Der Wirt Trifon Borisowitsch meint, Dmitrij habe alleine den Zigeunern tausend Rubel vor die Füsse geworfen. Weiter habe er vor verschiedenen Leuten den Betrag von dreitausend Rubel erwähnt, und dass er beim zweiten mal das sechste Tausend verpulvern wolle. Die Bauern und Postkutscher bestätigen diese Aussage.
+
+Kalganow will auch von den sechstausend Rubel gehört haben. Er bestätigt, dass die beiden Polen Falschspieler seien, und dass Dmitrijs Chancen bei Gruschenka nach deren beiden Auszug gestiegen seien.
+
+Die beiden Polen ‒ der kleine Pan Musiałowicz und der grosse Pan Wróblewski ‒ werden ebenfalls vernommen. Ersterer äussert sich derart feurig über seine Beziehung zu Gruschenka, dass Dmitrij ihn vor lauter Erregung mehrmals einen Schurken nennt. Pan Musiałowicz sagt aus, wie Dmitrij ihn mit dreitausend Rubel versucht habe zu bestechen, wobei der grössere Teil des Betrags (zweitausenddreihundert Rubel) in der Stadt bereitgelegen habe. Dmitrij meint, nachdem er dies widerwillig zugegeben hat, dass er den Betrag nicht in bar sondern durch das Abtreten seiner Rechte am Dorf Tscheremaschnja habe begleichen wollen. Das Falschspiel der Polen wird nicht weiter untersucht, sodass die beiden die zweihundert von Dmitrij ergaunerten Rubel behalten können.
+
+Maximow will eine grössere Summe in Dmitrijs Hand gesehen haben, denn er wisse, wie ein solcher Stapel regenbogenfarbener Geldscheine aussehe, habe ihm doch seine Frau ebenfalls einen solchen Geldstapel gezeigt, nachdem sie sein Gut verkaufte.
+
+Nach der Art ihrer Beziehung zu Dmitrij gefragt gibt Gruschenka an, dass sie sowohl Dmitrij als auch seinen Vater einen Monat lang aus Bosheit gequält habe, seien die beiden doch eifersüchtig aufeinander gewesen. Geliebt habe sie Dmitrij nicht, obwohl er ihr "manches Stündchen" gefallen habe. Von den dreitausend Rubel habe er mehrmals gesprochen ‒ vor anderen und unter vier Augen. Auch der Ursprung der ersten dreitausend (von Katerina Iwanowna) sei ihr bekannt. Dmitrij habe darauf gewartet, etwas von seinem Vater zu bekommen, aber auch mehrmals wissen lassen, dass er ihm nach dem Leben trachte, was sie jedoch nicht weiter ernst genommen habe. Dmitrij beteuert abermals seine Unschuld, und Gruschenka pflichtet ihm bei.
+
+Während der Abfassung des Protokolls legt sich Dmitrij hin, schläft sofort ein und träumt: An einem kalten Novembertag fährt er mit einer Kutsche durch ein abgebranntes Dorf in der Steppe. An der Strasse stehen ausgemergelte Frauen, wovon eine junge Mutter ein weinendes Kind in den Armen hält. Dmitrij erkundigt sich beim Kutscher, warum das Kind schreie, warum diese Leute so arm und die Steppe so kahl sei, und warum "’s Klei’" nicht gestillt werde. Er spürt, dass er diesen Leuten mit all seiner Kraft etwas Gutes tun will. Auch hört er die Stimme Gruschenkas, die ihm nun das ganze Leben folgen und mit ihm zu neuem Licht aufbrechen wolle.
+
+Dmitrij wird geweckt um das Protokoll zu unterschreiben. Er bemerkt, wie ihm offenbar während seines wohl einstündigen Schlafes jemand ein Kissen unter seinen Kopf geschoben habe, wofür er in diesem Moment unendlich dankbar ist.
+
