@@ -928,3 +928,11 @@ Während der Abfassung des Protokolls legt sich Dmitrij hin, schläft sofort ein
 
 Dmitrij wird geweckt um das Protokoll zu unterschreiben. Er bemerkt, wie ihm offenbar während seines wohl einstündigen Schlafes jemand ein Kissen unter seinen Kopf geschoben habe, wofür er in diesem Moment unendlich dankbar ist.
 
+### IX) Sie haben Mitja fortgebracht
+
+Der Ermittlungsrichter liest Dmitrij den offiziellen Beschluss vor: Der Beschuldigte bestreite seine Schuld, könne aber keine entlastenden Beweise vorbringen, weswegen er aus Verdunkelungsgefahr in Untersuchungshaft genommen werde. Hierzu soll er vom Landkommissar Mawrikij Mawrikijewitsch in die Stadt gebracht werden.
+
+Dmitrij nimmt diese Strafe als einen zu seiner Läuterung notwendigen Schicksalsschlag an; des Mordes sei er unschuldig ‒ der Absicht jedoch sehr wohl schuldig. Dmitrij wird erlaubt, sich noch von Gruschenka zu verabschieden, die beteuert, ihm überall hin folgen zu wollen.
+
+Die vor dem Wirtshaus um die beiden zum Abtransport bereitstehenden Kutschen versammelten Leute bittet Dmitrij um Vergebung. Der Wirt Trifon Borisowitsch erwidert Dmitrijs Abschiedsgruss beim Abfahren der beiden Gespanne nicht, jedoch kann der aus dem Wirtshaus berbeigeeilte Kalganow gerade noch Dmitrijs Hand zum Abschied reichen, wonach er sich im Flur des Wirtshauses verzweifelt hinsetzt und das Schicksal des Beschuldigten beweint.
+
