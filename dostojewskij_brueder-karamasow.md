@@ -936,3 +936,17 @@ Dmitrij nimmt diese Strafe als einen zu seiner Läuterung notwendigen Schicksals
 
 Die vor dem Wirtshaus um die beiden zum Abtransport bereitstehenden Kutschen versammelten Leute bittet Dmitrij um Vergebung. Der Wirt Trifon Borisowitsch erwidert Dmitrijs Abschiedsgruss beim Abfahren der beiden Gespanne nicht, jedoch kann der aus dem Wirtshaus berbeigeeilte Kalganow gerade noch Dmitrijs Hand zum Abschied reichen, wonach er sich im Flur des Wirtshauses verzweifelt hinsetzt und das Schicksal des Beschuldigten beweint.
 
+# Vierter Teil
+
+## Zehntes Buch: Die Jungen
+
+### I) Kolja Krassotkin
+
+Anna Fjodorowna Krassotkina ist seit vierzehn Jahren verwitwet und erzieht ihren mittlerweile fünfzehnjährigen Sohn Kolja mit viel Fürsorge. Sie freundet sich mit Lehrern und gar Schulkameraden ihres Sohnes an, der nur aufgrund seiner Stärke und Tapferkeit dem Ruf eines Muttersöhnchens entgeht. Streiche spielt er gerne, achtet aber dabei stets den Respekt der Obrigkeit. Am Bücherschrank des Vaters liest sich Kolja ein breites Wissen an, sodass schon bald die Rede davon ist, dass er es in manchen Themen mit seinem Lehrer Dardanelow aufnehmen könne.
+
+Bei einem sommerlichen Besuch bei einer Verwandet am nächsten Ort mit einer Bahnstation schliesst sich Kolja einer Gruppe von Jungen an, die sich alle sehr für die Eisenbahn interessieren. Kolja geht eine Wette um zwei Rubel ein, dass er sich getraue bäuchlings zwischen den Schienen liegenzubleiben, während der Zug in voller Fahrt über ihn wegdonnert. Die Wette gelingt, wobei Kolja in Ohnmacht fällt, die er seinen Kameraden gegenüber als gespielt abtut, seiner nun noch stärker besorgten Mutter aber als echt eingesteht.
+
+Am Gymnasium sieht man auf das Bitten seiner Mutter über den Streich hinweg, nicht zuletzt aufgrund des Einflusses von Dardanelow, der bereits erfolglos um die Hand der Witwe Krassotkina anhielt ‒ und nun eine neue Chance wittert. Nach dem Streich mit dem Zug muss Kolja seiner Mutter vor ihren Ikonen das Versprechen abgeben, nie mehr einen solchen Unsinn aufzuführen, worauf Kolja ruhiger und nachdenklicher wird ‒ und auch nicht mehr mit Andeutungen preisgibt, dass er das Werben Dardanelows um seine Mutter durchschaue.
+
+Zu dieser Zeit zähmt er einen räudigen Hund, den er Pereswon nennt, und dem er bald alle möglichen Kunststücke beibringt. Es war auch Kolja, den der Mitschüler Iljuscha (Sohn Snegirjows) mit dem Federmesser in die Hüfte stach, nachdem Kolja und seine Kameraden ihn mit der Bezeichnung "Bastwisch" seines Vaters wegen hänselten.
+
