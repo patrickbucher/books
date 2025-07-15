@@ -10,7 +10,11 @@ Software ist heutzutage allgegenwärtig und sie trägt nicht nur zum Funktionier
 
 Systematisches Testen von Software hilft Unternehmen dabei, die Qualität ihrer Softwaresysteme zu erhöhen. Das vorliegende Buch stellt das hierzu notwendige Grundlagenwissen bereit. Es richtet sich an Tester und Entwickler ‒ sowie an alle, die im Rahmen der agilen Softwareentwicklung Testaufgaben übernehmen. Es richtet sich an Lehrende und Lernende gleichermassen.
 
-Das _International Software Testing Qualifications Board_ (ISTQB) koordiniert die Zertifizierung im Bereich Software-Qualitätssicherung im Rahmen des ISTQB-Schemas und wird durch länderspezifische Gremien (wie z.B. durch das _Swiss Testing Board_) ergänzt. Die drei Ausbildungsstufen _Foundation_, _Advanced_ und _Expert_ werden dabei um zusätzliche Spezialistenmodule (u.a. fürs Testen im agilen Kontxt) ergänzt. Das vorliegende Buch deckt den Stoff bis zur ersten Stufe (_Foundation_) ab und behandelt in den folgenen Kapiteln diese Themen:
+Das _International Software Testing Qualifications Board_ (ISTQB) koordiniert die Zertifizierung im Bereich Software-Qualitätssicherung im Rahmen des ISTQB-Schemas und wird durch länderspezifische Gremien (wie z.B. durch das _Swiss Testing Board_) ergänzt. Die drei Ausbildungsstufen _Foundation_, _Advanced_ und _Expert_ werden dabei um zusätzliche Spezialistenmodule (u.a. fürs Testen im agilen Kontxt) ergänzt.
+
+## Kapitelübersicht
+
+Das vorliegende Buch deckt den Stoff bis zur ersten Stufe (_Foundation_) ab und behandelt in den folgenen Kapiteln diese Themen:
 
 - **Kapitel 2** erörtert die Grundlagen des Softwaretests. Neben dem _Warum_, dem _Wann_, dem _Wozu_ und dem _Wie_ wird auf das Konzept des Testprozesses und auf die notwendigen Kompetenzen beim Testen eingegangen.
 - **Kapitel 3** erläutert die Rolle des Testens in verschiedenen Entwicklungsmodellen (sequentiell, agil), die verschiedenen Teststufen und -arten, die Unterschiede zwischen funktionalen und nicht-funktionalen Tests, Regressionstests und Ansätze zur Verbesserung der Testautomatisierung.
@@ -19,5 +23,19 @@ Das _International Software Testing Qualifications Board_ (ISTQB) koordiniert di
 - **Kapitel 6** behandelt die Organisation des Testprozesses und die dazu notwendigen Qualifikationen der involvierten Mitarbeitern. Nebst den Elementen einer Teststrategie werden auch Verfahren zur Aufwands- und Kostenschätzung des Softwaretests erläutert. Risikobasiertes Testen, Fehler- und Konfigurationsmanagement und Wirtschaftlichkeit sind ebenfalls Themen dieses Kapitels.
 - **Kapitel 7** stellt verschiedene Arten von Testwerkzeugen vor und gibt Hinweise zu deren Auswahl und Einführung.
 
-Diese Themen werden anhand eines Fallbeispiels behandelt, in dem ein klassisches Client-Server-System zu einer Webanwendung umgebaut und in seiner Funktionalität erweitert werden soll. Hierzu arbeitet eine Gruppe von rund 60 Mitarbeitern, organisiert in mehreren Scrum-Teams, zusammen.
+## Fallbeispiel
+
+Diese Themen werden anhand eines Fallbeispiels behandelt, in dem ein klassisches Client-Server-System zu einer Webanwendung umgebaut und in seiner Funktionalität erweitert werden soll. Hierzu arbeitet eine Gruppe von rund 60 Mitarbeitern, organisiert in mehreren Scrum-Teams, zusammen. Hierbei handelt es sich um ein elektronisches Verkaufssystem namens _VirtualShowRoom_ (VSR), das aus den folgenden Modulen besteht:
+
+- _DreamCar_ zur Konfiguration des Wunschfahrzeugs
+- _EasyFinance_ zur Berechnung der Finanzierung
+- _JustInTime_ zur Bestellung des Fahrzeugs
+- _NoRisk_ zum Abschliessen der Versicherung
+- _FastBook_ zur Verwaltung der Konfigurationsinformationen und Verkaufsdaten
+
+Das neue System (VSR-II) soll zusätzlich das folgende neue Modul erhalten:
+
+- _ConnectedCar_ zum Austausch von Statusinformationen zwischen Händler und Servicepartner, zum Buchen verschiedener Services und zum Einspielen von Softwareupdates auf das Auto
+
+Die Daten sollen vom alten auf das neue System migriert werden, sobald das neue über den vollständigen Funktionsumfang verfügt.
 
