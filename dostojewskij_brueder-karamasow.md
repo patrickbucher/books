@@ -950,3 +950,13 @@ Am Gymnasium sieht man auf das Bitten seiner Mutter über den Streich hinweg, ni
 
 Zu dieser Zeit zähmt er einen räudigen Hund, den er Pereswon nennt, und dem er bald alle möglichen Kunststücke beibringt. Es war auch Kolja, den der Mitschüler Iljuscha (Sohn Snegirjows) mit dem Federmesser in die Hüfte stach, nachdem Kolja und seine Kameraden ihn mit der Bezeichnung "Bastwisch" seines Vaters wegen hänselten.
 
+### II) Die Kleinen
+
+Im Haus der Witwe Krassotkina ist eine kleine Wohnung an eine Ärztefamilie vermietet. Die Frau ist mit Anna Fjodorowna Krassotkina befreundet. Ihr Mann, der Arzt, ist auf einer einjährigen Reise nach Orenburg und Taschkent und hat schon ein halbes Jahr nichts mehr von sich hören lassen.
+
+An einem Sonntagvormittag im November soll ihre Magd Katerina ‒ überraschend für alle ‒ ein Kind zur Welt bringen, wozu die Frau Doktor sie ins Haus einer Hebamme begleitet. Da auch Anna Fjodorowna in einer bestimmten Angelegenheit ausgegangen ist, und ihre Magd Agafja auf dem Markt Einkäufe tätigt, muss sich Kolja um die beiden Kinder der Frau Doktor ‒ Nastja und Kostja ‒ kümmern, obwohl er um elf Uhr unbedingt "in einer wichtigen Sache" aus dem Haus gehen möchte.
+
+Zunächst unterhalten sich die beiden "Küken" mit einem Kinderbuch, das Kolja ihnen von sich mitgebracht hat, wobei die ältere Nastja dem jüngeren Kostja daraus vorliest. Dann aber fasst Kolja den Beschluss, den beiden Kindern das Versprechen abzunehmen, während seiner Abwesenheit nicht zu Weinen und keinen Unsinn anzustellen, da er die beiden alleine lassen müsse.
+
+Kolja versucht die Kinder zuerst mit einer Spielzeugkanone und anschliessend mit einigen Kunststückchen seines Hundes Pereswon abzulenken und sie so vom Weinen abzuhalten. Doch da kehrt auch endlich die Magd Agafja vom Markt zurück und bereitet den Kindern Frühstück zu, sodass Kolja endlich aus dem Haus gehen kann.
+
