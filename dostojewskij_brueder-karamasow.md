@@ -960,3 +960,19 @@ Zunächst unterhalten sich die beiden "Küken" mit einem Kinderbuch, das Kolja i
 
 Kolja versucht die Kinder zuerst mit einer Spielzeugkanone und anschliessend mit einigen Kunststückchen seines Hundes Pereswon abzulenken und sie so vom Weinen abzuhalten. Doch da kehrt auch endlich die Magd Agafja vom Markt zurück und bereitet den Kindern Frühstück zu, sodass Kolja endlich aus dem Haus gehen kann.
 
+### III) Der Schüler
+
+Auf Koljas Pfiff eilt der Beamtensohn Smurow, dem die Eltern den Umgang mit Kolja verboten haben, herbei. Smurow besucht das Gymnasium zwei Klassen unter Kolja und war damals unter den Jungen, deren Gruppe und Iljuscha Snegirjow sich gegenseitig mit Steinen bewarfen.
+
+Die beiden sind auf dem Weg zu Iljuscha, der offenbar and Schwindsucht leide, kaum noch gehen könne und wohl bald sterben werde. Von Smurows Klasse sollen an die zehn Schüler Iljuscha regelmässig besuchen gehen. Auch Alexej Karamasow soll da sein, obwohl dessen Bruder in den nächsten Tagen der Prozess gemacht werden soll. Kolja vermutet, dass Alexej die Jungen dazu angestiftet habe, Iljuscha besuchen zu gehen.
+
+Smurow glaubt, dass Snegirjow verrückt werden oder sich gar aufhängen würde, sollte sein Sohn Iljuscha sterben. Angefangen habe alles damit, dass Dmitrij Karamasow ihn damals verprügelt habe. Immerhin freue sich Snegirjow sehr darüber, dass sich die Jungen wieder mit seinem Iljuscha vertragen.
+
+Kolja möchte Alexej kennenlernen, der ihm ein Rätsel sei, obschon er sich bereits eine Meinung über ihn gebildet habe, die er nun prüfen möchte.
+
+Auf dem Weg zu Snegirjow durchqueren die beiden den Jahrmarkt. Dabei eröffnet Kolja Smurow, dass er Sozialist sei, was Smurow nicht versteht, wozu er schliesslich auch noch zu klein sei, so Kolja. Die Gewohnheit sei der Haupttrieb des Menschen, selbst in politischer Beziehung, meint Kolja.
+
+Auf dem Jahrmarkt spricht Kolja verschiedene Bauern und Händler an, um sich über sie lustig zu machen. Dabei gelingt es ihm, mit rätselhaften Andeutungen einen Burschen derart zu verwirren, dass zwischen ihm und einigen Marktfrauen ein hitziges Gespräch entsteht ‒ sehr zum Vergnügen Koljas und Smurows, die nun das Weite suchen.
+
+Bei Snegirjow angekommen schckt Kolja Smurow vor: Er solle Alexej zu ihm hinausbringen, damit er diesen in Ruhe kennenlernen könne.
+
