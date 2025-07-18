@@ -976,3 +976,21 @@ Auf dem Jahrmarkt spricht Kolja verschiedene Bauern und Händler an, um sich üb
 
 Bei Snegirjow angekommen schckt Kolja Smurow vor: Er solle Alexej zu ihm hinausbringen, damit er diesen in Ruhe kennenlernen könne.
 
+### IV) Schutschka
+
+Kolja wartet am Zaun vor dem Haus auf Aljoscha, wobei er sich Gedanken über sein Äusseres, seine geringe Körpergrösse und sein noch junges Alter von knapp vierzehn Jahren macht. Aljoscha, der nun nicht mehr die Kutte sondern einen modischen Gehrock und einen Hut über seinem nun kurzgeschnittenen Haar trägt, kommt Kolja ‒ sehr zu dessen Freude ‒ strahlend entgegen; seinen Mantel hat er im Haus gelassen. Aljoscha meint, dass Kolja sehr spät komme, zumal Iljuscha unweigerlich bald sterben werde, und er schon längere Zeit nach ihm, Kolja, verlangt habe.
+
+Kolja erzählt Aljoscha die Vorgeschichte: Als Iljuscha ins Gymnasium eingetreten ist, habe man ihn wegen seiner Schwäche und schäbiger Kleidung wegen gehänselt. Da er sich aber nicht unterordnen wollte sondern sich wehrte, habe Kolja Gefallen an ihm gefunden und Iljuschas Peiniger verprügelt, sodass Iljuscha fortan seinen Schutz genoss. Einerseits sei Iljuscha ihm sklavisch ergeben gewesen, andererseits habe er dabei dennoch seinen Stolz gewahrt.
+
+Zwar wirke es im Gymnasium komisch, wenn sich ältere Schüler um jüngere kümmerten, was er jedoch für ein Vorurteil halte, zumal sich auch Aljoscha gerne mit den Schuljungen abgebe, was er an ihm durchaus interessant finde. Iljuscha neige zu einer gewissen Empfindsamkeit, doch ihm sei solche Gefühlsduselei zuwider, weswegen er kälter auf Iljuscha zu reagieren angefangen habe, quasi zu dessen Charakterbildung.
+
+Zu dieser Zeit habe Smerdjakow Iljuscha einen bösen Streich beigebracht: Man präpariert einen Bissen Brot mit einer Stecknadel; ein ausgehungerter Hofhund werde diesen Bissen dann unzerkaut verschlingen, worauf dieser endlos winsle und herumrenne. Dies habe Iljuscha am Hund Schutschka ausprobiert, der dann verschwunden sei. Iljuscha habe sich wegen seiner Gewissensbisse bei ihm ausgeheult, worauf er ihm fortan die kalte Schulter zeigte, um ihm eine Lektion zu erteilen.
+
+Über Smurow liess Kolja Iljuscha ausrichten, dass er nicht mehr mit ihm verkehren werde. Smurow überbrachte ihm zur Antwort, dass Iljuscha fortan mit allen Hunden so verfahren werde wie mit Schutschka ‒ eine Meuterei, in Koljas Augen! Zu dieser Zeit habe sich auch die Geschichte mit Iljuschas Vater ereignet. Und da nun Iljuscha nicht mehr die Protektion durch Kolja genoss, habe man ihn mit dem "Bastwisch" zu hänseln begonnen.
+
+Obwohl Kolja ihn zunächst schützen wollte, habe dieser ihn mit dem Federmesser verletzt, wonach sich die Jungen gegenseitig mit Steinen bewarfen, wobei auch Aljoscha von Iljuscha gebissen worden sei. Leider habe Kolja es verpasst, sich damals sofort wieder mit Iljuscha zu vertragen, was er nun bedauere.
+
+Aljoscha erzählt, wie Iljuscha im Fieber mehrmals nach Kolja verlangt habe. Ausserdem habe er in seiner Anwesenheit schon dreimal gesagt, dass er krank geworden sei, weil er Schutschka getötet habe. Alle hätten auf Kolja gehofft, dass er Schutschka auftreiben könne, damit man ihn Iljuscha zeigen und ihn dadurch von seinen Gewissensbissen erlösen könnte. Erfolglos habe man ihn mit einem Häschen und mit einem Welpen aufmuntern wollen.
+
+Aljoscha hält Koljas Hund zunächst für Schutschka, doch Kolja muss ihn enttäuschen: dies sei sein eigener Hund, Pereswon. (Auf dem Hinweg machte Smurow bereits den Vorschlag, Pereswon vor Iljuscha als Schutschka auszugeben, was Kolja aber aus Prinzip ablehnte.) Mit Pereswon wolle er aber jetzt ein Kunststück aufführen, um Iljuscha damit aufzuheitern.
+
