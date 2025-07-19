@@ -40,7 +40,7 @@ Iwan kehrt auf Wunsch seines älteren Halbbruders Dmitrij zu seinem Vater zurüc
 
 ### IV) Der dritte Sohn Aljoscha
 
-Der zwanzigjährige Alexej («Aljoscha») entscheidet sich ‒ inspiriert durch die Begegnung mit dem Klosterstarez Sossima ‒ ins Kloster zu gehen. Obwohl er seine Mutter bereits mit vier Jahren verloren hat, erinnert er sich immer noch genau an sie ‒ besonders an eine Szene des Gebets.
+Der zwanzigjährige Alexej ("Aljoscha") entscheidet sich ‒ inspiriert durch die Begegnung mit dem Klosterstarez Sossima ‒ ins Kloster zu gehen. Obwohl er seine Mutter bereits mit vier Jahren verloren hat, erinnert er sich immer noch genau an sie ‒ besonders an eine Szene des Gebets.
 
 Aljoscha gilt als Menschenfreund, zieht sich aber zurück, wenn es ihm zu lasterhaft zu und her geht, ohne aber die Leute dafür zu verurteilen. Selbst sein Vater ist gerührt von ihm, und in der Schule gilt er als der Liebling von allen, selbst wenn er sich gelegentlich lieber zurückzieht. Einzig die anzüglichen Sprüche seiner Klassenkameraden kann er nicht ertragen, womit er manchmal derart gehänselt wird, dass er sich die Ohren zuhält.
 
@@ -993,4 +993,24 @@ Obwohl Kolja ihn zunächst schützen wollte, habe dieser ihn mit dem Federmesser
 Aljoscha erzählt, wie Iljuscha im Fieber mehrmals nach Kolja verlangt habe. Ausserdem habe er in seiner Anwesenheit schon dreimal gesagt, dass er krank geworden sei, weil er Schutschka getötet habe. Alle hätten auf Kolja gehofft, dass er Schutschka auftreiben könne, damit man ihn Iljuscha zeigen und ihn dadurch von seinen Gewissensbissen erlösen könnte. Erfolglos habe man ihn mit einem Häschen und mit einem Welpen aufmuntern wollen.
 
 Aljoscha hält Koljas Hund zunächst für Schutschka, doch Kolja muss ihn enttäuschen: dies sei sein eigener Hund, Pereswon. (Auf dem Hinweg machte Smurow bereits den Vorschlag, Pereswon vor Iljuscha als Schutschka auszugeben, was Kolja aber aus Prinzip ablehnte.) Mit Pereswon wolle er aber jetzt ein Kunststück aufführen, um Iljuscha damit aufzuheitern.
+
+### V) An Iljuschas Lager
+
+In der Stube haben sich zahlreiche Jungen um das Krankenbett Iljuschas versammelt. Aljoscha hat es fertig gebracht, die Jungen einen nach dem anderen mit Iljuscha zu versöhnen, was dem Kranken eine gewisse Linderung seiner Leiden verschaffte. Auf Kolja wartete er schmerzlich und bisher vergebens, da es sich dieser vorbehielt, den Zeitpunkt seines Krankenbesuches selber zu bestimmen. Darin hat er sich auch durch Aljoscha nicht beeinflussen lassen, obwohl dieser hierzu mehrmals Smurnow zu Kolja schickte.
+
+Iljuscha hat seit dem Tag, als er Aljoscha in den Finger biss, die Schule nicht mehr besucht und sein Bett mittlerweile seit zwei Wochen nicht mehr verlassen. Snegirjow beweint seinen kranken Jungen öfters draussen und hat inzwischen mit dem Trinken aufgehört. Seine Aufheiterungsversuche lösen bei Iljuscha eher Unbehagen aus als ihn zu trösten, genau wie bei seiner gelähmten Schwester. Einzig die halbverrückte Mutter amüsiert sich über Snegirjows Faxen. (Die andere Schwester hat ihr Studium in Petersburg mittlerweile wieder aufgenommen.)
+
+Der häufige Besuch der Schuljungen ist für Snegirjow ein Grund zur Freude. Er bewirtet diese auch freudig, zumal es ihm nicht mehr an Geld fehlt, hat er die zweihundert Rubel von Katerina Iwanowna in der Zwischenzeit doch noch angenommen. Diese hat auch veranlasst, dass einerseits Doktor Herzenstube jeden zweiten Tag Iljuscha behandelt (wenn auch bisher ohne Erfolg), und andererseits später an diesem Tag ein berühmter Arzt aus Moskau nach Iljuscha schauen wird, der aus anderen Gründen angereist ist.
+
+Nachdem Kolja eingetreten ist und alle Familienangehörigen begrüsst hat, erschreckt er über den abgemagerten Iljuscha mit seinem wächsernen Gesicht. Mit den Tränen ringend lenkt er das Gespräch auf den Welpen, den Iljuscha vortags geschenkt bekommen hat. Dabei kommt auch das Gespräch auf den mitgebrachten Hund Pereswon, der noch immer vor der Tür ausharrt, und auf den Hund Schutschka, der gemäss Kolja wohl "verreckt" sei.
+
+Trotz der eindringlichen Bitte, seinen Hund besser bei einer anderen Gelegenheit vorzuführen, pfeifft Kolja ihn herbei ‒ und Iljuscha erkennt diesen sofort als Schutschka! Kolja habe ihn anhand Iljuschas Beschreibung ‒ eingerissenes Ohr, blind auf einem Auge ‒ finden können. Mit der Nadel habe er sich bloss den Mund zerstochen, sie dann aber ausgespuckt und darum auch überlebt. Zwei Wochen lang habe er den Hund versteckt und dressiert; Smurow habe ihn heute als erster von den Jungen gesehen.
+
+Mit weiteren Kunststücken des Hundes und dem mitgebrachten Messingkanönchen, das am allermeisten der Mutter gefällt, unterhält er Iljuscha, dessen Familie und die übrigen Anwesenden weiter. Kolja erzählt davon, wie er das Schiesspulver herstellte; wie er einen Burschen auf dem Markt dazu anstiftete, eine Gans mit einem Wagenrad zu enthaupten, und wie er hierfür mit diesem zusammen vor dem Friedensrichter antreten musste; wie der Lehrer Kolbassnikow, der alte Sprachen unterrichtet, über diese Geschichte mit der Gans aufgebracht war, und dass dieser jüngst eine hässliche Frau geheiratet habe, und die Schüler sich mit einem Epigramm über ihn lustig machten.
+
+Als die Rede auf den Lehrer Dardanelow kommt, den Kolja zwar respektiert, ihm aber nicht darauf antworten konnte, wer Troja gegründet habe, möchte sich ein junger Schüler mit seinem Wissen darüber, das er sich heimlich aus Koljas Geschichtsbuch angeeignet hat, vor der versammelten Menge profilieren, worauf sich Kolja herablassend dahingehend äussert, dass er von der Weltgeschichte wenig halte.
+
+Er achte nur die Mathematik und die Naturwissenschaften. Die klassischen Sprachen seien nur als polizeiliche Massnahme eingeführt worden, um die Begabung zu verkümmern. Bei diesen Aussagen prüft er immer wieder Aljoschas Blick auf möglichen Zu- und Widerspruch. Dieser erkundigt sich bei Kolja, wer ihm sowas beigebracht habe, worauf dieser ihm antwortet, dass er alleine darauf gekommen sei.
+
+Als Kolja zu einer weiteren Erzählung ausholen will, trifft der Arzt aus Moskau ein. Beim Betreten der ärmlichen Stube glaubt dieser, sich in der Tür geirrt zu haben, wird aber von Snegirjow versichert, dass er am richtigen Ort sei. Dieser schaut sich zunächst angewidert um und fragt schliesslich nach dem Patienten.
 
