@@ -2,6 +2,7 @@
 title: 'Fjodor M. Dostojewskij: Die Brüder Karamasow'
 subtitle: 'Ausführliche Inhaltsangabe'
 author: 'Patrick Bucher'
+csquotes: true
 ---
 
 # Erster Teil
