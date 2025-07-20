@@ -1015,3 +1015,15 @@ Er achte nur die Mathematik und die Naturwissenschaften. Die klassischen Sprache
 
 Als Kolja zu einer weiteren Erzählung ausholen will, trifft der Arzt aus Moskau ein. Beim Betreten der ärmlichen Stube glaubt dieser, sich in der Tür geirrt zu haben, wird aber von Snegirjow versichert, dass er am richtigen Ort sei. Dieser schaut sich zunächst angewidert um und fragt schliesslich nach dem Patienten.
 
+### VI) Früh krümmt sich…
+
+Kolja und Aljoscha unterhalten sich draussen, während der Doktor Iljuscha untersucht. Aljoscha glaubt, dass Iljuscha sterben wird. Kolja meint, er könne die Medizin nicht ausstehen und halte sie für einen Schwindel. Aljoscha hält er für einen Mystiker, den die Begegnung mit der Wirklichkeit schon von Gott heilen werde, an den er nämlich nicht glaube.
+
+Der Ordnung willen sei aber der Glaube an Gott notwendig, so Kolja. Darauf errötet er jedoch gleich, denn Aljoscha könnte ja schliesslich glauben, dass er nur mit seinem Wissen prahlen wolle. Kolja äussert sich weiter über Voltaire, den Sozialismus und darüber, dass der christliche Glaube nur den Reichen und Herrschenden diene. Zwar entlarvt Aljoscha all diese Aussagen als angelesene Phrasen, demütigt aber Kolja nicht damit, was diesen sehr beeindruckt.
+
+Aljoscha erkundigt sich, mit welchem Dummkopf sich Kolja eingelassen habe, worauf Kolja antwortet, dass er sich oft mit Rakitin unterhalte. Aljoscha attestiert Kolja ein reizendes Naturell, das leider durch plumpen Unsinn verdorben worden sei.
+
+Kolja bedauert es, mit seinem Besuch so lange gewartet zu haben, denn dies sei aus reiner Selbstsucht geschehen. Er befürchte, dass Aljoscha ihn verachte, gerade bei seiner vorherigen Rede in der Stube, als er angelesene Phrasen wiedergab, um mit seiner Bildung zu prahlen.
+
+Er habe Angst davor, komisch zu wirken, was ihn Aljoscha sofort auszureden versucht: Er solle nicht versuchen, wie alle anderen zu sein. Kolja habe die ganze Zeit geglaubt, dass Aljoscha und er entweder als Freunde oder als Todfeinde auseinandergehen würden. Jetzt ist er sich sicher, dass sie Freundschaft schliessen werden.
+
