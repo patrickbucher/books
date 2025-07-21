@@ -1026,3 +1026,13 @@ Kolja bedauert es, mit seinem Besuch so lange gewartet zu haben, denn dies sei a
 
 Er habe Angst davor, komisch zu wirken, was ihn Aljoscha sofort auszureden versucht: Er solle nicht versuchen, wie alle anderen zu sein. Kolja habe die ganze Zeit geglaubt, dass Aljoscha und er entweder als Freunde oder als Todfeinde auseinandergehen würden. Jetzt ist er sich sicher, dass sie Freundschaft schliessen werden.
 
+### VII) Iljuscha
+
+Zornig und angewidert verlässt der Arzt die Stube und trifft im Flur auf Aljoscha und Kolja mit Pereswon. Snegirjow stürzt dem Arzt nach und will dessen Urteil erfahren. Er solle sich auf alles gefasst machen; einzig eine Kur in Syracus (das auf Sizilien liegt, wie Kolja anmerkt) könne dem Jungen noch helfen. Tochter und Gattin sollen auf eine Kur in den Kaukasus fahren, die Gattin anschliessend in eine Klinik nach Paris.
+
+Als Snegirjow hierauf mit einer Geste auf seine bescheidenen Mittel hinweist, bedauert dies der Arzt und macht sich auf in Richtung seiner Kutsche, die Aljoscha bereits herbeigerufen hat. Kolja proviziert den Arzt dabei mehrmals mit der Anrede «Medizinmann» (anstelle von «Herr Doktor»), worauf dieser im Zorn bemerkt, dass der Junge Ruten verdiene. Als Kolja dem Arzt mit Pereswon droht und Aljoscha ihn dafür eindringlich warnt, begibt sich Kolja mitsamt Hund in die Stube zu Iljuscha.
+
+Dort umarmt Iljuscha seinen Vater und Kolja zusammen. Zwar will Snegirjow seinem Sohn zunächst vorspielen, dass er wieder gesund werde, doch dieser hat bereits alles mitbekommen. Der Vater solle einen neuen Jungen zu sich nehmen und ihn ebenfalls «Iljuscha» nennen, ihn aber nicht vergessen und immer sein Grab besuchen kommen, wohin ihn Krassotkin begleiten solle.
+
+Kolja muss zum Essen nach Hause gehen, verspricht aber Iljuscha und Aljoscha, dass er danach wieder kommen werde. Snegirjow beweint draussen das Schicksal Iljuschas.
+
