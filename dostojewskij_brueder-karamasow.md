@@ -1036,3 +1036,15 @@ Dort umarmt Iljuscha seinen Vater und Kolja zusammen. Zwar will Snegirjow seinem
 
 Kolja muss zum Essen nach Hause gehen, verspricht aber Iljuscha und Aljoscha, dass er danach wieder kommen werde. Snegirjow beweint draussen das Schicksal Iljuschas.
 
+## Elftes Buch: Der Bruder Iwan Fjodorowitsch
+
+### I) Bei Gruschenka
+
+Nach Dmitrijs Verhaftung ist Gruschenka erkrankt und hat das Bett für fünf Wochen nicht verlassen dürfen. Eine Woche davon lag sie gar bewusstlos, wobei sie in ihren Fieberphantasien auch von Katerina Iwanowna sprach, auf die sie eifersüchtig ist. Seit der Rückkehr aus Mokroje ist Maximow bei Gruschenka abgestiegen. Kalganow wollte ihn nicht länger bewirten und gab ihm zum Abschied fünf Rubel. Mittlerweile hat Gruschenka sich an Maximow gewöhnt und unterhält sich zur Ablenkung von ihrem Jammer oft mit ihm über Belangloses. Ihr einstiger Wohltäter Samssonow empfängt sie schon seit Wochen nicht mehr; mittlerweile liegt er im Sterben. 
+
+Gruschenka hat nach Aljoscha geschickt, den sie nun öfters empfängt. Sie habe Dmitrij im Gefängnis besucht und sich mit ihm gestritten, da dieser eifersüchtig auf ihren Einstigen sei. Dieser lässt ihr Bettelbriefe zukommen, die Gruschenka zu Beginn alle ignorierte. Nun sei er auch noch erkrankt. Die zweihndert Rubel, die sie Dmitrij in Mokroje abgeknöpft haben, sind mittlerweile aufgebraucht, und die beiden Polen leben verarmt und verschuldet in der Stadt, wobei sie von kleinen Zuwendungen Gruschenkas leben.
+
+Gruschenka ärgert sich darüber, dass Dmitrij nur zum Schein eifersüchtig sei. Würde er gar keine Eifersucht zeigen, wäre sie gar beleidigt. Sie selber sei auf Katerina Iwanowna eifersüchtig. Diese habe zur Dmitrijs Gerichtsverhaldung für zweitausend Rubel einen Arzt aus Moskau kommen lassen. Auch am Honorar für den Advokaten Fetjukowitsch habe sie sich mit tausend Rubel beteiligt; die restlichen zweitausend stammten je zur Hälfte von Iwan und von ihm, ergänzt Aljoscha. Der Arzt sei gekommen, um Dmitrij geistige Umnachtung zum Tatzeitpunkt zu attestieren, was dieser jedoch ablehne, zumal er unschuldig sei. Smerdjakow habe man streng vernommen, doch dieser leide seit der Tat immer noch an seiner schweren Krankheit, berichtet ihr Aljsocha.
+
+Gruschenka verplappert sich: Iwan, der nach der Tat sofort in die Stadt zurückgekehrt war, habe Dmitrij schon zweimal besucht, was dieser aber gegenüber Aljoscha geheim halten sollte. Iwan weiche ihm aus, meint Aljoscha. Gruschenka vermutet ein Geheimnis unter Dmitrij, Iwan und Katerina Iwanowna. Dmitrij habe ihr gegenüber behauptet, dass Iwan Katerina Iwanowna liebe, was Gruschenka aber nicht glaube ‒ und Aljoscha ebenfalls bezweifelt. Aljoscha ist davon überzeugt, dass Dmitrij Gruschenka und nicht Katerina Iwanowna liebe, und dass das Geheimnis zwischen Dmitrij und Iwan nicht Katerina Iwanowna betreffe. Er wolle ihr mehr berichten, sollte er etwas Näheres darüber erfahren, doch nun müsse er Gruschenka leider verlassen, ohne die Weinende trösten zu können, da er noch viel vorhabe.
+
