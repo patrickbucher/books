@@ -1060,3 +1060,19 @@ Weiter glaubt die Chochlakowa, dass Dmitrij am Abend der Tat «den Affekt bekomm
 
 Auch ihre Tochter Lise habe neulich den Affekt bekommen. Die Chochlakowa erzählt Aljoscha, dass sein Bruder Iwan bei Lise gewesen sei, worüber Aljoscha sehr erstaunt ist. Anschliessend habe sie einen hysterischen Anfall erlitten und dabei von ihrer Mutter verlangt, Iwan nicht mehr zu empfangen. Aljoscha solle Lise nun zu allem ausfragen und ihr gleich davon berichten kommen. Aljoscha geht zu ihr, doch verspricht der Chochlakowa nicht, gleich zu ihr zurückzukehren, da er unbedingt noch zu Dmitrij wolle. Da trifft auch gerade Perchotin bei ihr ein.
 
+### III) Der Kobold
+
+Aljoscha trifft Lise bleich und etwas abgemagert in ihrem alten Rollstuhl liegend an. Sie habe das Gespräch zwischen ihm und ihrer Mutter belauscht. Sie sei froh, Aljoscha nicht zu heiraten, da er zum Ehemann nicht geeignet sei, denn er wäre sogar bereit dazu, Briefe zwischen ihr und ihrem nächsten Liebhaber zu überbringen.
+
+Sie schäme sich nicht vor ihm, achte ihn zwar nicht, aber liebe ihn. Sie wolle geqäult werden und liebe das Chaos. Am liebsten wolle sie ein Haus anzünden. Kalganow habe ihr eine Liebeserklärung gemacht; sie wolle ihn «tanzen» lassen, wenn sie ihn heirate.
+
+Sie wolle Böses tun und es in Kauf nehmen, vor aller Augen als schlechter Mensch dazustehen. Die Leute lügten, das Schlechte zu verabscheuen, denn eigentlich fänden sie Gefallen daran. Sie wolle sich selber zerstören, wie der «glückliche» Junge, der sich zwischen die Schienen gelegt habe, und ein Zug über ihn hinwegrollte.
+
+Dmitrij komme vor Gericht, dabei möchten es doch alle leiden, dass er seinen eigenen Vater umgebracht habe. Sie träume manchmal von Teufeln in ihrem Zimmer, die sie durch das Bekreuzigen vertreibe und durch Gotteslästerungen wieder anlocke ‒ und zeigt sich erstaunt darüber, dass Aljoscha diesen Traum auch manchmal hatte.
+
+Sie habe von einem Juden gelesen, der einem Jungen alle Finger abgeschnitten und ihn gekreuzigt haben soll ‒ und habe auch noch Gefallen an dieser Geschichte gefunden. In der Nacht darauf habe sie Weinkrämpfe gehabt und am nächsten Morgen jemand per Brief zu sich bestellt und diesem Besucher erzählt, dass diese Geschichte gut sei. Der Besucher habe dies lachend bestätigt und sei gleich darauf wieder gegangen. Aljoscha meint, dass sich dieser Mensch ihr gegenüber ehrenhaft verhalten habe. Er verachte sie nicht, glaube aber auch niemandem und achte darum auch keinen.
+
+Sie fände alles ekelhaft und wolle sich umbringen. Sie lässt sich von Aljoscha versichern, dass er um sie weinen werde, denn ihr liege nur an seinen Tränen; alle anderen könnten sie ruhig verurteilen, denn sie liebe niemand und hasse alle.
+
+Sie drängt ihn plötzlich dazu, nun zu seinem Bruder ins Gefängnis zu gehen und übergibt ihm einen an Iwan adressierten Brief, den er ihm unbedingt überbringen müsse, da sie andernfalls Gift nehmen wolle. Nachdem Aljoscha gegangen ist, ohne noch einmal bei ihrer Mutter vorbeizuschauen, klemmt sich Lise absichtlich einen Finger in der Türspalte ein, wonach sie ihre sich selbst zugefügte Verletzung aufmerksam betrachtet.
+
