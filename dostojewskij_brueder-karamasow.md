@@ -1076,3 +1076,23 @@ Sie fände alles ekelhaft und wolle sich umbringen. Sie lässt sich von Aljoscha
 
 Sie drängt ihn plötzlich dazu, nun zu seinem Bruder ins Gefängnis zu gehen und übergibt ihm einen an Iwan adressierten Brief, den er ihm unbedingt überbringen müsse, da sie andernfalls Gift nehmen wolle. Nachdem Aljoscha gegangen ist, ohne noch einmal bei ihrer Mutter vorbeizuschauen, klemmt sich Lise absichtlich einen Finger in der Türspalte ein, wonach sie ihre sich selbst zugefügte Verletzung aufmerksam betrachtet.
 
+### IV) Die Hymne und das Geheimnis
+
+Obwohl Aljoscha erst spät im Gefängnis eintrifft, wird er problemlos zu Dmitrij vorgelassen. Dieser verabschiedet sich gerade von seinem vorherigen Besucher Rakitin, der Aljoscha keines Blickes würdigt. Rakitin besuche ihn öfters, weil er über den Prozess schreiben wolle, wobei ihm eine sozialistische Tendenz vorschwebe: Das Milieu habe Dmitrij zum Mörder gemacht.
+
+Rakitin wolle Karriere als Kritiker machen, auch wenn er seine Ansichten ‒ dass ohne Gott und ohne künftiges Leben alles erlaubt sei ‒ nicht unverblümt äussern könne. Der Chochlakowa, die er für dumm und sentimental halte, mache er den Hof, um an ihre hundertfünfzigtausend Rubel heranzukommen. Mit dem Kapital wolle er eine Zeitung herausgeben und ein Mietshaus in Petersburg kaufen.
+
+Der Chochlakowa habe Rakitin ein Gedicht über ihr krankes Füsschen geschrieben, das dieser für wertvoller als die Verse Puschkins halte, da er seinem Gedicht eine soziale Problematik untergeschoben habe. Auch das Aneignen ihres Kapitals wisse er so zu rechtfertigen, da er doch damit der Allgemeinheit besser zu dienen wüsste als die ungebildete Chochlakowa. Rakitin sei nun schlechter Laune, weil sie ihn vor die Tür gesetzt habe. Aljoscha meint, dass Rakitin es ihr mit seinem Artikel bereits zurückbezahlt habe. Dmitrij, der die betreffende Glosse bereits kennt, hält es für glaubwürdig, dass Rakitin deren Autor ist.
+
+Dmitrij glaubt, in ihm sei ein neuer Mensch entstanden. Er fürchte nicht die zwanzigjährige Zwangsarbeit unter Tage, sondern dass dieser neue Mensch ihn dabei verlassen könnte. Alle seien für alles schuldig, und jemand müsse eben die Strafe für diese Schuld antreten, was er auf sich nehme, auch wenn er unschuldig sei. Seinen früheren Lebenswandel erklärt er damit, dass er diese Idee, die er schon damals in sich trug, damit unterdrücken wollte.
+
+Ohne Gott könne man den Menschen nicht lieben. Rakitin meine, man könne der Menschheit seine Liebe besser durch praktische Taten als durch das Philosophieren beweisen, worauf er ihm entgegnet habe, dass er ohne Gott mit seinem Handeln alles nur noch schlimmerschlimmer  machen würde. Zwar glaube auch Iwan nicht an Gott, sei aber besser als Rakitin; er habe eine Idee, über die er jedoch schweige. Den Vater halte Iwan zwar für ein Ferkel, gebe ihm aber recht damit, dass ohne Gott alles erlaubt sei.
+
+Der Arzt und der Advokat, die beide von Katerina Iwanowna bestellt worden sind, gingen beide von Dmitrijs Schuld aus. Sie wolle ihm vor Gericht alles heimzahlen. Aljoscha soll zu ihr gehen und sie darum bitten, beim Prozess über ihre gemeinsame Vorgeschichte (die viertausendfünfhundert Rubel) zu schweigen.
+
+Auf Aljoschas Frage, warum er Gruschenka für seine Eifersucht nicht um Verzeihung gebeten habe, antwortet Dmitrij, dass man eine Frau nie um Verzeihung bitten solle, da man so nur mit Vorwürfen zugeschüttet würde. Lieber solle man ihr unentschuldigt etwas zuliebe tun.
+
+Mit Iwan teile er ein Geheimnis, in das er Aljoscha erst nach dem Prozess einweihen wollte, da er, Aljoscha, hierzu eine Entscheidung für ihn, Dmitrij, zu treffen habe. Dennoch soll Aljoscha dieses Geheimnis nun bereits erfahren, dürfe sich aber in keinster Weise dazu äussern: Iwan plane Dmitrijs Flucht nach Amerika, wohin ihn auch Gruschenka begleiten soll, zumal er sie als Häftling nicht heriaten könne. Iwan dränge sehr auf diesen Plan und verlange von Dmitrij, mit niemandem darüber zu reden ‒ und ausdrücklich nicht mit Aljoscha.
+
+Dmitrij habe es nicht fertig gebracht, Iwan zu fragen, ob er von seiner Unschuld überzeugt sei. Aljoscha versichert ihm, dass er völlig von seiner Unschuld überzeugt sei, worüber Dmitrij augenblichklich äusserst erleichtert ist. Den Abgrund ahnend, in den sein verzweifelter Bruder nun blicken müsse, macht sich Aljoscha tränenüberströmt auf den Weg zu Iwan ‒ ein Besuch, der ihn sehr quält.
+
