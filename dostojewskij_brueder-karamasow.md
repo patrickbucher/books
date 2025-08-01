@@ -132,23 +132,19 @@ Doch das Gespräch bricht ab, als Dmitrij Fjodorowitsch zur allseitigen Überras
 
 Dmitrij erscheint tadellos gekleidet, doch sichtlich von seinem ausschweifenden Leben gezeichnet und gereizt. Der Diener, den ihm sein Vater sandte, habe ihm eine falsche Uhrzeit genannt.
 
-Das Gespräch von vorher aufgreifend bemerkt Iwan, dass es für die europäischen Liberalen und Dilettanten typisc h sei, Chritentum mit Sozialismus zu verwechseln.
+Das Gespräch von vorher aufgreifend bemerkt Iwan, dass es für die europäischen Liberalen und Dilettanten typisch sei, Chritentum mit Sozialismus zu verwechseln.
 
 Miussow möchte nicht darauf eingehen, sondern gibt eine Anekdote zum besten: Iwan habe neulich in einer Gesellschaft behauptet, dass die Nächstenliebe nicht einem Naturgesetz, sondern dem Glauben an die Unsterblichkeit entspringe.
 
 Iwan ergänzt, dass ohne diesen Glauben Liebe und Lebenskraft der Menschen versiegen würde. Das sittliche Gesetz würde sich umkehren, sodass Egoismus und Frevel dann das Vernünftigste wären. Ohne Unsterblichkeit gäbe es keine Tugend, antwortet Iwan auf die Nachfrage des Starez. Dieser bemerkt, dass Iwan sich selber in dieser Frage noch nicht entschieden habe, worunter er offenbar leide.
 
-Fjodor Pawlowitsch ergreift das Wort, indem er sich mit dem Graf von Moor und seine Söhne mit Franz und Karl Moor aus Schillers «Räubern» vergleicht. Er beschuldigt Dmitrij, jeweils mit von ihm geliehenen Geld zuerst im Dienst eine junge Frau verführt zu haben und nun einer bereits verheirateten Dame nachzustellen.
-
-Neulich habe Dmitrij einen Stabskapitän verprügelt, nur weil dieser geschäftlich mit Fjodor Pawlowitsch zu tun habe.
+Fjodor Pawlowitsch ergreift das Wort, indem er sich mit dem Graf von Moor und seine Söhne mit Franz und Karl Moor aus Schillers «Räubern» vergleicht. Er beschuldigt Dmitrij, jeweils mit von ihm geliehenen Geld zuerst im Dienst eine junge Frau verführt zu haben und nun einer bereits verheirateten Dame nachzustellen. Neulich habe Dmitrij einen Stabskapitän verprügelt, nur weil dieser geschäftlich mit Fjodor Pawlowitsch zu tun habe.
 
 Dmitrij entgegnet, dass sein Vater über diesen Stabskapitän die genannte Verführerin auf ihn angesetzt habe, damit dieser über sie in den Besitz von Dmitrijs Schuldscheine gegenüber seinem Vater komme. Diese könne er dann einklagen und Dmitrij so hinter Gittern bringen. Sein Vater sei es, der dieser Frau nachstelle, und sie damit in Verruf bringe.
 
 Das Gespräch artet in gegenseitige Schuldzustellungen zwischen den beiden aus, bis der Starez der Szene ein Ende setzt, indem er vor Dmitrij auf die Knie fällt und sich vor ihm verneigt.
 
-Sichtlich bestürzt verlassen die Besucher die Zelle des Starez ohne sich vorher von ihm zu verabschieden.
-
-Miussow möchte auf das Essen beim Abt, wozu man nun bereits verspätet ist, verzichten, geht dann aber doch hin, als Fjodor Pawlowitsch seinerseits verzichtet und abreist.
+Sichtlich bestürzt verlassen die Besucher die Zelle des Starez ohne sich vorher von ihm zu verabschieden. Miussow möchte auf das Essen beim Abt, wozu man nun bereits verspätet ist, verzichten, geht dann aber doch hin, als Fjodor Pawlowitsch seinerseits verzichtet und abreist.
 
 ### VII) Seminarist ‒ Karrierist
 
