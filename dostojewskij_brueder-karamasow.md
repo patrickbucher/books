@@ -1092,3 +1092,23 @@ Mit Iwan teile er ein Geheimnis, in das er Aljoscha erst nach dem Prozess einwei
 
 Dmitrij habe es nicht fertig gebracht, Iwan zu fragen, ob er von seiner Unschuld überzeugt sei. Aljoscha versichert ihm, dass er völlig von seiner Unschuld überzeugt sei, worüber Dmitrij augenblichklich äusserst erleichtert ist. Den Abgrund ahnend, in den sein verzweifelter Bruder nun blicken müsse, macht sich Aljoscha tränenüberströmt auf den Weg zu Iwan ‒ ein Besuch, der ihn sehr quält.
 
+### V) Du nicht, du nicht!
+
+Auf dem Weg zu Iwan bei Katerina Iwanowna vorbeikommend beschliesst Aljoscha einzutreten, da Iwan bei ihr sein könnte. Tatsächlich kommt er ihm beim Betreten des Hauses entgegen und rät Aljoscha von einem Besuch ab. Dieses Gespräch belauschend fordert sie die beiden auf bei ihr einzutreten.
+
+Aljoscha bittet sie darum, sich zu schonen und ihre Vorgeschichte mit Dmitrij an der Verhandlung nicht auszubreiten. Sie entgegnet, ob sie damit sich selber oder nicht vielmehr Dmitrij schonen solle und fragt Iwan, wer nun der wahre Mörder sei. Sie sei bei Smerdjakow gewesen, den ihr Iwan als Vatermörder eingeredet habe.
+
+Iwan verabschiedet sich mit der Absicht am morgigen Tag erneut zu ihr zu kommen. Katerina Iwanowna verlangt von Aljoscha, Iwan sofort zu folgen und ihn unter keinen Umständen alleine zu lassen, da er verwirrt sei und gemäss Arzt an einem starken Nervenfieber leide.
+
+Iwan bald einholend bemerkt Aljoscha, dass man ihm die Krankheit an seinem Gesicht ansehe. Als Aljoscha ihm den Brief von Lise übergibt, die Iwan als «Kobold» bezeichnet, zerreist er diesen ungelesen. Sie biete sich trotz ihres jungen Alters Iwan an. Aljoscha verteidigt sie: sie sei noch ein Kind und selber sehr krank; er wolle gerne von Iwan etwas über sie erfahren, doch dieser will nicht weiter darüber reden.
+
+Stattdessen erzählt er von Katerina Iwanowna: Sie ringe mit der Frage, ob sie vor Gericht als Dmitrijs Retterin oder als seine Verderberin auftreten wolle. Aljoscha meint, dass sie Iwan immer noch liebe, und er ihr immer wieder Hoffnungen mache. Er könne eben erst mit ihr Schluss machen, wenn der Prozess zu Ende sei; denn solange sie noch Hoffnung auf ihn habe, würde sie Dmitrij vor Gericht nicht vernichten, entgegnet Iwan.
+
+Sie habe ein Dokument, das Dmitrij geschrieben habe, welches dessen Schuld am Mord beweisen soll. Er selber habe es gelesen, meint Iwan. Aljoscha bestreitet, dass es ein solches Dokument geben könne, zumal nicht Dmitrij sondern Smerdjakow der Mörder sei, was Iwan als Märchen bezeichnet.
+
+Er fragt Aljoscha, wer nun der Mörder sei. Dieser antwortet damit, dass es sicher nicht er, Iwan, sei, obwohl er sich das selber einrede; Gott habe ihn gesandt, um ihm das zu sagen. Iwan verdächtigt Aljoscha, nachts bei ihm gewesen zu sein, als «er» da gewesen sei. Aljoscha erkundigt sich, wen er denn damit meine, doch Iwan entgegnet nur, dass Aloscha dies genau wisse.
+
+Aljoscha wiederholt seine Worte: «Du nicht!» Gott habe ihm auferlegt, ihm diese Worte zu überbringen. Er könne keine Epileptiker und Propheten ausstehen, und schon gar keine Gottgesandten, entgegnet Iwan. Von nun aus sei es aus zwischen ihnen beiden und sie sollen in Zukunft getrennte Wege gehen.
+
+Da die beiden mittlerweile in verschiedenen Wohnungen leben, gehen sie ihres Weges. Das einstige Vatershaus will keiner bewohnen. Selbst Smerdjakow ist mittlerweile im Nachbarshaus bei Marja Kondratjewna untergekommen. Als Iwan bei sich zu Hause ankommt, beschliesst er plötzlich, Smerdjakow aufzusuchen.
+
