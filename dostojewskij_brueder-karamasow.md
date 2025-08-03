@@ -1112,3 +1112,23 @@ Aljoscha wiederholt seine Worte: «Du nicht!» Gott habe ihm auferlegt, ihm dies
 
 Da die beiden mittlerweile in verschiedenen Wohnungen leben, gehen sie ihres Weges. Das einstige Vatershaus will keiner bewohnen. Selbst Smerdjakow ist mittlerweile im Nachbarshaus bei Marja Kondratjewna untergekommen. Als Iwan bei sich zu Hause ankommt, beschliesst er plötzlich, Smerdjakow aufzusuchen.
 
+### VI) Der erste Besuch bei Smerdjakow
+
+Iwan hat Smerdjakow bereits zweimal besucht: Das erste Mal direkt nach seiner Rückkehr aus Moskau fünf Tage nach der Tat und das zweite Mal zwei Wochen darauf. Die allgemeine Meinung war, dass Dmitrij der Schuldige sei. Nur Aljoscha verdächtigt Smerdjakow, was Iwan in dessen Bruderliebe gegenüber Dmitrij begründet sieht. Iwan ist Dmitrij geradezu unsympathisch, ja er verachtet Katerina Iwanowna sogar für ihr Mitleid und ihre Liebe gegenüber Dmitrij.
+
+Als Iwan Dmitrij besucht, argumentiert dieser sehr verworren und verhält sich Iwan gegenüber geradezu feindselig, worauf Iwan Smerdjakow im städtischen Krankenhaus besucht. Das Gespräch zwischen Smerdjakow und ihm am Abend vor seiner Abreise erwähnte er gegenüber dem Ermittlungsrichter bisher nicht, obwohl er aber alles zu Protokoll geben möchte, nachdem er sich mit Smerdjakow unterhalten hat. Die Ärzte versichern Iwan, dass die epileptischen Anfälle echt waren und dass man diese nicht voraussagen könne.
+
+Auf Iwans Frage, wie Smerdjakow seinen Anfall am Tag der Tat so genau hat vorhersagen können, anwortet dieser, er habe bloss eine Vorahnung gehabt, die sich mit seiner Angst vor dem Anfall beim Gang in den Keller eben bewahrheitet habe. Dies und das Gespräch darüber mit Iwan am Vorabend habe er bereits zu Protokoll gegeben ‒ wodurch Iwan ihm gegenüber nun kein Druckmittel mehr hat.
+
+Von seiner damals behaupteten Fähigkeit einen solchen Anfall vortäuschen zu können, habe er jedoch niemandem erzählt. Den Hinweis an Iwan, dass er sich durch seine Abreise vom drohenden Unheil fernhalten solle, habe dieser falsch verstanden: So hätte er nur ins nahe gelegene Tscheremaschnja und nicht ins weit entfernte Moskau abreisen sollen, um notfalls vor Ort sein zu können; ja er hätte besser zum Schutz seines Vaters da bleiben sollen.
+
+Er habe höchstens mit dem Raub der dreitausend Rubel, aber niemals mit einem Mord am Vater gerechnet. Die Abreise nach Moskau habe Dmitrij ermutigt; wäre Iwan bloss nach Tscheremaschnja gereist, hätte er sich weniger getraut. Er glaubte, dass Iwan seine Hinweise verstanden habe, aber dann doch abgereist sei, um eben dem Unheil auszweichen zu können statt es zu verhindern versuchen.
+
+Dmitrij beschuldige ihn bloss, weil ihm gar nichts anderes übrig bliebe. Hätte er den Mord geplant, hätte er niemals gegenüber Iwan behauptet, einen eptileptischen Anfall vorspielen zu können, da er ihm damit einen Beweis für seine Schuld geliefert hätte. Iwan verlässt ihn mit dem Hinweis, dass er nicht erwähnen solle, dass er einen Anfall vortäuschen könne. Smerdjakow entgegnet, dass wenn Iwan es auch nicht erwähnen würde, er auch über das Gespräch am Vorabend vor Iwans Abreise nichts erzählen wolle. (Dies steht im Widerspruch zu Smerdjakows früherer Behauptung, dass er dies bereirs zu Protokoll gegeben habe.)
+
+Iwan ist sich nun sicher, dass Dmitrij der Mörder und Smerdjakow unschuldig sei, was ihn komischerweise beruhigt, worüber er aber nicht weiter nachdenken mag. Auch weitere Zeugenaussagen ‒ von Grigorij die offenstehende Tür betreffend; und von dessen Frau, dass Smerdjakow die ganze Nacht stöhnend im Bett gelegen habe ‒ bestärken Iwan in seiner Meinung, dass Dmitrij der Schuldige sei.
+
+Gleichzeitig flammt auch seine Liebe zu Katerina Iwanowna wieder auf, die er jedoch abstreitet und stattdessen nur seinen Hass ihr gegenüber zugibt ‒ der darin begründet liegt, dass Katerina Iwanowna Dmitrij gegenüber Schuldgefühle empfindet und sich darum nicht Iwan hingeben will.
+
+Weiter quält Iwan der Gedanke daran, dass er am Abend vor seiner Abreise seinen Vater belauschte und sich auf seiner Reise selber als «Schuft» bezeichnete. Iwan erkundigt sich deswegen bei Aljoscha, ob er nach Dmitrijs damaligen Übergriff auf den Vater an ihm, Iwan, den Wunsch erkannte, dass Dmitrij den Vater umbringen würde ‒ was Aljoscha zögernd bejaht. Seither weicht er Aljoscha aus, sucht aber Smerdjakow darauf erneut auf.
+
