@@ -1132,3 +1132,19 @@ Gleichzeitig flammt auch seine Liebe zu Katerina Iwanowna wieder auf, die er jed
 
 Weiter quält Iwan der Gedanke daran, dass er am Abend vor seiner Abreise seinen Vater belauschte und sich auf seiner Reise selber als «Schuft» bezeichnete. Iwan erkundigt sich deswegen bei Aljoscha, ob er nach Dmitrijs damaligen Übergriff auf den Vater an ihm, Iwan, den Wunsch erkannte, dass Dmitrij den Vater umbringen würde ‒ was Aljoscha zögernd bejaht. Seither weicht er Aljoscha aus, sucht aber Smerdjakow darauf erneut auf.
 
+### VII) Der zweite Besuch bei Smerdjakow
+
+Iwan besucht den mittlerweile genesenen Smerdjakow in seiner neuen Wohnung im Hause Marja Kondratjewnas. Er kommt auf ihr Gespräch im Krankenhaus zurück und fragt, wie es Smerdjakow damals gemeint habe, dass er «nicht alles» von ihrem Gespräch am Vorabend vor Iwans Abreise erzählen wolle, falls Iwan über Smerdjakows Behauptung, einen eptileptischen Anfall simulieren zu können, schwiege. Smerdjakow antwortet, dass er damit meinte, der Obrigkeit nichts davon erzählen zu wollen, dass Iwan seinen Vater im Vorwissen von dessen Ermordung verlassen und den Tod seines Vaters gar herbeigewünscht habe.
+
+Für letztere Bemerkung versetzt Iwan Smerdjakow einen Faustschlag an die Schulter, worauf Smerdjakow zu weinen anfängt und lamentiert, dass es eine Schande sei, einen schwachen Menschen zu schlagen. Er habe ihn damals am Tor angesprochen, um herauszufinden, ob er den Tod seines Vaters wünsche. Aus Angst habe er damals jeden verdächtigt, traute Iwan aber nicht den Mord, wohl aber den Wunsch darauf zu.
+
+Hätte der Vater Gruschenka geheiratet, wären die Söhne ohne Erbe dagestanden. Andernfalls hätten alle drei je vierzigtausend Rubel geerbt ‒ ausser wenn Dmitrij durch den Mord sein Erbrecht verwirkt hätte, dann wären es für Iwan und Aljoscha je sechzigtausend Rubel geworden. So habe Iwan fest mit Dmitrij als Täter gerechnet. Iwan entgegnet, dass er damals eher Smerdjakow verdächtigt habe, worauf dieser antwortet, dass Iwan ihm durch seine Abreise die Tat erlaubt hätte.
+
+Iwan hätte ihn für seine Rede zur Polizei bringen oder zumindest ohrfeigen können, was er verpasst habe. Nun verdächtigt Iwan doch Smerdjakow als den Täter. Er bringe ihn nur deswegen nicht um, weil er ihn noch vor Gericht bringen wolle. Smerdjakow antwortet damit, dass er dann vor Gericht alles erzählen werde, was Iwan vor dem Publikum in Verruf brächte.
+
+Mit dem Gedanken ringend, Smerdjakow umbringen zu wollen, begibt sich Iwan zu Katerina Iwanowna. Diese zeigt Iwan eine Brief von Dmitrij, den er am Abend des Tages, an dem Aljoscha die Szene zwischen Gruschenka und ihr mitbekommen hatte, in betrunkenem Zustand schrieb. Darin steht, dass Dmitrij ihre dreitausend Rubel beschaffen wolle. Gelänge ihm das nicht, wolle er dem Vater den Schädel einschlagen und die dreitausend rauben sobald Iwan abgereist sei. Auch das Versteck des Geldes unter des Vaters Matratze ist darin erwähnt.
+
+Für Iwan ist klar: Dmitrij ist der Täter und nicht Smerdjakow ‒ und er selber ist damit nicht der Komplize Smerdjakows und also unschuldig. Dennoch macht ihn in den darauffolgenden Wochen der Gedanke wahnsinnig, dass er der Schuldige sei. Die Bemerkung Smerdjakows, dass die Verurteilung Dmitrijs Iwans Erbteil erhöhe, kränkt ihn derart, dass er für Dmitrij einen Fluchtplan ausarbeitet, den er selber mit dreissigtausend Rubel finanziert.
+
+Nach dem Auseinandergehen mit Aljoscha fällt Iwan ein, wie Katerina Iwanowna vorher ihm gegenüber bemerkte, dass Iwan sie von Dmitrijs Schuld überzeugt habe, wo doch sie ihm Dmitrijs Brief als Beweis vorlegte! Sie bemerkte auch, dass sie bei Smerdjakow gewesen sei, was für Zweifel ihrerseits an der Täterschaft Dmitrijs spricht. Iwan beschliesst, sofort zu Smerdjakow zu gehen.
+
