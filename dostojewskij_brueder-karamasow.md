@@ -1148,3 +1148,34 @@ Für Iwan ist klar: Dmitrij ist der Täter und nicht Smerdjakow ‒ und er selbe
 
 Nach dem Auseinandergehen mit Aljoscha fällt Iwan ein, wie Katerina Iwanowna vorher ihm gegenüber bemerkte, dass Iwan sie von Dmitrijs Schuld überzeugt habe, wo doch sie ihm Dmitrijs Brief als Beweis vorlegte! Sie bemerkte auch, dass sie bei Smerdjakow gewesen sei, was für Zweifel ihrerseits an der Täterschaft Dmitrijs spricht. Iwan beschliesst, sofort zu Smerdjakow zu gehen.
 
+### VIII) Der dritte und letzte Besuch bei Smerdjakow
+
+Der Weg zu Smerdjakow führt Iwan durch dichtes Schneegestöber und unbeleuchtete Strassen in der Dunkelheit. Dabei stösst er mit einem betrunkenen Bauern zusammen, der dabei zu Boden geht. Iwan lässt ihn dort liegen, wohl wissend, dass er vermutlich erfrieren würde.
+
+Smerdjakow trifft er in schwer krankem Zustand bei sich am Tisch sitzend an. Iwan erkundigt sich, ob Katerina Iwanowna bei ihm gewesen sei. Statt zu antworten bemerkt Smerdjakow, dass Iwan krank aussehe, sichtlich abgemagert sei aber am morgigen Prozess nichts zu befürchten habe. Iwan sei derjenige, der gemordet habe, und er, Smerdjakow, habe bloss als sein Handlanger fungiert, der alles auf Geheiss von Iwan ausgeführt habe.
+
+Iwan wundert sich, ob nun wirklich Smerdjakow der Mörder sei. Dieser zeigt sich darüber erstaunt, dass Iwan das nicht verstanden habe. Zum Beweis zieht Smerdjakow einen Papierumschlag aus seinem Strumpf und packt den Inhalt aus: Es sind die dreitausend Rubel, die Iwan gerne an sich nehmen könne.
+
+Iwan fragt, ob Dmitrij sein Komplize gewesen sei, worauf Smerdjakow antwortet, dass er, Iwan, es mit ihm zusammen getan habe. Dmitrij sei unschuldig. Iwan fordert ihn auf, ihm alles mit allen Einzelheiten zu erklären.
+
+Smerdjakow erzählt: Den ersten Anfall habe er im Keller nur vorgetäuscht, dann aber einen echten bekommen, der über zwei Tage lang angehalten habe. Auf seinem Bett neben dem Zimmer von Grigorij und Marfa liegend habe er fest mit dem Kommen Dmitrijs gerechnet; andernfalls wäre auch nichts passiert.
+
+Er dachte, dass Dmitrij zwar seinen Vater erschlagen, aber dann das Geld nicht finden würde. Dieses habe nicht etwa unter der Matratze gelegen, sondern zunächst in einer verschliessbaren Schatulle. Auf Smerdjakows Anraten habe der Vater es dann in der Ecke hinter den Ikonen versteckt, wo es niemand vermutete. Da Dmitrij zwar ins Haus eindringen und seinen Vater erschlagen aber dann das Geld nicht hätte finden können, wäre es für Smerdjakow ein leichtes gewesen, es anschliessend zu stehlen, wofür man dann doch Dmitrij verdächtigt hätte. Doch so habe es sich nicht zugetragen.
+
+Er wolle Iwan die ganze Wahrheit erzählen, da ja am Ende doch er, Iwan, für den Mord schuldig sei. Er habe mit Iwans Einwilligung gehandelt und sei sich dessen sicher gewesen, dass Iwan ihn dafür schützen, ja ihn gar wegen das ihm dadurch zugefallene Erbe gar belohnen würde. Wäre Iwan dageblieben, wäre nichts passiert; durch seine Abreise habe er den Plan abgesegnet, den er damals offenbar verstanden habe. Gegen ihn, Smerdjakow, hätte er so oder so nichts in der Hand gehabt, wohl aber ein Motiv, ihn anzustiften: das Erbe, das andernfalls an Gruschenka übergegangen wäre.
+
+Weiter habe es sich so ereignet: Smerdjakow sei durch Schreie geweckt worden und habe im Garten nachgeschaut. Der Vater habe am Fenster gestanden und ihm gesagt, dass Dmitrij da gewesen sei und Grigorij umgebracht habe. Diesen habe er bewusstlos vorgefunden, sodass er zwar den Überfall durch Dmitrij bezeugen könne ‒ aber nicht das, was sich weiter ereignete.
+
+Smerdjakow habe gegenüber Fjodor Pawlowitsch behauptet, dass Gruschenka sich in den Büschen verstecke. Mit dem Klopfzeichen habe er den Vater zum Öffnen der Tür gebracht. (Grigorijs Aussage, die Tür habe bereits vorher offengestanden, war falsch.) Um den Vater zurück ins Zimmer zu bekommen, habe er behauptet, Gruschenka warte unter dem Fenster. Als sich Fjodor Pawlowitsch aus dem Fenster lehnte, habe er ihn mit einem gusseisernen Briefbeschwerer erschlagen.
+
+Das Geld habe er aus dem Umschlag genommen und diesen mitsamt der Schleife am Tatort liegen lassen. Anschliessend habe er es im Garten in einem hohlen Baumstamm versteckt, wofür er dort bereits einen Stofflappen bereitgelegt habe. Das Geld habe er erst zwei Wochen später herausgenommen, als er aus dem Krankenhaus entlassen worden sei. Nachdem er sich zurück ins Bett gelegt habe, sei auch schon Marfa erwacht und habe nach Grigorij geschaut, wonach alles seinen Lauf genommen habe.
+
+Das Kuvert habe er am Tatort liegen lassen, damit der Verdacht auf einen unerfahrenen Verbrecher falle, der sich noch am Tatort von dessen Inhalt überzeugen müsse ‒ und in seiner Unerfahrenheit ein Indiz gegen sich selber liegen lasse.
+
+Iwan kündigt an, dies alles vor Gericht auszusagen und sich selber anzuzeigen. Smerdjakow entgegnet, dass weder er selber noch Iwan vor Gericht erscheinen würden, und dass er das soeben Erzählte einfach abstreiten könnte. Iwan würde man keinen Glauben schenken, das Geld könne er aber gerne mitnehmen. Iwan liebe das Leben in Wohlstand und Unabhängigkeit zu sehr, um es durch eine Selbstanzeige aufs Spiel zu setzen. Von allen Kindern Fjodor Pawlowitschs sei er ihm schliesslich am ähnlichsten. Aus Stolz habe Iwan ihn, Smerdjakow, unterschätzt.
+
+Mit der Ankündigung, das Geld am nächsten Tag dem Gericht zu übergeben, verabschiedet sich Iwan. Da er mittlerweile über eigenes Geld verfüge, werde er damit niemanden überzeugen, schliesst Smerdjakow.
+
+Auf dem Rückweg stolpert Iwan über den bewusstlos liegenden Bauern, den er auf dem Hinweg umgerempelt hat. Er schafft ihn mithilfe eines in der Nähe wohnenden Kleinbürgers auf die Polizeiwache und bezahlt für einen Arzt, der den Mann untersuchen soll.
+
+Durch diesen Vorfall klären sich Iwans Gedanken, und er ist nun überzeugt von seiner Absicht, sich selber anzeigen zu wollen. Zu Hause ist er von der Vorstellung besessen, dass ein unbekannter Gegenstand, der ihn quält, in seinem Zimmer sein müsse.
