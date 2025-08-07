@@ -1179,3 +1179,26 @@ Mit der Ankündigung, das Geld am nächsten Tag dem Gericht zu übergeben, verab
 Auf dem Rückweg stolpert Iwan über den bewusstlos liegenden Bauern, den er auf dem Hinweg umgerempelt hat. Er schafft ihn mithilfe eines in der Nähe wohnenden Kleinbürgers auf die Polizeiwache und bezahlt für einen Arzt, der den Mann untersuchen soll.
 
 Durch diesen Vorfall klären sich Iwans Gedanken, und er ist nun überzeugt von seiner Absicht, sich selber anzeigen zu wollen. Zu Hause ist er von der Vorstellung besessen, dass ein unbekannter Gegenstand, der ihn quält, in seinem Zimmer sein müsse.
+
+### IX) Der Teufel. Iwan Fjodorowitschs Alptraum
+
+Zu dieser Zeit begann Iwans Nervenfieber, und obwohl er diese Krankheit durch Willensanstrengung vorerst abwehren konnte, verordnete der Moskauer Arzt ihm Ruhe, was Iwan jedoch ignorierte. Sich beinahe sicher, dass er nur phantasiere, erblickt Iwan auf dem ihm gegenüber stehenden Diwan einen Gentleman mit Spitzbärtchen: den Teufel.
+
+Dieser erinnert Iwan daran, dass er von Smerdjakow entgegen seinem Vorsatz nichts vom Besuch Katerina Iwanownas bei ihm in Erfahrung habe bringen können. Iwan entgegnet, dass dies nun nicht mehr relevant sei, und dass er sich dessen selber erinnerte. Er sei sich sicher, dass er phantasiere, und dass er mit sich selber spreche. Mit einem Handtuch, das er in kaltes Wasser taucht und sich um den Kopf bindet, versucht er seine Einbildung zu vertreiben. Er sehe ihn nicht als etwas Wahres an, sondern als etwas, das seiner Krankheit entspringe.
+
+Als der Teufel von Aljoscha und Iwans vorherigem Beschluss zu reden beginnt, droht ihm Iwan Fusstritte an ‒ worüber sich dieser freut, zumal er damit von Iwan als real anerkannt wäre. Er schnappe nur seine Übelsten und dümmsten Gedanken auf, entgegnet Iwan.
+
+Man sehe ihn oft als gefallenen Engel an, doch könner er sich nicht vorstellen, je ein Engel gewesen zu sein. Als gläubiges Bauernweib zu reinkarnieren und vor den Ikonen eine Kerze anzuzünden wäre seine Rettung, so der Teufel. Er sei zwar eine Halluzination, spreche aber gelegentlich einen originellen Gedanken aus, auf den Iwan selber nie gekommen wäre. Er sei zum Verneinen bestimmt, und ohne ihn würde auf Erden alles vernünftig ablaufen und nichts passieren. Ein Leben ohne Leiden verkomme zu einem endlosen Dankgebet und wäre äusserst langweilig. Auf Iwans Frage, ob es einen Gott gäbe, antwortet der Teufel, dass er es nicht wisse, was Iwan darin bestärkt, dass dieser Besucher nur seiner Einbildung entstamme.
+
+Der Teufel erzählt eine Legende von einem Denker, der Gesetz, Gewissen und Glaube negiert habe, aber wider seines Erwartens noch seinem Tod das ewige Leben für ihn angebrochen sei. Da er sich dagegen empört habe, zumal das ewige Leben seiner Überzeugung widerspreche, sei er dazu verurteilt worden, eine Quadrillion Kilometer im Dunkeln zurückzulegen, worauf er unter Vergebung ins Paradies eintreten dürfe. Er habe diesen ihm auferlegten Gang verweigert und sich quer auf die Strasse gelegt, sei aber nach tausend Jahren dann doch aufgestanden und habe sich auf den Weg gemacht. Sekunden nach seiner Ankunft im Paradies habe er ausgerufen, dass er hierfür falls nötig noch wesentlich weiter zu gehen bereit wäre! Iwan erkennt diese Anekdote als seine eigene, die er mit siebzehn Jahren einem Klassenkameraden erzählt habe, und die ihm jetzt bloss wieder im Traum eingefallen sei.
+
+Das Schwanken zwischen Glauben und Unglauben sei für Iwan die groste Qual, und dieser wolle er, der Teufel, ihn aussetzen. Der grösste Triumph für ihn sei es, wenn er Eremiten in der Einöde verführen könne, wo sich Abgründe von Glauben und Unglauben öffneten, die nur um Haaresbreite auseinanderliegten. Eine bildhübsche Blondine habe jüngst ihrem Pater von ihrer erneuten Verführung gebeichtet. Auf ihr Argument, dass dies dem Verführer viel Vergnügen und ihr nur wenig Leid bereitet habe, habe der Teufel nichts entgegnen können, worauf der Pater die junge Frau zu sich auf ein Rendezvous bestellt habe.
+
+Er liebe die Wahrheit und wünsche das Gute, sei aber dazu bestimmt, Tausende zu verderben um dadurch einen Einzelnen zu retten. Um alles zu zerstören, auf dass etwas Neues entstehen könne, genüge es die Idee Gottes zu zerstören. Durch das Überschreiten der Natur werde der Mensch in höchster Wonne leben und dadurch seinen Mitmenschen ohne Gottes Lohn lieben.
+
+Doch wegen der Dummheit der Menschheit werde dies noch lange nicht eintreten, weswegen derjenige, der die Wahrheit jetzt schon kenne, sich nach eigenem Geschmack und Prinzip einrichten dürfe; ihm sei «alles erlaubt». Dieser werde zum Mensch-Gott, der sich sein eigenes Gesetz mache. Da wirft Iwan ein Teeglas nach seinem Besucher, der spottet, dass Iwan einen Gegenstand nach einem Traum werfe.
+
+Da klopft es ans Fenster, worauf der Teufel bemerkt, dass es Aljoscha sei, der eine interessante Neuigkeit für Iwan habe. Er solle ihm öffnen, denn draussen gehe ein Schneesturm. Als sich Iwan endlich erheben kann, ist der Diwan ihm gegenüber leer, und das Teeglas steht auf dem Tisch. Dennoch glaubt Iwan nicht an einen Traum und hält alles für wirklich.
+
+Am Fenster wartet tatsächlich Aljoscha, den Iwan zunächst dafür tadelt, ihn entgegen des vorhin ausgesprochenen Verbots aufzusuchen. Als Aljoscha ihm mitteilt, dass Smerdjakow sich gerade eben erhängt habe, will ihm Iwan dann doch die Tür öffnen.
+
