@@ -1202,3 +1202,17 @@ Da klopft es ans Fenster, worauf der Teufel bemerkt, dass es Aljoscha sei, der e
 
 Am Fenster wartet tatsächlich Aljoscha, den Iwan zunächst dafür tadelt, ihn entgegen des vorhin ausgesprochenen Verbots aufzusuchen. Als Aljoscha ihm mitteilt, dass Smerdjakow sich gerade eben erhängt habe, will ihm Iwan dann doch die Tür öffnen.
 
+### X) «Das hat er gesagt, das hat er gesagt!»
+
+Aljoscha berichtet, dass Marja Kondratjewna vor kaum einer Stunde bei ihm in die Wohnung gestürzt sei mit der Nachricht, dass Smerdjakow sich erhängt habe. Zurück bei ihr finden sie neben dem immer noch an einem Nagel hängenden Smerdjakow einen Zettel: er tilge sein Leben aus eigenem Willen, um niemanden zu beschuldigen. Gleich darauf sei er zur Polizei gegangen und von da direkt zu Iwan gekommen.
+
+Iwan meint, dass er es gewusst habe, denn «er» habe es ihm gesagt und sei dann aus Angst vor Aljoscha verschwunden. Aljoscha erkennt, dass Iwan krank ist und möchte ihm zur Linderung ein nasses Handtuch um den Kopf legen. Dieses liegt zusammengefaltet und trocken auf dem Waschtisch, obwohl Iwan sich sicher ist, es bereits angefeuchtet um den Kopf getragen zu haben. Er habe wohl Wachträume, in denen ihn der Teufel besuche.
+
+Vorher habe er, Iwan, etwas Falsches über Lise gesagt, denn eigentlich möge er sie. Katerina Iwanowna werde ihn morgen fallenlassen, da sie glaube, dass Iwan ihretwegen auf Dmitrij eifersüchtig sei.
+
+Der Teufel sei eigentlich er selber mit seiner ganzen Niedertracht. Dieser habe ihm gesagt, dass er das grosse Werk der Tugend vollbringen wolle, indem er sich selber als Anstifter zum Mord anklage, ohne aber dabei an die Tugend zu glauben. Er tue dies bloss aus Stolz und mache sich nichts aus dem Entsetzen über seine Tat, ja er erwarte sogar Lob für sein Geständnis. Dies stimme nicht, und deshalb habe er sein Glas dem Teufel an den Kopf geworfen.
+
+Jetzt, da Smerdjakow tot sei, werde ihm niemand mehr Glauben schenken. Er wolle nur zum Gericht gehen, weil er es nicht wage, nicht hinzugehen, so der Teufel, doch warum dies so sei, müsse er selber herausfinden. Lisa, Katerina Iwanowna und Aljoscha verachteten ihn bereits, und Dmitrij könne von ihm aus im Zuchthaus vermodern!
+
+Als Iwans Rede immer wirrer und unverständlicher wird, bringt Aljoscha ihn zu Bett. Er glaubt, dass Gott und dessen Wahrheit die Herrschaft über Iwans Herz gewännen, doch wehre er sich noch dagegen, was der Grund für seine Krankheit sei. Obwohl ihm nach Smerdjakows Tod niemand Glauben schenke, werde er aussagen. Iwan habe sich dem unterworfen, woran er nicht glaube; daher stammten seine Rachegelüste, denkt Aljoscha.
+
