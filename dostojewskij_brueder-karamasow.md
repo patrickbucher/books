@@ -1216,3 +1216,20 @@ Jetzt, da Smerdjakow tot sei, werde ihm niemand mehr Glauben schenken. Er wolle 
 
 Als Iwans Rede immer wirrer und unverständlicher wird, bringt Aljoscha ihn zu Bett. Er glaubt, dass Gott und dessen Wahrheit die Herrschaft über Iwans Herz gewännen, doch wehre er sich noch dagegen, was der Grund für seine Krankheit sei. Obwohl ihm nach Smerdjakows Tod niemand Glauben schenke, werde er aussagen. Iwan habe sich dem unterworfen, woran er nicht glaube; daher stammten seine Rachegelüste, denkt Aljoscha.
 
+## Zwölftes Buch: Ein Justizirrtum
+
+### I) Der verhängnisvolle Tag
+
+Das Verfahren gegen Dmitrij wird am folgenden Tag um zehn Uhr am Bezirksgericht eröffnet. Der Prozess wird im Vorfeld eifrig in ganz Russland diskutiert, sodass der Saal bis auf den letzten Platz mit angereisten Juristen und zahlreichen Damen gefüllt ist, letztere grösstenteils auf Dmitrijs Seite stehend ‒ im Gegensatz zu ihren Männern, was zu einigen Ehestreitigkeiten geführt haben soll.
+
+Von Katerina Iwanowna wird erzählt, sie wolle den Angeklagten im Falle einer Verurteilung nach Sibirien begleiten. Von ihrer Kontrahentin Gruschenka ist man verwundert, wie eine solche Kleinbürgerin, die nicht einmal besonders hübsch sei, Vater und Sohn um den Verstand bringen und ins Verderben habe stürzen können.
+
+Für Aufsehen sorgt der berühmte, eigens zum Prozess in die Provinz angereiste Verteidiger Fetjukowitsch, durch dessen Beteiligung schon mancher Prozess zur allgemeinen Bekannschaft gekommen ist. Dem Staatsanwalt wird nachgesagt, seine Karriere durch diesen prominenten Widersacher wiederbeleben zu wollen, obschon er Angst vor der Begegnung mit ihm habe. Tatsächlich wird sein Ehrgeiz dadurch nur angespornt. Er gilt zwar als Hitzkopf aber als wenig durchsetzungsfähig; ihm wird eine Schwäche für die Psychologie nachgesagt. Ganz anders der Präsident des Gerichts, dessen Interesse nicht seiner Karriere sondern der Sache an sich gilt.
+
+Auf einem Tisch in der Mitte des Saals sind die Beweisstücke ausgestellt: der blutbesudelte Morgenmantel des Vaters, der Messingstössel als vermeintliche Mordwaffe, Dmitrijs blutbefleckte Kleidung mit dem dazugehörigen Taschentuch, die vom Wirt sichergestellte und bereits geladene Pistole sowie das aufgerissene, an Gruschenka adressierte Kuvert mit der rosafarbenen Schleife.
+
+Die zwölf Geschworenen setzen sich aus vier niedrigen Beamten, zwei Kaufleuten sowie sechs Bauern und Kleinbürgern zusammen, denen man im Allgemeinen die Fähigkeit abstreitet, in so einer Sache urteilen zu können.
+
+Als der Angeklagte hereingeführt wird, herrscht äusserste und angespannte Ruhe im Saal. Dmitrij trägt einen neuen Gehrock, den er sich von seinem früheren Schneider eigens zum Prozess hat anfertigen lassen. Vier Zeugen sind abwesend: Miussow, der sich in Paris aufhalte; Maximow und die Chochlakowa wegen Krankheit; und Smerdjakow, der plötzlich verstorben sei ‒ was zu Tuscheln im Saal führt, und wodurch sich Dmitrij zum Ausruf «Dem Hund ein Hundetod!» verführen lässt, wofür er gleich gemassregelt wird. Nach dem Verlesen der Anklageschrift bekennt sich Dmitrij «des Müssiggangs und der Skandale» schuldig, aber nicht des Mordes und des Raubes: er sei zwar ein Schuft, aber kein Dieb.
+
+Anschliessend werden die Zeugen zur Eidesleistung hereingeführt; die beiden Brüder sind jedoch auch ohne Eid zur Aussage zugelassen.
