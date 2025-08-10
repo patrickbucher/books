@@ -1233,3 +1233,26 @@ Die zwölf Geschworenen setzen sich aus vier niedrigen Beamten, zwei Kaufleuten 
 Als der Angeklagte hereingeführt wird, herrscht äusserste und angespannte Ruhe im Saal. Dmitrij trägt einen neuen Gehrock, den er sich von seinem früheren Schneider eigens zum Prozess hat anfertigen lassen. Vier Zeugen sind abwesend: Miussow, der sich in Paris aufhalte; Maximow und die Chochlakowa wegen Krankheit; und Smerdjakow, der plötzlich verstorben sei ‒ was zu Tuscheln im Saal führt, und wodurch sich Dmitrij zum Ausruf «Dem Hund ein Hundetod!» verführen lässt, wofür er gleich gemassregelt wird. Nach dem Verlesen der Anklageschrift bekennt sich Dmitrij «des Müssiggangs und der Skandale» schuldig, aber nicht des Mordes und des Raubes: er sei zwar ein Schuft, aber kein Dieb.
 
 Anschliessend werden die Zeugen zur Eidesleistung hereingeführt; die beiden Brüder sind jedoch auch ohne Eid zur Aussage zugelassen.
+
+### II) Gefährliche Zeugen
+
+Zunächst werden die Zeugen der Anklage aufgerufen. Im Saal wird schnell klar, dass die Verteidigung in diesem Fall wenig gegen die Anklage in der Hand hat. Die Damen rechnen zwar mit der Schuld des Angeklagten, aber dennoch auf einen Freispruch aus Gründen der Humanität. Die Männer interessieren sich dafür, wie Fetjukowitsch sich angesichts der für die Verteidigung hoffnungslosen Lage schlagen werde. Dieser tritt selbstbewusst auf und vermag es durch seine Befragung Zweifel an der Integrität aller Zeugen der Anklage hervorzubringen.
+
+Grigorij bezeugt, dass Fjodor Pawlowitsch seinen Sohn Dmitrij um das mütterliche Erbe gebracht habe, ohne dies nachweisen zu können (wie im Übrigen auch die anderen Zeugen). Dass er bei Dmitrijs erstem Überfall auf dessen Vater von ihm niedergeschlagen worden sei, habe er ihm verziehen. Smerdjakow sei zwar dumm und gottlos gewesen, jedoch sehr ehrlich, wodurch er Fjodor Pawlowitschs vollstes Vertrauen genossen habe. Das für Gruschenka bestimmte Kuvert habe er zwar nicht gesehen, wohl aber davon gehört. (So antworten auch alle anderen hierzu befragten Zeugen der Verteidigung.)
+
+Über den Aufguss befragt, den ihm seine Frau am Abend der Tat verabreicht habe, gibt Grigorij zu, dass dieser eine grössere Menge Alkohol enthalten, den er sich zu einem grossen Teil einverleibt habe. Hierdurch kommen Zweifel an der von Grigorij geschilderten offenstehenden Tür vom Haus zum Garten auf, zumal man unter einem solchen Alkoholeinfluss auch das offene Himmelstor erblicken könne, so Fetjukowitsch. Da Grigorij nicht einmal das gegenwärtige Kalenderjahr benennen kann, wachsen die allgemeinen Zweifel an seiner Glaubwürdigkeit.
+
+Als nächster Zeuge wird Rakitin befragt, der sich offenbar genaustens über den Fall und die Familie Karamasow informiert hat. Er nutzt diesen seinen ersten öffentlichen Auftritt, um seine Gedanken über die Missstände in der Familie Karamasow publikumswirksam auf die allgemein vorherrschenden Missstände in der russischen Gesellschaft in Beziehung zu setzen, wofür ihm sogar vereinzelt aus dem Publikum applaudiert wird.
+
+Gruschenka attestiert er einen zweifelhaften Ruf, was sich für ihn rächen sollte: Fetjukowitsch befragt ihn darüber, ob es wahr sei, dass er selber mit ihr auch verkehre und von ihr fünfundzwanzig Rubel dafür angenommen habe, Aljoscha zu ihr zu führen. Das Geld habe er zwar angenommen, gesteht Rakitin, jedoch nur «zum Scherz»; zurückgegeben habe er es jedoch noch nicht. Nachdem Rakitins guter Eindruck verflogen ist, bezeichnet Dmitrij diesen als Schmarotzer und Karrierist, wofür er erneut gemassregelt wird.
+
+Der Zeuge Snegirjow erscheint verwahrlost und betrunken und will nicht gegen Dmitrij aussagen, zumal es ihm sein im Sterben liegender Sohn Iljuscha verboten habe, worauf Snegirjow in Tränen ausbricht und als Zeuge gleich wieder entlassen wird.
+
+Der Zeuge Trifon Borisowitsch (der Wirt in Mokroje) kann überzeugend schildern, dass Dmitrij bei seinem ersten Gelage dreitausend und nicht etwa nur eintausendfünfhundert Rubel ausgegeben habe, zumal dieser das Geld den Bauern und Mägden geradezu vor die Füsse geworfen habe.
+
+Fetjukowitsch konfrontiert ihn damit, dass ihm vom Kutscher Timofej und vom Bauern Akim ein Hundertrubelschein übergeben worden sei, den Dmitrij auf dem Flur des Wirtshauses habe fallen lassen. Diesen habe er Dmitrij aufgrund seiner damaligen Trunkenheit nicht zurückgegeben, dies aber später beabsichtigt zu tun ‒ was aber offenbar noch immer nicht passiert ist, wodurch ein weiterer Zeuge mit befleckter Reputation abtritt.
+
+Die beiden Polen treten selbstbewusst auf und bezeugen, dass Dmitrij sie mit dreitausend Rubel hat kaufen wollen. Doch als Fetjukowitsch deren Betrug beim Kartenspiel nachweisen kann, treten auch diese beiden Zeugen ruhmlos und unter Gelächter des Publikums ab.
+
+Zwar ist dem Publikum nach dieser Zeugenbefragung unklar, was Fetjukowitsch mit seinem Vorgehen gegen die Anklage erreichen wolle, man attestiert ihm jedoch eine gewisse Sicherheit dabei, wodurch er wohl kaum ergebnislos davonziehen werde.
+
