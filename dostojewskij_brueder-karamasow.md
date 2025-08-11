@@ -1256,3 +1256,19 @@ Die beiden Polen treten selbstbewusst auf und bezeugen, dass Dmitrij sie mit dre
 
 Zwar ist dem Publikum nach dieser Zeugenbefragung unklar, was Fetjukowitsch mit seinem Vorgehen gegen die Anklage erreichen wolle, man attestiert ihm jedoch eine gewisse Sicherheit dabei, wodurch er wohl kaum ergebnislos davonziehen werde.
 
+### III) Das medizinische Gutachten und ein Pfund Nüsse
+
+Von den medizinischen Gutachten der drei Ärzte Herzenstube, Warwinskij und dem aus Moskau angereisten Arzt verspricht man sich im allgemeinen wenig; sie sind auf Drängen Katerina Iwanownas zustande gekommen. Unter den drei Ärzten kann kein Konsens über die geistige Verfassung des Angeklagten gefunden werden.
+
+Der bereits alte, immer noch ledige, stets gewissenhafte und fromme sowie menschenfreundliche Herzenstube, ein Deutscher, geniesst in der Stadt ein grosses Ansehen und behandelt Arme kostenlos, ja bezahlt ihnen gar die Arznei. Der aus Moskau angereiste Arzt, von dem sich einige Bewohner in der Stadt, die über das dazu notwendige Kleingeld verfügen, behandeln lassen, hat jedoch keine hohe Meinung von Herzenstube und von seinen Heilkünsten, was er die Patienten gerne durch abschätzige Bemerkungen wissen lässt.
+
+Herzenstube sagt aus, dass die geistigen Fähigkeiten des Angeklagten von der Norm abweichten. Dies erkenne man nicht nur an seinen früheren Handlungen, sondern auch an der Art und Weise, wie er den Gerichtssaal gerade betreten habe: den Blick soldatisch nach vorne gerichtet statt nach den Damen auf der linken Seite zu schauen.
+
+Der Moskauer Arzt empfindet die geistige Verfassung des Angeklagten als abnormal, ja extrem: Er habe sich schon Tage vor der Tat im Zustand des Affekts befunden und beinahe schon gegen seinen Willen gehandelt. Auch attestiert er Dmitrij eine Manie, welche sich zu einer völligen geistigen Zerrüttung entwickle. Beim Sprechen über die dreitausend Rubel komme seine Kränkung und Gereiztheit besonders zum Vorschein. Dass er beim Betreten des Saales vor sich hingestarrt habe sei Symptom seines kranken seelischen Zustands, doch hätte er nicht etwa nach links zu den Damen, sondern nach rechts zu seinem Verteidiger blicken sollen, auf dem schliesslich seine ganzen Hoffnunten ruhen sollten.
+
+Ganz anders folgert Warwinskij, der dem Angeklagten eine normale geistige Verfassung attestiert, obschon er bei seiner Verhaftung aufgrund seiner Eifersucht, seines Zorns und seiner Trunkenheit sehr erregt gewesen sei. Von einem «Affekt» könne jedoch keine Rede sein. Der gerade Blick beim Betreten des Gerichts sei Ausdruck seines geistig normalen Gesundheitszustands.
+
+Eine Anekdote von Herzenstube aus Dmitrijs Kindertagen rück diesen in ein vor dem Publikum günstiges Licht: Diesen habe er in völlig verwahrlostem Zustand im Hof des väterlichen Hauses gesehen und ihm aus Mitleid ein Pfund Nüsse gebracht, auf dass Dmitrij ihm seine Worte «Gott, der Vater; Gott, der Sohn; Gott der Heilige Geist" nachgesprochen habe.
+
+Diese Worte habe Dmitrij ihm bei nächster Gelegenheit nachgerufen, worauf Herzenstube ihn erst Jahre später nach seiner Rückkehr in die Stadt als Erwachsener wiedersah, wobei Dmitrij die Worte von damals erneut aufgesagt habe und sich dankend der damals geschenkten Nüsse erinnerte. Darauf hätten beide gelacht und geweint, und auch jetzt vor dem Gericht ruft Dmitrij aus, dass er wieder weinen müsse.
+
