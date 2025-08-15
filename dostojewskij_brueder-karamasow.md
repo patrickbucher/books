@@ -1288,3 +1288,21 @@ Gruschenka sagt aus, dass Fjodor Pawlowitsch verrückt nach ihr gewesen sei. Sie
 
 Nach den fünfundzwanzig Rubel befragt, welche sie Rakitin gegeben haben soll, antwortet sie, dass sie ihm oft Geld gebe, zumal er ihr Vetter sei, der sich ihrer schäme, weswegen sie diese Verwandschaft bisher verschwiegen habe. Gruschenka nimmt Rakitin dessen Aussage gegen Dmitrij von vorhin übel und hat ihr Schweigen deswegen gebrochen. Rakitin, der dabei vor Scham rot geworden sein soll, ist damit in den Augen des Publikums in Misskredit geraten.
 
+### V) Die unvermutete Katastrophe
+
+Iwan erscheint wegen Unpässlichkeit erst verspätet als Zeuge vor Gericht. Sein Aufzug ist tadellos, doch sein Gesicht wirkt leidend. Die Fragen beantwortet er knapp, ja einsilbig; auf viele wisse er nichts zu antworten und bittet schliesslich darum, vom Gericht als Zeuge entlassen zu werden.
+
+Als er den Saal bereits verlassen will, macht er plötzlich Kehrt und reicht dem Gerichtsdiener die dreitausend Rubel, die aus dem Kuvert auf dem Tisch mit den Beweisen stammten. Er habe das Geld gestern von Smerdjakow erhalten, welcher der wahre Mörder sei; doch er habe es ihn gelehrt.
+
+Alle hätten sie den Tod seines Vaters gewünscht; ja das Publikum wäre enttäuscht darüber, wenn der Mord nicht passiert wäre. Iwan beteuert, bei klarem Verstand zu sein und beschuldigt sich selber des Mordes. Zeugen habe er keine, denn Smerdjakow sei tot. Einzig der Teufel könne es bezeugen, doch sei der als Zeuge vor Gericht unstatthaft.
+
+Nachdem Iwan seine gestrige Begegnungen verarbeitend wirre Aussagen macht, wird er unter Widerstand aus dem Saal geführt. Es entsteht ein Tumult, worauf Katerina Iwanowna einen hysterischen Anfall erleidet und deswegen ebenfalls aus dem Saal geführt werden soll, wogegen sie sich wehrt. Sie erwähnt einen Brief als Beweismittel gegen Dmitrij; diesen Beweis habe sie dem Gericht bisher vorenthalten. Sie habe den Brief einen Tag vor dem Verbrechen erhalten, geschrieben worden sei er zwei Tage vor der Tat.
+
+Die dreitausend Rubel habe sie damals Dmitrij nur unter dem Vorwand, sie seien für ihre Schwester bestimmt, gegeben; tatsächlich wollte sie ihn prüfen: Wird er mit diesem Geld Gruschenka verführen? Ihm sei bewusst gewesen, dass er das Geld nur bekomme, um damit seine Ehrlosigkeit unter Beweis zu stellen. Dmitrij ruft dazwischen, dass dies alles wahr sei, worauf er abermals verwarnt wird. Den Brief habe er im Glauben verfasst, dass sie ihn niemandem zeigen würde. Im Brief sei auch die Rede davon, dass Dmitrij erst zur Tat schreiten wolle, wenn Iwan weg sei. Nachdem der Brief zum allgemeinen Entsetzen vorgelesen worden ist, bestätigt Dmitrij seine Urheberschaft. 
+
+Weiter sagt Katerina Iwanowna aus, dass er sie nur habe heiraten wollen, weil ihr ein Erbe in Aussicht stand, und er nach ihrer Erniedrigung Gewalt über sie haben werde. Iwan habe sich seinetwegen zwei Monate lang gequält und stehe dem Wahnsinn nahe, weil er seinen Bruder retten wolle. Iwan habe die längste Zeit Smerdjakow und damit sich selbst als den Schuldigen vermutet, was sie mit dem Brief Dmitrijs zu entkräftigen wusste. Er könne es nicht ertragen, dass sein Bruder ein Mörder sei.
+
+Damit opfert sie sich erneut, um sich an Dmitrij zu rächen und um Iwan zu retten, der ihr offenbar wichtiger ist, als sie das selbst zugeben mag. Nach ihrer Aussage erleidet sie erneut einen hysterischen Anfall, worauf sie aus dem Saal geführt wird. Ihre Aussage wird zu Protokoll genommen und der Brief den Beweisen hinzugefügt.
+
+Der Arzt aus Moskau attestiert Iwan ein starkes Nervenfieber; er müss sich umgehend behandeln lassen. Das Gericht zieht sich für eine Pause zurück; um acht Uhr abends werden die Plädoyers eröffnet.
+
