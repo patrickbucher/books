@@ -1306,3 +1306,25 @@ Damit opfert sie sich erneut, um sich an Dmitrij zu rächen und um Iwan zu rette
 
 Der Arzt aus Moskau attestiert Iwan ein starkes Nervenfieber; er müss sich umgehend behandeln lassen. Das Gericht zieht sich für eine Pause zurück; um acht Uhr abends werden die Plädoyers eröffnet.
 
+### VI) Der Schlussvortrag des Staatsanwalts. Eine Charakteristik
+
+Der Staatsanwalt hält seinen Schlussvortrag, der zu seinem Schwanengesang werden sollte, zumal er bald darauf an seiner Schwindsucht sterben wird. Das Entsetzliche am vorliegenden Fall liege weniger in diesem selber als in der Gewöhnung an solche Fälle, die sich in der Gesellschaft breitmache. Dies zeuge von einem sich verbreitendem Unheil, wozu er einige Beispiele aus der Presse zitiert.
+
+Man empfinde allgemein einen zynischen Genuss an diesem Entsetzen und sei auf heftige Empfindungen versessen, welche vom dargebotenen Schauspiel geliefert würden. Man müsse sich seiner gesellschaftlichen Pflichten bewusst werden, sonst werde Russland nicht vorwärts kommen. Für manche seiner Äusserungen erhält der Staatsanwalt gar Applaus, was er in seiner Karriere zum ersten mal gerade auf dieser grossen Bühne erleben darf.
+
+In der Familie Karamasow liessen sich Grundelemente der zeitgenössischen Gesellschaft erkennen. Der Vater habe sich durch Glück und Geschick vom Parasit zum Wucherer entwickelt. Dabei sei der Zyniker und Lüstling übriggeblieben, aber alle geistigen Regungen seien ihm abhanden gekommen. Seine Kinder habe er völlig vernachlässigt und nach dem Grundsatz «Nach mir die Sintflut!» gelebt. Dem ersten Sohn (Dmitrij) habe er das mütterliche Erbe unterschlagen, um ihm mit diesem Geld seine Geliebte auszuspannen.
+
+Der zweite Sohn (Iwan) sei zwar gebildet, glaube aber an nichts mehr. Seine These, dass alles erlaubt sei, habe Smerdjakow, möglicherweise ein unehelicher Sohn des Ermordeten, in die endgültige Verwirrung gestürzt, worauf sich dieser schliesslich das Leben genommen habe. Dieser habe ihm gegenüber auch richtig bemerkt, dass dieser zweite Sohn seinem Vater der ähnlichste sei.
+
+Ganz anders der jüngste Sohn (Aljoscha), der aus Verzweiflung mit der bedauernswürdigen Gesellschaft sich in die Heimaterde flüchte und auf dem Weg des Mönchtums gewandelt habe. Doch auch diese Haltung könne sich zu einem düsteren Mystizismus und Chauvinismus entwickeln, was um nichts besser sei als die billig erworbene europäische Aufklärung seines älteren Bruders.
+
+Dabei lässt sich der Staatsanwalt unter Beifall aus dem Publikum dazu hinreissen, Iwan die durch ihn früher erlebten Kränkungen heimzuzahlen, bevor er endlich zum eigentlichen Punkt seiner Rede kommt: zum ältesten Sohn Dmitrij. Dieser verkörpere das echte Russland, wenn auch nur einen Teil davon, nämlich das Ungestüm der edelsten Ideale; für Schiller schwärmend sich im Wirtshaus prügelnd.
+
+Aus dem vernachlässigten Kind sei ein Jüngling und Offizier geworden, der randaliert und sich duelliert habe und dafür strafversetzt worden sei. Darauf habe er dringend Geld gebraucht und sich nach langen Streitereien mit seinem Vater auf sechstausend Rubel geeinigt, wobei er auf weitere Forderungen verzichtet haben soll.
+
+Gegenüber seiner künftigen Braut habe er zunächst edelmütig gehandelt, als er ihr das Geld zu ihrer Ehrrettung selbstlos überlassen habe; aber anschliessend niederträchtig, als er die dreitausend Rubel von ihr angenommen habe, um sie damit zu betrügen. Darin bestehe das Karamasowsche: die Vereinigung der krassesten Gegensätze ‒ von höchsten Idealen und der gemeinsten Verworfenheit.
+
+Dass der Angeklagte von den dreitausend Rubel die Hälfte in einem Amulett aufbewahrt habe, sei unglaubwürdig. Hätte er über diesen Betrag verfügt, wäre er nicht Hals über Kopf herumgereist, um an noch mehr Geld zu kommen, ja hätte es bei der ersten Gelegenheit (etwa in einem Wirtshaus) angetastet. Ob er nun die Hälfte des Betrags oder noch weniger davon zurückbringen würde, hätte am Ende auch keine Rolle mehr gespielt, und so hätte er ebensogut gleich alles verschwenden können.
+
+Kurz: Die Geschichte mit den eintausendfünfhundert in ein Amulett eingenähten Rubel sei unglaubwürdig und passe nicht zum Charakter des Angeklagten. Da es zur Erbteilung keine verlässlichen Hinweise gibt, wolle er nun zum medizinischen Gutachten übergehen.
+
