@@ -23,19 +23,3 @@ Das vorliegende Buch deckt den Stoff bis zur ersten Stufe (_Foundation_) ab und 
 - **Kapitel 6** behandelt die Organisation des Testprozesses und die dazu notwendigen Qualifikationen der involvierten Mitarbeitern. Nebst den Elementen einer Teststrategie werden auch Verfahren zur Aufwands- und Kostenschätzung des Softwaretests erläutert. Risikobasiertes Testen, Fehler- und Konfigurationsmanagement und Wirtschaftlichkeit sind ebenfalls Themen dieses Kapitels.
 - **Kapitel 7** stellt verschiedene Arten von Testwerkzeugen vor und gibt Hinweise zu deren Auswahl und Einführung.
 
-## Fallbeispiel
-
-Diese Themen werden anhand eines Fallbeispiels behandelt, in dem ein klassisches Client-Server-System zu einer Webanwendung umgebaut und in seiner Funktionalität erweitert werden soll. Hierzu arbeitet eine Gruppe von rund 60 Mitarbeitern, organisiert in mehreren Scrum-Teams, zusammen. Hierbei handelt es sich um ein elektronisches Verkaufssystem namens _VirtualShowRoom_ (VSR), das aus den folgenden Modulen besteht:
-
-- _DreamCar_ zur Konfiguration des Wunschfahrzeugs
-- _EasyFinance_ zur Berechnung der Finanzierung
-- _JustInTime_ zur Bestellung des Fahrzeugs
-- _NoRisk_ zum Abschliessen der Versicherung
-- _FastBook_ zur Verwaltung der Konfigurationsinformationen und Verkaufsdaten
-
-Das neue System (VSR-II) soll zusätzlich das folgende neue Modul erhalten:
-
-- _ConnectedCar_ zum Austausch von Statusinformationen zwischen Händler und Servicepartner, zum Buchen verschiedener Services und zum Einspielen von Softwareupdates auf das Auto
-
-Die Daten sollen vom alten auf das neue System migriert werden, sobald das neue über den vollständigen Funktionsumfang verfügt.
-
