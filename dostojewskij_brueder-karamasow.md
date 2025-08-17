@@ -1328,3 +1328,19 @@ Dass der Angeklagte von den dreitausend Rubel die Hälfte in einem Amulett aufbe
 
 Kurz: Die Geschichte mit den eintausendfünfhundert in ein Amulett eingenähten Rubel sei unglaubwürdig und passe nicht zum Charakter des Angeklagten. Da es zur Erbteilung keine verlässlichen Hinweise gibt, wolle er nun zum medizinischen Gutachten übergehen.
 
+### VII) Ein chronologischer Überblick
+
+Der Angeklagte sei zum Zeitpunkt der Tat geistig voll zurechnungsfähig und leide insofern an einer Manie, dass er auf die dreitausend Rubel seines Vaters fixiert sei. Das Problem sei seine geistige Labilität; seinen Wutausbrüchen liege einzig die Eifersucht zugrunde.
+
+Ein verhängnisvoller Zufall habe es gewollt, dass Vater und Sohn sich gleichzeitig in die selbe Frau verlieben ‒ eine durchaus Karamasowsche Leidenschaft. Bald seien beide Männer dieser Frau zu Füssen gelegen, und diese habe sich nur über ihre beiden Verehrer lustig gemacht. Reue dafür habe sie erst bei der Verhaftung gezeigt. Wie Rakitin richtigerweise geschrieben habe, sei die von ihrem Verführer verlassene junge Frau früh verbittert gewesen, worauf sie sich mit ihrem Spiel an der Gesellschaft habe rächen wollen.
+
+Der Angeklagte habe zu Beginn in Wirtshäusern randaliert, dann Drohungen gegen seinen Vater ausgesprochen und ihn schliesslich bei ihm zu Hause nach dem Mittagessen überfallen. Der Brief an Katerina Iwanowna habe schliesslich die Mordabsicht unbestreitbar dokumentiert, dessen er, der Staatsanwalt, sich bis dahin nicht sicher gewesen sei.
+
+Der Brief dokumentiere einen im Voraus wohlüberlegten Plan. Auch wenn er im Zustand der Trunkenheit niedergeschrieben worden sei, entstamme der ihm zugrundeliegende Plan doch einem nüchternen Geist. Den Vorsatz habe er im Voraus überall herumposaunt, da es zunächst nur ein Wunsch und noch kein der Verheimlichung würdiger Plan gewesen sei. Er habe versucht, die dreitausend Rubel aufzutreiben, und wenn ihm das misslingen sollte, werde er eben den Vater umbringen und das Geld von ihm rauben. So habe es im Brief gestanden ‒ und so habe er es auch ausgeführt.
+
+Gepeinigt und erschöpft sei er vom gescheiterten Versuch das Geld aufzutreiben in die Stadt zurückgekehrt und habe Posten bezogen, wobei er erfahren habe, dass die beiden Diener seines Vaters ausser Gefecht lägen. Den vernünftigen Rat der Chochlakowa ignorierend, seine überschäumenden Kräfte in den sibirischen Goldminen gewinnbringend einzusetzen, habe er seine Angebetete nicht bei Samssonow antreffen können und den Aufenthaltsort seiner Angebeteten beim Vater vermutet.
+
+So habe er sich zur Tat entschlossen, wozu er die erstbeste Tatwaffe eingesteckt habe ‒ den Messingstössel. Dass der Angeklagte nun entgegen seiner Absicht und unverrichteter Dinge einfach aus dem Garten seines Vaters fliehen würde, passe nicht in das Bild, dass dieser die ganze Zeit von sich gezeichnet habe.
+
+So widmet sich der Staatsanwalt der Teorie, dass Smerdjakow der Täter gewesen sein könnte, mit der er ein für alle mal aufräumen will.
+
