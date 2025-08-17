@@ -1344,3 +1344,21 @@ So habe er sich zur Tat entschlossen, wozu er die erstbeste Tatwaffe eingesteckt
 
 So widmet sich der Staatsanwalt der Teorie, dass Smerdjakow der Täter gewesen sein könnte, mit der er ein für alle mal aufräumen will.
 
+### VIII) Ein Traktat über Smerjdakow
+
+Smerdjakow sei von vier Personen beschuldigt worden: von Dmitrij, von seinen beiden Brüdern und von Katerina Iwanowna. Einen Beweis gegen ihn habe niemand vorbringen können. Smerdjakow sei nicht nur ein an der Fallsucht leidender Schwachsinniger gewesen, sondern auch äusserst feige, wodurch er nicht einmal als Komplize in Frage komme. Vor dem Angeklagten habe er sich noch gefürchtet, als dieser längst verhaftet war.
+
+Für Fallsüchtige üblich habe der grundehrliche Diener an krankhaften Schuldgefühlen ohne den geringsten Anlass dazu gelitten. Die wachsende Spannungen im Haus wahrnehmend und die nahende Katastrophe ahnend habe er Iwan angefleht zu bleiben, auch wenn er seine Befürchtungen sich nicht klar zu artikulieren getraut habe. Diese Angst habe nach Iwans Abreise auch Smerdjakows Anfall ausgelöst.
+
+Smerdjakow werde nur beschuldigt, weil sich sonst kein anderer Verdächtiger finden lasse. Sein einzig mögliches Motiv sei die Geldgier gewesen, doch hätte er in diesem Fall niemals Dmitrij über den Umschlag mit der Beute unterrichtet. Einen Anfall zu simulieren hätte die Tat bloss erschwert, da Smerdjakows Lager dadurch zu einem unter Grigorijs Aufsicht stehenden verschoben worden ist. Zudem wäre Fjodor Pawlowitsch aufgrund der Ablenkung beider Diener selber umso vorsichtiger geworden.
+
+Den Anfall zu simulieren, um damit Dmitrij freie Bahn für seine Tat zu schaffen, sei viel zu unberechenbar gewesen, und Smerdjakow hätte in diesem Fall auch keine Gelegenheit dazu gehabt, den Vater anstelle von Dmitrij zu erschlagen. Für eine Komplizenschaft fehlten gemeinsame Motive, so könnte Smerdjakow höchstens als passiver Komplize fungiert haben. Doch auch dann hätte ein simulierter Anfall den Plan bloss erschwert, wodurch Smerdjakow sich gegenüber dem Haupttäter in Schwierigkeiten gebracht hätte.
+
+Als Dmitrij bei seiner Verhaftung sofort Smerdjakow als Einzeltäter beschuldigte, hätte dieser vermeintliche Komplize seine geringe Mitschuld sofort zugeben und Dmitrij beschuldigen können, was er aber unterlassen habe. Nur ein Unschuldiger würde zugeben, Dmitrij über die mögliche Beute informiert zu haben. Als Schuldiger hätte Smerjdakow auf seiner Abschiedsnotiz auch seine Täterschaft zugegeben. Reichte sein Gewissen für den Selbstmord, hätte es auch für ein Geständnis gereicht.
+
+Die dreitausend Rubel von Iwan seien kein Beweis, könnten diese doch einem jüngst durch ihn getätigten Wertpapierverkauf entspringen. Das Gericht habe er nicht sofort nach Smerdjakows vermeintlichem Geständnis informiert, sondern erst nachdem er von seinem Selbstmord erfahren habe.
+
+Das Hinterlassen vom aufgerissenen Briefumschlag am Tatort deute auf einen Raubmord hin, der im Affekt geschehen sei: Der Täter habe sich noch am Tatort vom Inhalt des Umschlags überzeugen müssen und sei nicht bei klarem Verstand gewesen, dieses Indiz am Tatort zu hinterlassen. Dies sei mit der Theorie eines kühl planenden und handelnden Smerjdakows nicht vereinbar.
+
+Nachdem sich Dmitrij davon überzeugt habe, den einzigen Zeugen beseitigt zu haben, sei er blutbesudelt durch die Stadt gerannt. So handelten eben Verbrecher manchmal: das eine kühl berechnend, das andere hitzig übereilend.
+
