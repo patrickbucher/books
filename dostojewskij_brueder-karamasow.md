@@ -1362,3 +1362,17 @@ Das Hinterlassen vom aufgerissenen Briefumschlag am Tatort deute auf einen Raubm
 
 Nachdem sich Dmitrij davon überzeugt habe, den einzigen Zeugen beseitigt zu haben, sei er blutbesudelt durch die Stadt gerannt. So handelten eben Verbrecher manchmal: das eine kühl berechnend, das andere hitzig übereilend.
 
+### IX) Psychologie im Sturmschritt. Die dahinjagende Trojka. Finale der Anklagerede
+
+Der Angeklagte habe den Einstigen Gruschenkas zunächst nicht als Konkurrenten wahrgenommen, diesem aber dann sofort das Feld geräumt. Nach dem Verbrechen habe er erkannt, dass er ihr nun nichts mehr bieten könne. Der Selbstmord sei sein einziger Ausweg gewesen, doch zunächst habe er noch ein Fest feiern wollen, dessen man sich lange erinnern sollte. Dabei sollte auf das Glück Gruschenkas angestossen werden, auf dass sie sich seiner erinnern möge.
+
+Auf dem Weg nach Mokroje habe er immer wieder Andeutungen seiner Schuld betreffend gemacht, mit dem Geständnis aber noch zuwarten müssen. Doch als sich das bereits verloren geglaubte Glück für ihn aufs neue abzuzeichnen begann, habe er vom Selbstmord abgesehen, zumal seine Gewissensbisse vorübergehend übertönt gewesen seien. Auch sei es bis zum nächsten Morgen noch lange hin gewesen.
+
+Die eine Hälfte der dreitausend Rubel habe er irgendwo in der Herberge versteckt, wo er doch jeden Winkel gekannt habe. Dadurch habe er auch die spätere Geschichte mit dem Amulett als glaubwürdiger erscheinen lassen können. Das Geld sei zwar nicht gefunden worden, könne aber durchaus den Weg zurück zum Angeklagten gefunden haben.
+
+Beim Verhör habe er sich zunächst vor dem Reden gefürchtet, wollte er sich doch nicht verraten. Durch das Zugeben seiner Mordabsicht habe er Aufrichtigkeit demonstrieren wollen. Auf den vom Ermittlungsrichter gegen Smerdjakow geäusserten Verdacht habe er gereizt reagiert, weil man ihm damit zuvorgekommen sei, worauf er diesen Verdacht zunächst zurückgewiesen habe. So habe er später vorgeben können, vom selbigen Verdacht allmählich überzeugt worden zu sein.
+
+Als bei der Leibesvisitation nur der Besitz der einen Hälfte der Beute habe nachgewiesen werden können, habe er die Geschichte mit dem Amulett erfunden. Die Nachfragen nach dem Ursprung des vernähten Stoffes hätten den Angeklagten dann aber in Widersprüche getrieben, an welchen er immer noch festhalte. Die von Grigorij als offenstehend bezeugte Tür habe seiner Verteidigung dann endgültig einen Strich durch die Rechnung gemacht.
+
+Zum Schluss des Plädoyers appelliert Ippolit Kirillowitsch an das Rechtsempfinden der Anwesenden in diesem Tempel der Gerechtigkeit. Diese sollten sich durch die Eloquenz des Petersburger Verteidigers nicht blenden lassen. Die Trojka des Schicksals jage dem Abgrund entgegen; man müsse sich ihr zur Rettung der Aufklärung und Zivilisation entgegenstellen. Die an Pathos reiche Rede kommt beim Publikum grösstenteils gut an. Dieses ist nun auf die Abschlussrede des Verteidigers gespannt.
+
