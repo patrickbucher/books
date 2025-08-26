@@ -1376,3 +1376,15 @@ Als bei der Leibesvisitation nur der Besitz der einen Hälfte der Beute habe nac
 
 Zum Schluss des Plädoyers appelliert Ippolit Kirillowitsch an das Rechtsempfinden der Anwesenden in diesem Tempel der Gerechtigkeit. Diese sollten sich durch die Eloquenz des Petersburger Verteidigers nicht blenden lassen. Die Trojka des Schicksals jage dem Abgrund entgegen; man müsse sich ihr zur Rettung der Aufklärung und Zivilisation entgegenstellen. Die an Pathos reiche Rede kommt beim Publikum grösstenteils gut an. Dieses ist nun auf die Abschlussrede des Verteidigers gespannt.
 
+### X) Das Plädoyer des Verteidigers. Ein Stock mit zwei Enden
+
+Der Verteidiger beginnt seine Rede schlicht und einfach; er verzichtet auf Pathos und Eloquenz. Zunächst widmet er sich der Widerlegung der Anklage. Er stamme aus Petersburg und vertrete in anderen Städte Angeklagte vor Gericht, von deren Unschuld er bereits überzeugt sei oder sie zumindest vermute. Zwar sprächen eine Menge Fakten gegen den Angeklagten, doch könne man jeden einzelnen Punkt widerlegen, wenn man ihn isoliert betrachte.
+
+Als Auswärtiger trete er dem Angeklagten unvoreingenommen gegenüber. Ganz im Gegensatz zu den Bewohnern der Stadt, die sich zurecht gegen den sich zügellos gebärdenden Angeklagten empörten. Dieser schlechte Ruf und die Vorurteile gegen ihn habe dieser sich selbst zuzuschreiben. Auch der sich um Unvoreingenommenheit bemühende Staatsanwalt sei nicht frei von Vorurteilen; dieser habe sich zu einer künstlerischen Betätigung hinreissen lassen, indem er einen psychologischen Roman erschuf.
+
+Doch die Psychologie sei ein Stock mit zwei Enden: Die Anklage stelle es als unglaubwürdig dar, dass der Angeklagte sich aus Mitleid um den niedergeschlagenen Grigorij gekümmert habe. Vielmehr habe er sich davon überzeugen wollen, dass der einzige Zeuge seines Verbrechens wirklich tot sei. Diese Vorsichtsmassnahme passe nicht zum kolossalen Indiz, dass der Angeklagte mit dem aufgerissenen Briefumschlag vermeintlich am Tatort hinterlassen habe.
+
+Doch schenkte man dem Staatsanwalt Glauben, hätte Dmitrij sich nicht damit aufgehalten, sein eigenes Taschentuch an der Wunde des Niedergeschlagenen zu besudeln, sondern ihm vielmehr vollends den Schädel zertrümmert. Auch hätte er die verräterische Tatwaffe in diesem Fall nicht achtlos weggeschleudert, sondern beseitigt.
+
+Hätte der Angeklagte zunächst seinen Vater ermordert, hätte er anschliessend für dessen Diener kein Mitleid mehr empfinden können. Doch bis zum Niederschlag Grigorijs sei Dmitrijs Gewissen rein gewesen, weswegen er sich dann aus Mitleid auch um diesen gekümmert habe. Mit der gleichen Psychologie könne man also das eine wie auch dessen Gegenteil glaubhaft machen, so der Verteidiger.
+
