@@ -1388,3 +1388,19 @@ Doch schenkte man dem Staatsanwalt Glauben, hätte Dmitrij sich nicht damit aufg
 
 Hätte der Angeklagte zunächst seinen Vater ermordert, hätte er anschliessend für dessen Diener kein Mitleid mehr empfinden können. Doch bis zum Niederschlag Grigorijs sei Dmitrijs Gewissen rein gewesen, weswegen er sich dann aus Mitleid auch um diesen gekümmert habe. Mit der gleichen Psychologie könne man also das eine wie auch dessen Gegenteil glaubhaft machen, so der Verteidiger.
 
+### XI) Kein Geld ‒ kein Raub
+
+Der Verteidiger führt sein Plädoyer fort, indem er den Tatbestand des Raubes bestreitet, zumal niemand wisse, ob die vermeintlich geraubten dreitausend Rubel wirklich existierten. Gesehen hätte das Geld nur Smerdjakow; davon erfahren hätten neben dem Angeklagten nur sein Bruder Iwan und Gruschenka, für die das Geld bestimmt gewesen sei.
+
+Das Geld habe unter der Matratze gelegen. Dmitrij hätte also das Bettzeug beim Hervorholen des Geldes mit seinen blutverschmierten Händen unbedingt besudeln müssen, dieses sei aber in reinem Zustand vorgefunden worden.
+
+Und selbst wenn das Geld wirklich existierte, könnte das Opfer es vorher selber aus dem Kuvert gerissen haben, da der Anblick der blanken Geldscheine wohl einen überzeugenderen Eindruck auf Gruschenka gehabt hätte als ein Briefumschlag. Dies hätte bereits früher am Tag passieren können, sodass das Opfer das Geld auch vor der Tat noch hätte ausser Hause bringen können. Der zerrissene Briefumschlag sei am späteren Tatort liegengeblieben.
+
+Der Angeklagte habe nachweislich höchstens eintausendfünfhundert Rubel auf sich getragen, und hätte auch gar keine Gelegenheit gehabt, die andere Hälfte des Geldes nach dem vermeintlichen Raub irgendwo zu deponieren, zumal er die ganze Zeit in Gesellschaft gewesen sei. Und ohne diese zweite Hälfte des Geldes löse sich das Raubdelikt in Luft auf.
+
+Die soeben angehörten Zeugen, die behaupteten, dass Dmitrij dreitausend Rubel bei seinem Gelage durchgebracht habe, seien offensichtlich alle unglaubwürdig. Da Katerina Iwanowna ihrer ersten Aussage widersprochen habe, könne man der zweiten auch nicht glauben, zumal sie diese voller Verbitterung und Rachegefühle gemacht habe.
+
+Der Angeklagte könne durchaus die eine Hälfte der von ihr erhaltenen dreitausend Rubel an einem Gelage verjubeln und die andere Hälfte zur Aufbewahrung in ein Amulett einnähen, denn so sei eben die Karamasowsche Natur beschaffen, die gleichzeitig in zwei Abgründe blicken könne: Die eine Hälfte für die Verführung Gruschenkas, die andere für die gemeinsame Flucht ‒ oder um sie doch noch Katerina Iwanowna zurückzubringen? Erst als er seine Aussicht auf weitere dreitausend Rubel vom Vater durch seinen Angriff auf diesen verwirkte, habe er sich für ersteres entschieden, was er bei seiner nächtlichen Begegnung mit Aljoscha auch andeutete.
+
+Das Haus des Vaters habe er dann nicht mit einer Mordabsicht aufgesucht, sondern um sich zu vergewissern, ob Gruschenka bei ihm sei. Der Raub könne also nicht nachgewiesen werden, doch wie sehe es nun mit dem Mord aus?
+
