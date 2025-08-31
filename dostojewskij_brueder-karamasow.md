@@ -1404,3 +1404,21 @@ Der Angeklagte könne durchaus die eine Hälfte der von ihr erhaltenen dreitause
 
 Das Haus des Vaters habe er dann nicht mit einer Mordabsicht aufgesucht, sondern um sich zu vergewissern, ob Gruschenka bei ihm sei. Der Raub könne also nicht nachgewiesen werden, doch wie sehe es nun mit dem Mord aus?
 
+### XII) Und auch kein Mord
+
+Der Angeklagte sei in der Mordnacht einzig durch die Stadt gerannt, um Gruschenka zu finden. Den Messingstössel habe er nicht aus Berechnung mitgenommen, sondern weil dieser zufälligerweise gerade herumgestanden sei. Hätte er eine Mordabsicht verfolgt, wäre es am Vorabend im Wirtshaus nicht zu einem erneuten Krawall durch ihn gekommen; denn dann hätte er Heimlichkeit gesucht.
+
+Nur weil er im Garten gewesen sei, habe er noch lange nicht gemordet. Und durch das Fenster habe er durchaus erkennen können, dass Gruschenka nicht bei seinem Vater gewesen sei, da diesem vielleicht eine entsprechende Bemerkung entfahren sei. Zur offenen Tür zum Garten liege nur eine einzige Aussage vor ‒ von einem Zeugen, der sich zum Tatzeitpunkt in einem fragwürdigen Zustand befunden habe.
+
+Der Mordtat doch noch entronnen habe sich der Angeklagte dann reinen Herzens um den niedergeschlagenen Grigorij gekümmert. Als sich dann für ihn das Liebesglück doch noch abgezeichnet habe, hätte er als Schuldiger erst recht zur Pistole gegriffen.
+
+Man beschuldige den Angeklagten, mit dem Finger auf Smerdjakow zu zeigen, weil sich sonst niemand anbiete. Doch verfahre die Anklage gleichermassen mit Dmitrij, den sie nur mangels Alternative beschuldige. Denn Smerdjakow habe sie von Anfang an als Verdächtigen ausgeschlossen, sein Selbstmord am Vorabend des Prozesses lasse aber seine Schuld erahnen.
+
+Die Anklage habe Smerdjakow fälschlicherweise als schwachsinnig, kränklich und treuherzig beschrieben, wo er doch in Wahrheit boshaft, rachsüchtig und der kühlen Berechnung fähig sei. Er habe sich für einen unehelichen Sohn des Opfers gehalten und sich ins Ausland absetzen wollen, wozu ihm einzig die Mittel fehlten. Auf die Brüder, denen im Gegensatz zu ihm ein Erbe in Aussicht stand, sei er neidisch gewesen. Er habe die dreitausend Rubel gesehen, als er sie mit dem Opfer in das Kuvert einpackte. Dieser Anblick könnte verderblich auf ihn gewirkt haben.
+
+Sich von seinem epileptischen Anfall erholend habe er möglicherweise den Schrei «Vatermörder» von Grigorij gehört und nach dem Rechten sehen wollen. Da habe er verstanden, dass man nun einzig Dmitrij verdächtigen würde, sollte in dieser Nacht dem Vater etwas zustossen. Als einziger neben dem Opfer habe er gewusst, wo das Geld lag.
+
+So habe er den Vater mit dem erstbesten Gegenstand niedergeschlagen und das zerrissene Kuvert als auf Dmitrij hindeutendes Indiz hinterlassen. Nach der Tat habe er sich hingelegt und Grigorijs Frau abermals durch lautes Stöhnen aufgeweckt, sodass diese geglaubt habe, die ganze Nacht dieses Lärmes wegen wachgelegen zu haben. Und da Smerdjakow nur Verzweiflung aber keine Reue empfunden habe, sei er ohne Geständnis aus dem Leben geschieden.
+
+Man laufe Gefahr, den Angeklagten einzig aufgrund eines Haufens unzusammenhängender Fakten zu verurteilen. Von einem Justizirrtum warnend holt der Verteidiger unter aufbrandendem Applaus, der aber sofort unterbunden wird, zum Finale seines Plädoyers aus.
+
