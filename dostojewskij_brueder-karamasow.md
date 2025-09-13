@@ -1422,3 +1422,15 @@ So habe er den Vater mit dem erstbesten Gegenstand niedergeschlagen und das zerr
 
 Man laufe Gefahr, den Angeklagten einzig aufgrund eines Haufens unzusammenhängender Fakten zu verurteilen. Von einem Justizirrtum warnend holt der Verteidiger unter aufbrandendem Applaus, der aber sofort unterbunden wird, zum Finale seines Plädoyers aus.
 
+### XIII) Der Idee die Treue gebrochen
+
+Die an sich nichtigen Indizien würden nur als bedeutend angesehen, weil man es vermeintlich mit einem Vatermord zu tun habe. Wahrlich sei es grausam, seinen eigenen Vater umzubringen, der sich jahrelang für einen aufgeopfert habe. Doch einen solchen Vater habe Dmitrij Karamasow nie gehabt, höchstens einen Lebensspender, der noch mit dessen Geld um seine Geliebte rivalisiert und auch den eigenen Sohn angeschwärzt habe.
+
+Einer aufbrausenden und derart verletzten Seele dürste es nach Zärtlichkeit und Gerechtigkeit. Der Angeklagte könne dem Opfer gegenüber gar nicht die Liebe eines Sohnes gegenüber seines Vaters empfunden haben, da ihm keine väterliche Liebe zuteil geworden sei ‒ und aus dem Nichts könne nur Gott etwas schöpfen. In einer echten Familie könne der Sohn vor den Vater treten und auf die Frage, warum er ihn lieben solle, eine Antwort bekommen ‒ und dürfte ihn andernfalls als seinen Feind betrachten.
+
+Der Angeklagte sei nicht mit der Absicht auf Mord oder Raub zum Vater gegangen, sondern um sich zu vergewissern, ob seine Geliebte bei ihm sei. Und selbst wenn es hierbei zu einem Totschlag gekommen sei, könne man deswegen noch lange nicht von einem Vatermord reden. Doch habe selbst kein Totschlag durch den Angeklagten stattgefunden, und wenn man ihn dafür verurteilte, würde er das vergossene Blut nur verfluchen aber nicht bereuen.
+
+Spräche man ihn aus Barmherzigkeit frei, würde seine Seele gerettet, er würde sein bisheriges Verhalten verfluchen und sich voller Dankbarkeit zu bessern bemühen. Ein Schuldspruch hingegen, zu dem auch die Beweise fehlten, müsse einem bei diesen Aussichten wesentlich schwerer fallen. Ein russisches Gericht soll nicht nur bestrafen, sondern Seelen retten!
+
+Mit einem Appell an das Gerechtigkeitsempfinden der Geschworenen beendet Fetjukowitsch sein Plädoyer, das mehrmals von heftigem Beifall unterbrochen worden ist, ohne dass man den Saal deswegen hätte räumen lassen.
+
