@@ -201,13 +201,13 @@ Der Prozess wird als ein sequenzieller Ablauf von Aktivitäten verstanden, nach 
 
 Nach diesem Modell sind die einzelnen Phasen ‒ _System Requirements_, _Software Requirements_, _Analysis_, _Program Design_, _Testing_ und _Operation_ ‒ zeitlich streng voneinander getrennt. Das Testen wird als einmalige und den Entwicklungsarbeiten nachgelagerte Aktivität verstanden, nicht als projektbegleitende Tätigkeit.
 
-![Das Wasserfallmodell](pics/wasserfall.png)
+![Das Wasserfallmodell behandelt Testing als nachgelagerte Aktivität](pics/wasserfall.svg){width=100%}
 
 ### Das V-Modell
 
 Hier wird das Wasserfallmodell um ein erweitertes Verständnis der Testaktivitäten ergänzt. Zu jeder Entwicklungsarbeit ‒ _Anforderungsdefinition_, _funktionaler Systementwurf_, _technischer Systementwurf_, _Komponentenspezifikation_ ‒ gibt es eine korrespondierende Testaktivität ‒ _Abnahmetest_, _Systemtest_, _Integrationstest_, _Komponententest_.
 
-![Das V-Modell](pics/v-modell.png)
+![Das V-Modell sieht Testaktivitäten zu jeder Entwicklungsaktivität vor](pics/v-modell.svg){width=100%}
 
 Die Entwicklungsarbeiten bilden die absteigende Flanke, die Testarbeiten die aufsteigende ‒ und unten in der Mitte steht das _Programmieren_. Geht man bei den Entwicklungsarbeiten vom Groben ins Feine («top-down»), setzt man bei den Testaktivitäten die einzelnen Teile wieder zu einem Ganzen zusammen («bottom-up»). Die Ergebnisse aus den Entwicklungsarbeiten werden dabei sukzessive integriert und folgendermassen getestet:
 
@@ -385,7 +385,11 @@ Diese Ansätze können gemischt und zu verschiedenen konkreten Strategien kombin
 - _expertenorientiert_: Es werden Experten zum Testen beigezogen, welche das Testobjekt auf Basis ihres Fachwissens und «Bauchgefühls» überprüfen.
 - _leistungserhaltend_: Ein Rückgang der bestehenden Leistung soll durch das erneute Ausführen bestehender Testfälle überprüft und vermieden werden, z.B. mittels Regressions- und Performancetests.
 
-TODO: Rest vom Unterkapitel "Teststrategie" zusammenfassen
+TODO
+
+![Aus den kombinierten Risikostufen ergeben sich die Risikoklassen](pics/risikoklassen-risikostufen.svg){width=60%}
+
+TODO:
 
 ## Testplanung, Teststeuerung und Testüberwachung
 
@@ -426,7 +430,7 @@ Welche dieser Kriterien berücksichtigt werden, legt der Testmanager im Testkonz
 
 Die Testfälle sollten so auf die verschiedenen Teststufen verteilt werden, dass eine _Testpyramide_ entsteht: Eine breite Basis automatischer und schneller Komponententests (Unit Tests), darüber ebenfalls automatisierte aber etwas aufwändigere Komponentenintegrationstests, dazu einige automatische und manuelle Systemtests und schliesslich eine dünne Spitze manueller Abnahmetests.
 
-![Die Testpyramide](pics/testpyramide.png)
+![Die Testpyramide ist unten breit, oben schmal](pics/testpyramide.svg){width=80%}
 
 Neben der Testpyramide kann die Verteilung der Testfälle auf die verschiedenen Testarten anhand der agilen _Testquadranten_ erfolgen. Auf zwei Achsen ‒ teamunterstützende und produkthinterfragende Tests auf der x-Achse, technologieorientierte und geschäftsprozessorientierte Tests auf der y-Achse ‒ werden die Testarten in den folgenden Quadranten angeordnet:
 
@@ -435,7 +439,7 @@ Neben der Testpyramide kann die Verteilung der Testfälle auf die verschiedenen 
 - Q3 (produkthinterfragend/geschäftsprozessorientiert): manuelle explorative, Usability- und Abnahmetests
 - Q4 (produkthinterfragend/technologieorientiert): Performance-, Sicherheits-, Migrations- und Infrastrukturtests
 
-![Die (agilen) Testquadranten](pics/testquadranten.png)
+![Die (agilen) Testquadranten dienen zur Einteilung der Testarten](pics/testquadranten.svg){width=80%}
 
 Ähnlich zur Definition of Ready und Definition of Done, die bei einer User Story die Kriterien für den Anfang und das Ende der Implementierung festlegen, gibt es auch bei der Testdurchführung _Eingangs-_ und _Endkriterien_.
 
