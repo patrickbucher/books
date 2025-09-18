@@ -1434,3 +1434,19 @@ Spräche man ihn aus Barmherzigkeit frei, würde seine Seele gerettet, er würde
 
 Mit einem Appell an das Gerechtigkeitsempfinden der Geschworenen beendet Fetjukowitsch sein Plädoyer, das mehrmals von heftigem Beifall unterbrochen worden ist, ohne dass man den Saal deswegen hätte räumen lassen.
 
+### XIV) Die Bäuerlein haben sich nicht beirren lassen
+
+Zum Schluss trägt der Staatsanwalt noch einige Einwände vor: Der Verteidiger habe eine Dichtung vorgetragen und den schwachsinnigen Smerdjakow zu einem Byronschen Helden hochstilisiert. Den Vatermord habe er zu einem Vorurteil degradiert und den Zweck des Gerichts entstellt, um damit etwas zu rechtfertigen, was man nicht rechtfertigen dürfe. Das Evangelium habe er umgedeutet und nur des Effekts willen zitiert.
+
+Fetjukowitsch reagiert auf diese Einwände würdevoll, indem er bei seiner kurzen Gegenrede auf die meisten demonstrativ gar nicht eingeht. Vor den Augen des Publikums kommt der Verteidiger besser weg als der Staatsanwalt, den man nun als «vernichtet» ansieht.
+
+Als das Wort dem Angeklagten erteilt wird, antwortet dieser nur kurz und kraftlos unter seiner Erschöpfung. Dabei beteuert er abermals seine Umschuld am Tod seines Vaters und verspricht, sich im Falle eines Freispruchs zu bessern. Er sei bei vollem Verstand, aber schweren Herzens und bittet um Verschonung.
+
+Um ein Uhr nachts fordert der Vorsitzende die Geschworenen schliesslich dazu auf, sich für die Urteilsfindung zurückzuziehen, wobei er diese zur Unvoreingenommenheit mahnt und sie an ihre grosse Verantwortung erinnert.
+
+Im Publikum rechnet man grösstenteils mit einem Freispruch, besonders unter den Damen. Man spekuliert darüber, was Dmitrij im Falle eines Freispruchs für ein Gelage veranstalten werde, und wie übel die Frau des Staatsanwalts ihm seine Rede wohl nehmen würde, wenn sie anwesend wäre.
+
+Nach einer Stunde läutet die Glocke, und die Geschworenen geben unter Totenstille im Saal ihr Urteil ab: Schuldig in allen Punkten! Die Männer zeigen sich grösstenteils mit dem Urteil zufrieden, während viele Frauen es kaum fassen können.
+
+Dmitrij stösst einen Klageschrei aus, wobei er ein letztes Mal seine Unschuld beteuert. Auch von Gruschenka aus dem Publikum ist ein Klageruf zu vernehmen. Unter Tumulten wird der Angeklagte schliesslich abgeführt.
+
