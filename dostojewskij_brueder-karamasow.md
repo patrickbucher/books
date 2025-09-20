@@ -1450,3 +1450,17 @@ Nach einer Stunde läutet die Glocke, und die Geschworenen geben unter Totenstil
 
 Dmitrij stösst einen Klageschrei aus, wobei er ein letztes Mal seine Unschuld beteuert. Auch von Gruschenka aus dem Publikum ist ein Klageruf zu vernehmen. Unter Tumulten wird der Angeklagte schliesslich abgeführt.
 
+# Epilog
+
+### I) Projekte zu Mitjas Rettung
+
+Am fünften Tag nach der Gerichtsverhandlung besucht Aljoscha Katerina Iwanowna, die Iwan nach dem Prozess bei sich aufgenommen hat und den immer noch am Nervenfieber Leidenden seither bei sich pflegt. Die beiden unterhalten sich über den Fluchtplan, den Iwan ihr schon vor längerer Zeit anvertraut habe.
+
+Über diesen Plan hätten sich Iwan und Katerina Iwanowna bereits vor der Gerichtsverhandlung gestritten, als es darum gegangen sei, ob Gruschenka Dmitrij auf seiner Flucht begleiten solle. Iwan habe ihren Zorn auf Gruschenka als Eifersucht missverstanden.
+
+Den Fluchtplan habe Iwan ‒ sein Nervenfieber vorausahnend ‒ Katerina Iwanowna überlassen, mitsamt den zehntausend Rubel, die der Staatsanwalt bereits in seinem Plädoyer erwähnte. Sie sei es gewesen, die Iwan von der Schuld Dmitrijs überzeugt habe ‒ und nicht umgekehrt.
+
+Katerina Iwanowna ist sich sicher: Dmitrij werde sich zur Flucht entscheiden, und bis dahin werde Iwan wieder gesund sein, sodass er die Ausführung des Plans in seine Hände nehmen könne. Gruschenka dürfe nicht zu Dmitrij mit ins Zuchthaus, und er könne nicht ohne sie leben.
+
+Sie hat Aljoscha zu sich gebeten, damit er dem Plan seinen Segen gebe und ihr dabei helfe, Dmitrij zur Flucht zu überreden. Aljoscha hat keine moralischen Gründe dagegen einzuwenden, doch müsse Katerina Iwanowna sich bei Dmitrij im Gefängnis zeigen. Sie willigt ein ‒ unter der Bedingung, dass Aljoscha vorausgehe und ihren Besuch Dmitrij gegenüber nicht ankündige.
+
