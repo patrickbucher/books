@@ -570,7 +570,7 @@ Testberichte sind in Umfang und Inhalt zielgruppenorientiert zu verfassen und k�
 
 ## Fehlermanagement
 
-![zwei Testobjekt-Zustände, zwei Testrgebnisse ‒ vier Ergebnis-Quadranten](pics/testergebnis.svg){width=80%}
+![zwei Testobjekt-Zustände, zwei Testergebnisse ‒ vier Interpretationen](pics/testergebnis.svg){width=80%}
 
 # Testwerkzeuge
 
