@@ -568,6 +568,10 @@ In agilen Projekten empfiehlt sich die Integration des Fortschrittberichts in Ta
 
 Testberichte sind in Umfang und Inhalt zielgruppenorientiert zu verfassen und können so einen Fokus auf technische oder betriebswirtschaftliche Aspekte haben.
 
+## Fehlermanagement
+
+![zwei Testobjekt-Zustände, zwei Testrgebnisse ‒ vier Ergebnis-Quadranten](pics/testergebnis.svg){width=80%}
+
 # Testwerkzeuge
 
 TODO
