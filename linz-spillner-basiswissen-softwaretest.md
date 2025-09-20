@@ -572,6 +572,8 @@ Testberichte sind in Umfang und Inhalt zielgruppenorientiert zu verfassen und k�
 
 ![zwei Testobjekt-Zustände, zwei Testergebnisse ‒ vier Interpretationen](pics/testergebnis.svg){width=80%}
 
+![mögliche Zustandsübergänge eines Fehlerberichts](pics/fehlermanagement.svg){width=60%}
+
 # Testwerkzeuge
 
 TODO
