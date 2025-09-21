@@ -1464,3 +1464,17 @@ Katerina Iwanowna ist sich sicher: Dmitrij werde sich zur Flucht entscheiden, un
 
 Sie hat Aljoscha zu sich gebeten, damit er dem Plan seinen Segen gebe und ihr dabei helfe, Dmitrij zur Flucht zu überreden. Aljoscha hat keine moralischen Gründe dagegen einzuwenden, doch müsse Katerina Iwanowna sich bei Dmitrij im Gefängnis zeigen. Sie willigt ein ‒ unter der Bedingung, dass Aljoscha vorausgehe und ihren Besuch Dmitrij gegenüber nicht ankündige.
 
+### II) Für einen Augenblick wird Lüge zur Wahrheit
+
+Aljoscha besucht Dmitrij im Krankenhaus, denn dort wurde er hingebracht, da er nach der Urteilsverkündung vor Nervenfieber zusammengebrochen war. Er liegt im gleichen Zimmer wie damals Smerdjakow; das Fenster wurde vergittert, und am Ende des Korridors ist eine Wache postiert. Von diesem Wärter habe Dmitrij erfahren, dass der Wirt Trifon Borisowitsch seine Herberge auseinandernehme, weil er auf der Suche nach den tausendfünfhundert Rubel sei, die Dmitrij gemäss Staatsanwalt dort versteckt haben soll.
+
+Aljoscha kündigt Katerina Iwanownas Besuch an und erwähnt die Fluchtpläne, für die sie bis zu Iwans Genesung verantwortlich sei. Offenbar hat Dmitrij Gruschenka bereits in diese Pläne eingeweiht. Zwar missbillige sie es, dass Katerina Iwanowna damit zu tun habe, sei aber damit einverstanden. Auch Dmitrij ist zur Flucht bereit. Aljoscha hat auch nichts dagegen einzuwenden, zumal Dmitrij damit nur ein Kreuz von sich weise, das ihm ungerechterweise aufgebürdet worden sei, und es so gar nicht tragen könne.
+
+Mit seiner Flucht nach Amerika tausche er nur das eine Zuchthaus gegen ein anderes, meint Dmitrij, denn weder er noch Gruschenka würden sich dort wohlfühlen. Er wolle dort fernab in der Einöde mit Gruschenka den Acker bestellen und Englisch lernen, sodass sie sich nach drei Jahren als Amerikaner ausgeben und zurück nach Russland kehren könnten, wo sie wiederum zurückgezogen leben wollten und schliesslich in russischer Erde begraben werden würden.
+
+Plötzlich taucht Katerina Iwanowna auf, und nach einem ersten Zögern fallen sie und Dmitrij sich gegenseitig in die Arme. Sie habe sich bei der Gerichtsverhandlung nur eingeredet, dass sie an die Schuld Dmitrijs glaube; tatsächlich sei sie immer von seiner Unschuld überzeugt gewesen.
+
+Als sie gehen will, steht bereits Gruschenka im Zimmer, die den Raum offenbar unbemerkt betreten hat. Katerina Iwanowna bittet sie um Vergebung. Gruschenka antwortet nur damit, dass sie beide böse seien, worauf Katerina Iwanowna Gruschenka versichert, Dmitrij retten zu wollen, und dann die Szene verlässt. Auf Dmitrijs Vorwurf reagiert Gruschenka mit dem Versprechen, ihr vergeben zu wollen, nachdem sie ihn gerettet habe.
+
+Dmitrij bittet Aljoscha, Katerina Iwanowna zu folgen. Als er sie einholt, meint sie, dass sie nicht in der Lage sei, vor Gruschenka Busse zu tun. Gruschenka habe ihr nicht vergeben, was sie sogar an ihr möge. Die beiden trennen sich, da Aljoscha zu einem Begräbnis muss.
+
