@@ -1478,3 +1478,25 @@ Als sie gehen will, steht bereits Gruschenka im Zimmer, die den Raum offenbar un
 
 Dmitrij bittet Aljoscha, Katerina Iwanowna zu folgen. Als er sie einholt, meint sie, dass sie nicht in der Lage sei, vor Gruschenka Busse zu tun. Gruschenka habe ihr nicht vergeben, was sie sogar an ihr möge. Die beiden trennen sich, da Aljoscha zu einem Begräbnis muss.
 
+### III) Iljuschetschkas Begräbnis. Die Rede an dem Stein
+
+Iljuschetschka ist zwei Tage nach der Verurteilung Dmitrijs gestorben. Vor dem Haus Snegirjows warten bereits die zwölf Jungen auf Aljoscha. Gemeinsam wollen sie den geschmückten Sarg Iljuschetschkas in die Kirche tragen. 
+
+Kolja fragt Aljoscha, ob Dmitrij oder Smerdjakow der Mörder seines Vaters sei, worauf Aljoscha antwortet, dass Smerdjakow gemordet habe und Dmitrij unschuldig sei. Kolja drückt seine Achtung für Dmitrij aus und beneidet diesen darum, als Opfer für die Wahrheit zu Grunde zu gehen.
+
+Der Sarg ist in der Stube aufgebahrt und mit Blumen geschmückt, die Lisa Chochlakowa und Katerina Iwanowna haben schicken lassen. Snegirjow trauert vor dem Sarg um seinen Sohn, und die Mutter verlangt nach eine der weissen Rosen, die Iljuschetschka in seinen gefalteten Händen hält, doch Snegirjow will ihm keine wegnehmen.
+
+Snegirjow will seinen Sohn am grossen Stein beisetzen, wo dieser sich bei seinem Vater nach seiner durch Dmitrij erlittenen Misshandlung erkundigt hat. Iljuschetschka habe sich diesen Ort für sei Grab gewünscht. Doch die Wirtin besteht darauf, den Jungen auf dem Friedhof in geweihter Erde zu begraben, so man für ihn beten werde.
+
+So wird der Sarg zur Kirche getragen, was durch das geschäftige Treiben Snegirjows um den Sarg herum eher gestört wird. Während des Gottesdienstes in der ärmlichen Kirche macht sich Snegirjow wiederum geschäftig am Sarg zu schaffen. Als man diesen endlich schliessen will, küsst er seinen Sohn ein letztes Mal und entnimmt dem Sarg noch einige Blumen.
+
+Als der Sarg bereits mit Erde zugeschüttet wird, zerkrümelt Snegirjow dem Wunsch seines Sohnes gemäss eine Brotkruste über dessen Grab, damit die Spatzen herbeifliegen und Iljuschetschka nicht so alleine sei. Danach eilt Snegirjow nach Hause, worauf Aljoscha und die Jungen im schnell folgen. Doch auf halbem Weg macht Snegirjow kehrt, um noch einmal zum Grab zurückzukehren. Zu Hause überreicht er seiner Frau die Blumen aus Iljuschetschkas Sarg, die sie sich zuvor so sehr wünschte. In der Stube erblickt er die abgetragenen Stiefelchen seines verstorbenen Sohnes und küsst diese innig.
+
+Aljoscha und Kolja wollen am Abend zu Snegirjow zurückkehren, jedoch ohne die anderen Jungen, um die Familie nicht an die vergangene Zeit zu erinnern. Auf dem Heimweg kommen Aljoscha und die Jungen am grossen Stein vorbei. Aljoscha bleibt stehen, um einige Worte an die Jungen zu richten.
+
+Er bleibe nur noch kurze Zeit bei seinen beiden Brüdern und werde dann die Stadt für längere Zeit verlassen. Hier am Stein sollen sie sich alle vornehmen, Iljuschetschka und einander nie zu vergessen. Für immer sollen sie des Jungen gedenken, den sie einst mit Steinen beworfen und sich dann mit ihm angefreundet haben.
+
+Schon eine einzige gute Erinnerung könne einen in einer schweren Stunde retten. Und wer etwas Arges vorhabe, solle sich nur an diese Stunde erinnern, um von dieser schlechten Tat zurückgehalten zu werden. Er selber wolle sich für immer an jedes Gesicht der hier versammelten Jungen erinnern. Sie alle sollen einander in ihr Herz schliessen ‒ und Iljuschetschka ganz besonders.
+
+Alle pflichten Aljoscha bei und stimmen ein Hurra auf ihn ein. Koljas Frage, ob sie alle von den Toten auferstehen werden, bejaht Aljoscha: Es werde ein freudiges Wiedersehen mit ihnen und Iljuschetschka geben! Hand in Hand gehen Aljsocha und die Jungen zum Totenmahl.
+
