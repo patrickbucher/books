@@ -289,7 +289,7 @@ Bei der _abnahmetestgetriebenen Entwicklung_ (ATDD: engl. _acceptance test-drive
 
 Die Testfälle sollten dabei nicht über die jeweilige User Story hinaus gehen und auch keine Überschneidungen untereinander haben, aber nicht nur den Normalfall, sondern alle möglichen Sonderfälle behandeln. Schwierigkeiten bei der Erarbeitung der Abnahmekriterien deuten auf eine unklare User Story hin. Das Team ist selber dafür verantwortlich, zusätzliche nicht-funktionale Test umzusetzen, wenn es diese als angebracht sieht.
 
-### Softwareentwicklung im Projekt- und Produktkontext
+## Softwareentwicklung im Projekt- und Produktkontext
 
 Je nach umzusetzendem Produkt oder Projekt unterscheiden sich die Anforderungen an Nachvollziehbarkeit und Planung, was einen Einfluss auf das auszuwählende Entwicklungsmodell hat. Hierbei können verschiedene Kriterien eine Rolle spielen:
 
@@ -306,6 +306,49 @@ Vorgehensmodelle können miteinander kombiniert und auf die jeweiligen Bedürfni
 - Die Testaktivitäten müssen auf jeder Teststufe den Testzielen entsprechend ausgerichtet sein (z.B. mehr oder weniger Fokus auf die Validierung oder Verifizierung).
 - Testanalyse und Testentwurf erfolgen bereits während der Entwicklung und nicht nachgelagert.
 - Tester sind bereits beim Aufnehmen der Anforderungen und bei deren Prüfung (Review) involviert.
+
+## Teststufen
+
+Die Architektur eines Softwaresystems legt fest, aus welchen Teilsystemen das Gesamtsystem, und aus welchen Komponenten die verschiedenen Teilsysteme bestehen. Entsprechend muss beim Testen jede dieser Ebenen als separate _Teststufe_ betrachtet werden.
+
+Beim sequenziellen Vorgehen sind die Endkriterien einer unteren Teststufe oftmals Teil der Einangskriterien der nächsthöheren Teststufe; es wird «von unten nach oben» getestet. Im agilen Vorgehen kommt es zu einer zeitlichen Verschmelzung der unterschiedlichen Teststufen.
+
+Die Anzahl und Benennung der Teststufen kann sich dabei je nach Vorgehensmodell unterscheiden. Gebräuchlich sind vier Teststufen (mit alternativen Bezeichnungen):
+
+1. Komponententest (Unittest, Modultest)
+2. Integrationstest (Komponentenintegrationstest)
+3. Systemtest (Systemintegrationstest)
+4. Abnahmetest (Akzeptanztest)
+
+Je nach Teststufe unterscheiden sich Testobjekt, Testziele, Testmethoden und Verantwortlichkeiten.
+
+### Komponententest
+
+TODO
+
+### Integrationstest
+
+TODO
+
+### Systemtest
+
+TODO
+
+### Abnahmetest
+
+TODO
+
+## Testarten
+
+TODO
+
+## Test nach Änderung und Weiterentwicklung
+
+TODO
+
+## Verbesserung und Automatisierung des Softwareentwicklungsprozesses
+
+TODO
 
 # Statischer Test
 
