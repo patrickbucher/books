@@ -324,7 +324,7 @@ Je nach Teststufe unterscheiden sich Testobjekt, Testziele, Testmethoden und Ver
 
 ### Komponententest
 
-Beim Komponententest werden die Softwarebausteine auf tiefster Architekturebene ‒ Module, Klassen, «Units» ‒ getestet. Entsprechende Tests bezeichnet man als Modultests, Klassentests bzw. Unittests. Als Testbasis dient die jeweilige Spezifikation einer solchen Komponente, d.h. deren Anforderungen. Auch Skripte, Konfigurationen oder Datenbankinhalte können Testobjekte eines Komponententests sein.
+Beim _Komponententest_ werden die Softwarebausteine auf tiefster Architekturebene ‒ Module, Klassen, «Units» ‒ getestet. Entsprechende Tests bezeichnet man als Modultests, Klassentests bzw. Unittests. Als Testbasis dient die jeweilige Spezifikation einer solchen Komponente, d.h. deren Anforderungen. Auch Skripte, Konfigurationen oder Datenbankinhalte können Testobjekte eines Komponententests sein.
 
 Die Komponente wird auf dieser Stufe isoliert betrachtet, um externe Einflüsse durch andere Komponenten auf mögliche Fehlerwirkungen auszuschliessen. Eine beobachtete Fehlerwirkung kann dank dieser isolierten Betrachtung der jeweiligen Komponente zugeordnet werden. Ist eine Komponente aus mehreren Bausteinen zusammengesetzt, kann diese trotzdem als einzelne Komponente getestet werden, solange dabei nicht Wechselwirkungen zu anderen Komponenten geprüft werden. 
 
@@ -344,7 +344,42 @@ Beim iterativen «Test-First»-Vorgehen wird zuerst ein automatischer Testfall e
 
 ### Integrationstest
 
-TODO
+Der _Integrationstest_ oder _Komponentenintegrationstest_ prüft das Zusammenspiel zweier oder mehrerer Komponenten. Hierzu müssen diese Komponenten zuerst von den Entwicklern integriert werden, d.h. es muss Code vorhanden sein, der die jeweiligen Komponenten verwendet. Beim Integrationstest sollen Fehlerzustände in den Schnittstellen zwischen und im Zusammenspiel der Komponenten ermittelt werden.
+
+Als Testbasis dienen v.a. Schnittstellenspezifikationen, aber auch Sequenzdiagramme, Anwendungsfälle und Flussdiagramme. Integrationsfehler können auch dann auftreten, wenn bei den Komponententests keine Fehler ermittelt worden sind. Schliesslich können fehlerfreie Komponenten falsch verwendet werden, oder sie können Gebrauch unterschiedlicher, inkompatibler Datenstrukturen machen und dadurch inkompatibel zueinander sein.
+
+Integrationstests können auf verschiedenen Ebenen zum Einsatz kommen: Von der Integration einzelner Komponenten über die Integration untereinander bereits integrierter Komponentengruppen bis zur Integration von Teilsystemen, wobei man im letzten Fall von einer Systemintegration spricht.
+
+Ein Integrationstest empfiehlt sich überall, wo (bereits getestete) Systemteile neu integriert, d.h. miteinander ins Zusammenspiel gebracht werden. Neben Schnittstellen können auch Konfigurationsprogramme und -daten sowie Datenbankanbindungen und andere Infrastrukturkomponenten Testobjekt sein. Dabei ist es sinnvoll, wenn der gleiche Testtreiber wie bei den Komponententests zum Einsatz kommt. Zusätzliche Testwerkzeuge, die den Datenverkehr an den Schnittstellen aufzeichnen und protokollieren, können dabei sehr hilfreich sein.
+
+Das Testziel von Integrationstests ist es, Schnittstellenfehler zu finden. Im einfachsten Fall wird dies bereits bei der Kompilierung erkannt; schwer zu findende Probleme mit einer Ursache im Datenaustausch zwischen den Komponenten erfordern jedoch dynamische Tests. Dabei unterscheidet man grob zwischen den folgenden Arten von Fehlerzuständen:
+
+- _Inkompatibilität_: Die eine Komponente liefert Daten in einer Form, mit der die andere Komponente nicht umgehen kann.
+- _Fehlinterpretation_: Die Komponenten interpretieren die Daten unterschiedlich, sodass es zu Widersprüchen in deren Verarbeitung kommt.
+- _Synchronisationsproblem_: Die Komponenten übergeben einander Daten zum falschen Zeitpunkt (Empfangspunkte sind nicht bereit, Timeout) oder in falschen Zeitintervallen (zu schnell, zu langsam).
+
+Diese Arten von Fehlern können unmöglich in den Komponententests gefunden werden, sondern erst in ihrer Wechselwirkung. Auch nicht-funktionale Aspekte wie Performance und Sicherheit können auf der Stufe der Komponentenintegration getestet werden. Da Integrationstests die betroffenen Komponenten mittesten, wird oftmals auf Komponententests verzichtet, was aber gravierende Nachteile haben kann:
+
+- Die Fehlerzustände sind in der Komponente zu finden, die aber über den Integrationstest nur indirekt zugänglich sind.
+- Durch diesen indirekten Zugang können nur eine eingeschränkte Menge an Eingebedaten der Komponente übergeben werden, wodurch bestimmte Fehlerwirkungen nicht bzw. nur schwer provoziert werden können, wodurch nicht alle vorhandenen Fehlerzustände aufgespürt werden können.
+- Eine Fehlerwirkung im Integrationstest hat ihre Ursache in einer bestimmten Komponente, es ist aber schwierig, diese Fehlerwirkung der betreffenden Komponente zuzuordnen.
+
+Die vermeintliche Zeitersparnis beim Verzicht auf Komponententests lohnt sich selten, da so nur mehr Zeit mit dem Lokalisieren von Fehlern aufgewendet wird.
+
+Mit der Integration der Komponenten kann erst begonnen werden, wenn diese soweit fertig sind. Möchte man trotz unfertiger Komponenten bereits mit deren Integration anfangen, kann man auf Platzhalter ausweichen, die das Verhalten der fehlenden Komponente simulieren. Je mehr Zeit in solche Platzhalter investiert wird, desto höher fallen die vermeidbaren Aufwände aus, die durch die Verzögerung einer Komponente anfallen.
+
+Die Integration der Komponenten unterliegt verschiedenen Rahmenbedingungen:
+
+- Die Systemarchitektur legt die Komponenten und deren Zusammenspiel fest.
+- Der Projektplan gibt den Zeitpunkt für die Integration der Teilsysteme und Komponenten vor.
+- Das Testkonzept bestimmt die Testintensität und die Teststufe für die verschiedenen Systemaspekte.
+
+Durch eine sinnvolle Reihenfolge der Integration kann frühzeitig mit den Testaktivitäten begonnen werden, ohne dass hierzu hohe Aufwände zur Entwicklung von Platzhaltern nötig werden. (Es ist sinnvoller, alle Komponenten eines Teilsystems fertig zu haben als vereinzelte Komponenten aus verschiedenen Teilsystemen.) Zur Integration der Komponenten gibt es verschiedene Strategien:
+
+- _Top-Down-Integration_: TODO
+- _Bottom-Up-Integration_:
+- _Ad-hoc-Integration_:
+- _Backbone-Integration_:
 
 ### Systemtest
 
