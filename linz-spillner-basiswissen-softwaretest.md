@@ -324,7 +324,23 @@ Je nach Teststufe unterscheiden sich Testobjekt, Testziele, Testmethoden und Ver
 
 ### Komponententest
 
-TODO
+Beim Komponententest werden die Softwarebausteine auf tiefster Architekturebene ‒ Module, Klassen, «Units» ‒ getestet. Entsprechende Tests bezeichnet man als Modultests, Klassentests bzw. Unittests. Als Testbasis dient die jeweilige Spezifikation einer solchen Komponente, d.h. deren Anforderungen. Auch Skripte, Konfigurationen oder Datenbankinhalte können Testobjekte eines Komponententests sein.
+
+Die Komponente wird auf dieser Stufe isoliert betrachtet, um externe Einflüsse anderer Komponenten auf mögliche Fehlerwirkungen auszuschliessen. Eine beobachtete Fehlerwirkung kann dank dieser isolierten Betrachtung der jeweiligen Komponente zugeordnet werden. Ist eine Komponente aus mehreren Bausteinen zusammengesetzt, kann diese trotzdem als einzelne Komponente getestet werden, solange dabei nicht Wechselwirkungen zu anderen Komponenten geprüft werden. 
+
+Diese Teststufe ist sehr entwicklungsnah, zumal das Testobjekt direkt vom Entwickler stammt. Dementsprechend erfordert der Komponententest auch Programmierkenntnisse, da Tests auf dieser Stufe ausprogrammiert werden. Dabei wird der Testcode von einem Testtreiber ausgeführt, welcher das Testobjekt aufruft, das Ergebnis entgegennimmt, protokolliert und gegenüber einer formulierten Erwartung überprüft.
+
+Da der Testcode und das Testobjekt oft von der gleichen Person geschrieben werden, spricht man beim Komponententest von einem Entwicklertest. Komponententests verfolgen das Ziel, die vollständige und im Hinblick auf die Spezifikation korrekte Funktionsweise einer Komponente zu überprüfen, wozu verschiedene Testfälle bestimmte Ein- und Ausgabekombinationen abdecken.
+
+Da Komponenten mit anderen Komponenten interagieren, können diese unter Umständen falsch angesprochen werden, d.h. mit unsinnigen Testdaten verwendet werden. Solche Konstellationen dürfen nicht zu einem Systemabsturz führen, sondern müssen abgefangen und sinnvoll behandelt werden.
+
+Verwendet man die Komponente mit Testdaten, die ihrer Spezifikation gemäss unzulässig sind, spricht man von einem _Negativtest_. Oftmals gibt es mehr Negativ- als Positivtests, da der Wertbereich an falschen Testdaten praktisch unbegrenzt ist. Nicht selten macht die Eingabeprüfung über die Hälfte der Programmlogik aus.
+
+Nicht funktionale Eigenschaften einer Komponente, z.B. deren Effizienz, können bereits auf dieser Stufe getestet werden, was in der Praxis jedoch (zu) selten passiert. Aspekte wie Klarheit und Wartbarkeit einer Komponenten können im Rahmen eines statischen Tests (d.h. Reviews) vorgenommen werden.
+
+Da der Entwickler eines Komponententests Zugriff auf den Quellcode des Testobjekts hat, spricht man von einem Whitebox-Testverfahren. Beim Testen einer Komponente kann der Entwickler somit Gebrauch von seinem Wissen über den internen Aufbau der Komponente machen, indem er z.B. Testfälle entwirft, um die Ausführung bestimmter Programmpfade zu überprüfen. In der Praxis wird der Komponententest jedoch oftmals als reiner Blackbox-Test durchgeführt, wobei die Testfälle ohne den Blick auf die innere Struktur der Komponente erstellt werden.
+
+Beim iterativen «Test-First»-Vorgehen wird zuerst ein automatischer Testfall erstellt und erst dann die gewünschte Komponente umgesetzt. Dieses Vorgehen wird wiederholt, bis die umgesetzte Komponente allen Anforderungen genügt ‒ und alle Testfälle fehlerfrei durchlaufen. Dieses Vorgehen bezeichnet man auch als «testgetriebene Entwicklung» bzw. als «Test-Driven Development» (TDD).
 
 ### Integrationstest
 
