@@ -320,7 +320,7 @@ Die Anzahl und Benennung der Teststufen kann sich dabei je nach Vorgehensmodell 
 3. Systemtest (Systemintegrationstest)
 4. Abnahmetest (Akzeptanztest)
 
-Je nach Teststufe unterscheiden sich Testobjekt, Testziele, Testmethoden und Verantwortlichkeiten.
+Je nach Teststufe unterscheiden sich Testobjekt, Testziele, Testmethoden und Verantwortlichkeiten für die Testaufgaben.
 
 ### Komponententest
 
@@ -344,13 +344,13 @@ Beim iterativen «Test-First»-Vorgehen wird zuerst ein automatischer Testfall e
 
 ### Integrationstest
 
-Der _Integrationstest_ oder _Komponentenintegrationstest_ prüft das Zusammenspiel zweier oder mehrerer Komponenten. Hierzu müssen diese Komponenten zuerst von den Entwicklern integriert werden, d.h. es muss Code vorhanden sein, der die jeweiligen Komponenten verwendet. Beim Integrationstest sollen Fehlerzustände in den Schnittstellen zwischen und im Zusammenspiel der Komponenten ermittelt werden.
+Der _Integrationstest_ oder _Komponentenintegrationstest_ prüft das Zusammenspiel zweier oder mehrerer Komponenten. Hierzu müssen diese Komponenten zuerst von den Entwicklern integriert werden, d.h. es muss Code vorhanden sein, der die jeweiligen Komponenten verwendet. Beim Integrationstest sollen Fehlerzustände ermittelt werden, welche in den Schnittstellen zwischen den Komponenten bzw. in ihrem Zusammenspiel auftreten.
 
 Als Testbasis dienen v.a. Schnittstellenspezifikationen, aber auch Sequenzdiagramme, Anwendungsfälle und Flussdiagramme. Integrationsfehler können auch dann auftreten, wenn bei den Komponententests keine Fehler ermittelt worden sind. Schliesslich können fehlerfreie Komponenten falsch verwendet werden, oder sie können Gebrauch unterschiedlicher, inkompatibler Datenstrukturen machen und dadurch inkompatibel zueinander sein.
 
-Integrationstests können auf verschiedenen Ebenen zum Einsatz kommen: Von der Integration einzelner Komponenten über die Integration untereinander bereits integrierter Komponentengruppen bis zur Integration von Teilsystemen, wobei man im letzten Fall von einer Systemintegration spricht.
+Integrationstests können auf verschiedenen Ebenen zum Einsatz kommen: Von der Integration einzelner Komponenten über die Integration untereinander bereits integrierter Komponentengruppen bis zur Integration von Teilsystemen, wobei man im letzten Fall von einer _Systemintegration_ spricht.
 
-Ein Integrationstest empfiehlt sich überall, wo (bereits getestete) Systemteile neu integriert, d.h. miteinander ins Zusammenspiel gebracht werden. Neben Schnittstellen können auch Konfigurationsprogramme und -daten sowie Datenbankanbindungen und andere Infrastrukturkomponenten Testobjekt sein. Dabei ist es sinnvoll, wenn der gleiche Testtreiber wie bei den Komponententests zum Einsatz kommt. Zusätzliche Testwerkzeuge, die den Datenverkehr an den Schnittstellen aufzeichnen und protokollieren, können dabei sehr hilfreich sein.
+Ein Integrationstest empfiehlt sich überall da, wo (bereits getestete) Systemteile neu integriert, d.h. miteinander ins Zusammenspiel gebracht werden. Neben Schnittstellen können auch Konfigurationsprogramme und -daten sowie Datenbankanbindungen und andere Infrastrukturkomponenten Testobjekt sein. Dabei ist es sinnvoll, wenn der gleiche Testtreiber wie bei den Komponententests zum Einsatz kommt. Zusätzliche Testwerkzeuge, die den Datenverkehr an den Schnittstellen aufzeichnen und protokollieren, können dabei sehr hilfreich sein.
 
 Das Testziel von Integrationstests ist es, Schnittstellenfehler zu finden. Im einfachsten Fall wird dies bereits bei der Kompilierung erkannt; schwer zu findende Probleme mit einer Ursache im Datenaustausch zwischen den Komponenten erfordern jedoch dynamische Tests. Dabei unterscheidet man grob zwischen den folgenden Arten von Fehlerzuständen:
 
@@ -361,12 +361,12 @@ Das Testziel von Integrationstests ist es, Schnittstellenfehler zu finden. Im ei
 Diese Arten von Fehlern können unmöglich in den Komponententests gefunden werden, sondern erst in ihrer Wechselwirkung. Auch nicht-funktionale Aspekte wie Performance und Sicherheit können auf der Stufe der Komponentenintegration getestet werden. Da Integrationstests die betroffenen Komponenten mittesten, wird oftmals auf Komponententests verzichtet, was aber gravierende Nachteile haben kann:
 
 - Die Fehlerzustände sind in der Komponente zu finden, die aber über den Integrationstest nur indirekt zugänglich sind.
-- Durch diesen indirekten Zugang können nur eine eingeschränkte Menge an Eingebedaten der Komponente übergeben werden, wodurch bestimmte Fehlerwirkungen nicht bzw. nur schwer provoziert werden können, wodurch nicht alle vorhandenen Fehlerzustände aufgespürt werden können.
-- Eine Fehlerwirkung im Integrationstest hat ihre Ursache in einer bestimmten Komponente, es ist aber schwierig, diese Fehlerwirkung der betreffenden Komponente zuzuordnen.
+- Durch diesen indirekten Zugang können nur eine eingeschränkte Menge an Eingebedaten der Komponente übergeben werden. Dadurch wird es schwierig bis unmöglich, bestimmte Fehlerwirkungen zu provozieren, wodurch nicht alle vorhandenen Fehlerzustände aufgespürt werden können.
+- Eine Fehlerwirkung im Integrationstest hat ihre Ursache in einer bestimmten Komponente, es ist aber schwierig, diese Fehlerwirkung ihr auch zuzuordnen.
 
 Die vermeintliche Zeitersparnis beim Verzicht auf Komponententests lohnt sich selten, da so nur mehr Zeit mit dem Lokalisieren von Fehlern aufgewendet wird.
 
-Mit der Integration der Komponenten kann erst begonnen werden, wenn diese soweit fertig sind. Möchte man trotz unfertiger Komponenten bereits mit deren Integration anfangen, kann man auf Platzhalter ausweichen, die das Verhalten der fehlenden Komponente simulieren. Je mehr Zeit in solche Platzhalter investiert wird, desto höher fallen die vermeidbaren Aufwände aus, die durch die Verzögerung einer Komponente anfallen.
+Mit der Integration der Komponenten kann erst begonnen werden, wenn diese soweit fertig sind. Möchte man trotz unfertiger Komponenten bereits mit deren Integration anfangen, kann man Platzhalter entwickeln, die das Verhalten der fehlenden Komponenten simulieren. Je mehr Zeit in die Entwicklung solcher Platzhalter investiert wird, desto höher fallen die vermeidbaren Aufwände aus, die durch die Verzögerung einer Komponente entstehen.
 
 Die Integration der Komponenten unterliegt verschiedenen Rahmenbedingungen:
 
@@ -376,18 +376,42 @@ Die Integration der Komponenten unterliegt verschiedenen Rahmenbedingungen:
 
 Durch eine sinnvolle Reihenfolge der Integration kann frühzeitig mit den Testaktivitäten begonnen werden, ohne dass hierzu hohe Aufwände zur Entwicklung von Platzhaltern nötig werden. (Es ist sinnvoller, alle Komponenten eines Teilsystems fertig zu haben als vereinzelte Komponenten aus verschiedenen Teilsystemen.) Zur Integration der Komponenten gibt es verschiedene Strategien:
 
-- _Top-Down-Integration_: TODO
-- _Bottom-Up-Integration_:
-- _Ad-hoc-Integration_:
-- _Backbone-Integration_:
+- _Top-Down-Integration_: Die Tests beginnen auf oberster Systemebene, wobei fehlende, tieferliegende Komponenten vorerst durch Platzhalter ersetzt werden. Dieses Vorgehen ist einfach aber aufwändig.
+- _Bottom-Up-Integration_: Die Tests beginnen auf tiefster Systemebene, wobei man sich stetig nach oben vorarbeitet. Es sind dadurch keine Platzhalter für tieferliegende Komponenten nötig, doch muss der Integrationscode durch Testcode simuliert werden.
+- _Ad-hoc-Integration_: Die Komponenten werden in der (zufälligen) Reihenfolge ihrer Fertigstellung integriert. So wird jede Komponente frühstmöglich integriert, was jedoch viele Platzhalter erfordert.
+- _Backbone-Integration_: Es wird vorab ein Programmskelett erstellt, in welchs die fertiggestellten Komponenten nach und nach eingebunden werden. Dadurch wird die Integrationsreihenfolge beliebig. Die Entwicklung eines solchen Backbones ist jedoch sehr aufwändig.
+
+In der Praxis trifft man Mischformen dieser Strategien an. Eine «Big-Bang»-Integration, bei der alle Komponenten auf einmal integriert werden, ist nicht sinnvoll, weil hierdurch zu lange mit den Integrations- und Testaktivitäten gewartet wird, und dann alle Fehlerwirkungen auf einmal geballt auftreten, was deren Lokalisierung erschwert.
 
 ### Systemtest
 
-TODO
+Im _Systemtest_ wird das integrierte Gesamtsystem darauf geprüft, ob es die spezifizierten Produktanforderungen erfüllt. Trotz erfolgreicher Komponenten- und Integrationstests ist das nötig, weil diese tieferen Testarten die Erfüllung technischer Anforderungen überprüfen (_Verifizierung_), während der Systemtest aus Perspektive des Anwenders bzw. Kunden deren Anforderungen prüft (_Validierung_). Ausserdem können gewisse Funktionen und Systemeigenschaften nur anhand des Gesamtsystems überprüft werden.
+
+Als Testbasis dienen alle Informationen, welche die Funktionsweise des Gesamtsystems beschreiben (Anforderungen, Spezifikationen, Benutzerhandbücher usw.) Getestet wird auf einer produktionsnahen Umgebung mit vergleichbarer Hardware- und Softwarekonfiguration ‒ und nicht mehr mithilfe eines Testtreibers. Dabei wird die Dokumentation und Konfiguration des Systems mitgeprüft.
+
+Der Systemtest darf jedoch nicht auf dem Produktivsystem des Kunden durchgeführt werden, da der Testbetrieb durch provozierte Fehlerwirkungen den Produktivbetrieb beeinträchtigen kann (z.B. durch Systemausfälle oder Datenverluste) und weil ein Produktivsystem nicht zu Testzwecken beliebig umkonfiguriert werden kann (etwa um performantere Einstellungen zu finden).
+
+Der Systemtest ist sehr aufwändig. Gemäss Faustregel markiert der Beginn des Systemtests ca. die Hälfte der Testaufwände. Die Qualität der Datenbestände wird im Rahmen des Systemtests mitgeprüft, gerade bei datenbankgestützten Anwendungen: auch die Daten selber werden so zum Testobjekt mit Testkriterien wie Konsistenz, Vollständigkeit, Aktualität.
+
+Beinhaltet der Systemtest auch die Überprüfung von Schnittstellen zu externen Systemen und die Interaktion mit der Systemumgebung, spricht man oft von einem _Systemintegrationstest_. (Der Integrationstest betrifft nur die eigens entwickelten Komponenten. Die Abgrenzung zwischen Integrations- und Systemintegrationstest ist nicht immer messerscharf und erfolgt projektspezifisch.)
+
+Solche Systemintegrationstests erfordern ebenfalls eine produktionsnahe Testumgebung der relevanten Umsysteme. Oft werden Systemintegrationstests erst durchgeführt, wenn die Systemtests einigermassen fortgeschritten sind, da sonst die Unterscheidung des Ursprungs von Fehlerwirkungen (aus dem Eigen- oder einem Umsystem) schwerfällt. Dabei ist zu berücksichtigen, dass die Gegenseite der Schnittstelle nicht unter Kontrolle des Entwicklungsteams steht und dadurch fremdverschuldete Fehlerwirkungen erzeugen kann.
 
 ### Abnahmetest
 
-TODO
+Die bisher betrachteten Teststufen werden in der Verantwortung des Herstellers der Software durchgeführt. Vor der Inbetriebnahme der Software beim Kunden erfolgt nur noch der abschliessende _Abnahme-_ bzw. _Akzeptanztest_. Hier steht das Urteil des Anwenders bzw. des Kunden im Vordergrund. Der Umfang der Abnahmetests ist projektabhängig und orientiert sich an den ermittelten Risiken.
+
+Bei Individualsoftware sind Abnahmetests umfangreicher als bei Standardsoftware. Als Testbasis dienen alle Informationen, welche das Produkt aus Anwendersicht beschreiben, aber auch Gesetze und regulatorische Vorgaben, welche die Software betreffen. Bei der Abnahme von Individualsoftware empfiehlt es sich, die Abnahme vertraglich zu regeln und schriftlich bestätigen zu lassen. In einem solchen Vertrag werden die Abnahmekriterien vorgegeben, wozu diese klar und eindeutig formuliert sein müssen.
+
+Diese Abnahmetests kann der Anbieter schon intern durchführen, um diese dann zwecks eigentlicher Abnahme beim Kunden durch diesen wiederholen zu lassen. Hierbei ist es wichtig, dass der Kunde die Abnahmekriterien ausformuliert oder zumindest einem Review unterzieht. Abnahmetests werden in einer Umgebung des Kunden durchgeführt, jedoch nicht in einer Produktivumgebung. Dadurch wird auch die Installation bzw. Aktualisierung und Konfiguration der Software mitgeprüft.
+
+Verwenden auf Kundenseite mehrere unterschiedliche Gruppen von Anwendern die Software, sollen im Rahmen eines _Benutzerakzeptanztests_ Tester aus verschiedenen Gruppen beigezogen werden. Diese Auswahl von Testfällen und Testpersonal trifft am besten der Kunde selber. Ein korrekt arbeitendes aber als umständlich zu bedienend empfundenes System kann eine komplette Systemeinführung gefährden, weswegen Benutzerakzeptanz bei den Abnahmetests einen sehr hohen Stellenwert hat.
+
+Gravierende Akzeptanzprobleme sollte man aber bereits früher im Entwicklungsprozess vermeiden, indem man rechtzeitig repräsentative Vertreter des Kunden in die Testaktivitäten einbindet. Abnahmetests können auch den Systembetrieb betreffen, der Aspekte wie Backup, Restore, Datenschutz aber auch Konfiguration und Datenpflege (z.B. die Benutzerverwaltung) sicherstellen muss.
+
+Kommt eine Software auf sehr vielen Systemumgebungen zum Einsatz, können nicht alle möglichen Kombinationen von Konfigurationen getestet werden. In diesem Fall wird ein sogenannter _Feldtest_ durchgeführt, für welchen der Anbieter einem ausgesuchten Benutzerkreis eine Vorabversion der neuen Software zur Verfügung stellt. Der Anbieter kann Vorgaben zu Testfällen machen oder die Anwender die Software durch eigene (realistische und alltägliche) Anwendungsszenarien testen lassen.
+
+Die Anwender melden ihre Feststellungen und Fehlerberichte dem Hersteller, der nun durch Verbesserungen und Fehlerkorrekturen darauf reagieren kann. Ein solcher Feldtest wird oftmals herstellerintern als _Alpha-Test_ und extern als _Beta-Test_ durchgeführt. Für letzteres muss die Software bestimmten Mindestqualitätsstandards genügen, damit sie externen Testern zugemutet werden kann.
 
 ## Testarten
 
