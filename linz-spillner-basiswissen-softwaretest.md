@@ -498,6 +498,28 @@ Dabei unterscheidet man zwischen der ursprünglichen Form von TDD (_Test-Driven 
 
 Beim BDD (_Behaviour-Driven Development_, d.h. verhaltensgesteuerte Entwicklung) wird das Sollverhalten mithilfe von Beispielen oder Szenarien in natürlicher Sprache formuliert und anschliessend mithilfe von speziellen Werkzeugen in automatische Testfälle übersetzt, sodass auch Nicht-Entwickler automatische Testfälle erstellen können.
 
+### Continuous Integration, Continuous Delivery, Continuous Deployment
+
+_Continuous Integration_ (CI) ist eine Entwicklungsstrategie, bei der Codeänderungen häufig, d.h. mindestens einmal täglich, integriert werden. Dadurch werden nicht am Ende einer Iteration verschiedenste Änderungen auf einmal zusammengenommen, sondern kontinuierlich ins bestehende System integriert.
+
+Hierzu empfiehlt sich die Automatisierung dieses häufig durchgeführten Vorgangs, was als _Continuous Delivery_ (CD) bezeichnet wird. Diesen integrierten Prozess bezeichnet man häufig als CI/CD.
+
+Das frühe Testen wird dabei durch das automatische Ausführen von statischen und dynamischen Tests (Codeanalyse, Komponenten- und Integrationstests) unterstützt. Dadurch erhält man ein sehr schnelles Feedback, sofern sich die Ausführungsdauer der Testsuiten in einem praktikablen Ausmass bewegt.
+
+Das _Continuous Deployment_ (CD) ist ein konsequenter Folgeschritt, bei dem auch die Auslieferung der neuen Version automatisch stattfindet, wenn alle automatisierten Tests erfolgreich durchlaufen worden sind.
+
+### DevOps
+
+Die Integration der Entwicklungs- («Development», _Dev_) und Betriebsprozesse («Operations», _Ops_) bezeichnet man als _DevOps_. Diese Integration kann nicht alleine mithilfe von Werkzeugen bewerkstelligt werden, sondern erfordert auch kulturelle Veränderungen, damit die beteiligten Teams und Abteilungen besser miteinander kooperieren.
+
+Dabei wird der CI/CD-Ansatz über die Entwicklung hinaus auf den Betrieb der Anwendung ausgedehnt, was nicht nur kürzere Iterationen beim Betrieb ermöglicht, sondern dem Entwicklungsteam auch wertvolle Informationen aus dem Betrieb der Anwendung gibt, etwa zur Performanz oder zur tatsächlichen Systemauslastung.
+
+### Retrospektiven und Prozessverbesserung
+
+Eine Retrospektive ist eine Teamsitzung, in welcher die Zielerreichung einer abgeschlossenen Iteration reflektiert wird. Dabei soll es darum gehen, mögliche Verbesserungen der Arbeitsweise vorzuschlagen und zu diskutieren. Auch Themen des Testens ‒ Verbesserung der Testbasis, Steigerung der Effektivität und Effizienz beim Testen, Einsatz der Testmittel ‒ sind Thema einer Retrospektive, wie auch Weiterbildungsmassnahmen der Teammitglieder sowie kulturelle Themen.
+
+Retrospektiven können nicht nur am Ende einer Iteration (z.B. in Scrum nach einem Sprint) sondern auch nach Abschluss eines Projekts, beim Erreichen eines Meilensteins oder einfach bei Bedarf durchgeführt werden. Wichtig ist das Festhalten der Entscheidungen und die Überprüfung der Massnahmenumsetzung nach der Retrospektive.
+
 # Statischer Test
 
 TODO
