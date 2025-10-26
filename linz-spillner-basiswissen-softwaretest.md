@@ -522,7 +522,7 @@ Retrospektiven können nicht nur am Ende einer Iteration (z.B. in Scrum nach ein
 
 # Statischer Test
 
-Der _statische Test_ (bzw. die _statische Analyse_ oder _statische Prüfung_) kann manuell oder werkzeuggestützt erfolgen. Das Testobjekt ist nicht ein ausführbares Programm wie beim dynamischen Text, sondern ein für die Erstellung der Software relevantes Arbeitsergebnis (Dokument, Quellcode).
+Der _statische Test_ (bzw. die _statische Analyse_ oder _statische Prüfung_) kann manuell oder werkzeuggestützt erfolgen. Das Testobjekt ist nicht ein ausführbares Programm wie beim dynamischen Test, sondern ein für die Erstellung der Software relevantes Arbeitsergebnis (Dokument, Quellcode).
 
 Im Gegensatz zum dynamischen Test erfordert der statische Test keine Formulierung von Testfällen. Der statische Test ist darum weniger aufwändig und kann Fehlerzustände früher feststellen. Im Sinne der Prävention sollen mit statischen Tests Fehler ekrannt werden, bevor sie sich auf den weiteren Entwicklungsprozess auswirken können.
 
@@ -538,9 +538,9 @@ Auch Testkonzepte, Testfälle und Testpläne sowie Verträge, Projekt- und Zeitp
 
 Das Review basiert auf der menschlichen Analyse- und Denkfähigkeit, womit komplexe Sachverhalte überprüft und bewertet werden. Das Review ist also ein intensives Nachdenken über Arbeitsergebnisse, wozu der Reviewer mit den Inhalten der jeweiligen Artefakte vertraut sein und sie nachvollziehen können muss.
 
-Für viele Arten von Arbeitserzeugnissen stellt das Review die einzige Möglichkeit zu deren Prüfung dar, wobei es unterschiedliche Vorgehensweisen gibt. Reviews können mehr oder weniger formell sein, d.h. sich stärker oder schwächer an einem vorgegebenen Prozess orientieren.
+Für viele Arten von Arbeitsergebnissen stellt das Review die einzige Möglichkeit zu deren Prüfung dar, wobei es unterschiedliche Vorgehensweisen gibt. Reviews können mehr oder weniger formell sein, d.h. sich stärker oder schwächer an einem vorgegebenen Prozess orientieren.
 
-Beim formellen Review sind die am Review beteiligten Personen, das dabei einzuhaltende Vorgehen sowie die zu dokumentierenden Informationen festgelegt. Das gewählte Vorgehen hängt auch vom Entwicklungsodell (sequenziell, agil), von der Reife des Entwicklungsprozesses, von der Komplexität der zu prüfenden Inhalte und von allfälligen gesetzlichen Vorgaben ab.
+Beim formellen Review sind die am Review beteiligten Personen, das dabei einzuhaltende Vorgehen sowie die zu dokumentierenden Informationen festgelegt. Das gewählte Vorgehen hängt auch vom Entwicklungsmodell (sequenziell, agil), von der Reife des Entwicklungsprozesses, von der Komplexität der zu prüfenden Inhalte und von allfälligen gesetzlichen Vorgaben ab.
 
 Wie das Review durchgeführt werden soll, hängt davon ab, welche Ziele man damit verfolgt. Möchte man Fehler aufdecken, ein gemeinsames Verständnis schaffen oder eine Entscheidungsgrundlage für die weitere Entwicklung erarbeiten?
 
@@ -567,7 +567,60 @@ Das formale Review sieht verschiedene Rollen vor, die aber nicht alle besetzt we
 
 ### Arten von Reviews
 
-TODO
+Arbeitsergebnisse können unterschiedlichen Arten von Reviews unterzogen werden:
+
+- Beim **informellen Review** wird ein Arbeitsergebnis ohne formalen Prozess einer Prüfung unterzogen, um darin Fehlerzustände erkennen und dem Autor eine Rückmeldung darauf geben zu können. Dieses Review wird oft vom Autor selber angestossen, wobei er Reviewer und Termin selber bestimmt. Oft wird auf eine Reviewsitzung verzichtet; die Rückmeldung erfolgt rein schriftlich. Die Qualität der Rückmeldungen hängt oft von der Auswahl der Reviewer und deren verfügbaren Ressourcen ab.
+- Das **Walkthrough** ist eine Reviewsitzung, in der einzelne Anwendungsszenarien anhand eines Arbeitsergebnisses durchgespielt werden. Die Reviewer untersuchen diesen mental durchgespielten Ablauf auf mögliche Fehlerzustände, welche hierzu den Ablauf durch Nachfragen unterbrechen können. Oft spricht man hierbei auch von einem «Trockenlauf» («dry run»). Üblicherweise führt der Autor selber durch die Reviewsitzung, wozu keine individuelle Vorbereitung der Reviewer nötig ist. Dabei ermittelte Probleme und im Konsens gefundene Verbesserungsvorschläge werden vom Autor selber protokolliert, der sein Arbeitsergebnis im Anschluss einer Nachbereitung unterzieht.
+- Das **technische Review** stellt die Entscheidungsfindung im Konsens in den Vordergrund. Dieses Review wird von Fachspezialisten durchgeführt, wobei auch der unverstellte Blick Aussenstehender willkommen ist. Bei der Reviewsitzung, die eine gewissenhafte Vorbereitung erfordert, sollen auch alternative Lösungsansätze diskutiert werden. Am Ende steht ein zusammenfassender Bericht der Reviewergebnisse.
+- Die **Inspektion** ist die formalste Art des Reviews, wobei Rollenverteilung, Planung, Checklisten sowie die Erfüllung der Eingangs- und Ausgangskriterien der einzelnen Schritte eine wichtige Rolle spielen. Hierbei soll einerseits die Qualität des Arbeitsergebnisses eingeschätzt und Vertrauen darin geschaffen werden. Andererseits sollen Fehlerzustände und Unklarheiten aufgedeckt werden. Zusätzlich soll der Arbeitsprozess verbessert werden, der zur behandelten Art von Arbeitsergebnissen führt, um vergleichbare Fehlerzustände in Zukunft vermeiden zu können. Bei der Reviewsitzung tragen alle Reviewer der Reihe nach ihre Erkenntnisse vor, wozu der Autor jeweils Stellung nimmt. Die gefundenen Fehlerzustände werden protokolliert und am Schluss diskutiert. Am Ende steht eine Bewertung, die ausschlaggebend für Nacharbeiten ist. In diesem Prozess können auch Metriken erhoben werden, womit der Arbeitsprozess weiter verbessert werden kann.
+
+### Das Review im Entwicklungsprozess
+
+Reviews sind ein Mittel des frühen Testens und finden am besten möglichst bald nach der Erstellung des Arbeitsergebnisses statt. Ein Review beseitigt nicht nur die Fehlerzustände in einem Dokument, sondern auch überall im weiteren Entwicklungsprozess, wo das betreffende Dokument als Arbeitsgrundlage dient.
+
+Eine Nachbesserung macht (im Gegensatz zu einer Fehlerkorrektur nach einem dynamischen Test) keinen Regressionstest nötig, sofern es sich um eine Anpassung an einem Dokument handelt.
+
+Ein Review kann auch widersprüchliche Kundenwünsche identifizieren und so deren Implementierung verhindern, was nicht nur Korrekturaufwand sondern auch initiale Entwicklungskosten spart.
+
+Eine Codebasis, die regelmässigen Reviews unterzogen wird, ist auf Dauer besser wartbar und erweiterbar, was die Weiterentwicklungskosten senkt. Reviews fördern zudem den Wissensaustausch innerhalb einer Organisation und ermöglichen Verbesserungen im Arbeitsprozess.
+
+Die Durchführung eines Reviews erfordert eine klare Darstellung des behandelten Sachverhalts, wobei der Vorgang der Klärung oft interessante Einsichten ermöglicht. Weiter steigert das Review das Veranwortungsbewusstsein aller Beteiligter für die Qualität und sorgt für ein gemeinsames Verständnis der Anforderungen.
+
+Damit diese Vorteile zum Tragen kommen können, müssen einige Erfolgsfaktoren gegeben sein:
+
+- Management und Projektleitung müssend ausreichend Ressourcen für Reviews zur Verfügung stellen.
+- Lernen und ständiges Verbessern sind Teil der Firmenkultur.
+- Reviews verfolgen klar definierte Ziele.
+- Kommen Checklisten zum Einsatz, müssen diese die relevanten Risiken abbilden.
+- Beim Review kommen geeignete Personen mit dem nötigen Fachwissen zum Einsatz.
+- Tester sollen am Review beteiligt sein, um möglichst früh mit der Testbasis in Kontakt zu kommen ‒ und um diese auf das Kriterium der Testbarkeit zu überprüfen.
+- Die Effizienz eines Reviews hängt stark von einem Moderator ab, der die zu besprechenden Befunde sinnvoll zu priorisieren und gewichten weiss.
+- Das Review muss von allen Beteiligten als konstruktive Kritik am Arbeitsergebnis und nicht als Bewertung des Autors verstanden werden.
+- Reviewsitzungen sollen kurz und fokussiert durchgeführt werden, damit die Aufmerksamkeit der Beteiligten dabei nicht erschöpft wird. Grosse Arbeitsergebnisse erfordern eine Auswahl der zu behandelnden Inhalte oder aber mehrere Reviewsitzungen.
+
+## Werkzeuggestützte Analyse
+
+Triviale Fehlerzustände in Dokumenten wie etwa Rechtschreibefehler können mithilfe von Werkzeugen sehr effektiv und effizient ermittelt und korrigiet werden. Arbeitsergebnisse, die in einer formalen Sprache vorliegen (z.B. Quellcode oder Konfigurationsdateien), können ebenfalls mithilfe von Werkzeugen automatisch geprüft und verbessert werden.
+
+Spezialisierte Werkzeuge zur sprachlichen Analyse von Dokumenten können Metriken wie die Komplexität der verwendeten Sprache oder die Länge der Sätze automatisch ermitteln und bewerten. Werkzeuge, die heuristisch arbeiten und bestimmte vorgegebene Muster im Programmcode erkennen können, helfen beim Ermitteln bekannter Probleme, z.B. bei üblichen Sicherheitslücken (Verkettung von SQL-Befehlen ermöglicht _SQL Injection_; fehlende Eingabeprüfungen führen zu undefiniertem Verhalten).
+
+Eine solche statische Analyse kann zwar nicht verhindern, dass übliche Fehlerzustände Einzug in den Programmcode finden (z.B. eine Division durch null), aber darauf hinweisen, dass solche Fehlerzustände möglicherweise bestehen (z.B. weil der Divisor nicht auf den Wert null geprüft wird). Hier kann es auch falsch positive Befunde geben, da oftmals erst der dynamische Test zuverlässig aufzeigt, welche Programmpfade tatsächlich ausgeführt werden.
+
+## Abgrenzung zum dynamischen Test
+
+Eine umfassende Teststrategie erfordert eine Kombination aus statischer und dynamischer Prüfung. Gelangt ein Quellcodeabschnitt sehr selten zur Ausführung, kann es sehr lange dauern, bis ein dynamischer Test einen Fehlerzustand darin aufdecken kann. Wird der Code hingegen auch statisch überprüft, kann der Fehelrzustand unter Umständen schnell gefunden werden.
+
+Aspekte wie Erweiterbarkeit und Lesbarkeit des Programmcodes können nur mit statischen Tests ermittelt werden. Metriken, die das Laufzeitverhalten des Codes betreffen, z.B. Performanz und Ressourcenverbrauch, erfordern hingegen dynamische Tests.
+
+Statische Tests können v.a. die folgenden Arten von Fehlerzuständen ermitteln:
+
+- **Anforderungsfehler**: Anforderungen sind mehrdeutig, inkonsistent, widersprüchlich oder ungenau.
+- **Entwurfsfehler**: Komponenten weisen eine hohe Kopplung oder schwache Kohäsion auf und sind deswegen schwer zu testen. Entworfene Datenstrukturen können ungeeignet und Schnittstellen umständlich anzusprechen sein.
+- **Programmierfehler**: Variablen werden nicht initialisiert, Eingaben nicht geprüft.
+- **Abweichungen von Standards**: Richtlinien werden verletzt, missbilligte Programmierkonstrukte verwendet.
+- **Unpassende Schnittstellen**: Komponenten lasen sich aufgrund inkompatibler Schnittstellen nicht integrieren.
+
+Viele Aspekte der Wartbarkeit können (nur) mithilfe der statischen Analyse überprüft werden. Je länger ein Softwaresystem im Einsatz ist und weiterentwickelt wird, desto eher lohnt sich eine ‒ möglichst frühe ‒ statische Prüfung.
 
 # Dynamischer Test
 
