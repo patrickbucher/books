@@ -522,6 +522,51 @@ Retrospektiven können nicht nur am Ende einer Iteration (z.B. in Scrum nach ein
 
 # Statischer Test
 
+Der _statische Test_ (bzw. die _statische Analyse_ oder _statische Prüfung_) kann manuell oder werkzeuggestützt erfolgen. Das Testobjekt ist nicht ein ausführbares Programm wie beim dynamischen Text, sondern ein für die Erstellung der Software relevantes Arbeitsergebnis (Dokument, Quellcode).
+
+Im Gegensatz zum dynamischen Test erfordert der statische Test keine Formulierung von Testfällen. Der statische Test ist darum weniger aufwändig und kann Fehlerzustände früher feststellen. Im Sinne der Prävention sollen mit statischen Tests Fehler ekrannt werden, bevor sie sich auf den weiteren Entwicklungsprozess auswirken können.
+
+## Das Review
+
+Im Rahmen eines _Reviews_ werden Qualitätskriterien wie Lesbarkeit, Vollständigkeit, Korrektheit, Konsistenz und Testbarkeit geprüft, woran schliesslich auch die Wartbarkeit bewertet werden kann. Reviews dienen sowohl der Verifikation als auch der Validierung.
+
+Beim Review kann jegliche Art von Spezifikation geprüft werden: Geschäftsanforderungen, funktionale und nicht funktionale Anforderungen, Sicherheitsanforderungen usw. Entsprechende Fehler sollen gefunden und behoben werden, bevor sie in den Quellcode gelangen.
+
+Im agilen Vorgehen sind v.a. Epics und User Stories Gegenstand von Reviews. Es wird geprüft, ob diese der Definition of Ready genügen, vollständig und verständlich sind und über sinnvolle Abnahmekriterien verfügen. Dabei können Fehler wie Inkonsistenz, Mehrdeutigkeit, Widersprüchlichkeit, Lücken, Ungenauigkeit, Redundanz aber auch Rechtschreibefehler aufgedeckt werden.
+
+Auch Testkonzepte, Testfälle und Testpläne sowie Verträge, Projekt- und Zeitpläne und Benutzeranleitungen können Gegenstand eines Reviews sein. Mit den Ergebnissen eines Reviews können nicht nur die Arbeitsergebnisse selber, sondern auch deren zugrundeliegende Arbeitsprozesse verbessert werden, indem man etwa aus häufig festgestellten Fehlern Schulungsmassnahmen ableitet.
+
+Das Review basiert auf der menschlichen Analyse- und Denkfähigkeit, womit komplexe Sachverhalte überprüft und bewertet werden. Das Review ist also ein intensives Nachdenken über Arbeitsergebnisse, wozu der Reviewer mit den Inhalten der jeweiligen Artefakte vertraut sein und sie nachvollziehen können muss.
+
+Für viele Arten von Arbeitserzeugnissen stellt das Review die einzige Möglichkeit zu deren Prüfung dar, wobei es unterschiedliche Vorgehensweisen gibt. Reviews können mehr oder weniger formell sein, d.h. sich stärker oder schwächer an einem vorgegebenen Prozess orientieren.
+
+Beim formellen Review sind die am Review beteiligten Personen, das dabei einzuhaltende Vorgehen sowie die zu dokumentierenden Informationen festgelegt. Das gewählte Vorgehen hängt auch vom Entwicklungsodell (sequenziell, agil), von der Reife des Entwicklungsprozesses, von der Komplexität der zu prüfenden Inhalte und von allfälligen gesetzlichen Vorgaben ab.
+
+Wie das Review durchgeführt werden soll, hängt davon ab, welche Ziele man damit verfolgt. Möchte man Fehler aufdecken, ein gemeinsames Verständnis schaffen oder eine Entscheidungsgrundlage für die weitere Entwicklung erarbeiten?
+
+### Der Reviewprozess
+
+Der Reviewprozess besteht aus mehreren Schritten und kann für umfassende Reviews mehrmals durchgespielt werden. Diese Schritte oder Hauptaktivitäten sind:
+
+1. **Planung**: Die Projektleitung entscheidet, welches Arbeitsergebnis welcher Art von Review unterzogen wird. Je nach Art des Reviews unterscheiden sich die zu besetzenden Rollen und die auszuführenden Aktivitäten. Die zu bewertenden Qualitätsmerkmale sowie der Zeitrahmen und der Aufwand werden auch in der Planung festgelegt. Die Rollen werden mit geeigneten Personen besetzt. In Zusammenarbeit mit dem Autor des zu prüfenden Artefakts vergewissert man sich, dass sich dieses in einem stabilen Zustand befindet. Bei einem formalen Review werden auch eingangs- und Ausgangskriterien für die einzelnen Arbeitsschritte festgelegt. Werden umfassende Arbeitsergebnisse einem Review unterzogen, kann eine Auswahl der zu prüfenden Inhalte getroffen werden.
+2. **Initiierung**: Die am Review beteiligten Personen werden über ihre Rollen informiert und mit allen notwendigen Informationen versorgt. Dies kann ihm Rahmen einer Besprechung oder rein schriftlich vonstatten gehen. Neben dem zu prüfenden Arbeitsergebnis müssen auch sämtliche Informationen bereitgestellt werden, womit der Soll-Zustand des Artefakts eingeschätzt werden kann. Solche _Basisdokumente_ («Baseline») können Standards, Designdokumente, Richtlinien usw. sein. Auch Checklisten oder Vorlagen für das Festhalten der Befunde können hilfreich sein und den Arbeitsaufwand reduzieren. Beim formalen Review wird geprüft, ob die Eintrittskriterien eingehalten werden. Das Review kann abgebrochen werden, wenn das zu prüfende Arbeitsergebnis hierzu noch nicht stabil oder reif genug ist.
+3. **Individuelles Review**: Die Reviewer (oder «Gutachter») unterziehen das Arbeitsergebnis einer intensiven Prüfung, wozu sie Gebrauch von den relevanten Basisdokumenten machen und Abweichungen sowie potenzielle Fehlerzustände festhalten. Dieser Schritt gilt als Vorbereitung für die folgende Phase.
+4. **Reviewsitzung**: Die Ergebnisse aus dem individuellen Review werden im Rahmen einer gemeinsamen Besprechung oder mithilfe einer Kollaborationsplattform zusammengeführt. Anschliessend werden diese Befunde besprochen und analysiert. Die Zuständigkeit für deren Behebung wird festgelegt und eine evtl. nötige Nachkontrolle geplant. Das Erreichen der festgelegten Qualitätskriterien wird gemeinsam eingeschätzt und dokumentiert. Am Ende steht die Entscheidung über das Arbeitsergebnis: Wird dieses (evtl. mit geringfügigen Änderungen) akzeptiert, zu einer umfangreichen Überarbeitung zurückgewiesen oder gar verworfen?
+5. **Behebung und Berichterstattung**: Wird ein detailliertes Reviewprotokoll erstellt, erübrigt sich die Anfertigung einzelner Fehlerberichte. Der Autor des Arbeitsergebnisses kann die Anpassungen direkt durch das Abarbeiten dieses Protokolls vornehmen. Anhand der gesammelten Reviewprotokolle ist es möglich, den Arbeitsprozess zu verbessern, indem man aus häufig auftretenden Fehlern Schulungsmassnahmen ableitet.
+
+### Rollen im formalen Review
+
+Das formale Review sieht verschiedene Rollen vor, die aber nicht alle besetzt werden müssen bzw. bei Bedarf zusammengelegt werden können. Diesen Rollen kommen folgende Aufgaben zu:
+
+- **Management**: Auswahl der zu prüfenden Arbeitsergebnisse, Planung des Reviews, Bereitstellung der Ressourcen, Überwachung und Steuerung des Vorgangs
+- **Reviewleiter**: Planung, Vorbereitung, Durchführung, Nachbereitung, Terminplanung, Auswahl der beteiligten Personen
+- **Moderator**: diplomatische Leitung der Reviewsitzung, unnütze Diskussionen unterbinden, Untertöne heraushöhren und darauf reagieren, die persönliche Meinung zurückhalten, Metriken sammeln, Protokoll führen
+- **Autor**: zu prüfendes Arbeitsergebnis erstellen und in stabilen Zustand bringen, aufgedeckte Fehlerzustände beheben, Kritik auf das Arbeitsergebnis (und nicht auf sich selber) beziehen, über erfolgte Nachbearbeitung informieren
+- **Reviewer**: Vorbereitung im Rahmen des individuelles Reviews, problematische Stellen im Arbeitsergebnis identifizieren und beschreiben, verlangte Perspektive auf das Arbeitsergebnis einnehmen, Konzentration auf relevante Aspekte, positive Aspekte hervorheben, unzulängliche Aspekte dokumentieren
+- **Protokollant**: bestehende Unklarheiten dokumentieren, getätigte Aussagen unverfälscht festhalten, Protokoll den relevanten Stakeholdern zur Verfügung stellen
+
+### Arten von Reviews
+
 TODO
 
 # Dynamischer Test
