@@ -685,7 +685,7 @@ Pro Grenzwert ergeben sich zwei bzw. drei Testfälle. An der Grenze zweier Äqui
 
 Die Qualität der abgeleiteten Testfälle steht und fällt mit der Äquivalenzklassenbildung. Vergessene Unterteilungen führen zu mangelhaften Überdeckungsgraden. Unnötig unterteilte Äquivalenzklassen erhöhen den Testaufwand, ohne damit andere Fehlerwirkungen entdecken zu können.
 
-Die Überdeckung wird anhand des Verhältnisses der getesteten dividiert durch die Anzahl der vorhandenen Grenzwerte ermittelt. (Die benachbarten Werte werden hiebei auch als Grenzwerte mitgezählt.)
+Die Überdeckung wird anhand des Verhältnisses der getesteten zur Anzahl der vorhandenen Grenzwerte ermittelt. (Die benachbarten Werte werden hiebei auch als Grenzwerte mitgezählt.)
 
 Bei nicht-numerischen aber geordneten Daten, wie z.B. bei Zeichenketten, ist die Äquivalenzklassenbildung und Grenzwertanalyse oftmals nicht trivial. Das Entwerfen der entsprechenden Testfälle erfordert einiges an Kreativität.
 
@@ -718,6 +718,42 @@ Die Testintensität kann unterschiedlich abgestuft werden. Die Mindestforderung 
 Ein zustandsbasierter Test ist immer dann angebracht, wenn das Verhalten des Systems durch vorherige Ereignisse beeinflusst wird. Sie eignen sich auf Stufe Komponenten- und Integrationstests für objektorientiert implementierte Systembestandteile und auf Stufe Systemtest beispielsweise für grafische Benutzeroberflächen.
 
 Die Testüberdeckung kann anhang verschiedener Kriterien gemessen werden: Werden alle Zustände einmal erreicht? Werden sämtliche gültigen Zustandsübergänge einmal ausgeführt? Werden auch die ungültigen Zustandsübergänge berücksichtigt (Negativtest)? Weiter ist es möglich, wenn auch oftmals nicht praktikabel, verschiedene Reihenfolgen für das Erreichen der Zustände zu testen.
+
+### Entscheidungstabellentest
+
+Betrachten die bisherigen Verfahren die Eingabeparameter in Isolation voneinander, werden im _Entscheidungstabellentest_ auch deren Kombinationen berücksichtigt. Damit können Fehlerwirkungen aufgedeckt werden, die sich aus den einzelnen möglichen (wenn auch unwahrscheinlichen oder widersprüchlichen) Kombinationen von Eingabeparametern bzw. deren zu prüfenden Bedingungen ergeben.
+
+Eine Entscheidungstabelle hat einen oberen Bereich für Ursachen (Eingabeparameter und deren Bedingungen) und einen unteren Bereich für Wirkungen (Ergebnisse und deren Eintreten). Sie wird folgendermassen erstellt:
+
+1. Oben links werden die einzelnen Bedingungen zeilenweise aufgelistet, die jeweils den Zustand «ja» oder «nein» bzw. «wahr» oder «falsch» haben können.
+2. Oben rechts werden alle Kombinationen der Bedingungen spaltenweise aufgelistet und mit den zeilenweisen Bedingungen von links zu einer Wahrheitsmatrix kombiniert.
+3. Unten links werden die einzelnen Ergebnisse zeilenweise aufgelistet.
+4. Unten rechts wird die Wahrheitsmatrix der Bedingungen von oben rechts mit den Ergebnissen von unten links zu einer Wirkungsmatrix kombiniert.
+
+Dieses Beispiel zeigt eine Entscheidungstabelle, welche Regeln für Lohnabzüge abbildet:
+
+- Abzüge für AHV, IV und EO sind ab dem 18. Altersjahr fällig.
+- Abzüge für ALV und NBU sind ab einem Jahreslohn von 2500.- fällig.
+- Abzüge für PK sind ab einem Jahreslohn von 22'680.- fällig.
+
+| **Bedingung**         | K1 | K2 | K3 | K4 | K5 | K6 | K7 | K8 |
+|-----------------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 18. Altersjahr        |  w |  w |  w |  w |  f |  f |  f |  f |
+| Jahreslohn \geq 2500  |  w |  w |  f |  f |  w |  w |  f |  f |
+| Jahreslohn \geq 22680 |  w |  f |  w |  f |  w |  f |  w |  f |
+| **Ergebnis**          |    |    |    |    |    |    |    |    |
+| AHV                   |  x |  x |  x |  x |  - |  - |  - |  - |
+| IV                    |  x |  x |  x |  x |  - |  - |  - |  - |
+| EO                    |  x |  x |  x |  x |  - |  - |  - |  - |
+| ALV                   |  x |  x |  ! |  - |  x |  x |  ! |  - |
+| NBU                   |  x |  x |  ! |  - |  x |  x |  ! |  - |
+| PK                    |  x |  - |  ! |  - |  x |  - |  ! |  x |
+
+Die Erfüllung der Bedingungen ist oben rechts mit «w» (wahr) und «f» (falsch) angegeben. Die erwarteten Ergebnisse sind unten rechts mit «x» (erwartet), «-» (nicht erwartet) und «!» (widersprüchliche Bedingungen) angegeben.
+
+Pro Spalte der Wirkungsmatrix soll ein Testfall erstellt werden, der überprüfen soll, ob die Ergebnisse der jeweiligen Zeile korrekterweise eintreten bzw. nicht eintreten. Für widersprüchliche Bedingungen können die Testfälle weggelassen bzw. als Negativtests (Ausnahmebehandlung) formuliert werden. Die Tabelle kann weiter konsolidiert werden, indem man redundante Kombinationen eliminiert.
+
+Die Testüberdeckung ergibt sich aus dem Verhältnis der erstellten Testfälle zur Anzahl Spalten in der Wirkungsmatrix. Entscheidungstabellen sind ein systematisches Verfahren zur Ermittlung der Testfälle. Deren Anzahl wächst dabei exponentiell zur Anzahl der zu prüfenden Bedingungen an. Nach der Eliminierung redundanter Kombinationen kann und sollte die Anzahl der Testfälle durch Reduktionen (z.B. risikobasiert) weiter verkleinert werden.
 
 # Testmanagement
 
