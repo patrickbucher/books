@@ -695,6 +695,8 @@ Oftmals haben nicht nur die Eingabewerte sondern die bisher ausgeführten Aktion
 
 Dieses Verhalten wird mithilfe von _Zustandsautomaten_ und/oder _Zustandstabellen_ modelliert. Solche Zustandsmodelle sind einerseits _deterministisch_ (nach jedem Ereignis für einen gegebenen Ausgangszustand befindet sich das System in einem eindeutig definierten Folgezustand) und andererseits _vollständig_ (für jeden Ausgangszustand ist der Folgezustand für alle möglichen Ereignisse definiet). Dabei kann der Folgezustand auch ein Fehlerzustand sein, was in Zustandsautomaten häufig nicht modelliert wird, aber in der entsprechenden Zustandstabelle ersichtlich ist.
 
+Das folgende Beispiel zeigt die Zustände eines Computers an, an den sich nach dem Start Benutzer an- und abmelden sowie ihre Sitzung sperren können:
+
 ![Zustandsautomat mit Zuständen und Übergängen (Ereignisse)](pics/zustandsautomat.svg)
 
 | **Ereignis/Zustand** | Start      | abgemeldet | angemeldet | gesperrt   | Ende |
