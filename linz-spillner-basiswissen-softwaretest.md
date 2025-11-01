@@ -689,6 +689,36 @@ Die Überdeckung wird anhand des Verhältnisses der getesteten dividiert durch d
 
 Bei nicht-numerischen aber geordneten Daten, wie z.B. bei Zeichenketten, ist die Äquivalenzklassenbildung und Grenzwertanalyse oftmals nicht trivial. Das Entwerfen der entsprechenden Testfälle erfordert einiges an Kreativität.
 
+### Zustandsbasierter Test
+
+Oftmals haben nicht nur die Eingabewerte sondern die bisher ausgeführten Aktionen Einfluss auf das Verhalten eines Systems. Solche Systeme werden mithilfe von _Zustandsmodellen_ getestet. Von einem Startzustand ausgehend lösen Ereignisse Zustandsübergänge aus, die schliesslich in einen Endzustand münden. 
+
+Dieses Verhalten wird mithilfe von _Zustandsautomaten_ und/oder _Zustandstabellen_ modelliert. Solche Zustandsmodelle sind einerseits _deterministisch_ (nach jedem Ereignis für einen gegebenen Ausgangszustand befindet sich das System in einem eindeutig definierten Folgezustand) und andererseits _vollständig_ (für jeden Ausgangszustand ist der Folgezustand für alle möglichen Ereignisse definiet). Dabei kann der Folgezustand auch ein Fehlerzustand sein, was in Zustandsautomaten häufig nicht modelliert wird, aber in der entsprechenden Zustandstabelle ersichtlich ist.
+
+TODO: Zustandsautomat
+
+| Ereignis/Zustand | Start      | abgemeldet | angemeldet | gesperrt   | Ende |
+|------------------|------------|------------|------------|------------|------|
+| einschalten      | abgemeldet | -          | -          | -          | -    |
+| anmelden         | -          | angemeldet | -          | -          | -    |
+| abmelden         | -          | -          | abgemeldet | -          | -    |
+| sperren          | -          | -          | gesperrt   | -          | -    |
+| entsperren       | -          | -          | -          | angemeldet | -    |
+| ausschalten      | -          | Ende       | Ende       | Ende       | -    |
+
+Ein zustandsbasierter Testfall wird folgendermassen modelliert:
+
+- **Vorbedingung**: Das System befindet sich in einem bestimmten Ausgangszustand.
+- **Ereignis**: Es wird ein zulässiges oder unzulässiges Ereignis ausgelöst.
+- **Sollrekation**: Das System geht zu einem bestimmten Folgezustand über.
+- **Nachbedingung**: Das System befindet sich in einem bestimmten Zustand.
+
+Die Testintensität kann unterschiedlich abgestuft werden. Die Mindestforderung ist, dass die Tests alle möglichen Zustände mindestens einmal erreichen. Eine erweiterte Forderung ist, dass sämtliche Ereignisse einmal durchgespielt werden. Zusätzlich können auch die in der Zustandstabelle festgelegten unzulässigen Ereignisse pro Zustand getestet werden, was zu einem Fehler führen muss. Dies ist v.a. bei kritischen Systemen nötig.
+
+Ein zustandsbasierter Test ist immer dann angebracht, wenn das Verhalten des Systems durch vorherige Ereignisse beeinflusst wird. Sie eignen sich auf Stufe Komponenten- und Integrationstests für objektorientiert implementierte Systembestandteile und auf Stufe Systemtest beispielsweise für grafische Benutzeroberflächen.
+
+Die Testüberdeckung kann anhang verschiedener Kriterien gemessen werden: Werden alle Zustände einmal erreicht? Werden sämtliche gültigen Zustandsübergänge einmal ausgeführt? Werden auch die ungültigen Zustandsübergänge berücksichtigt (Negativtest)? Weiter ist es möglich, wenn auch oftmals nicht praktikabel, verschiedene Reihenfolgen für das Erreichen der Zustände zu testen.
+
 # Testmanagement
 
 In diesem Kapitel geht es um die organisatorischen Voraussetzungen für effizientes Testen.
