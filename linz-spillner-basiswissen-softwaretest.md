@@ -757,6 +757,57 @@ Pro Spalte der Wirkungsmatrix soll ein Testfall erstellt werden, der überprüfe
 
 Die Testüberdeckung ergibt sich aus dem Verhältnis der erstellten Testfälle zur Anzahl Spalten in der Wirkungsmatrix. Entscheidungstabellen sind ein systematisches Verfahren zur Ermittlung der Testfälle. Deren Anzahl wächst dabei exponentiell zur Anzahl der zu prüfenden Bedingungen an. Nach der Eliminierung redundanter Kombinationen kann und sollte die Anzahl der Testfälle durch Reduktionen (z.B. risikobasiert) weiter verkleinert werden.
 
+## Whitebox-Testverfahren
+
+Bei Whitebox-Testverfahren werden die Testfälle aus der Struktur des Quellcodes abgeleitet, der hierzu bereits geschrieben sein muss. Der Programmcode soll bis zu einem angestrebten Grad durch Testfälle überdeckt werden. In der Praxis wird zunächst der Überdeckungsgrad der Blackbox-Tests gemessen und dann gezielt durch ergänzende Whitebox-Tests erhöht.
+
+Whitebox-Tests kommen v.a. auf der Stufe der Komponententests zum Einsatz. Neben dem Quellcode dient auch die Spezifikation der zu prüfenden Komponente als Testbasis, welche zur Festlegung der Erwartungswerte und zum Erkennen fehlerhaften Verhaltens herangezogen wird. 
+
+Man unterscheidet beim Whitebox-Test u.a. zwischen _Anweisungstest_ und _Zweigtest_ (oder _Entscheidungstest_). Diese beiden Verfahren werden anhand eines Programmbeispiels zur Berechnung der Fakultät (engl. «factorial») demonstriert, wobei der folgende Programmcode (in JavaScript) auch als Flussdiagramm veranschaulicht ist:
+
+```javascript
+function factorial(x) {
+  if (typeof x === "number") {
+    if (x == 0) {
+      return 1;
+    } else if (x > 1) {
+      let i = x - 1;
+      do {
+        x *= i;
+        i -= 1;
+      } while (i > 0);
+    }
+  }
+  return x;
+}
+```
+
+![Das Flussdiagramm zur Funktion `factorial` zur Berechnung der Fakultät](pics/flussdiagramm.svg)
+
+### Anweisungstest und Anweisungsüberdeckung
+
+Beim Anweisungstest geht es darum, möglichst viele Anweisungen im Programmcode durch Testfälle erreichen zu können. Dabei wird ein bestimmtes Mindestverhältnis von überdeckten Anweisungen zur Gesamtzahl von Anweisungen angestrebt.
+
+Im Flussdiagramm sind die Anweisungen als Knoten und der Programmfluss als Kanten dargestellt, wobei zwischen Verzweigungen (Kreise) und sonstigen Instruktionen (Rechtecke) unterschieden wird.
+
+Im vorliegenden Beispiel sind zwei Testfälle nötig, um einen Überdeckungsgrad von 100% zu erreichen: Der erste muss der Bedingung $x=0$ und der zweite der Bedingung $x>0$ genügen, was beispielsweise mit den Eingabeparametern $0$ und $3$ erreicht werden kann: Der erste Testfall erreicht die Anweisung `return 1`, während der zweite die `do`/`while`-Schleife erreicht und (mehrmals) durchlaufen lässt.
+
+Der Testfall darf sich dabei nicht mit dem Durchlaufen der Anweisungen begnügen, sondern muss auch das Ergebnis gemäss Spezifikation überprüfen (z.B. `factorial(0) == 0` und `factorial(3) == 6` gemäss der mathematischen Definition $0!=1$ und $3!=6$).
+
+Ein Überdeckungsgrad von 100% ist ‒ mit Ausnahme von trivialen Beispielen, wie der vorliegenden Fakultät-Berechnung ‒ in der Praxis oft schwer zu erreichen, da Anweisungen zur Ausnahmebehandlung teilweise sehr umständlich zur Ausführung gebracht werden können.
+
+Gar nicht zu erreichende Anweisungen sind ein Hinweis auf «toten Code» (engl. «dead code»), dessen Entfernung geprüft werden soll. Das Erreichen der `else`-Zweige, die im vorliegenden Beispiel über keine Anweisungen verfügen, ist nicht Gegenstand des Anweisungstests.
+
+### Zweigest und Zweigüberdeckung
+
+Stehen beim Anweisungstest die Anweisungen (Knoten im Flussdiagramm) im Fokus, sind es beim Zweigtest die Verzweigungen (Kanten im Flussdiagramm). Bei Abfrage- (`if`/`else if`/`else`, `switch`/`case`) und Schleifenanweisungen (`do`/`while`, `for`) sind die dort getroffenen Entscheidungen über den weiteren Kontrollfluss die Grundlage der Überlegungen.
+
+Im Gegensatz zum Anweisungstest sind auch «leere» Zweige ohne Anweisungen zu überdecken; es müssen sämtliche Kanten im Flussdiagramm durchlaufen werden! Genügen beim Anweisungstest noch zwei Testfälle ($x=0$ und $x=3$) um einen Überdeckungsgrad von 100% zu erreichen, müssen im Zweigtest auch die beiden «leeren» Zweige geprüft werden. (Diese werden ausgeführt, wenn `x` nicht numerisch ist bzw. den Wert `1` hat.)
+
+Die Zweigüberdeckung ist das Verhältnis der ausgeführten Zweige zur Gesamtzahl der vorhandenen Zweige. Hierbei ist daraf zu achten, dass im Flussdiagramm ersichtliche Zweige teilweise (wie im vorliegenden Beispiel) nicht im Programmcode ersichtlich sind.
+
+Eine Zweigüberdeckung von 100% garantiert auch eine Anweisungsüberdeckung von 100% ‒ was umgekehrt jedoch nicht gilt! Bei beiden Testverfahren ‒ Anweisungstest und Zweigtest ‒ sind Werkzeuge zur Messung der Codeüberdeckung eine unverzichtbare Unterstützung zur effizienten Ermittlung des erreichten Überdeckungsgrades.
+
 # Testmanagement
 
 In diesem Kapitel geht es um die organisatorischen Voraussetzungen für effizientes Testen.
