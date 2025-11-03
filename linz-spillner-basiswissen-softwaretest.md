@@ -808,6 +808,30 @@ Die Zweigüberdeckung ist das Verhältnis der ausgeführten Zweige zur Gesamtzah
 
 Eine Zweigüberdeckung von 100% garantiert auch eine Anweisungsüberdeckung von 100% ‒ was umgekehrt jedoch nicht gilt! Bei beiden Testverfahren ‒ Anweisungstest und Zweigtest ‒ sind Werkzeuge zur Messung der Codeüberdeckung eine unverzichtbare Unterstützung zur effizienten Ermittlung des erreichten Überdeckungsgrades.
 
+## Erfahrungsbasierte Testfallermittlung
+
+Die erfahrungsbasierte Testfallermittlung nutzt die Kenntnisse und die Intuition der Tester und ist eine sinnvolle Ergänzung zu den systematischen Testverfahren. Überdeckungsgrade sind dabei sekundär bzw. kaum messbar.
+
+Neben dem Erfahrungs- und Fachwissen aus dem Softwaretest sind auch Kenntnisse aus vergleichbaren Vorgängerprojekten und Erfahrungen mit dort eingesetzten Programmiersprachen und Technologien hilfreich. Dieses Vorgehen ist wenig methodisch und basiert darauf, in früheren Projekten aufgedeckte Fehlerwirkungen erneut zu provozieren sowie auf Erfahrungswerten, welche Fehlhandlungen oft im jeweiligen Umfeld zu beobachten sind, wie z.B. fehlende Eingabeprüfungen oder falsche Formatierungen von Werten.
+
+Die auf der Intuition basierte Testfallermittlung wird oft auch als «error guessing» bezeichnet. Dieses Vorgehen kann etwas methodischer ausgestaltet werden, wenn die beobachteten Fehlerwirkungen und ihre Ursachen systematisch gesammelt und beim Testen abgearbeitet und ergänzt werden.
+
+Der _checklistenbasierte Test_ basiert auf einer Sammlung von Aspekten, die beim Testen berücksichtigt werden sollen. Solche Checklisten können laufend ‒ erfahrungsbasiert ‒ ergänzt werden. Auf automatisch testbare Aspekte soll dabei verzichtet werden, da die manuelle Abarbeitung solcher Tests ineffizient ist und zuverlässiger mithilfe von Testskripts vonstatten geht.
+
+Checklisteneinträge sind oft als Fragen formuliert, welche sich auf verschiedene Qualitätskriterien beziehen. Checklisten können auch in funktionale und nicht funktionale Aspekte aufgeteilt werden. Aufgrund hinzugefügter bzw. entfernter Funktionalität im Testobjekt oder aufgrund häufiger bzw. seltener auftretender Fehlhandlungen sollen Checklisten laufend um neue Einträge ergänzt bzw. um obsolete Einträge gekürzt werden.
+
+Die generische Formulierung der Checklisteneinträge führt zu einer hohen Variabilität in der Testausführung ‒ und damit zu einer höheren Abdeckung bei geringerer Wiederholbarkeit. Eine Überdeckung kann als Verhältnis abgearbeiteter zur Gesamtzahl vorhandener Checklisteneinträge angegeben werden.
+
+Ist die Testbasis veraltet bzw. gar nicht vorhanden, oder ist die zum Testen verfügbare Zeit sehr knapp bemessen, muss man sich oftmals mit einem rein _explorativen Test_ begnügen. Dieses Verfahren basiert auf der Intuition und profitiert von fachspezifischen Kenntnissen wie auch allgemeinen Fähigkeiten (Kreativität, Neugier, analytische Fähigkeiten) der involvierten Tester.
+
+Beim explorativen Test werden sämtliche Testaktivitäten parallel ausgeführt; eine Testplanung ist nicht vorgesehen. Das Testobjekt wird intuitiv erforscht und dabei dessen zu Beginn unbekanntes Verhalten schrittweise ergründet. Dieses Verfahren kann auch als Grundlage für nachfolgende systematische Testaktivitäten dienen, sofern hierfür Ressourcen zur Verfügung stehen.
+
+Das explorative Testen wird oft zeitlich begrenzt im Rahmen einzelner Sitzungen (von i.d.R. maximal zwei Stunden) durchgeführt und dabei pragmatisch dokumentiert, wobei ergänzend eine Nachbesprechung (auch in einem erweiterten interessierten Personenkreis) zum Verbreiten des erlangten Erfahrungswissens sinnvoll sein kann.
+
+Ein explorativer Test wird vorgängig sinnvollerweise mit einer «Test-Charta» auf zu testende Aspekte wie angestrebte Testziele, relevante Teile des Testobjekts, zu suchende Fehlerwirkungen usw. eingegrenzt. Beim explorativen Test ergibt sich ein «mentales Modell» von der Funktionsweise des Testobjekts, das im weiteren Verlauf der Testaktivitäten verfeinert wird.
+
+Diese beschriebenen erfahrungsbasierten Testverfahren lassen sich nicht eindeutig den Blackbox- oder Whitebox-Verfahren zuordnen und kommen v.a. ergänzend auf den höheren Teststufen zum Einsatz. Überdeckungselemente und Endkriterien lassen sich dabei nur angeben, wenn die Testaktivitäten durch abzuarbeitende Listen eingegrenzt sind. Die Effektivität dieser Verfahren hängt stark vom eingesetzten Testpersonal und von dessen Erfahrung und Kenntnissen ab.
+
 # Testmanagement
 
 In diesem Kapitel geht es um die organisatorischen Voraussetzungen für effizientes Testen.
