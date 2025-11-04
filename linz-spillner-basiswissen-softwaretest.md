@@ -1137,4 +1137,18 @@ Eine gut gepflegte Fehlerdatenbank erleichtert nicht nur die Nachverfolgung der 
 
 # Testwerkzeuge
 
-TODO
+Testwerkzeuge werden eingesetzt, um ihren Anwendern die Erledigung der Testaktivitäten zu erleichtern. Mit ihrem Einsatz werden folgende Ziele und Zwecke verfolgt:
+
+- **Effizienzsteigerung** durch Automatisierung aufwändiger Testtätigkeiten (statische Code-Analyse, automatische Ausführung dynamischer Testfälle)
+- **Qualitätsverbesserung** durch Verwaltung vieler Testfälle (Lücken- und Duplikaterkennung mithilfe werkzeuggestützter Verwaltung von Testfällen und Testdaten)
+- **Zuverlässigkeitsverbesserung** durch Automatisierung manueller Aufgaben (automatischer Vergleich grosser Datenmengen, automatische Ausführung von Prüfabläufen)
+- **Testbewerkstelligung** manuell nicht durchzuführender Aufgaben (Performanz- und Lasttests)
+- **Arbeitserleichterung** durch verbesserte Zusammenarbeit der Teams (Kollaborationsplattformen, Testmanagement-Lösungen)
+
+Manche Werkzeuge sind stark spezialisiert und unterstützen einzelne Testaktivitäten sehr geziehlt, während Werkzeugsammlungen oder «Tool-Suiten» den Testprozess umfassend abbilden und unterstützen. (Für letzteres ist auch der Begriff «Application Lifecycle Management»-Suite gebräuchlich.)
+
+Der Begriff «Testframework» hat verschiedene Bedeutungen: eine Programmbibliotheken zur Umsetzung dynamischer Testfälle, das Konzept der Testautomatisierung oder der gesamte Prozess der Testdurchführung.
+
+## Testwerkzeugtypen
+
+Man unterscheidet Testwerkzeuge nach denen von ihnen unterstützten Testaktivitäten oder nach den Phasen im Testprozess, in denen sie zum Einsatz kommen. Je nach Anwendungsbereich gibt es auch spezialisierte Angebote, etwa für Performanz- oder Browsertests. Zwar kommen in einem Projekt selten alle Arten von Testwerkzeugen zum Einsatz, dennoch lohnt es sich, die verschiedenen Möglichkeiten zu kennen.
