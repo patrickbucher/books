@@ -1152,3 +1152,26 @@ Der Begriff «Testframework» hat verschiedene Bedeutungen: eine Programmbibliot
 ## Testwerkzeugtypen
 
 Man unterscheidet Testwerkzeuge nach denen von ihnen unterstützten Testaktivitäten oder nach den Phasen im Testprozess, in denen sie zum Einsatz kommen. Je nach Anwendungsbereich gibt es auch spezialisierte Angebote, etwa für Performanz- oder Browsertests. Zwar kommen in einem Projekt selten alle Arten von Testwerkzeugen zum Einsatz, dennoch lohnt es sich, die verschiedenen Möglichkeiten zu kennen.
+
+### Werkzeuge für Management und Steuerung von Tests
+
+Testmanagementwerkzeuge dienen der Verwaltung, Priorisierung und Statusüberwachung (Informationen zur Testausführung und zu deren Ergebnissen) von Testfällen. Solche Werkzeuge helfen bei der Planung von Tests und dabei, den Überblick über hunderte oder gar tausende Testfälle zu behalten.
+
+Anforderungsbasiertes Testen wird mithilfe von Verknüpfungen zu Requirements-Management-Werkzeugen unterstützt, wobei sich Anforderungen und dazugehörige Testfälle idealerweise zwecks besserer Nachverfolgbarkeit verknüpfen lassen. Durch diese Verknüpfung lassen sich auch Lücken und Redundanzen in den Testfällen ermitteln (Anforderungen ohne Testfälle; Testfälle ohne Bezug zu Anforderungen).
+
+Auch Verknüpfungen zu nachgelagerten Fehlerberichts-Datenbanken unterstützen die Nachverfolgbarkeit. Solche Werkzeuge erlauben neben dem Erfassen und Verwalten von Fehlerberichten auch die Verfolgung derer Zustände sowie das Abbilden des Korrekturvorgangs als Prozess, wobei Rückverweise zum Testmanagement-Werkzeug Hinweise auf nach der Korrektur auszuführende Regressions- und Fehlernachtests geben können.
+
+Konfigurationsmanagement-Werkzeuge sind zwar keine eigentlichen Testwerkzeuge, unterstützen aber die Bereitstellung von Testumgebungen mitsamt entsprechender Testdaten und Testobjekten in der richtigen Version.
+
+Ein wichtiger Aspekt von Testmanagement-Werkzeugen sind Schnittstellen zu anderen Systemen:
+
+- Exportschnittstellen zur Bereitstellung von Informationen in gängigen Formaten (z.B. für die Tabellenkalkulation)
+- Schnittstellen zu Requirements-Management-Tools zur bidirektionalen Verknüpfung zwischen Anforderungen und Testfällen zwecks Nachverfolgbarkeit
+- Schnittstellen zu Testausführungswerkzeugen und CI-Plattformen zum Anstossen von Testdurchläufen und zur Anzeige der Testergebnisse
+- Schnittstellen zu Fehlermanagementwerkzeugen zur Planung von Fehlernachtests und zur Verfolgung, welche Fehler für welche Version eines Testobjekts korrigiert werden
+- Schnittstellen zu Konfigurationsmanagement-Werkzeugen zur Verknüpfung von Testfällen und Fehlerberichten zu betreffenden Versionen von Testobjekten und Konfigurationen
+
+Berichtsfunktionen erlauben die Generierung und den Export einer kompletten Testdokumentation von Testplan über Testspezifikation bis zum Test(abschluss)bericht. Diese Berichte können mittels Parametrierung an die jeweiligen Bedürfnisse angepasst werden.
+
+Analysefunktionen erlauben quantitative Auswertungen über die Anzahl vorhandener, durchlaufender und scheiternder Testfälle, zu auftretenden Fehlerklassen oder zur Einschätzung des Testfortschritts.
+
