@@ -1175,3 +1175,19 @@ Berichtsfunktionen erlauben die Generierung und den Export einer kompletten Test
 
 Analysefunktionen erlauben quantitative Auswertungen über die Anzahl vorhandener, durchlaufender und scheiternder Testfälle, zu auftretenden Fehlerklassen oder zur Einschätzung des Testfortschritts.
 
+### Werkzeuge zur Testspezifikation
+
+Ein Testfall muss mit Testschritten, Testdaten sowie Vor- und Nachbedingungen definiert werden. Testmanagementwerkzeuge unterstützen diesen Vorgang mithilfe von Vorlagen und Validierungen. Dabei verwenden schlüsselwortbasierte Tests eine tabellarische Notation, während beim _Behaviour-Driven Development_ (BDD) und beim _Acceptance Test-Driven Development_ (ATDD) eine an die natürliche Sprache angelehnte Fliesstextnotation verwendet wird. Die Erzeugung von Testdaten kann durch Testdatengeneratoren unterstützt werden.
+
+Die Spezifikation von Testfällen und Testdaten kann durch Werkzeuge unterstützt aber nicht komplett von ihnen abgenommen werden. Diese Aufgaben erfordern neben einem guten Verständnis des Testobjekts auch analytische und kreative Fähigkeiten.
+
+### Werkzeuge für statischen Test
+
+In natürlicher Sprache abgefasste Dokumente können mithilfe von Werkzeugen automatisch auf sprachliche Aspekte wie Rechtschreibung, Grammatik aber auch auf Lesbarkeit überprüft werden.
+
+Die manuelle statische Prüfung kann durch Planungssoftware unterstützt werden, wozu auch die Verwaltung von Checklisten sowie die Planung und Auswertung von Review-Sitzungen gehört. Auch Online-Kollaborationswerkzeuge und Videokonferenzsoftware, die für die Vorbereitung, die Durchführung und die Nachbereitung von Review-Sitzungen zum Einsatz kommen, können in dieser Verwendung zu den Testwerkzeugen gezählt werden.
+
+Statische Quellcode-Prüfwerkzeuge können nicht nur potenziell fehleranfällige und missbilligte Programmkonstrukte ermitteln, sondern auch die Einhaltung vorgegebener Programmier-Richtlinien überprüfen sowie die Komplexität des Programmcodes anhand verschiedener Metriken messen.
+
+Die automatische Prüfung fehlerhafter Links auf Webseiten gehört ebenfalls zur statischen Prüfung.
+
