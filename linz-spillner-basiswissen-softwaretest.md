@@ -1191,3 +1191,21 @@ Statische Quellcode-Prüfwerkzeuge können nicht nur potenziell fehleranfällige
 
 Die automatische Prüfung fehlerhafter Links auf Webseiten gehört ebenfalls zur statischen Prüfung.
 
+### Werkzeuge zur Automatisierung dynamischer Tests
+
+Der Begriff «Testwerkzeug» wird oft mit der automatischen Ausführung dynamischer Testfälle gleichgesetzt. Solche Werkzeuge entlasten von der mechanischen und repetitiven Arbeit des manuellen Durchführens dynamischer Testfälle, indem sie Testobjekte mit Eingabedaten versorgen, deren Reaktion auf Ereignisse aufzeichnen und den Testlauf protokollieren.
+
+Da solche Testwerkzeuge oftmals auf dem gleichen System wie das Testobjekt laufen müssen, beeinflussen sie möglicherweise dessen Laufzeitverhalten. Da sich die Testschnittstellen je nach Teststufe stark voneinander unterscheiden können, unterscheiden sich solche Werkzeuge teilweise auch recht stark je nach ihrem Einsatzgebiet.
+
+Auch Teststreiber, die einen Testrahmen für Komponenten- und Integrationstests bieten (wie verschiedenste xUnit-Frameworks), zählen ebenfalls zu dieser Kategorie von Testwerkzeugen. Testrahmengeneratoren können die Schnittstelle eines Testobjekts automatisch analysieren und dazu einen passenden Testrahmen mitsamt Vorlagen für Testdaten generieren.
+
+Soll das Testobjekt über seine grafische Benutzeroberfläche getestet werden, kommen sogenannte «Testroboter» oder «Capture/Replay»- bzw. «Capture/Playback»-Werkzeuge zum Einsatz. Diese zeichnen alle manuell ausgeführten Bedienschritte (Tastatureingaben, Mausklicks) auf, speichern diese als Testskript ab und spielen diese für einen erneuten Testdurchlauf automatisch gegen das Testobjekt ab.
+
+Solche generierten Testskripte erfordern oft eine manuelle Nachbearbeitung durch einen Programmierer. Mithilfe einer sinnvollen Modularisierung können solche Testskripte bzw. Teile davon wiederverwendbar ausgestaltet werden. Eine Arbeitsteilung zwischen Fachtester und Testautomatisierer kann durch die Auslagerung von Testdaten in Tabellen erreicht werden, wobei der Fachtester die Testdaten in der Tabelle pflegt, während der Testautomatisierer die Testskripte entsprechend parametrisierbar umsetzt. Dieses Vorgehen bezeichnet man auch als «Data-Driven Test».
+
+Sogenannte _Komparatoren_ erlauben das automatische Vergleichen von Soll- und Ist-Ergebnissen anhand verschiedener Dateiformate, wie z.B. Textdateien, Bilddateien, Tabellen usw. Intelligente Vergleichsfunktionen können dabei zwischen relevanten und irrelevanten Abweichungen unterscheiden, wodurch falsch-positive Testergebnisse reduziert werden können. (Beim Vergleich zweier Screenshots der Benutzeroberfläche ist der Unterschied der Systemuhr beispielsweise nicht relevant, der Inhalt von Textfeldern jedoch schon.)
+
+Andere Werkzeuge können den inneren Zustand des Testobjekts wie beispielsweise dessen Speicherbelegung analysieren. Werkzeuge zur Überprüfung von Anweisungen und Zweigen arbeiten mit einer sogenannten _Instrumentierung_ des Programmcodes, wobei dieser um spezielle Messanweisungen ergänzt wird. Diese markieren den betreffenden Programmcode bei ihrer Ausführung als überdeckt. Die erreichte Überdeckung kann nach dem Testdurchlauf statistisch ausgewertet werden.
+
+Debugger sind zwar keine eigentlichen Testwerkzeuge, erlauben es aber dem Entwickler, den inneren Zustand eines Testobjekts zur Laufzeit interaktiv zu analysieren ‒ oder gar zu verändern, etwa um bestimmte, sonst schwer erreichbare Programmpfade ansteuern zu können, ohne zuerst eine entsprechende Konstellation von Eingabeparametern finden zu müssen.
+
