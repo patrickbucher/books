@@ -1209,3 +1209,18 @@ Andere Werkzeuge können den inneren Zustand des Testobjekts wie beispielsweise 
 
 Debugger sind zwar keine eigentlichen Testwerkzeuge, erlauben es aber dem Entwickler, den inneren Zustand eines Testobjekts zur Laufzeit interaktiv zu analysieren ‒ oder gar zu verändern, etwa um bestimmte, sonst schwer erreichbare Programmpfade ansteuern zu können, ohne zuerst eine entsprechende Konstellation von Eingabeparametern finden zu müssen.
 
+### Werkzeuge für nicht funktionale Tests
+
+Ein Last- und Performanztest überprüft, ob ein System bei der Bewältigung vieler parallel ablaufender Transaktionen (d.h. unter Last) eine bestimmte maximale Antwortzeit nicht überschreitet (d.h. eine gewisse Performanz aufweist). Solche Anforderungen sind besonders bei Echtzeit-Systemen, aber auch allgemein bei Client/Server- sowie bei Cloud-basierten Systemen relevant.
+
+Entsprechende Testwerkzeuge können einerseits die gewünschte Last durch die Generierung synthetischer Anfragen erzeugen und andererseits die dabei resultierende Performanz des Systems messen, auswerten und visualisieren. Neben Antwortzeiten können dabei auch weitere Metriken wie die CPU- und Speicherauslastung gemessen werden. Solche Messvorrichtungen werden als «Monitore» bezeichnet.
+
+Solche Messvorrichtungen können allerdings «intrusiv» arbeiten und dadurch das Laufzeitverhalten der getesteten Anwendung durch die Messung beeinflussen. Diese Effekte sind entsprechend bei der Auswertung der Testergebnisse zu berücksichtigen, was neben analytischen Fähigkeiten auch Erfahrung erfordert. Mithilfe der gewonnenen Erkenntnisse kann das System durch Anpassung der Programmlogik, Erweiterung der Hardware oder Optimierung der Konfiguration zielgerecht beschleunigt werden. 
+
+Weitere Testwerkzeuge können auch die Zugriffs- und Datensicherheit einer Anwendung überprüfen, indem sie deren Verletzlichkeit auf bestimmte Sicherheitslücken (z.B. die _OWASP Top Ten_) überprüfen. Bei Sicherheitsüberlegungen können auch die Protokolle von Firewalls und Anti-Viren-Software zur Auswertung herbeigezogen werden.
+
+Erfordert eine umfassende Erneuerung eines Systems die Konvertierung und/oder Migration bestehender Datenbestände, muss diese Datenübernahme auf Stufe Systemtests auf Vollständigkeit und Korrektheit überprüft werden. Aufgrund der dabei meist grossen verarbeiteten Datenmengen ist die werkzeuggestützte der manuellen Prüfung meist vorzuziehen.
+
+Weitere Testwerkzeuge dienen bei der Überprüfung der Gebrauchstauglichkeit (Usability), der Lokalisierung (vollständige Übersetzung aller Benutzeroberflächen) und der Portabilität (Lauffähigkeit auf verschiedenen Umgebungen) der Software.
+
+Auch die bei einer CI/CD-Pipeline zum Einsatz kommenden Werkzeuge können im weitesten Sinn als Testwerkzeuge verstanden werden, wie auch die Werkzeuge, die zum Bereitstellen der entsprechenden Container und virtuellen Maschinen verwendet werden. Auch die dazu eingesetzten DevOps-Werkzeuge gelten im weiteren Sinne als Testwerkzeuge.
