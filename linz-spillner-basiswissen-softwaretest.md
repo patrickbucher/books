@@ -1,6 +1,6 @@
 ---
 title: 'Basiswissen Softwaretest (Linz/Spillner)'
-subtitle: 'Zusammenfassung (in Arbeit)'
+subtitle: 'Ausführliche Buchzusammenfassung'
 author: 'Patrick Bucher'
 ---
 
