@@ -1224,3 +1224,25 @@ Erfordert eine umfassende Erneuerung eines Systems die Konvertierung und/oder Mi
 Weitere Testwerkzeuge dienen bei der Überprüfung der Gebrauchstauglichkeit (Usability), der Lokalisierung (vollständige Übersetzung aller Benutzeroberflächen) und der Portabilität (Lauffähigkeit auf verschiedenen Umgebungen) der Software.
 
 Auch die bei einer CI/CD-Pipeline zum Einsatz kommenden Werkzeuge können im weitesten Sinn als Testwerkzeuge verstanden werden, wie auch die Werkzeuge, die zum Bereitstellen der entsprechenden Container und virtuellen Maschinen verwendet werden. Auch die dazu eingesetzten DevOps-Werkzeuge gelten im weiteren Sinne als Testwerkzeuge.
+
+## Nutzen und Risiken der Testautomatisierung
+
+Die Einführung neuer Testwerkzeuge ist mit Kosten für Evaluation, Anschaffung, Wartung, Einführung und Benutzerschulung verbunden. Muss ein Werkzeug pro Arbeitsplatz lizenziert werden, können Testwerkzeuge zu einem erheblichen Kostenfaktor eines Entwicklungsprojekts werden.
+
+Zur Abschätzung, ob sich eine werkzeuggestützte Automatisierung eines Testvorgangs überhaupt lohnt, muss zunächst der manuelle Testaufwand ermittelt werden. Dieser kann anschliessend dem Gesamtaufwand der Testautomatisierung gegenübergestellt werden. Wird diese Bilanz zunächst zuungunsten der Testautomatisierung ausfallen, dürfte sich diese bei jeder wiederholten Testausführung (als Regressionstest) allmählich ins Positive wenden.
+
+Dieser «Break-Even-Point», ab dem sich die Testautomatisierung lohnt, muss vor der Einführung eines Testwerkzeugs ermittelt werden, damit dessen Einführung nicht mit überzogenen Erwartungen an schnelle Effizienzgewinne einhergeht. Weiter ist zu beachten, dass nicht alle Arten von Tests gleichermassen vom Einsatz bestimmter Werkzeuge profitieren.
+
+Der Einsatz von Testwerkzeugen kann verschiedenartigen Nutzen schaffen:
+
+- Reduktion des Testaufwands durch Automatisierung repetitiver Tätigkeiten und dank kürzerer Feedbackzyklen aufgrund kürzerer Testdurchlaufzeiten
+- Verbesserung der Testqualität durch bessere Reproduzierbarkeit, gesteigerte Testüberdeckung und verbesserter Testprozeduren
+- Verbesserung des Berichtswesens dank aussagekräftiger Messungen und automatisch erstellbarer, zielgruppengerechter Testberichte
+
+Diesem Nutzen stehen aber auch Risiken entgegen:
+
+- Unterschätzter Aufwand der Einführung und Nutzung eines Werkzeugs (Anpassungen am Testprozess, Erstellung und Pflege von Testskripten und Testdaten)
+- Unklare Anforderungen und überzogene Erwartungen an den Werkzeugeinsatz (fehlende Kompatibilität zum Einsatzumfeld, mangelnde Erfüllung regulatorischer Anforderungen, Einsatz durch Defizite an bestehendem Testprozess erschwert)
+- Unreflektierter Einsatz von Werkzeugen (Verzicht auf punktuell effektiveres manuelles Testen, Wegfall von Kreativität und kritischem Denken aufgrund sturer Verwendung von Werkzeugen)
+- Abhängigkeit von Werkzeuganbietern (mangelnde Updates/Fehlerkorrekturen, fehlender Support und fehlende Beratung, eingestellte Weiterentwicklung)
+
