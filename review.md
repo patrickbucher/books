@@ -1,1 +1,1 @@
-- Basiswissen Softwaretest: 2.3.1-
+- Basiswissen Softwaretest: 3 (S. 12)
