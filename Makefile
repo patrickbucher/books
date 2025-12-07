@@ -8,7 +8,8 @@ DATE_DE=-V date="`date +'%d.%m.%Y'`"
 ALL=linz-spillner-basiswissen-softwaretest.pdf \
 	dobelli_kunst-des-digitalen-lebens.pdf \
 	dostojewskij_brueder-karamasow.pdf \
-	hennrich_cloud-computing-dsgvo.pdf
+	hennrich_cloud-computing-dsgvo.pdf \
+	meyer-agile-good-hype-ugly.pdf
 
 .PHONY: all clean
 
@@ -19,6 +20,9 @@ dobelli_kunst-des-digitalen-lebens.pdf: dobelli_kunst-des-digitalen-lebens.md
 
 linz-spillner-basiswissen-softwaretest.pdf: linz-spillner-basiswissen-softwaretest.md
 	pandoc -s -N $(DOC_OPTS) $(PDF_OPTS_DE) $(FONT_OPTS) $(DATE_DE) $< -o $@
+
+meyer-agile-good-hype-ugly.pdf: meyer-agile-good-hype-ugly.md
+	pandoc -s -N $(DOC_OPTS) $(PDF_OPTS) $(FONT_OPTS) $(DATE) $< -o $@
 
 .SUFFIXES: .md .pdf
 .md.pdf:
