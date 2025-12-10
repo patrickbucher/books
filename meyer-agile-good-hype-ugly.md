@@ -24,4 +24,21 @@ This book is not a comprehensive guide to software development, but a critique o
 
 # Overview
 
-TODO
+While agile ideas date back to the 1990s, the movement gained traction with the publication of the _Manifesto for Agile Software Development_ in 2001, which was signed by many proponents of existing agile ideas. Agile software development is not a single method, but a collection of ideas grouped together to methodologies such as _Extreme Programming_, _Lean Software Development_, _Crystal_, and _Scrum_, which all select and prioritize their own subset of agile ideas. However, there are some common core characteristics to those methods:
+
+- _Values_: general assumptions framing the agile world view
+- _Principles_: organizational and technical rules based on the values
+- _Roles_: responsibilities and privileges of actors involved
+- _Practices_: specific activities based on the principles
+- _Artifacts_: virtual and physical tools supporting the practices
+
+## Values
+
+The fundamental assumptions of agile software development are captured in the following values:
+
+1. _Redefined roles for developers, managers, and customers_: Some of the manager's duties are transferred to the team, such as the selection and assignment of the tasks. The developers and their code are moved into the center. Customers are no longer passive recipients of a product but active participants in the development process.
+2. _No "big upfront" steps_: Activities preceding the writing of code such as gathering requirements ("the customer does not know what he wants") or creating a design ("the developers do not know what will work") are left out because they are subject to change anyway. Instead, requirements and design emerge in a continuous process involving the customer, in which the software is iteratively refactored into his acceptance.
+3. _Iterative development_: Development takes place in iterations of a fixed time, usually a few weeks, for which the functionality with the highest business value is implemented by working through a prioritized list of tasks. Functionality is added iteratively.
+4. _Limited, negotiated functionality_: Only the most important features, measured by their business value, will be implemented. Unused functionality is deemed wasteful and therefore not implemented in the first place. The functionality to be added is negotiated before the start of every iteration. Since it is empirically impossible to fix both scope and deadline, usually the deadline is retained, but the scope limited accordingly.
+5. _Focus on quality, understood as achieved through testing_: Quality is ensured by continuous testing rather than by upfront design decisions or by sticking to development methodologies. The project's regression test suite is a central artifact and must always pass when new functionality is added.
+
