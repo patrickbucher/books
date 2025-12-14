@@ -59,3 +59,29 @@ The following principles—not the ones from the original Manifesto, but extract
 
 Thus, requirements are replaced by two artifacts: tests and scenarios.
 
+## Roles
+
+Agile methods define various roles:
+
+1. The _Team_ is a self-organizing group of developers and other roles. Members of the team assign work items to themselves.
+2. The _Product Owner_ is responsible for defining the properties of the product under development. This encompasses the right to change those properties, but not while an iteration is ongoing.
+3. The _Scrum Master_ acts as a coach, mentor, guru, and method enforcer for the team. This role cannot be assumed by the same person that acts as the Product Owner.
+4. The _Customer_ is directly involved in the project or even a member of the team—rather than just being the source of requirements at the beginning and the recipient of the finished product at the end of the project.
+
+## Practices
+
+The principles stated before are implemented using the following practices:
+
+- Organizational
+    1. _Daily Meeting_: Every team member answers the following questions in a daily face-to-face meeting that takes no longer than 15 minutes: 1) "What did I do yesterday?" 2) "What do I plan to do today?" 3) "What impediments am I facing?" Those impediments are then resolved outside the daily meeting in order to keep it short.
+    2. _Planning Game_: Work items are estimated in a group setting, where participants are forced to come up with their own initial guess independently. Afterwards, a concensus is found iteratively in a group discussion.
+    3. _Continuous Integration_: Changes are integrated continuously (i.e. multiple times per day) rather than after longer development periods in order to detect incompatibilities early on.
+    4. _Retrospective_: The team reflects on the finished iteration in order to use the experience gained and lessons learned to improve the upcoming iteration.
+    5. _Shared Code Ownership_: The team as a whole, rather than individual programmers, are responsible for the entire code base. This is supposed to reduce the dependence on individuals and to avoid territorial conflicts.
+- Technical
+    1. _Test-Driven Development_: A yet failing test case is written that describes the new functionality to be added, after which the actual functionality is implemented in order to make the new test case pass. The code can then be refactored as long as all the entire regression test suite passes.
+    2. _Refactoring_: The implementation is adjusted structurally in order to improve the design of the system. This step is crucial in conjunction with test-driven development to make sure that the code being written is not only working in terms of passing tests but also well-designed. Refactoring is the agile answer to big upfront design decisions of traditional methods.
+    3. _Pair Programming_: Code is developed by two programmers sharing a workstation in changing roles—the "driver" writing the code while explaining his thoughts, and the "navigator" trying to understand the driver's thought process in order to catch mistakes early on and to provide criticism.
+    4. _Simplest Solution_: Software engineering principles to improve the code's extensibility and reusability are ignored because—according to agile methods—the further direction of development cannot be known in advance. Instead, only the minimalistic product requested is built and delivered.
+    4. _Coding Standards_: Teams define style rules that are then applied to all the code being written.
+
