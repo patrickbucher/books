@@ -85,3 +85,15 @@ The principles stated before are implemented using the following practices:
     4. _Simplest Solution_: Software engineering principles to improve the code's extensibility and reusability are ignored because—according to agile methods—the further direction of development cannot be known in advance. Instead, only the minimalistic product requested is built and delivered.
     4. _Coding Standards_: Teams define style rules that are then applied to all the code being written.
 
+## Artifacts
+
+Agile methods rely on a set of virtual and material artifacts:
+
+- Virtual
+    1. _Use Case_ and _User Story_: Both are scenarios describing an interaction of a user with a system. Use cases predate agile methods and cover an entire run through the system, whereas user stories originate from agile methods and only describe the interaction from the user's point of view.
+    2. _Burndown Chart_: The amount of work items due for an iteration (y-axis) is plotted against time (x-axis) to measure the _velocity_: the amount of work done per unit of time. Since the amount of work items is fixed during an iteration, the plotted line is falling as tasks are finished (and not re-opened). The plotted line can quickly be compared against a planned linear velocity denoted by a straight falling line, which informs team members of their progress (and lack thereof) at a glance.
+- Material
+    1. _Story Card_: User stories shall be written down to small cards of the same size (3x5 inches in the US, DIN A7 in Europe), which therefore must be kept short.
+    2. _Story Board_: The story cards for an iteration are pinned to a story board, where the card's location indicates the underlying user story's progress, for which columns titled "todo", "in progress", "testing", "done" or the like are used.
+    3. _OpenRoom_: Development shall take in an open-plan setting as opposed to cubicles or closed offices, which favours interaction between team members instead of isolating them.
+
