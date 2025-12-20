@@ -106,3 +106,23 @@ Some of the ideas stated are genuine inventions of agile methods, while others a
 - _not new, good_: Iterative development with daily integration builds as well as early and frequent releases has been practiced both in commercial settings and in Open-source projects for decades. While agile methods insist on those practices, they have not invented them. The importance of embraning change is also not a new idea, but has been recognized long before. Ironically, some practices advertised by proponents of agile methods make change actually harder rather than facilitating it.
 - _new, good_: Allowing a competent team to manage itself is certainly empowering. A daily meeting not only reinforces interaction between programmers, but also clarifies the next steps to be taken, and allows for early detection and resolution of impediments. Time-boxed iterations with frozen requirements during that period add stability to the development process without rendering it inflexible—change is only delayed for a couple of weeks and then handled properly. The focus on the regression test suite as a central artifact of development encourages both quality and professionalism. The focus on code as the project's main deliverable—rather than diagrams and documents—is another idea that agile methods managed to convey to the software industry at large.
 
+# Deconstructing Agile Texts
+
+Literature advocating agile software development often resorts to intellectually unsound methods to convince its readers.
+
+## The Plight of the Traveling Seminarist
+
+Consider the following example from Mike Cohn's _Succeeding with Agile_, in which the author tries to convince the reader of the superiority of the spoken over the written word:
+
+When the author asked his assistant to "book the Hyatt in Denver" by email, she responded with "the hotel is booked", by which she meant that she was unable to book a room, because the hotel was already full. However, the author interpreted her response as "your room has been booked as requested".
+
+Cohn then argues that this misunderstanding could have been avoided had this exchange taken place by phone rather than by email. Therefore, he argues, discussions shall be favored over documents.
+
+Ironically, this anecdote was originally presented orally in a seminar. It is way less convincing in the book's written form—where the misunderstanding becomes evident to the reader immediately. Thus, this anecdote refutes its own argument.
+
+It is also an overstretch to conclude that discussions are better suited for software development than written requirements: This is a mere _proof by anecdote_. An anecdote, however, cannot proof a generalization; it can only proof that a generalization does _not_ hold by counterexample.
+
+Also, an opposing anecdote of a misunderstanding that could have been avoided by requiring a written specification rather than just relying on the memory of a discussion would already be a sufficient counterargument to the initial "proof" by anecdote.
+
+Usually, such arguments just continue by invoking more anecdotes, or even worse, quotes and aphorisms, but which nothing is ever concluded.
+
