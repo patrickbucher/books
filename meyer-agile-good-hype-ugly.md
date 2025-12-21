@@ -108,7 +108,7 @@ Some of the ideas stated are genuine inventions of agile methods, while others a
 
 # Deconstructing Agile Texts
 
-Literature advocating agile software development often resorts to intellectually unsound methods to convince its readers.
+Literature advocating agile methods of software development often resorts to intellectually unsound methods to convince its readers.
 
 ## The Plight of the Traveling Seminarist
 
@@ -125,4 +125,15 @@ It is also an overstretch to conclude that discussions are better suited for sof
 Also, an opposing anecdote of a misunderstanding that could have been avoided by requiring a written specification rather than just relying on the memory of a discussion would already be a sufficient counterargument to the initial "proof" by anecdote.
 
 Usually, such arguments just continue by invoking more anecdotes, or even worse, quotes and aphorisms, but which nothing is ever concluded.
+
+There are many reasons to write down requirements:
+
+- The spoken word is more ambiguous than the written one. The issue of written requirements "looking more precise than they are" is better resolved by more formal notations rather than by resorting to the even more ambiguous spoken language.
+- Many discussions end with the request to "write it down", because a final decision often can only be made after reviewing a written request.
+- Projects involving people from different cultures with their own English accents often suffer from misunderstandings in verbal discussions that become apparent immediately in the written form, after which the issue can usually be resolved quickly.
+- Verbal discussions and their conclusions are only known to the people that attended them. A written version of the conclusions made can be shared with a wider circle.
+- If decisions are made on the basis of verbal discussions, it is not certain whether or not the person making the decision is actually authorized to do so. A written document can be reviewed by the relevant stakeholders, unlike decisions being made by the last people that talked about an issue.
+- People leave and join ongoing software projects. Unlike verbal discussions, written requirements survive such fluctuations.
+
+Even though pyramids and cathedrals have been built based on mostly verbal interactions, modern engineering came a long way thanks to written requirements. Rejecting them because they are not always 100% precise is the wrong conclusion: more formal written requirements rather than fuzzy discussions are the way out.
 
