@@ -137,3 +137,9 @@ There are many reasons to write down requirements:
 
 Even though pyramids and cathedrals have been built based on mostly verbal interactions, modern engineering came a long way thanks to written requirements. Rejecting them because they are not always 100% precise is the wrong conclusion: more formal written requirements rather than fuzzy discussions are the way out.
 
+Written words _can_ be misleading: A written requirement for a system to respond "in real time" says nothing. However, here a more precise language such as mathematics ($t_{\text{answer}} \leq 0.1s$) rather than the more ambiguous verbal communication is the solution.
+
+Communication _is_ hard and can cause issues in every projects. Written documents sometimes are just not enough: it's also important for the stakeholders to talk to one another. But this doesn't mean that spoken language can replace the written word, quite the opposite: spoken language _complements_ documents.
+
+It's true that written documents are time-consuming and expensive to create. But they can be archived and searched through—unlike verbal communication.
+
