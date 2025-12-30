@@ -155,3 +155,36 @@ Advocates of agile methods often rely on rhetorical devices in their texts. Even
 6. _Cover Your Behind_: Many agile texts advocate extreme ideas and back those up with some words of warning where those ideas will not necessarily work—but fail to provide useful criteria for such a delimitation. Such tempering serves the authors well for covering their backs ("I didn't tell you to _not_ supervise the team/gather requirements/plan the project!"), but leaves the reader without any guidance whether or not he shall implement a particular idea in his specific circumstances. This rhetorical device is often stated as "X does not mean Y" when X and Y are hardly distinguishable. One example from _Lean_ claims that "deciding as late as possible does not mean procrastinating"—where "deciding as late as possible" is the literal dictionary definition of "procrastinating".
 7. _Unverifiable Claims_: Many agile claims—"doing twice the work in half the time", i.e. improving productivity by a factor of four—are simply too good to be true. While it's possible that a formerly demotivated team run by incompetent managers can become hugely productive over night when given the chance to work on their own accord, such examples cannot be generalized to all circumstances. Software projects are not repeatable lab experiments: they are influenced by their surrounding environments and people working at them as well as by their experiences made in the process.
 
+# The Enemy: Big Upfront Anything
+
+Agile methods reject anything "plan-based" or "predictive". Such approaches are lumped together with the term "waterfall" to denounce it using slander by association, thereby ignoring that the original 1970 paper used the Waterfall Model as a strawman argument how software development does _not_ work. This view also ignores that engineering is by definition predictive to some extent, using methods of science and management to some degree.
+
+## Requirements Engineering
+
+Software engineering is not just programming. It also involves _requirements analysis_: figuring out the problem a stakeholder wants to solve and appropriate solutions to it. While most of software engineering is about building the system right, requirements are about building the right system.
+
+A big part of requirements engineering is _requirements elicitation_: gathering user needs. This encompasses, among others, stakeholder interviews (asking people what they need) and workshops (discussing and clarifying requirements to identify and resolve conflicts).
+
+The results of this process are usually gathered in a _requirements document_. Proponents of agile methods criticize both process and result using two different arguments:
+
+1. _Waste_: A requirements document is not a useful deliverable for the customer. Some gathered requirements will not be implemented, and gathering them is therefore wasteful.
+2. _Change_: Customers do not know what they want and will change their minds as they get a chance of interacting with the system. Requirements become obsolete; it is better to create new versions of the software iteratively based on user feedback than to lock down their initial ideas.
+
+There are two approaches to reduce waste: The plan-first approach reduces waste by first gathering and prioritizing requirements and then dropping the ones considered not essential. The agile approach reduces waste by producing a minimal solution, of which parts are dropped the customer deems unnecessary.
+
+While the first approach produces one sort of waste—unused requirements—it avoids another form of waste—unused implementations, which are common in agile projects—and can be very frustrating for developers. Both techniques have the same goal and can be used in conjunction.
+
+Large and detailed requirements documents are overkill for many projects. This does not imply that no requirements shall be gathered whatsoever, but that the level of detail needs to be adjusted to fit the project. And even though a requirements document is not a deliverable, it serves as the foundation of a _system documentation_, which is delivered to the customer.
+
+The argument concerning change is correct in so far as requirements cannot be frozen after initially gathering them. However, having gathered an initial set of requirements does not imply carving them in stone. Requirements are just one of many artifacts of a software project alongside code and regression tests—which change all the time and are written nonetheless! Just because plans need to be adjusted does not mean that plans are useless.
+
+Furthermore, an initial requirements _phase_ does not imply that the resulting requirements _document_ must remain static. Requirements can be put under version control along the code that implements them.
+
+A proper requirements process distinguishes between two kinds of requirements describing different aspects:
+
+1. _Domain_: properties of a model as part of the world in which the system will operate
+1. _Machine_: desired properties of the system the project wants to build
+
+As agile methods see requirements as design or candidate solutions, they fail to make this important distinction: It is _not_ up to the project to define the domain, which is given as business rules, regulations, laws, or properties of the physical world. Such restrictions are _gathered_ rather than made up. The project is free, however, to define the machine requirements—as design decisions, so to speak.
+
+The agile critique is right that often too much time is spent on figuring out design and implementation details to be disguised as mere requirements. It's often better to wait until more reliable information becomes available.
