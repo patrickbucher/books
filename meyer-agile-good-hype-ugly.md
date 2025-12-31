@@ -188,3 +188,31 @@ A proper requirements process distinguishes between two kinds of requirements de
 As agile methods see requirements as design or candidate solutions, they fail to make this important distinction: It is _not_ up to the project to define the domain, which is given as business rules, regulations, laws, or properties of the physical world. Such restrictions are _gathered_ rather than made up. The project is free, however, to define the machine requirements—as design decisions, so to speak.
 
 The agile critique is right that often too much time is spent on figuring out design and implementation details to be disguised as mere requirements. It's often better to wait until more reliable information becomes available.
+
+## Architecture and Design
+
+In software, the code expresses the actual solution. The _design_ of a software defines its _architecture_: its modular structure, the abstractions chosen, the design patterns used, and the interfaces specified.
+
+It has long been recognized that in software development, there is no sharp distinction between design and implementation, because the implementation has major impacts on the properties of the system as a whole, e.g. on its performance.
+
+Compared to an industrial process, the compilation rather than the writing of the source code comes closest to the production phase. Therefore, the word "design" has a different meaning in software development than in, say, mechanical or electrical engineering.
+
+There is also no firm line between code and documentation, given that code contains comments, and artifacts such as UML diagrams resemble code quite closely to be useful.
+
+Code always has an architecture—as a result of a distinct design phase or as it emerged from development. Just like a mathematical paper that looks much orderlier than the process that created it, a software design can be the result of a more or less structured approach.
+
+While agile methods denounce a separate upfront design phase, they have no common approach to design, but some guiding principles:
+
+1. Design in iterations alternating with regular implementation iterations rather than in a separate upfront design phase.
+2. Solve the problem at hand rather than focussing on extensible and reusable design.
+3. Create a working solution and refactor it rather than aiming at a perfect initial solution.
+
+The agile literature admits that approach makes planning the work and assigning it to team members much harder. Not having a big architecture picture can also make the work on the system under development harder. Reworking its parts becomes inevitable, too.
+
+This view on design is sensible insofar as it is not a good idea to do too much design at the beginning of a project. However, the categorical rejection of any upfront design activity also has its issues:
+
+1. Refactoring only works well in a code base with a decent design to begin with. This is hardly the case if no thoughts are spent on extensibility and reusability at all.
+2. Some design decisions—or the failure to take them—are extremely costly to revert, e.g. the decision between a monolingual and a multilingual user interface.
+
+Just like security, good design requires both some upfront conceptual work and an ongoing effort. Here, the total agile rejection of any upfront design process goes too far.
+
