@@ -216,3 +216,45 @@ This view on design is sensible insofar as it is not a good idea to do too much 
 
 Just like security, good design requires both some upfront conceptual work and an ongoing effort. Here, the total agile rejection of any upfront design process goes too far.
 
+## Lifecycle Models
+
+Lifecycle models specify and standardzie the sequence of phases through which a software projects proceeds: analysis, implementation, verification and validation, etc. Such models can proceed sequentially (like a waterfall) or iteratively (like a spiral) and are usually depicted using boxes (for phases) and arrows (for transiitions). They are both _descriptive_ (showing how succesful teams work) and _prescriptive_ (saying how teams should work).
+
+Even though such models like the Waterfall or the V-Model are (often: rightfully) rejected, they can be useful for different reasons. Historically, such models were a healthy reaction to a totally unstructured and chaotic "hacking" process, which was separated into different phases and activities. Conceptually, separating development into distinct activities is still useful after rejecting their separation into different temporal phases. Pedagogically, such idealized omdels are a useful device to demonstrate the need for more flexible approaches.
+
+While agile software development rejects the Watrfall model for good reasons, it fails to see how agile methods such as Scrum also describe a lifecycle models with distinct development, planning, and review activities or even phases. Every project needs a temporal framework to predict and assess its progress, be it a sequential or iterative model.
+
+One such approach is the _Rational Unified Process_ (RUP) that combines practices (iterative development, managing requirements, cmponent-based development, visual modelling of software, continuous quality verification, and controlling changes) and phases (inception, elaboration, construction, and transition—i.e. deployment). Even though these phases are a bad fit for an agile project, the practices can be adopted to an iterative approach.
+
+## Maturity Models
+
+Maturity models such as the ones described in the ISO 9000 set of standards or the more software-specific Capability Maturity Model (Integration), or CMM(I), have been introduced to the software industry since the 1980s. Even though they might appear as monstrosities due to the huge documents in which they are described, they introduce some useful concepts.
+
+CMMI is a collection of best practices that allows an organization to reach identified goals and assess its compliance. While some of those goals and practices are generic ("institutionalized and planned processes"), most of them focus on a specific area such as configuration management, project planning, or risk management.
+
+The focus of CMMI is on the process rather than on the product: it does not ensure that there are no bugs in the software, but makes sure a process is in place to deal with those bugs.
+
+CMMI defines five levels of increasing maturity:
+
+1. _initial_: The process is ad hoc and chaotic; success depends on heroic deeds of individuals.
+2. _managed_: Processes exist and are supported by their stakeholders.
+3. _defined_: Processes are precisely defined for the entire organization.
+4. _quantitatively managed_: Processes are assessed using numeric metrics.
+5. _optimizing_: Processes include mechanisms for their continuous improvement via feedback loops.
+
+CMMI allows organizations such as the US Department of Defense (DoD) to choose its suppliers using established criteria. It also allows outsourcing companies to establish credibility in a foreign market.
+
+The Personal Software Process (PSP) and Team Software Process (TSP) are approaches to systematically apply good practices on the individual and team level.
+
+Even though such models do not contradict agile ideas—both CMMI and agile codify processes and practices—maturity models are often rejected as too rigid or even as wasteful. While this rejection is understandable for the planning part of CMMI, its practices can be adopted to agile approaches.
+
+Proponents of agile approaches criticize CMMI for creating bias against change due to its emphasis on processes. It also transfers authority from development to managers, which is, however, rather an issue of bureaucratic organizations rather than of the model itself.
+
+CMMI is often introduced for regulatory reasons or due to commercial incentives. It is possible to combine its ideas with agile approaches; adaptation of CMMI does not imply rejecting agile ideas. Agile adaptations of such maturity models are testamtent to this. The _Shu-Ha-Ri_ scale is a three-step gradation adopted from Japanese martial arts:
+
+1. _Shu_: to _obey_, recipies are learned and applied.
+2. _Ha_: to _detach_, actions are abstracted from core rules and combined.
+3. _Ri_: to _surpass_, actios go beyod existing rules and devise own solutions.
+
+This gradation is arguably compatible to the western bachelor-master-PhD scale—albeit without the exotic far-eastern apeal.
+
