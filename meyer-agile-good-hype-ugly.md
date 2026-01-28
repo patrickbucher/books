@@ -258,3 +258,40 @@ CMMI is often introduced for regulatory reasons or due to commercial incentives.
 
 This gradation is arguably compatible to the western bachelor-master-PhD scale—albeit without the exotic far-eastern appeal.
 
+# Agile Principles
+
+In software development, a _principle_ is a methodological rule from which specific _practices_ can be derived. A good principle is:
+
+1. _abstract_ as a foundation for specific practices—rather than stating a practice by itself,
+2. _falsifiable_ to be interesting—rather than a platitude everybody agrees on, and
+3. _prescriptive_ to guide software development—rather than only describing it.
+
+The agile manifesto provides [twelve principles](https://agilemanifesto.org/principles.html), which are hereby stated and rated according to the three criteria mentioned above:
+
+1. Our highest priority is to satisfy the customer through early and continuous delivery.
+    - While "satisfy the customer" and "valuable software" sound like platitudes, "early and continuous delivery" is abstract, falsifiable, and prescriptive: hence, a valid principle.
+2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+    - This attitude to welcome rather than oppose change is a valid principle.
+3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference for the shorter timescale.
+    - Altough partially redundant with the first principle, this is still valid.
+4. Business people and developers must work together daily throughout the project.
+    - Abstract, falsifiable, prescriptive—a perfectly valid principle.
+5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job right.
+    - This is clearly a platitude. Nobody in their right mind would build projects around unmotivated individuals, deny them the resources they need, or give them a job while not trusting them to get it right.
+6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+    - This is rather specific and therefore not a principle but a practice.
+7. Working software is the primary measure of progress.
+    - This should be rephrased in a more prescriptive manner, but otherwise is a valid principle, despite its slight redundancy with the third one.
+8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+    - While striving for sustainable development rather sounds like a platitude, maintaining a constant pace over a longer period of time is a valid principle in an industry that resorts to "crunch mode" to finish late projects.
+9. Continuous attention to technical excellence and good design enhances agility.
+    - This is the most blatant platitude: Nobody in their right mind can argue against "technical excellence" or "good design".
+10. Simplicity—the art of maximizing the work not done—is essential.
+    - Those are rather _two_ principles, because simplicity and minimalism are strongly related, but not the same thing.
+11. The best architectures, requirements, and designs emerge from self-organizing teams.
+    - Prescriptive, abstract, and falsifiable—another valid principle.
+12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.
+    - This is rather a practice in accordance with the eleventh principle.
+
+Only 2, 4, 8, and 11 are both valid and _independent_ principles; 10 states two principles. 1 and 3 as well as 3 and 7 (which needs rephrasing) are valid but somewhat _redundant_ principles. 5 and 9 are platitudes; 6 and 12 are practices. Not a single statement mentions "testing"—a core property of all agile methods, around which many practices revolve.
+
