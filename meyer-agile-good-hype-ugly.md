@@ -295,3 +295,28 @@ The agile manifesto provides [twelve principles](https://agilemanifesto.org/prin
 
 Only 2, 4, 8, and 11 are both valid and _independent_ principles; 10 states two principles. 1 and 3 as well as 3 and 7 (which needs rephrasing) are valid but somewhat _redundant_ principles. 5 and 9 are platitudes; 6 and 12 are practices. Not a single statement mentions "testing"—a core property of all agile methods, around which many practices revolve.
 
+Therefore, the list of principles already introduced in the first chapter shall be used for further discussion instead:
+
+- Organizational
+    1. Put the customer at the center.
+    2. Let the team self-organize.
+    3. Work at a sustainable pace.
+    4. Develop minimal software.
+    5. Accept change.
+- Technical
+    1. Develop iteratively.
+    2. Treat tests as a key resource.
+    3. Express requirements through scenarios.
+
+## Put the Customer at the Center
+
+Traditional approaches limit customer interaction to the initial requirements phase and the final acceptance tests with no customer involvement in between. In an agile project, the customer is invited to regular project meetings, can interact freely with developers, is allowed try out intermediary versions of the software being built, or is even embedded into the development team.
+
+This practice is supposed to resolve one of the biggest issues in software projects: delivering working software that doesn't fit the customer's needs. As a NASA study revealed, the main reason for this issue is the development team failing to understand the requirements.
+
+While constantly interacting with the customer is deemed as the appropriate counter measure, putting more effort into a proper requirements process is rejected by proponents of agile software development, even though it arguably is the more effective solution to this problem.
+
+Constant interactions with a single representative from the customer cannot replace a proper requirements process, which has to deal with many different stakeholders with different needs, views, priorities—and contradicting requirements.
+
+Embedding a single customer representative into the development team for the entire project can skew the team's understanding towards the biased perspective of that particular individual. The customer is usually not willing to take away the most qualified employee from his regular tasks for an extended period of time. Gathering the most competent individuals for a couple of requirements workshops is rarely an issue for the customer, though.
+
