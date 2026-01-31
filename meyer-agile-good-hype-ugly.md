@@ -320,3 +320,13 @@ Constant interactions with a single representative from the customer cannot repl
 
 Embedding a single customer representative into the development team for the entire project can skew the team's understanding towards the biased perspective of that particular individual. The customer is usually not willing to take away the most qualified employee from his regular tasks for an extended period of time. Gathering the most competent individuals for a couple of requirements workshops is rarely an issue for the customer, though.
 
+## Let the Team Self-Organize
+
+Agile approaches shift duties such as the assignment of tasks from managers to the team. Scrum even dissolves the role of a project manager and moves his duties over to a product owner (responsible for the product) and a Scrum master (coaching the team and enforcing the method).
+
+The direct command and control approach of the classic manager is replaced by peer pressure and other means of subtle control. The agile literature is unclear about the remaining duties of the manager and mostly defines what a manager is _not_ supposed to do. Besides deciding what projects are being done and who is working on them, a manager is supposed to guide the team towards self-organization, thereby rendering his own position obsolete.
+
+While a competent team can suffer and underperform when guided by an incompetent manager, a group of inexperienced developers will not be able to manage itself without any supervision. It requires an experienced team of highly competent programmers to do that.
+
+A pragmatic approach consistent with the agile literature is a manager encouraging initiative from the team members in order to gradually evolve its management style from command and control to self-organization.
+
