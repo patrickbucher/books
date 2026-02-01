@@ -330,3 +330,13 @@ While a competent team can suffer and underperform when guided by an incompetent
 
 A pragmatic approach consistent with the agile literature is a manager encouraging initiative from the team members in order to gradually evolve its management style from command and control to self-organization.
 
+## Work at a Sustainable Pace
+
+Agile is the antidote to _death marches_—projects with unrealistic deadlines and an ever-growing list of fuzzy requirements that can only be finished using pressure from management and a lot of extra hours. Instead, agile approaches place the programmers at the center and allow them to work under conditions where they can unfold their full potential.
+
+The human factor in software development has been discussed in books pre-dating the agile literature such as _PeopleWare_ published in 1987. The agile's preference of face-to-face communication over written language and code over management-centric artifacts like plans, models, and documents goes back to this rather humanistic perspective.
+
+The Marxist undertone of earlier literature was replaced by a focus on ROI and other capitalistic goals in agile texts. while XP and Crystal remain true programmer-pride movements, Scrum and Lean are rooted in industrial production and aim to maximize productivity by minimizing waste.
+
+Some texts promote rather ruthless management techniques, others emphasize concepts like _slack_—including a few uncritical minor task in every iteration, which can be easily dropped when the schedule tightens.
+
