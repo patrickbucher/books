@@ -340,3 +340,11 @@ The Marxist undertone of earlier literature was replaced by a focus on ROI and o
 
 Some texts promote rather ruthless management techniques, others emphasize concepts like _slack_—including a few uncritical minor task in every iteration, which can be easily dropped when the schedule tightens.
 
+## Develop Minimal Software
+
+Agile methods strive for simplicity by getting user feedback quickly based on small increments delivered frequently to the customer. This simplicity manifests itself in several forms:
+
+1. _Produce minimal functionality_: Superfluous features not only waste precious development time, they also create a maintenance burden. Once delivered, a feature cannot be removed if even a single user insists on keeping it. The slogan YAGNI—"You ain't gonna need it!"—is the antidote to bloat and helps to only include features that are needed _now_.
+2. _Produce only the product requested_: While software engineering traditionally values _extendibility_ (building an architecture that supports future extensions) and _reusability_ (building components as general as possible for later use elsewhere), agile methods focus on the here and now. It is true that reusability requires additional work such as packaging, documentation, and training; and therefore might be distractive from the project's immediate goals. However, leaving out exception handling, input validation, and useful error messages in order to do "the simplest thing that could possibly work", as some authors suggest, leads to code that can only handle the specific cases described in the respective scenarios and falls apart when presented with other inputs.
+3. _Produce only code and tests_: Agile methods see artifacts such as requirements, designs, plans, and documentation as diversions from doing the actual work—writing code and tests. Such artifacts that are not part of the end product must prove their purpose—or they are dropped. Some agile authors—grudgingly—admit that usually a lot more than just the code is delivered to the customer, i.e. documentation and training material. (One might wonder if and how tests are delivered to the customer.)
+
