@@ -346,5 +346,36 @@ Agile methods strive for simplicity by getting user feedback quickly based on sm
 
 1. _Produce minimal functionality_: Superfluous features not only waste precious development time, they also create a maintenance burden. Once delivered, a feature cannot be removed if even a single user insists on keeping it. The slogan YAGNI—"You ain't gonna need it!"—is the antidote to bloat and helps to only include features that are needed _now_.
 2. _Produce only the product requested_: While software engineering traditionally values _extendibility_ (building an architecture that supports future extensions) and _reusability_ (building components as general as possible for later use elsewhere), agile methods focus on the here and now. It is true that reusability requires additional work such as packaging, documentation, and training; and therefore might be distractive from the project's immediate goals. However, leaving out exception handling, input validation, and useful error messages in order to do "the simplest thing that could possibly work", as some authors suggest, leads to code that can only handle the specific cases described in the respective scenarios and falls apart when presented with other inputs.
-3. _Produce only code and tests_: Agile methods see artifacts such as requirements, designs, plans, and documentation as diversions from doing the actual work—writing code and tests. Such artifacts that are not part of the end product must prove their purpose—or they are dropped. Some agile authors—grudgingly—admit that usually a lot more than just the code is delivered to the customer, i.e. documentation and training material. (One might wonder if and how tests are delivered to the customer.)
+3. _Produce only code and tests_: Agile methods see artifacts such as requirements, designs, plans, and documentation as diversions from doing the actual work—writing code and tests. Such artifacts that are not part of the end product must prove their purpose lest they are dropped. Some agile authors—grudgingly—admit that usually a lot more than just the code is delivered to the customer, i.e. documentation and training material. (One might wonder if and how tests are delivered to the customer.)
+
+Many products suffer from too many features, and a lot of paperwork becomes obsolete the moment it is written. This is, however, the result of _bad_ management. A classic upfront requirements analysis establishes the priorities of different stakeholders before any work is produced. If every stakeholder is given some amount of virtual money to express his priorities with, critical features quickly emerge while optional ones are dropped immediately.
+
+The maxim of "building the simplest thing that can possibly work" leads to picking the low hanging fruit. This produces presentable results with convincing demos, but the hard problems tend to be postponed until there's no more time and budget left. A system suffering from severe performance issues cannot be made fast by some iterations of refactoring, an entire redesign is often required instead. An upfront thinking process prevents such costly endeavours.
+
+Proper risk management helps establishing critical tasks right at the beginning of the project―before convincing presentable results of uncritical features are shown to the stakeholders, while the project is headed for disaster because the critical decisions are postponed. Such a project is best stopped early after considering the risks involved. Responsible engineering prioritizes the essential over the visible.
+
+### Complexity
+
+There are two different kinds of complexity:
+
+1. _Additive_ Complexity: The basic problem is simple, and details can be added one by one. Think of a common case and several special cases, which are mutually exclusive, such as different VAT rates for different kinds of products.
+2. _Multiplicative_ Complexity: The basic problem is already hard to solve, and there is no acceptable solution until the problem has been solved in its entirety. Think of a mechanism that needs to be fully established before it becomes useful, such as multilingual user interfaces. (Establishing the mechanism is of multiplicative, adding another language of additive complexity.)
+
+If different features of a system are mutually independent, then there's only additive complexity. If, however, those features are entangled and interact with one another, there's multiplicative complexity.
+
+Consider the "busy treatment" mechanism of a telephony system. Every rule has a pre-condition, a priority, and an action. Such requirements cannot be implemented one by one as unrelated scenarios, but require an entire system to deal with conflicting rules. (Think of mutually forwarded calls, or overwriting "do not disturb" mode for emergency calls.)
+
+Features can only be implemented one by one, if their complexity is additive. Features with multiplicative complexity require an upfront and systematic process for analysis and design.
+
+### Documents
+
+The argument that customers or users are not interested in documents might be true—but also weak. Certainly the end user also cares little about the code or test cases, but those are produced nonetheless. A house owner might care little about the blueprints and building permits, but building the house certainly required those artifacts, and many stakeholders cared a lot about them. The question is less if the end user cares, but if the developers required to maintain and extend the system do.
+
+It is true that things can change, and documents and reality are hard to keep in sync. Unlike buildings or cars, software can be changed all the time at relatively modest costs. Dismissing an entire category of artifacts on the basis that those are subject to change is a weak argument, because code is also changed all the time and written nonetheless.
+
+### Simplicity
+
+Simplicity is often hard to achieve and requires additional work—counter to the agile mantra that simplicity is "maximizing the amount of work not done". Proponents of simplicity, such das Dijkstra, Wirth, and Hoare, are also advocates of rigorous methods involving mathematical models and upfront thinking—certainly do not care about "maximizing the amount of work not done" in order to produce quick presentable results.
+
+In his _Plea for Lean Software_ from 1995, Wirth sees the price to achieve simplicity "in a clear conceptual basis and a well-conceived appropriate system structure"—clearly big upfront tasks. This is the antidote to the agile method called "Lean", which advocates for postponing (design) decisions while building the system feature by (presentable) feature.
 
