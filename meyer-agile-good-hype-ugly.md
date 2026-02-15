@@ -379,3 +379,15 @@ Simplicity is often hard to achieve and requires additional work—counter to th
 
 In his _Plea for Lean Software_ from 1995, Wirth sees the price to achieve simplicity "in a clear conceptual basis and a well-conceived appropriate system structure"—clearly big upfront tasks. This is the antidote to the agile method called "Lean", which advocates for postponing (design) decisions while building the system feature by (presentable) feature.
 
+## Accept Change
+
+Requirements change over time, especially if the customer is directly involved in the project, as agile methods insist on doing. The Agile Manifesto not only accepts but even welcomes change. This is remarkable, because changes tend to require additional work, especially if they concern features that already have been implemented.
+
+In practice, agile methods limit change. Scrum's _closed window_ rule insists that change only happens outside of sprints. During a sprint, the team won't accept any change requests.
+
+As opposed to the caricature the agile crowd draws of traditional software development, the importance of dealing with change has long been recognized. Traditional methods just emphasize that change has to be managed properly. This requires software being designed for extendibility. So the problem of change is rather technical than psychological.
+
+The agile idea of having a regression test suite, which is especially promoted by Extreme Programming, helps dealing with change by minimizing the risk of undetected regression errors.
+
+Unfortunately, the agile insistence on programming just for the "here and now" that deems creating an extensible architecture wasteful rather impedes change than enabling it. A software design that supports change requires upfront thinking, which the agile literature rejects.
+
