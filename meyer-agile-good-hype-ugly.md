@@ -352,7 +352,7 @@ Many products suffer from too many features, and a lot of paperwork becomes obso
 
 The maxim of "building the simplest thing that can possibly work" leads to picking the low hanging fruit. This produces presentable results with convincing demos, but the hard problems tend to be postponed until there's no more time and budget left. A system suffering from severe performance issues cannot be made fast by some iterations of refactoring, an entire redesign is often required instead. An upfront thinking process prevents such costly endeavours.
 
-Proper risk management helps establishing critical tasks right at the beginning of the project―before convincing presentable results of uncritical features are shown to the stakeholders, while the project is headed for disaster because the critical decisions are postponed. Such a project is best stopped early after considering the risks involved. Responsible engineering prioritizes the essential over the visible.
+Proper risk management helps establishing critical tasks right at the beginning of the project—before convincing presentable results of uncritical features are shown to the stakeholders, while the project is headed for disaster because the critical decisions are postponed. Such a project is best stopped early after considering the risks involved. Responsible engineering prioritizes the essential over the visible.
 
 ### Complexity
 
