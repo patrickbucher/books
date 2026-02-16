@@ -11,8 +11,8 @@ anderer Anbieter in der Praxis. Deutschland: O'Reilly.
 
 # Einleitung
 
-Die drei führenden Hyperscaler ‒ Amazon Web Services (AWS), Microsoft Azure und
-Google Cloud ‒ sind in den USA beheimatet. Die Verarbeitung von Daten in der
+Die drei führenden Hyperscaler – Amazon Web Services (AWS), Microsoft Azure und
+Google Cloud – sind in den USA beheimatet. Die Verarbeitung von Daten in der
 Cloud geschieht oft länderübergreifend. Datenschutz ist jedoch oftmals national
 geregelt. Auch kann eine Datenverarbeitung mehrere Hersteller betreffen, mit
 denen man unterschiedliche vertragliche Regelungen getroffen hat.
@@ -258,7 +258,7 @@ an Personen in der EU richtet, kann von verschiedenen Faktoren abhängen (z.B.
 die verwendete TLD, Preisangaben in EU-Währungen, Verwendung europäischer
 Sprachen usw.)
 
-# Wann ist die Datenverarbeitung erlaubt? ‒ Zulässigkeit (1. Stufe): Erlaubnistatbestände als Rechtsgrundlage
+# Wann ist die Datenverarbeitung erlaubt? – Zulässigkeit (1. Stufe): Erlaubnistatbestände als Rechtsgrundlage
 
 Ob personenbezogene Daten verarbeiten werden dürfen, ist zunächst durch eine
 Zulässigkeitsprüfung zu klären. Eine Verarbeitung ist grundsätzlich verboten,
@@ -350,8 +350,8 @@ Ein Auftragsverarbeitungsvertrag (AV-Vertrag) setzt eine sorgfältige Auswahl
 eines Auftragsverarbeiters voraus. Dieser muss fachlich geeignet sein und
 hinreichende Garantien bieten, dass technische und organisatorische Massnahmen
 ergriffen werden, um den Anforderungen der DSGVO zu genügen. (Diese werden vom
-Anbieter in einer Liste der technischen und organisatorischen Massnahmen ‒ TOMs
-‒ ausgewiesen.) Der AV-Vertrag (_Data Processing Agreement_, DPA) wird zwischen
+Anbieter in einer Liste der technischen und organisatorischen Massnahmen – TOMs
+– ausgewiesen.) Der AV-Vertrag (_Data Processing Agreement_, DPA) wird zwischen
 dem Verantwortlichen und dem Auftragsverarbeiter abgeschlossen. Bei grossen
 Cloud-Anbieter sind das weitgehend standardisierte Verträge, die praktisch
 keinen Spielraum für besondere Regelungen bieten, und meist als Zusätze zu den
@@ -464,9 +464,9 @@ nicht offengelegt werden. Es muss aber bei Bedarf den Aufsichtsbehörden zur
 Verfügung gestellt werden, wobei bei Nichtvorlegung (oder Nichtvorhandensein)
 Strafen drohen.
 
-Im Verarbeitungsverzeichnis werden _Verarbeitungstätigkeiten_ ‒ eine Reihe von
+Im Verarbeitungsverzeichnis werden _Verarbeitungstätigkeiten_ – eine Reihe von
 Verarbeitungsschritten zur Erfüllung eines gemeinsamen Zwecks (z.B. der
-Newsletterversand an Kunden oder die Personalverwaltung) ‒ des Verantwortlichen
+Newsletterversand an Kunden oder die Personalverwaltung) – des Verantwortlichen
 abstrakt dokumentiert. Der Detailgrad der Beschreibung ist so zu wählen, dass
 das Verarbeitungsverzeichnis für Aussenstehende nachvollziehbar ist. Beim Aufbau
 dieser Dokumentation orientiert man sich oftmals anhand konkreter Anwendungen
@@ -486,7 +486,7 @@ Im Verarbeitungsverzeichnis sind folgende Informationen festzuhalten:
   Interessenten)
 - Kategorien personenbezogener Daten (z.B. Kundenstammdaten,
   Zahlungsinformationen)
-- Kategorien von ‒ internen und externen ‒ Empfängern (Abteilungen,
+- Kategorien von – internen und externen – Empfängern (Abteilungen,
   Dienstleister, Hoster, Cloud-Anbieter)
 - Datenübermittlungen in ein Drittland (z.B. in die USA)
 - Löschfristen (falls möglich)
@@ -594,7 +594,7 @@ Ein prominentes Beispiel ist der Einsatz von Microsoft 365, bei dem in der Regel
 eine DSFA durchzuführen ist. (Als Abhilfemassnahme ist etwa die Deaktivierung
 der Übertragung von Telemetrie- und Diagnosedaten an Microsoft verbreitet.)
 
-# Wann dürfen Daten in Länder ausserhalb der EU übermittelt werden? ‒ Zulässigkeit (2. Stufe): Internationale Datentransfers
+# Wann dürfen Daten in Länder ausserhalb der EU übermittelt werden? – Zulässigkeit (2. Stufe): Internationale Datentransfers
 
 Da in verschiedenen Ländern unterschiedliche Datenschutzniveaus gewährleistet
 sind, muss sichergestellt werden, dass die DSGVO nicht durch einen Datentransfer
@@ -655,7 +655,7 @@ ergreift. Diese Vereinbarungen basieren entweder auf _verbindlichen internen
 Datenschutzvorschriften_ (_Binding Corporate Rules_, BCR) oder auf
 _Standardvertragsklauseln_ (_Standard Contractual Clauses_, SCC). Bei letzteren
 handelt es sich um einen modular aufgebauten Mustervertrag, der von beiden
-Parteien ‒ Datenexporteur und Datenimporteur ‒ zu ergänzen und zu unterschreiben
+Parteien – Datenexporteur und Datenimporteur – zu ergänzen und zu unterschreiben
 ist. Diese sind ohne weitere Genehmigung einer Aufsichtsbehörde gültig, sofern
 der Standardvertrag nicht modifiziert wird. (Ergänzungen und zusätzliche
 Garantien sind jedoch möglich, sofern die DSGVO dadurch nicht unterlaufen wird.)
@@ -963,7 +963,7 @@ Verarbeitungstätigkeit, sondern der ganze Lebenszyklus zu beachten:
    möglicher Vendor-Lock-in vor? Wie können die Daten nach Beendigung der
    Nutzung datenschutzkonform und sicher gelöscht werden?
 
-# Bekannte Cloud-Anbieter im Check ‒ worauf ist zu achten?
+# Bekannte Cloud-Anbieter im Check – worauf ist zu achten?
 
 Um die Cloud-Angebote der drei führenden Hyperscaler AWS, Google und Microsoft
 nutzen zu können sind jeweils unterschiedliche Vertragswerke relevant:

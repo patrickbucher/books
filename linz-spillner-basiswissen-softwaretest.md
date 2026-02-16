@@ -8,7 +8,7 @@ author: 'Patrick Bucher'
 
 Software ist heutzutage allgegenwärtig und trägt nicht nur zum Funktionieren unserer Welt bei, von ihr hängt auch immer mehr unsere Sicherheit ab. Nicht nur hängt die Abwicklung von Geschäftsprozessen von Software ab, die Erweiterbarkeit von Software gibt auch vor, wie schnell eine Firma ihre Geschäftstätigkeit ausbauen kann. Die Qualität von Software ist ein entscheidender Faktor für den Erfolg von Produkten und Firmen.
 
-Systematisches Testen von Software hilft Unternehmen dabei, die Qualität ihrer Softwaresysteme zu erhöhen. Das vorliegende Buch stellt das hierzu notwendige Grundlagenwissen bereit. Es richtet sich an Tester und Entwickler ‒ sowie an alle, die im Rahmen der agilen Softwareentwicklung Testaufgaben übernehmen. Es richtet sich an Lehrende und Lernende gleichermassen.
+Systematisches Testen von Software hilft Unternehmen dabei, die Qualität ihrer Softwaresysteme zu erhöhen. Das vorliegende Buch stellt das hierzu notwendige Grundlagenwissen bereit. Es richtet sich an Tester und Entwickler – sowie an alle, die im Rahmen der agilen Softwareentwicklung Testaufgaben übernehmen. Es richtet sich an Lehrende und Lernende gleichermassen.
 
 Das _International Software Testing Qualifications Board_ (ISTQB) koordiniert die Zertifizierung im Bereich Software-Qualitätssicherung im Rahmen des ISTQB-Schemas und wird durch länderspezifische Gremien (wie z.B. durch das _Swiss Testing Board_) ergänzt. Die drei Ausbildungsstufen _Foundation_, _Advanced_ und _Expert_ werden dabei um zusätzliche Spezialistenmodule (u.a. fürs Testen im agilen Kontxt) ergänzt.
 
@@ -31,7 +31,7 @@ In diesem Kapitel werden die Grundbegriffe des Softwaretestens eingeführt, etab
 
 Industriell hergestellte Produkte werden zumeist durch Stichproben geprüft, was bei Softwareprodukten, die immateriell sind, nicht gleich funktioniert. Fehler in Software kosten nicht nur Zeit und Geld, sondern können auch den Ruf einer Organisation schädigen oder im Extremfall sogar zum Tod von Menschen führen.
 
-Durch das Testen von Software kann ihre Qualität eingeschätzt werden, und das Risiko unentdeckter Fehler, die sonst erst im Produktiveinsatz der Software zutage treten würden, minimiert werden. Beim Testen von Software sollen alle Beteiligten des Projekts involviert sein. Beim ‒ statischen und dynamischen ‒ Testen von Softwarekomponenten werden deren Fehler (genauer: Fehlerzustände bzw. Fehlerwirkungen) erkannt.
+Durch das Testen von Software kann ihre Qualität eingeschätzt werden, und das Risiko unentdeckter Fehler, die sonst erst im Produktiveinsatz der Software zutage treten würden, minimiert werden. Beim Testen von Software sollen alle Beteiligten des Projekts involviert sein. Beim – statischen und dynamischen – Testen von Softwarekomponenten werden deren Fehler (genauer: Fehlerzustände bzw. Fehlerwirkungen) erkannt.
 
 Beim _dynamischen_ Testen kommt das _Testobjekt_ (d.h. die Software) zur stichprobenartigen Ausführung, wozu das Testobjekt mit _Testdaten_ versehen und einzelne Testfälle darauf ausgeführt werden, wonach geprüft wird, ob das beobachtete Ergebnis den Anforderungen entspricht.
 
@@ -72,7 +72,7 @@ Durch die Analyse der zugrundeliegenden Fehlhandlungen zu aufgedeckten Fehlerzus
 
 Da zunächst nur die Fehlerwirkung und nicht der ihr zugrundeliegende Fehlerzustand bekannt ist, muss die fehlerhafte Stelle in der Software zuerst lokalisiert werden. Diesen Vorgang bezeichnet man als _Debugging_. Beim Testen werden also Fehlerwirkungen aufgedeckt, beim Debugging werden die zugrundeliegenden Fehlerzustände lokalisiert.
 
-Durch die Behebung des Fehlerzustands wird die Qualität der Software verbessert ‒ sofern bei dieser Korrektur keine neuen Fehlerzustände eingebaut werden. Ein erneuter Test nach der Fehlerkorrektur wird als _Fehlernachtest_ bezeichnet. Da bei der Fehlerkorrektur aber auch neue Fehler eingebaut werden können, die unter anderen Eingabekonstellationen eine Fehlerwirkung erzeugen, müssen noch weitere Tests durchgeführt werden, und nicht nur derjenige, der die Fehlerwirkung ursprünglich provozierte.
+Durch die Behebung des Fehlerzustands wird die Qualität der Software verbessert – sofern bei dieser Korrektur keine neuen Fehlerzustände eingebaut werden. Ein erneuter Test nach der Fehlerkorrektur wird als _Fehlernachtest_ bezeichnet. Da bei der Fehlerkorrektur aber auch neue Fehler eingebaut werden können, die unter anderen Eingabekonstellationen eine Fehlerwirkung erzeugen, müssen noch weitere Tests durchgeführt werden, und nicht nur derjenige, der die Fehlerwirkung ursprünglich provozierte.
 
 ### Testbegriff
 
@@ -87,7 +87,7 @@ Beim Testen werden verschiedene Ziele verfolgt:
 
 Diese Ziele unterscheiden sich je nach Entwicklungsmodell (klassisch, agil) und Teststufe. Geht es etwa beim Komponententest um das Aufdecken von Fehlerwirkungen, steht beim Abnahmetest die Erfüllung der Nutzererwartungen im Vordergrund, und ob das Produkt zur Nutzung freigegeben werden kann.
 
-Die _Testbasis_ legt das Sollverhalten des Testobjekts fest und umfasst neben Anforderungsdokumenten, User-Stories oder Spezifikationen auch voraussetzbares Fachwissen und den gesunden Menschenverstand. Das Ausführen des Testobjekts mit bestimmten Testdaten bezeichnet man als _Testfall_. Nach einem solchen _Testlauf_ wird geprüft, ob eine Fehlerwirkung ‒ eine Abweichung des beobachteten vom erwarteten Ergebnis ‒ vorliegt. Aus einer Testbasis werden _Testbedingungen_ abgeleitet, welche je von einem oder mehreren Testfällen überprüft werden.
+Die _Testbasis_ legt das Sollverhalten des Testobjekts fest und umfasst neben Anforderungsdokumenten, User-Stories oder Spezifikationen auch voraussetzbares Fachwissen und den gesunden Menschenverstand. Das Ausführen des Testobjekts mit bestimmten Testdaten bezeichnet man als _Testfall_. Nach einem solchen _Testlauf_ wird geprüft, ob eine Fehlerwirkung – eine Abweichung des beobachteten vom erwarteten Ergebnis – vorliegt. Aus einer Testbasis werden _Testbedingungen_ abgeleitet, welche je von einem oder mehreren Testfällen überprüft werden.
 
 Ein Testobjekt kann nicht als Ganzes sondern nur unterteilt in verschiedene Testelemente geprüft werden. (Testfälle prüfen einzelne Testelemente.) Testfälle werden in _Testsuiten_ zusammengefasst und so in einem _Testzyklus_ ausgeführt. Der _Testausführungsplan_ legt die zeitliche Ausführung der Testsuiten fest. Ein _Testskript_ automatisiert die Ausführung einer Testsuite und kümmert sich dabei um die Einhaltung der Vor- und Nachbedingungen bzw. Vorbereitungs- und Aufräumarbeiten. Bei manuellen Tests wird ein entsprechender schriftlicher Testablauf zur Verfügung gestellt.
 
@@ -157,7 +157,7 @@ Pro Testfall sind Ausgangssituation (Vorbedingung), einzuhaltende Randbedingunge
 
 Die Priorisierung und Verfolgbarkeit aus der Testanalyse kann nun auf einzelne Testfälle heruntergebrochen werden. Die _Testinfrastruktur_ bestehend aus Testumgebung, Testwerkzeugen und evtl. Testarbeitsplätzen muss ermittelt und bereitgestellt werden. Die _Testumgebung_ umfasst neben dem Testobjekt auch die dazu notwendige Hardware und teilweise auch weitere Hilfsmittel.
 
-Anhand von _Überdeckungselementen_ ‒ aus Testbedingungen abgeleitete Eigenschaften unter Verwendung eines Testverfahrens ‒ werden Kriterien festgelegt, ab wann ausreichend getestet worden ist ‒ z.B. mindestens 50% durch Unit Tests abgedeckte Codezeilen.
+Anhand von _Überdeckungselementen_ – aus Testbedingungen abgeleitete Eigenschaften unter Verwendung eines Testverfahrens – werden Kriterien festgelegt, ab wann ausreichend getestet worden ist – z.B. mindestens 50% durch Unit Tests abgedeckte Codezeilen.
 
 ### Testrealisierung
 
@@ -175,7 +175,7 @@ Die ausgeführten Testfälle sind zu protokollieren, wozu folgende Angaben festg
 
 Durch dieses Protokoll wird der Testvorgang für andere Parteien nachvollziehbar und die Umsetzung der gewählten Teststrategie kann damit nachgewiesen werden. Abweichungen zwischen erwarteten und tatsächlichen Testergebnissen werden ebenfalls protokolliert. Bei der Auswertung des Protokolls kann dann entschieden werden, ob eine Fehlerwirkung vorliegt. Beim Testen sollen auch die _Überdeckungsgrade_ gemessen und protokolliert werden; bei Bedarf auch der Zeitverbrauch.
 
-Mithilfe der Verfolgbarkeit ‒ Testbasis, Testbedingungen, Testfälle, Testergebnisse ‒ kann nun nachvollzogen werden, welche Anforderungen erfüllt, teilweise erfüllt oder nicht erfüllt sind.
+Mithilfe der Verfolgbarkeit – Testbasis, Testbedingungen, Testfälle, Testergebnisse – kann nun nachvollzogen werden, welche Anforderungen erfüllt, teilweise erfüllt oder nicht erfüllt sind.
 
 ### Testabschluss
 
@@ -199,17 +199,17 @@ Der Prozess wird als ein sequenzieller Ablauf von Aktivitäten verstanden, nach 
 
 ### Das Wasserfallmodell
 
-Nach diesem Modell sind die einzelnen Phasen ‒ _System Requirements_, _Software Requirements_, _Analysis_, _Program Design_, _Testing_ und _Operation_ ‒ zeitlich streng voneinander getrennt. Das Testen wird als einmalige und den Entwicklungsarbeiten nachgelagerte Aktivität verstanden, nicht als projektbegleitende Tätigkeit.
+Nach diesem Modell sind die einzelnen Phasen – _System Requirements_, _Software Requirements_, _Analysis_, _Program Design_, _Testing_ und _Operation_ – zeitlich streng voneinander getrennt. Das Testen wird als einmalige und den Entwicklungsarbeiten nachgelagerte Aktivität verstanden, nicht als projektbegleitende Tätigkeit.
 
 ![Das Wasserfallmodell behandelt Testing als nachgelagerte Aktivität](pics/wasserfall.svg){width=100%}
 
 ### Das V-Modell
 
-Hier wird das Wasserfallmodell um ein erweitertes Verständnis der Testaktivitäten ergänzt. Zu jeder Entwicklungsarbeit ‒ _Anforderungsdefinition_, _funktionaler Systementwurf_, _technischer Systementwurf_, _Komponentenspezifikation_ ‒ gibt es eine korrespondierende Testaktivität ‒ _Abnahmetest_, _Systemtest_, _Integrationstest_, _Komponententest_.
+Hier wird das Wasserfallmodell um ein erweitertes Verständnis der Testaktivitäten ergänzt. Zu jeder Entwicklungsarbeit – _Anforderungsdefinition_, _funktionaler Systementwurf_, _technischer Systementwurf_, _Komponentenspezifikation_ – gibt es eine korrespondierende Testaktivität – _Abnahmetest_, _Systemtest_, _Integrationstest_, _Komponententest_.
 
 ![Das V-Modell sieht Testaktivitäten zu jeder Entwicklungsaktivität vor](pics/v-modell.svg){width=100%}
 
-Die Entwicklungsarbeiten bilden die absteigende Flanke, die Testarbeiten die aufsteigende ‒ und unten in der Mitte steht das _Programmieren_. Geht man bei den Entwicklungsarbeiten vom Groben ins Feine («top-down»), setzt man bei den Testaktivitäten die einzelnen Teile wieder zu einem Ganzen zusammen («bottom-up»). Die Ergebnisse aus den Entwicklungsarbeiten werden dabei sukzessive integriert und folgendermassen getestet:
+Die Entwicklungsarbeiten bilden die absteigende Flanke, die Testarbeiten die aufsteigende – und unten in der Mitte steht das _Programmieren_. Geht man bei den Entwicklungsarbeiten vom Groben ins Feine («top-down»), setzt man bei den Testaktivitäten die einzelnen Teile wieder zu einem Ganzen zusammen («bottom-up»). Die Ergebnisse aus den Entwicklungsarbeiten werden dabei sukzessive integriert und folgendermassen getestet:
 
 - _Komponententest_: Erfüllt der Baustein seine Spezifikation?
 - _Integrationstest_: Spielen die Komponenten wie gewünscht zusammen?
@@ -248,7 +248,7 @@ In Abgrenzung zu den klassischen schwergewichtigen und dokumentlastigen Modellen
 - _Timeboxing_: begrenzte Zeitfenster für Aufgaben und Besprechungen
 - _Transparenz_: Offensichtlichmachung des Sprint-Fortschritts durch regelmässige Besprechungen (_Daily Scrum_) und jederzeit einsehbare Taskboards
 
-Auf Basis des «Whole Team»-Ansatzes werden Aufgaben und Probleme bevorzugt gemeinsam von mehreren Teammitgliedern angegangen, wobei jedes Mitglied seine Stärken und sein Fachwissen einbringen kann. Anstelle einer starren Rolleineinteilung ‒ Programmierer, Tester ‒ unterstützen sich die Teammitglieder gegenseitig, auch bei Testaufgaben.
+Auf Basis des «Whole Team»-Ansatzes werden Aufgaben und Probleme bevorzugt gemeinsam von mehreren Teammitgliedern angegangen, wobei jedes Mitglied seine Stärken und sein Fachwissen einbringen kann. Anstelle einer starren Rolleineinteilung – Programmierer, Tester – unterstützen sich die Teammitglieder gegenseitig, auch bei Testaufgaben.
 
 Für die Qualität des resultierenden Produkts sind alle im Team gleichermassen verantwortlich. Es gibt jedoch Projekte, in denen dieser Ansatz beispielsweise aus regulatorischen Gründen nicht gangbar ist, etwa wenn Entwicklungs- und Testteam aus sicherheitstechnischen Überlegungen voneinander getrennt agieren müssen.
 
@@ -324,7 +324,7 @@ Je nach Teststufe unterscheiden sich Testobjekt, Testziele, Testmethoden und Ver
 
 ### Komponententest
 
-Beim _Komponententest_ werden die Softwarebausteine auf tiefster Architekturebene ‒ Module, Klassen, «Units» ‒ getestet. Entsprechende Tests bezeichnet man als Modultests, Klassentests bzw. Unittests. Als Testbasis dient die jeweilige Spezifikation einer solchen Komponente, d.h. deren Anforderungen. Auch Skripte, Konfigurationen oder Datenbankinhalte können Testobjekte eines Komponententests sein.
+Beim _Komponententest_ werden die Softwarebausteine auf tiefster Architekturebene – Module, Klassen, «Units» – getestet. Entsprechende Tests bezeichnet man als Modultests, Klassentests bzw. Unittests. Als Testbasis dient die jeweilige Spezifikation einer solchen Komponente, d.h. deren Anforderungen. Auch Skripte, Konfigurationen oder Datenbankinhalte können Testobjekte eines Komponententests sein.
 
 Die Komponente wird auf dieser Stufe isoliert betrachtet, um externe Einflüsse durch andere Komponenten auf mögliche Fehlerwirkungen auszuschliessen. Eine beobachtete Fehlerwirkung kann dank dieser isolierten Betrachtung der jeweiligen Komponente zugeordnet werden. Ist eine Komponente aus mehreren Bausteinen zusammengesetzt, kann diese trotzdem als einzelne Komponente getestet werden, solange dabei nicht Wechselwirkungen zu anderen Komponenten geprüft werden. 
 
@@ -340,7 +340,7 @@ Nicht funktionale Eigenschaften einer Komponente, z.B. deren Effizienz, können 
 
 Da der Entwickler eines Komponententests Zugriff auf den Quellcode des Testobjekts hat, spricht man von einem Whitebox-Testverfahren. Beim Testen einer Komponente kann der Entwickler somit Gebrauch von seinem Wissen über den internen Aufbau der Komponente machen, indem er z.B. Testfälle entwirft, um die Ausführung bestimmter Programmpfade zu überprüfen. In der Praxis wird der Komponententest jedoch oftmals als reiner Blackbox-Test durchgeführt, wobei die Testfälle ohne den Blick auf die innere Struktur der Komponente erstellt werden.
 
-Beim iterativen «Test-First»-Vorgehen wird zuerst ein automatischer Testfall erstellt und erst dann die gewünschte Komponente umgesetzt. Dieses Vorgehen wird wiederholt, bis die umgesetzte Komponente allen Anforderungen genügt ‒ und alle Testfälle fehlerfrei durchlaufen. Dieses Vorgehen bezeichnet man auch als «testgetriebene Entwicklung» bzw. als «Test-Driven Development» (TDD).
+Beim iterativen «Test-First»-Vorgehen wird zuerst ein automatischer Testfall erstellt und erst dann die gewünschte Komponente umgesetzt. Dieses Vorgehen wird wiederholt, bis die umgesetzte Komponente allen Anforderungen genügt – und alle Testfälle fehlerfrei durchlaufen. Dieses Vorgehen bezeichnet man auch als «testgetriebene Entwicklung» bzw. als «Test-Driven Development» (TDD).
 
 ### Integrationstest
 
@@ -387,7 +387,7 @@ In der Praxis trifft man Mischformen dieser Strategien an. Eine «Big-Bang»-Int
 
 Im _Systemtest_ wird das integrierte Gesamtsystem darauf geprüft, ob es die spezifizierten Produktanforderungen erfüllt. Trotz erfolgreicher Komponenten- und Integrationstests ist das nötig, weil diese tieferen Testarten die Erfüllung technischer Anforderungen überprüfen (_Verifizierung_), während der Systemtest aus Perspektive des Anwenders bzw. Kunden deren Anforderungen prüft (_Validierung_). Ausserdem können gewisse Funktionen und Systemeigenschaften nur anhand des Gesamtsystems überprüft werden.
 
-Als Testbasis dienen alle Informationen, welche die Funktionsweise des Gesamtsystems beschreiben (Anforderungen, Spezifikationen, Benutzerhandbücher usw.) Getestet wird auf einer produktionsnahen Umgebung mit vergleichbarer Hardware- und Softwarekonfiguration ‒ und nicht mehr mithilfe eines Testtreibers. Dabei wird die Dokumentation und Konfiguration des Systems mitgeprüft.
+Als Testbasis dienen alle Informationen, welche die Funktionsweise des Gesamtsystems beschreiben (Anforderungen, Spezifikationen, Benutzerhandbücher usw.) Getestet wird auf einer produktionsnahen Umgebung mit vergleichbarer Hardware- und Softwarekonfiguration – und nicht mehr mithilfe eines Testtreibers. Dabei wird die Dokumentation und Konfiguration des Systems mitgeprüft.
 
 Der Systemtest darf jedoch nicht auf dem Produktivsystem des Kunden durchgeführt werden, da der Testbetrieb durch provozierte Fehlerwirkungen den Produktivbetrieb beeinträchtigen kann (z.B. durch Systemausfälle oder Datenverluste) und weil ein Produktivsystem nicht zu Testzwecken beliebig umkonfiguriert werden kann (etwa um performantere Einstellungen zu finden).
 
@@ -472,11 +472,11 @@ Da sich selbst kleine lokale Änderungen auf andere Systemteile auswirken könne
 
 Bestehende Software kann auch umfassenderen Erweiterungen unterzogen werden, welche durch das Produktmanagement geplant werden. Neben den regelmässigen kleineren Wartungs- und Pflegereleases kann es so zu grösseren funktionalen Updates kommen. Bei der Weiterentwicklung muss nicht nur die Funktionsweise der neu hinzukommenden Features überprüft werden, sondern auch, ob die bestehenden Features weiterhin funktionieren und nicht durch die Weiterentwicklung versehentlich beeinträchtigt worden sind.
 
-Es sind also neue bzw. erweiterte Testfälle wie auch _Regressionstests_ nötig. Ein Regressionstest oder «Test nach Änderung» ist der erneute Test eines Programms nach dessen Modifikation mithilfe bereits bestehender Testfälle. Damit wird geprüft, ob Anpassungen und Erweiterungen unbeabsichtigten Seiteneffekte ‒ Regressionen ‒ erzeugt haben. Der Regressionstest prüft also, ob unveränderte Features der Software wirklich unverändert geblieben sind.
+Es sind also neue bzw. erweiterte Testfälle wie auch _Regressionstests_ nötig. Ein Regressionstest oder «Test nach Änderung» ist der erneute Test eines Programms nach dessen Modifikation mithilfe bereits bestehender Testfälle. Damit wird geprüft, ob Anpassungen und Erweiterungen unbeabsichtigten Seiteneffekte – Regressionen – erzeugt haben. Der Regressionstest prüft also, ob unveränderte Features der Software wirklich unverändert geblieben sind.
 
 Testfälle, die im Rahmen eines Regressionstests zum Einsatz kommen, müssen wiederverwendbar sein. Hierzu müssen manuell auszuführende Testfälle gut dokumentiert sein. Besser sind jedoch automatisierte Testfälle für Regressionstests geeignet, da der Nutzen der Testautomatisierung durch die wiederholte Ausführung besonders hoch ist.
 
-Beim Regressionstest müssen alle Testfälle herbeigezogen werden, welche die alte Funktionalität betreffen. Hierzu ist die Analyse der Testspezifikation nötig, um zu ermitteln, welche Testfälle sich auf welche Anforderungen beziehen. Automatisierte Testfälle sind an die neue bzw. erweiterte Funktionalität anzupassen, da sie sonst nicht aussagekräftig sind. Scheiternde Testfälle zeigen mögliche Regressionsfehler an ‒ oder wurden noch nicht an die neuen Anforderungen angepasst.
+Beim Regressionstest müssen alle Testfälle herbeigezogen werden, welche die alte Funktionalität betreffen. Hierzu ist die Analyse der Testspezifikation nötig, um zu ermitteln, welche Testfälle sich auf welche Anforderungen beziehen. Automatisierte Testfälle sind an die neue bzw. erweiterte Funktionalität anzupassen, da sie sonst nicht aussagekräftig sind. Scheiternde Testfälle zeigen mögliche Regressionsfehler an – oder wurden noch nicht an die neuen Anforderungen angepasst.
 
 Neue Funktionalitäten erfordern die Entwicklung zusätzlicher Testfälle. Manuelle Regressionstests sind oft teuer und zeitaufwändig. Die Auswahl der Testfälle orientiert sich oft an deren Prioritäten, wobei Sonderfälle oft nicht getestet werden. Auch können Regressionstests auf bestimmte Konfigurationen oder Teilsysteme begrenzt werden.
 
@@ -516,7 +516,7 @@ Dabei wird der CI/CD-Ansatz über die Entwicklung hinaus auf den Betrieb der Anw
 
 ### Retrospektiven und Prozessverbesserung
 
-Eine Retrospektive ist eine Teamsitzung, in welcher die Zielerreichung einer abgeschlossenen Iteration reflektiert wird. Dabei soll es darum gehen, mögliche Verbesserungen der Arbeitsweise vorzuschlagen und zu diskutieren. Auch Themen des Testens ‒ Verbesserung der Testbasis, Steigerung der Effektivität und Effizienz beim Testen, Einsatz der Testmittel ‒ sind Thema einer Retrospektive, wie auch Weiterbildungsmassnahmen der Teammitglieder sowie kulturelle Themen.
+Eine Retrospektive ist eine Teamsitzung, in welcher die Zielerreichung einer abgeschlossenen Iteration reflektiert wird. Dabei soll es darum gehen, mögliche Verbesserungen der Arbeitsweise vorzuschlagen und zu diskutieren. Auch Themen des Testens – Verbesserung der Testbasis, Steigerung der Effektivität und Effizienz beim Testen, Einsatz der Testmittel – sind Thema einer Retrospektive, wie auch Weiterbildungsmassnahmen der Teammitglieder sowie kulturelle Themen.
 
 Retrospektiven können nicht nur am Ende einer Iteration (z.B. in Scrum nach einem Sprint) sondern auch nach Abschluss eines Projekts, beim Erreichen eines Meilensteins oder einfach bei Bedarf durchgeführt werden. Wichtig ist das Festhalten der Entscheidungen und die Überprüfung der Massnahmenumsetzung nach der Retrospektive.
 
@@ -593,7 +593,7 @@ Damit diese Vorteile zum Tragen kommen können, müssen einige Erfolgsfaktoren g
 - Reviews verfolgen klar definierte Ziele.
 - Kommen Checklisten zum Einsatz, müssen diese die relevanten Risiken abbilden.
 - Beim Review kommen geeignete Personen mit dem nötigen Fachwissen zum Einsatz.
-- Tester sollen am Review beteiligt sein, um möglichst früh mit der Testbasis in Kontakt zu kommen ‒ und um diese auf das Kriterium der Testbarkeit zu überprüfen.
+- Tester sollen am Review beteiligt sein, um möglichst früh mit der Testbasis in Kontakt zu kommen – und um diese auf das Kriterium der Testbarkeit zu überprüfen.
 - Die Effizienz eines Reviews hängt stark von einem Moderator ab, der die zu besprechenden Befunde sinnvoll zu priorisieren und gewichten weiss.
 - Das Review muss von allen Beteiligten als konstruktive Kritik am Arbeitsergebnis und nicht als Bewertung des Autors verstanden werden.
 - Reviewsitzungen sollen kurz und fokussiert durchgeführt werden, damit die Aufmerksamkeit der Beteiligten dabei nicht erschöpft wird. Grosse Arbeitsergebnisse erfordern eine Auswahl der zu behandelnden Inhalte oder aber mehrere Reviewsitzungen.
@@ -620,7 +620,7 @@ Statische Tests können v.a. die folgenden Arten von Fehlerzuständen ermitteln:
 - **Abweichungen von Standards**: Richtlinien werden verletzt, missbilligte Programmierkonstrukte verwendet.
 - **Unpassende Schnittstellen**: Komponenten lasen sich aufgrund inkompatibler Schnittstellen nicht integrieren.
 
-Viele Aspekte der Wartbarkeit können (nur) mithilfe der statischen Analyse überprüft werden. Je länger ein Softwaresystem im Einsatz ist und weiterentwickelt wird, desto eher lohnt sich eine ‒ möglichst frühe ‒ statische Prüfung.
+Viele Aspekte der Wartbarkeit können (nur) mithilfe der statischen Analyse überprüft werden. Je länger ein Softwaresystem im Einsatz ist und weiterentwickelt wird, desto eher lohnt sich eine – möglichst frühe – statische Prüfung.
 
 # Dynamischer Test
 
@@ -636,8 +636,8 @@ Diese Schritte können je nach Projektkontext mehr oder weniger formal erfolgen 
 
 Tests werden i.d.R. nicht einzeln sondern gemäss Testausführungsplan zu Testreihen gruppiert gemeinsam in einer bestimmten oder zufälligen Reihenfolge durch ein Testskript ausgeführt. Die einzelnen Testfälle können anhand verschiedener Entwurfsverfahren erstellt werden, wobei man zwischen Blackbox-, Whitebox- und erfahrungsbasierten Verfahren unterscheidet:
 
-- **Blackbox-Testverfahren** (spezifikationsorientierte Verfahren) sehen das Testobjekt als «schwarzen Kasten» an, über dessen Aufbau und innere Struktur nichts bekannt ist. Die Testfälle werden rein anhand der Spezifikation des Testobjekts und unabhängig von dessen Implementierung erstellt. Das Verhalten des Testobjekts wird von aussen beobachtet ‒ der _Point of Observation_ (PoO) liegt ausserhalb des Testobjekts. Die Steuerung des Testobjekts ist nur anhand der Vorbedingungen und Eingebadaten möglich ‒ der _Point of Control_ (PoC) liegt ebenfalls ausserhalb des Testobjekts. Blackbox-Testfälle konzentrieren sich auf die Ein- und Ausgaben des Testobjekts und funktionieren (bei gleichbleibender Spezifikation) auch nach geänderter Implementierung des Testobjekts. Dieses Verfahren ist für funktionale und nicht funktionale Tests auf allen Teststufen geeignet. Die Überdeckung wird anhand der behandelten Anforderungen gemessen.
-- **Whitebox-Testverfahren** (strukturbasierte Verfahren) orientieren sich an der inneren Struktur des Testobjekts. Solche Testfälle können erst erstellt werden, wenn bereits eine Implementierung des Testobjekts vorliegt. Die Testausführung beobachtet den inneren Ablauf im Testobjekt ‒ der PoO liegt innerhalb des Testobjekts ‒ und kann bei Bedarf vom Testfall beeinflusst werden ‒ der PoC liegt dann auch innerhalb des Testobjekts. Neben Ausgaben und Ergebnissen kann auch der innere Zustand des Testobjekts zur Überprüfung auf Fehlerwirkungen herangezogen werden. Dieses Verfahren kommt auf den tieferen Teststufen Komponenten- und Integrationstests zum Einsatz. Die Überdeckung kann auf Stufe Quellcode gemessen werden.
+- **Blackbox-Testverfahren** (spezifikationsorientierte Verfahren) sehen das Testobjekt als «schwarzen Kasten» an, über dessen Aufbau und innere Struktur nichts bekannt ist. Die Testfälle werden rein anhand der Spezifikation des Testobjekts und unabhängig von dessen Implementierung erstellt. Das Verhalten des Testobjekts wird von aussen beobachtet – der _Point of Observation_ (PoO) liegt ausserhalb des Testobjekts. Die Steuerung des Testobjekts ist nur anhand der Vorbedingungen und Eingebadaten möglich – der _Point of Control_ (PoC) liegt ebenfalls ausserhalb des Testobjekts. Blackbox-Testfälle konzentrieren sich auf die Ein- und Ausgaben des Testobjekts und funktionieren (bei gleichbleibender Spezifikation) auch nach geänderter Implementierung des Testobjekts. Dieses Verfahren ist für funktionale und nicht funktionale Tests auf allen Teststufen geeignet. Die Überdeckung wird anhand der behandelten Anforderungen gemessen.
+- **Whitebox-Testverfahren** (strukturbasierte Verfahren) orientieren sich an der inneren Struktur des Testobjekts. Solche Testfälle können erst erstellt werden, wenn bereits eine Implementierung des Testobjekts vorliegt. Die Testausführung beobachtet den inneren Ablauf im Testobjekt – der PoO liegt innerhalb des Testobjekts – und kann bei Bedarf vom Testfall beeinflusst werden – der PoC liegt dann auch innerhalb des Testobjekts. Neben Ausgaben und Ergebnissen kann auch der innere Zustand des Testobjekts zur Überprüfung auf Fehlerwirkungen herangezogen werden. Dieses Verfahren kommt auf den tieferen Teststufen Komponenten- und Integrationstests zum Einsatz. Die Überdeckung kann auf Stufe Quellcode gemessen werden.
 - **Erfahrungsbasiertes Testen** nutzt das Erfahrungswissen involvierter Personen zum Ableiten der Testfälle, Testdaten und Testbedingungen. Dabei werden Kenntnisse über die erwartete Nutzung der Software, über die Umgebung und über wahrscheinliche Fehlerzustände sowie über deren Verteilung im Testobjekt genutzt. Überdeckungsgrade werden hiebei selten festgelegt, da dieses Verfahren v.a. ergänzend zu anderen Verfahren zum Einsatz kommt.
 
 In der Praxis kommen die drei Verfahren kombiniert zum Einsatz, wobei auch einzelne Testfälle Elemente verschiedener Verfahren als sogenannte «Greybox-Tests» kombinieren können.
@@ -738,18 +738,18 @@ Dieses Beispiel zeigt eine Entscheidungstabelle, welche Regeln für Lohnabzüge 
 - Abzüge für ALV und NBU sind ab einem Jahreslohn von 2500.- fällig.
 - Abzüge für PK sind ab einem Jahreslohn von 22'680.- fällig.
 
-| **Bedingung**         | K1 | K2 | K3 | K4 | K5 | K6 | K7 | K8 |
-|-----------------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 18. Altersjahr        |  w |  w |  w |  w |  f |  f |  f |  f |
-| Jahreslohn \geq 2500  |  w |  w |  f |  f |  w |  w |  f |  f |
-| Jahreslohn \geq 22680 |  w |  f |  w |  f |  w |  f |  w |  f |
-| **Ergebnis**          |    |    |    |    |    |    |    |    |
-| AHV                   |  x |  x |  x |  x |  - |  - |  - |  - |
-| IV                    |  x |  x |  x |  x |  - |  - |  - |  - |
-| EO                    |  x |  x |  x |  x |  - |  - |  - |  - |
-| ALV                   |  x |  x |  ! |  - |  x |  x |  ! |  - |
-| NBU                   |  x |  x |  ! |  - |  x |  x |  ! |  - |
-| PK                    |  x |  - |  ! |  - |  x |  - |  ! |  x |
+| **Bedingung**           | K1 | K2 | K3 | K4 | K5 | K6 | K7 | K8 |
+|-------------------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 18. Altersjahr          |  w |  w |  w |  w |  f |  f |  f |  f |
+| Jahreslohn $\geq$ 2500  |  w |  w |  f |  f |  w |  w |  f |  f |
+| Jahreslohn $\geq$ 22680 |  w |  f |  w |  f |  w |  f |  w |  f |
+| **Ergebnis**            |    |    |    |    |    |    |    |    |
+| AHV                     |  x |  x |  x |  x |  - |  - |  - |  - |
+| IV                      |  x |  x |  x |  x |  - |  - |  - |  - |
+| EO                      |  x |  x |  x |  x |  - |  - |  - |  - |
+| ALV                     |  x |  x |  ! |  - |  x |  x |  ! |  - |
+| NBU                     |  x |  x |  ! |  - |  x |  x |  ! |  - |
+| PK                      |  x |  - |  ! |  - |  x |  - |  ! |  x |
 
 Die Erfüllung der Bedingungen ist oben rechts mit «w» (wahr) und «f» (falsch) angegeben. Die erwarteten Ergebnisse sind unten rechts mit «x» (erwartet), «-» (nicht erwartet) und «!» (widersprüchliche Bedingungen) angegeben.
 
@@ -794,7 +794,7 @@ Im vorliegenden Beispiel sind zwei Testfälle nötig, um einen Überdeckungsgrad
 
 Der Testfall darf sich dabei nicht mit dem Durchlaufen der Anweisungen begnügen, sondern muss auch das Ergebnis gemäss Spezifikation überprüfen (z.B. `factorial(0) == 1` und `factorial(3) == 6` gemäss der mathematischen Definition $0!=1$ und $3!=6$).
 
-Ein Überdeckungsgrad von 100% ist ‒ mit Ausnahme von trivialen Beispielen, wie der vorliegenden Fakultät-Berechnung ‒ in der Praxis oft schwer zu erreichen, da Anweisungen zur Ausnahmebehandlung teilweise sehr umständlich zur Ausführung gebracht werden können.
+Ein Überdeckungsgrad von 100% ist – mit Ausnahme von trivialen Beispielen, wie der vorliegenden Fakultät-Berechnung – in der Praxis oft schwer zu erreichen, da Anweisungen zur Ausnahmebehandlung teilweise sehr umständlich zur Ausführung gebracht werden können.
 
 Gar nicht zu erreichende Anweisungen sind ein Hinweis auf «toten Code» (engl. «dead code»), dessen Entfernung geprüft werden soll. Das Erreichen der `else`-Zweige, die im vorliegenden Beispiel über keine Anweisungen verfügen, ist nicht Gegenstand des Anweisungstests.
 
@@ -806,7 +806,7 @@ Im Gegensatz zum Anweisungstest sind auch «leere» Zweige ohne Anweisungen zu �
 
 Die Zweigüberdeckung ist das Verhältnis der ausgeführten Zweige zur Gesamtzahl der vorhandenen Zweige. Hierbei ist darauf zu achten, dass im Flussdiagramm ersichtliche Zweige teilweise (wie im vorliegenden Beispiel) nicht im Programmcode ersichtlich sind.
 
-Eine Zweigüberdeckung von 100% garantiert auch eine Anweisungsüberdeckung von 100% ‒ was umgekehrt jedoch nicht gilt! Bei beiden Testverfahren ‒ Anweisungstest und Zweigtest ‒ sind Werkzeuge zur Messung der Codeüberdeckung eine unverzichtbare Unterstützung zur effizienten Ermittlung des erreichten Überdeckungsgrades.
+Eine Zweigüberdeckung von 100% garantiert auch eine Anweisungsüberdeckung von 100% – was umgekehrt jedoch nicht gilt! Bei beiden Testverfahren – Anweisungstest und Zweigtest – sind Werkzeuge zur Messung der Codeüberdeckung eine unverzichtbare Unterstützung zur effizienten Ermittlung des erreichten Überdeckungsgrades.
 
 ## Erfahrungsbasierte Testfallermittlung
 
@@ -816,11 +816,11 @@ Neben dem Erfahrungs- und Fachwissen aus dem Softwaretest sind auch Kenntnisse a
 
 Die auf der Intuition basierte Testfallermittlung wird oft auch als «error guessing» bezeichnet. Dieses Vorgehen kann etwas methodischer ausgestaltet werden, wenn die beobachteten Fehlerwirkungen und ihre Ursachen systematisch gesammelt und beim Testen abgearbeitet und ergänzt werden.
 
-Der _checklistenbasierte Test_ basiert auf einer Sammlung von Aspekten, die beim Testen berücksichtigt werden sollen. Solche Checklisten können laufend ‒ erfahrungsbasiert ‒ ergänzt werden. Auf automatisch testbare Aspekte soll dabei verzichtet werden, da die manuelle Abarbeitung solcher Tests ineffizient ist und zuverlässiger mithilfe von Testskripts vonstatten geht.
+Der _checklistenbasierte Test_ basiert auf einer Sammlung von Aspekten, die beim Testen berücksichtigt werden sollen. Solche Checklisten können laufend – erfahrungsbasiert – ergänzt werden. Auf automatisch testbare Aspekte soll dabei verzichtet werden, da die manuelle Abarbeitung solcher Tests ineffizient ist und zuverlässiger mithilfe von Testskripts vonstatten geht.
 
 Checklisteneinträge sind oft als Fragen formuliert, welche sich auf verschiedene Qualitätskriterien beziehen. Checklisten können auch in funktionale und nicht funktionale Aspekte aufgeteilt werden. Aufgrund hinzugefügter bzw. entfernter Funktionalität im Testobjekt oder aufgrund häufiger bzw. seltener auftretender Fehlhandlungen sollen Checklisten laufend um neue Einträge ergänzt bzw. um obsolete Einträge gekürzt werden.
 
-Die generische Formulierung der Checklisteneinträge führt zu einer hohen Variabilität in der Testausführung ‒ und damit zu einer höheren Abdeckung bei geringerer Wiederholbarkeit. Eine Überdeckung kann als Verhältnis abgearbeiteter zur Gesamtzahl vorhandener Checklisteneinträge angegeben werden.
+Die generische Formulierung der Checklisteneinträge führt zu einer hohen Variabilität in der Testausführung – und damit zu einer höheren Abdeckung bei geringerer Wiederholbarkeit. Eine Überdeckung kann als Verhältnis abgearbeiteter zur Gesamtzahl vorhandener Checklisteneinträge angegeben werden.
 
 Ist die Testbasis veraltet bzw. gar nicht vorhanden, oder ist die zum Testen verfügbare Zeit sehr knapp bemessen, muss man sich oftmals mit einem rein _explorativen Test_ begnügen. Dieses Verfahren basiert auf der Intuition und profitiert von fachspezifischen Kenntnissen wie auch allgemeinen Fähigkeiten (Kreativität, Neugier, analytische Fähigkeiten) der involvierten Tester.
 
@@ -876,7 +876,7 @@ Ein Softwareprojekt erfordert eine darauf zugeschnittene Teststrategie. Hierzu m
 - Berichtswesen festlegen: Welche Dokumente und Berichte sollen bei welchen Ereignissen durch wen erstellt werden? An wen müssen die (Zwischen)ergebnisse gemeldet und wie sollen die Berichte archiviert werden?
 - Kosten und Aufwand planen: Wie hoch ist der voraussichtliche Testaufwand und wann müssen welche Ressourcen bereitgestellt werden?
 
-Diese strategischen Überlegungen werden im _Testkonzept_ festgehalten. Die Entscheidungen sollen darin zwecks Nachvollziehbarkeit gut begründet werden. Das Testkonzept wird im Verlauf des Projekts ergänzt und präzisiert. Basierend auf den damit gemachten Erfahrungen kann das Konzept ‒ mit den nötigen Anpassungen ‒ für weitere Projekte wiederverwendet werden.
+Diese strategischen Überlegungen werden im _Testkonzept_ festgehalten. Die Entscheidungen sollen darin zwecks Nachvollziehbarkeit gut begründet werden. Das Testkonzept wird im Verlauf des Projekts ergänzt und präzisiert. Basierend auf den damit gemachten Erfahrungen kann das Konzept – mit den nötigen Anpassungen – für weitere Projekte wiederverwendet werden.
 
 Beim Finden einer Teststrategie unterscheidet man zwischen verschiedenen grundlegenden Ansätzen. In der zeitlichen Dimension unterscheidet man zwischen:
 
@@ -1016,7 +1016,7 @@ Die Testfälle sollten so auf die verschiedenen Teststufen verteilt werden, dass
 
 ![Die Testpyramide ist unten breit, oben schmal](pics/testpyramide.svg){width=80%}
 
-Neben der Testpyramide kann die Verteilung der Testfälle auf die verschiedenen Testarten anhand der agilen _Testquadranten_ erfolgen. Auf zwei Achsen ‒ teamunterstützende und produkthinterfragende Tests auf der x-Achse, technologieorientierte und geschäftsprozessorientierte Tests auf der y-Achse ‒ werden die Testarten in den folgenden Quadranten angeordnet:
+Neben der Testpyramide kann die Verteilung der Testfälle auf die verschiedenen Testarten anhand der agilen _Testquadranten_ erfolgen. Auf zwei Achsen – teamunterstützende und produkthinterfragende Tests auf der x-Achse, technologieorientierte und geschäftsprozessorientierte Tests auf der y-Achse – werden die Testarten in den folgenden Quadranten angeordnet:
 
 - Q1 (teamunterstützend/technologieorientiert): automatische Unit Tests und Integrationstests
 - Q2 (teamunterstützend/geschäftsprozessorientiert): manuelle und automatische Tests auf Systemebene
@@ -1057,7 +1057,7 @@ Die Korrekturmassnahmen müssen teilweise während eines laufenden Testzyklus um
 
 ### Testüberwachung
 
-Bei der Testüberwachung werden ‒ automatisch und manuell ‒ Informationen zu den Testaktivitäten gesammelt und ausgewertet. Damit kann das Erreichen der Testziele, der Testfortschritt und das Eintreten der Testendkriterien überprüft werden.
+Bei der Testüberwachung werden – automatisch und manuell – Informationen zu den Testaktivitäten gesammelt und ausgewertet. Damit kann das Erreichen der Testziele, der Testfortschritt und das Eintreten der Testendkriterien überprüft werden.
 
 Hierbei orientiert man sich an den Testmetriken, die im Testkonzept festgelegt worden sind; etwa zur angestrebten Produktqualität, zur tolerierbaren Fehlermenge und -schwere, zum erwarteten Testfortschritt, zu einzuhaltenden Kosten und vertretbarem Risiko. Dabei sollte sich der Testmaanger auf aussagekräftige und mit vertretbarem Aufwand korrekt erhebbare Metriken begrenzen.
 
@@ -1093,7 +1093,7 @@ Damit entdeckte Fehler auch korrigiert werden können, müssen diese zunächst e
 
 Ein Fehler soll gemeldet werden, wenn ein Anwender eine Fehlerwirkung feststellt, oder ein Entwickler einen Fehlerzustand entdeckt. Das Testprotokoll dokumentiert eine allfällige Abweichung vom Istverhalten eines Testobjekts zu dessen Sollverhalten. Für jede solche Abweichung ist zu prüfen, ob wirklich ein Fehler vorliegt. Dabei unterscheidet man zwischen vier Fällen der Fehlerklassifikation:
 
-![zwei Testobjekt-Zustände, zwei Testergebnisse ‒ vier Interpretationen](pics/testergebnis.svg){width=80%}
+![zwei Testobjekt-Zustände, zwei Testergebnisse – vier Interpretationen](pics/testergebnis.svg){width=80%}
 
 1. _richtig positiv_: Das Testobjekt ist fehlerhaft, und ein entsprechender Testfall scheitert (ist «rot»).
 2. _falsch negativ_: Das Testobjekt ist fehlerhaft, aber kein Testfall zeigt dies an, da ein entsprechender Testfall fehlt, mangelhaft konzipiert bzw. umgesetzt oder nicht (korrekt) ausgeführt worden ist.
@@ -1110,9 +1110,9 @@ Ein Fehlerbericht soll nicht auf die möglichen Ursachen der beobachteten Fehler
 
 Das Schema für die Fehlerberichte wird vom Testmanager in Absprache mit den Stakeholdern projektweit festgelegt. Neben dem Fehlerbericht sind auch Statusinformationen zum jeweiligen Vorgang festzuhalten. Die Bearbeitungsreihenfolge eines Fehlers hängt u.a. von dessen _Schwere_ ab, die sich beispielsweise folgendermassen einordnen lässt:
 
-- _schwer_: Systemabsturz, Datenverlust ‒ das Testobjekt ist nicht einsetzbar.
-- _mittel_: Fehlfunktion ‒ das Testobjekt ist nur beschränkt einsetzbar.
-- _leicht_: Geringe Abweichung ‒ das Testobjekt ist dennoch voll einsetzbar.
+- _schwer_: Systemabsturz, Datenverlust – das Testobjekt ist nicht einsetzbar.
+- _mittel_: Fehlfunktion – das Testobjekt ist nur beschränkt einsetzbar.
+- _leicht_: Geringe Abweichung – das Testobjekt ist dennoch voll einsetzbar.
 
 Die Dringlichkeit der Fehlerbehebung hängt auch von weiteren Faktoren ab, etwa vom Korrekturaufwand oder von der jeweiligen Projektplanung, wobei die Schwere des Fehlers und dessen Korrekturpriorität als separate Attribute verwaltet werden.
 
@@ -1207,7 +1207,7 @@ Sogenannte _Komparatoren_ erlauben das automatische Vergleichen von Soll- und Is
 
 Andere Werkzeuge können den inneren Zustand des Testobjekts wie beispielsweise dessen Speicherbelegung analysieren. Werkzeuge zur Überprüfung von Anweisungen und Zweigen arbeiten mit einer sogenannten _Instrumentierung_ des Programmcodes, wobei dieser um spezielle Messanweisungen ergänzt wird. Diese markieren den betreffenden Programmcode bei ihrer Ausführung als überdeckt. Die erreichte Überdeckung kann nach dem Testdurchlauf statistisch ausgewertet werden.
 
-Debugger sind zwar keine eigentlichen Testwerkzeuge, erlauben es aber dem Entwickler, den inneren Zustand eines Testobjekts zur Laufzeit interaktiv zu analysieren ‒ oder gar zu verändern, etwa um bestimmte, sonst schwer erreichbare Programmpfade ansteuern zu können, ohne zuerst eine entsprechende Konstellation von Eingabeparametern finden zu müssen.
+Debugger sind zwar keine eigentlichen Testwerkzeuge, erlauben es aber dem Entwickler, den inneren Zustand eines Testobjekts zur Laufzeit interaktiv zu analysieren – oder gar zu verändern, etwa um bestimmte, sonst schwer erreichbare Programmpfade ansteuern zu können, ohne zuerst eine entsprechende Konstellation von Eingabeparametern finden zu müssen.
 
 ### Werkzeuge für nicht funktionale Tests
 

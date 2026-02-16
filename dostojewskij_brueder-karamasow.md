@@ -22,7 +22,7 @@ Als Fjodor Pawlowitsch um den Verbleib seiner Gattin in St. Petersburg erfährt,
 
 Fjodor Pawlowitsch vernachlässigt den kleinen Dmitrij («Mitja») seit dem Tod von dessen Mutter, worauf der Diener Grigorij sich um ihn kümmert und ihn zu sich ins Gesindehaus nimmt.
 
-Pjotr Alexandrowitsch Miussow ‒ ein Vetter der Verstorbenen, der in Paris lebt und liberal gesinnt ist ‒ erfährt vom Verbleib des kleinen Mitja und will sich um dessen Erziehung kümmern. Da er selber nach Paris zurückkehrt, gibt er den Jungen zu Verwandten nach Moskau.
+Pjotr Alexandrowitsch Miussow – ein Vetter der Verstorbenen, der in Paris lebt und liberal gesinnt ist – erfährt vom Verbleib des kleinen Mitja und will sich um dessen Erziehung kümmern. Da er selber nach Paris zurückkehrt, gibt er den Jungen zu Verwandten nach Moskau.
 
 Nach dem abgebrochenen Gymnasium besucht Mitja die Offiziersschule und gelangt so in den Kaukasus. Da er auf grossem Fuss lebt, sucht er seinen Vater Fjodor Pawlowitsch in Geldangelegenheiten auf, muss sich aber mit kleineren, unregelmässig ausgerichteten Summen begnügen. Sein Vater behauptet ihm gegenüber sogar, dass sein Vermögen aufgebraucht sei.
 
@@ -36,11 +36,11 @@ Nach ihrem Tod vermacht sie den beiden Söhnen je tausend Rubel für ihre Erzieh
 
 Der sehr talentierte Iwan geht mit dreizehn Jahren nach Moskau auf ein Gymnasium und schliesslich zur Universität, wo er Naturwissenschaften studiert und sich den Lebensunterhalt mit dem Unterrichten und der Publikation von Artikeln verdient. (Sein Erbe kann er aufgrund von Formalitäten erst später antreten.) Mit einer vielbeachteten Arbeit über die kirchliche Gerichtsbarkeit macht er sich bald schon einen Namen.
 
-Iwan kehrt auf Wunsch seines älteren Halbbruders Dmitrij zu seinem Vater zurück, mit dem er sich gut versteht ‒ und auf den er einen guten Einfluss hat. Alexej lebt damals seit bereits einem Jahr als Novize in einem Kloster.
+Iwan kehrt auf Wunsch seines älteren Halbbruders Dmitrij zu seinem Vater zurück, mit dem er sich gut versteht – und auf den er einen guten Einfluss hat. Alexej lebt damals seit bereits einem Jahr als Novize in einem Kloster.
 
 ### IV) Der dritte Sohn Aljoscha
 
-Der zwanzigjährige Alexej («Aljoscha») entscheidet sich ‒ inspiriert durch die Begegnung mit dem Klosterstarez Sossima ‒ ins Kloster zu gehen. Obwohl er seine Mutter bereits mit vier Jahren verloren hat, erinnert er sich immer noch genau an sie ‒ besonders an eine Szene des Gebets.
+Der zwanzigjährige Alexej («Aljoscha») entscheidet sich – inspiriert durch die Begegnung mit dem Klosterstarez Sossima – ins Kloster zu gehen. Obwohl er seine Mutter bereits mit vier Jahren verloren hat, erinnert er sich immer noch genau an sie – besonders an eine Szene des Gebets.
 
 Aljoscha gilt als Menschenfreund, zieht sich aber zurück, wenn es ihm zu lasterhaft zu und her geht, ohne aber die Leute dafür zu verurteilen. Selbst sein Vater ist gerührt von ihm, und in der Schule gilt er als der Liebling von allen, selbst wenn er sich gelegentlich lieber zurückzieht. Einzig die anzüglichen Sprüche seiner Klassenkameraden kann er nicht ertragen, womit er manchmal derart gehänselt wird, dass er sich die Ohren zuhält.
 
@@ -50,17 +50,17 @@ Fjodor Pawlowitsch verbringt einige Zeit in Odessa, wo er mit Juden Geschäfte m
 
 Grigorij führt Aljoscha zum Grab seiner Mutter; er war es auch, der die Grabplatte für sie entwarf und bezahlte. Fjodor Pawlowitsch liess es verkümmern und hat vergessen, wo es liegt.
 
-Alexej bittet seinen Vater schliesslich um die Erlaubnis, als Novize ins Kloster eintreten zu dürfen. Er erhält die Erlaubnis ‒ und seine zweitausend Rubel Aussteuer.
+Alexej bittet seinen Vater schliesslich um die Erlaubnis, als Novize ins Kloster eintreten zu dürfen. Er erhält die Erlaubnis – und seine zweitausend Rubel Aussteuer.
 
 ### V) Die Starzen
 
-Aljoscha ist ein stattlicher, gesunder und gutaussehender junger Mann. Er ist tief gläubig doch Realist zugleich. Das Gymnasium bricht er nicht aus Unvermögen ab, sondern weil er sein Leben dem Glauben widmen will. Dabei spielt die Erinnerung an das Gebet mit seiner Mutter eine Rolle ‒ ausschlaggebend ist jedoch die Begegnung mit dem Starez Sossima.
+Aljoscha ist ein stattlicher, gesunder und gutaussehender junger Mann. Er ist tief gläubig doch Realist zugleich. Das Gymnasium bricht er nicht aus Unvermögen ab, sondern weil er sein Leben dem Glauben widmen will. Dabei spielt die Erinnerung an das Gebet mit seiner Mutter eine Rolle – ausschlaggebend ist jedoch die Begegnung mit dem Starez Sossima.
 
 Das Starzentum ist in Russland lange in Vergessenheit geraten, kommt aber wieder zu neuer Blüte. Ein Starez ist ein Einsiedler, zu dem ratsuchende Leute pilgern. Ein Jüngling, der einem Starez folgt, verzichtet auf seinen eigenen Willen und überträgt diesen auf den Starez, dem er nun vollen Gehorsam leistet, um sich so selber zu überwinden und um wirkliche Freiheit zu erlangen. Kein Geistlicher kann jemanden davon entbinden, seinem Starez Folge zu leisten, weswegen das Starzentum bei den Klöstern umstritten ist. Das Volk verehrt die Starzen und strömt ihnen auf der Suche nach Rat und Heilung zu.
 
 Aljoscha lebt in der Zelle des mittlerweilen fünfundsechzigjährigen, krank und schwach gewordenen Starez Sossima, der in seiner Jugend als Offizier im Kaukasus diente. Anfänglich verunsicherte Besucher zeigen sich durch die ans Hellseherische grenzende Auffassungsgabe des heiter wirkenden Starez erstaunt und gehen stets erleichtert von ihm weg. Die Leute pilgern aus ganz Russland zu ihm, und nach seinem Tod werde das sonst nicht gerade ruhmreiche Kloster in einem besseren Licht dastehen.
 
-Mit seinem Halbbruder Dmitrij freundet sich Aljoscha schneller an als mit seinem leiblichen Bruder Iwan, der ihn eher ignoriert. Aljoscha glaubt, dass Iwan ‒ ein sehr gebildeter Atheist ‒ ihn als Novizen verachte. Der wenig gebildete Dmitrij hat hohe Achtung vor Iwan; die beiden finden trotz ihrer Charakterunterschiede schnell ein enges Verhältnis zueinander.
+Mit seinem Halbbruder Dmitrij freundet sich Aljoscha schneller an als mit seinem leiblichen Bruder Iwan, der ihn eher ignoriert. Aljoscha glaubt, dass Iwan – ein sehr gebildeter Atheist – ihn als Novizen verachte. Der wenig gebildete Dmitrij hat hohe Achtung vor Iwan; die beiden finden trotz ihrer Charakterunterschiede schnell ein enges Verhältnis zueinander.
 
 Als die Streitigkeiten um das Vermögen in der Familie Karamasow nicht geschlichtet werden können, will man hierzu den Starez Sossima um Rat aufsuchen. Auch Pjotr Alexandrowitsch Miussow möchte am Gespräch teilnehmen um einen mit dem Kloster laufenden Rechtsstreit gützlich beizulegen. Aljoscha ist das anstehende Treffen unangenehm, denn er zweifelt an den Motiven seiner Familienangehörigen. Immerhin versichert ihm Dmitrij, dass er dem Starez mit der nötigen Hochachtung entgegentreten werde.
 
@@ -80,7 +80,7 @@ Die Eintretenden werden von zwei Priestermönchen und dem Seminaristen Rakitin e
 
 Das Äussere des von Krankheit ausgemergelt wirkenden Starez missfällt Miussow. Fjodor Pawlowitsch irritiert Miussow mit verschiedenen Anekdoten und improvisierten Lügengeschichten, womit er diesen auch versucht in ein schlechtes Licht zu rücken.
 
-Der Starez beschwichtigt die teilweise sichtlich irritierten Anwesenden, wodurch Fjodor Pawlowitsch nur noch lebhafter wird, sich aber gleichzeitig unterwürfig zeigt. Der Starez rät ihm vom Laster abzulassen: vom Trunk, von der Wolllust, von der Geldgier ‒ aber besonders von der Lüge. Denn wer sich selber belüge, könne die Wahrheit nicht mehr erkennen, was zum Laster und zur Kränkung führe, die man dann auch noch mit Genugtuung empfinde.
+Der Starez beschwichtigt die teilweise sichtlich irritierten Anwesenden, wodurch Fjodor Pawlowitsch nur noch lebhafter wird, sich aber gleichzeitig unterwürfig zeigt. Der Starez rät ihm vom Laster abzulassen: vom Trunk, von der Wolllust, von der Geldgier – aber besonders von der Lüge. Denn wer sich selber belüge, könne die Wahrheit nicht mehr erkennen, was zum Laster und zur Kränkung führe, die man dann auch noch mit Genugtuung empfinde.
 
 Fjodor Pawlowitsch pflichtet ihm bei und versucht sogleich Miussow mit einer alten Anekdote dafür zu beschuldigen, ihm in seinem Glauben erschüttert zu haben. Der Starez lässt sich davon nicht beirren, tritt aber aus um wartenden Gästen den Segen zu erteilen. Dabei behauptet Fjodor Pawlowitsch, er habe nur den Narren gespielt, um den Starez auf die Probe zu stellen.
 
@@ -88,13 +88,13 @@ Fjodor Pawlowitsch pflichtet ihm bei und versucht sogleich Miussow mit einer alt
 
 Auf den Starez warten nebst zwanzig Bauernweiber auch die Witwe Chochlakowa und ihre vierzenjährige, seit einem halben Jahr gelähmte Tochter. Doch der Starez erteilt seinen Segen zuerst dem einfachen Volk.
 
-Er beruhigt eine Klikuscha ‒ eine Hysterikerin, die im Gottesdienst einen Anfall erleidet, der sich beim Abendmahl in der Messe dann legt.
+Er beruhigt eine Klikuscha – eine Hysterikerin, die im Gottesdienst einen Anfall erleidet, der sich beim Abendmahl in der Messe dann legt.
 
 Eine Kleinbürgerin klagt ihr Leid: Den Verlust dreier Söhne konnte sie überwinden, doch das vierte Söhnchen, das nicht einmal drei Jahre alt geworden war, beweint sie noch immer. Solange sie auf Pilgerfahrt sei, betrinke sich ihr Mann, sodass sie nicht zu ihm nach Hause zurückkehren möchte. Der Starez will für ihr verstorbenes Kind beten und weist sie an, zu ihrem Mann zurückzukehren, sodass die Seele ihres Sohnes ein Zuhause und die Eltern beieinander finde.
 
 Eine Witwe, die lange nichts von ihrem Sohn gehört hat, will eine Seelenmesse für ihn lesen lassen, auf dass er sich endlich bei ihr melde. Der Starez rät ihr von dieser schweren Sünde ab. Sie solle stattdessen zur himmlischen Königin beten; der Sohn werde sich dann bald sehen oder von sich hören lassen.
 
-Eine ausgemergelte Bäuerin, deren gewalttätiger Mann vor drei Jahren verstorben ist ‒ sie fürchtete sich vor seiner Genesung ‒ bittet den Starez um die Vergebung einer grossen Sünde, die sie ihm ins Ohr flüstert. Sie solle dem Verstorbenen vergeben, sodass auch ihre grosse Sünde vergeben werde.
+Eine ausgemergelte Bäuerin, deren gewalttätiger Mann vor drei Jahren verstorben ist – sie fürchtete sich vor seiner Genesung – bittet den Starez um die Vergebung einer grossen Sünde, die sie ihm ins Ohr flüstert. Sie solle dem Verstorbenen vergeben, sodass auch ihre grosse Sünde vergeben werde.
 
 Eine junge Mutter, die nach wenigen Tagen zurückgekehrt ist, um nach dem kranken Starez zu schauen, übergibt ihm sechzig Kopeken, die er an jemanden Bedürftigeren weitergeben soll. Der Starez bedankt sich und verneigt sich vor allen.
 
@@ -110,15 +110,15 @@ Zum Abschied segnet der Starez Lise, obwohl sie die ganze Zeit Aljoscha durch ih
 
 ### V) Amen, Amen!
 
-In der Abwesenheit des Starez ist eine lebhafte Unterhaltung zwischen den beiden Priestermönchen und Iwan entbrannt, an der sich auch Miussow gerne beteiligen will, aber zu seiner steigenden Irritation grösstenteils ignoriert wird ‒ was Fjodor Pawlowitsch Vergnügen bereitet.
+In der Abwesenheit des Starez ist eine lebhafte Unterhaltung zwischen den beiden Priestermönchen und Iwan entbrannt, an der sich auch Miussow gerne beteiligen will, aber zu seiner steigenden Irritation grösstenteils ignoriert wird – was Fjodor Pawlowitsch Vergnügen bereitet.
 
 Der Priestermönch Jossif, ein Bibliothekar, führt den sichtlich ermüdeten Starez bei seiner Rückkehr in das Gespräch ein: Man diskutiere Iwan Fjodorowitschs Artikel über die kirchliche Gerichtsbarkeit, worin er auf ein von einem Geistlichen verfassten Buch zu diesem Thema reagiere, wonach der Kirche, die ein «Reich nicht von dieser Welt» sei, keine Gerichtsbarkeit obliegen solle.
 
-Iwan erläutert seinen Standpunkt: Der heidnische römische Staat habe sich durch seine Bekehrung zum Christentum die Kirche einverleibt, sei aber heidnisch geblieben. Um ihre Ziele erfüllen zu können, solle sich die Kirche nicht ‒ wie vom Autor des Buches «Grundlagen des Kirchenrechts» gefordert ‒ ein Nischenaseim im Staat begnügen, sondern darauf hinwirken, den Staat in eine Kirche zu verwandeln.
+Iwan erläutert seinen Standpunkt: Der heidnische römische Staat habe sich durch seine Bekehrung zum Christentum die Kirche einverleibt, sei aber heidnisch geblieben. Um ihre Ziele erfüllen zu können, solle sich die Kirche nicht – wie vom Autor des Buches «Grundlagen des Kirchenrechts» gefordert – ein Nischenaseim im Staat begnügen, sondern darauf hinwirken, den Staat in eine Kirche zu verwandeln.
 
 Vater Paissij, der andere Priestermönch, ergänzt, dass gemäss solchen Theorien (wie aus diesem Buch) die Kirche im Staat aufgehen solle, wodurch sie ihren Platz der Wissenschaft, dem Zeitgeist und der Zivilisation räume. Nach russischem Verständnis hingegen solle nicht die Kirche zum Staat werden, sondern der Staat würdig, selber zur Kirche zu werden.
 
-Iwan ergänzt: Durch die Trennung von staatlicher und kirchlicher Gerichtsbarkeit könne man Verbrechen begehen, dadurch vom Staat bestraft werden ‒ aber ungestraft in der Kirche bleiben.
+Iwan ergänzt: Durch die Trennung von staatlicher und kirchlicher Gerichtsbarkeit könne man Verbrechen begehen, dadurch vom Staat bestraft werden – aber ungestraft in der Kirche bleiben.
 
 Der Starez pflichtet ihm bei: Die weltliche Rechtsprechung mit ihren Strafmassnahmen führe nicht zur Besserung der Verbrecher, eher im Gegenteil. Nur das christliche Gesetz, das sich im eigenen Gewissen des Verbrechers vor der kirchlichen Gemeinschaft offenbare, mache dem Verbrecher seine Schuld bewusst. Und da der russische im Gegensatz zum europäischen Verbrecher noch Christ sei, habe die Verbannung durch die Kirche eine stärkere Wirkung auf ihn als die Strafmassnahmen des Staates.
 
@@ -146,13 +146,13 @@ Das Gespräch artet in gegenseitige Schuldzustellungen zwischen den beiden aus, 
 
 Sichtlich bestürzt verlassen die Besucher die Zelle des Starez ohne sich vorher von ihm zu verabschieden. Miussow möchte auf das Essen beim Abt, wozu man nun bereits verspätet ist, verzichten, geht dann aber doch hin, als Fjodor Pawlowitsch seinerseits verzichtet und abreist.
 
-### VII) Seminarist ‒ Karrierist
+### VII) Seminarist – Karrierist
 
 Nachdem Alexej dem Starez ins Bett geholfen hat, soll er nicht bei ihm bleiben, denn er werde beim Essen des Abts gebraucht, da dort Unfrieden herrsche. Der Starez sieht seine letzte Stunde anbrechen und weist Alexej an, nach seinem Dahinscheiden das Kloster zu verlassen. Er werde einen grossen Dienst in der Welt tun und auch heiraten, bevor er nach langer Pilgerung ins Kloster zurückkehre.
 
 Auf dem Weg zum Abt trifft Alexej auf Rakitin, der den Kniefall des Starez vor Dmitrij dahingehend deutet, dass er einen Mord von Dmitrij an seinem Vater voraussagt. Die Karamasows seien Gottesnarren und Lüstlinge. Nun habe sich der Vater in die Gruschenka verliebt, die er auf Dmitrij ansetzte. Diese führe nun Vater und Sohn an der Nase herum.
 
-Iwan stelle gleichzeitig Dmitrijs Braut, der schönen Katerina Iwanowna, nach und sei an ihrer reichen Mitgift interessiert. Dmitrij stehe dem nicht im Wege, da er so seine Verlobung zu ihr auflösen und die Gruschenka ehelichen könne. Iwan sei ein niederträchtiger Mensch, was sich auch in seiner Theorie ‒ ohne Unsterblichkeit keine Tugend, also sei alles erlaubt ‒ äussere, welcher auch Dmitrij beipflichte.
+Iwan stelle gleichzeitig Dmitrijs Braut, der schönen Katerina Iwanowna, nach und sei an ihrer reichen Mitgift interessiert. Dmitrij stehe dem nicht im Wege, da er so seine Verlobung zu ihr auflösen und die Gruschenka ehelichen könne. Iwan sei ein niederträchtiger Mensch, was sich auch in seiner Theorie – ohne Unsterblichkeit keine Tugend, also sei alles erlaubt – äussere, welcher auch Dmitrij beipflichte.
 
 Alexej vermutet, dass Rakitin selber an Katerina Iwanowna interessiert sei. Rakitin will neulich, als er bei der Gruschenka im Schlafzimmer wartete, den im Nebenzimmer anwesenden Dmitrij belauscht haben. Dieser erzählte, wie Iwan neulich gegenüber Katerina Iwanowna ihm, Rakitin, eine unrühmliche Zukunft vorausgesagt habe.
 
@@ -200,7 +200,7 @@ Dieser Pawel Fjodorowitsch Smerdjakow wird der zweite Diener im Haus Karamasow u
 
 ### III) Die Beichte eines heissen Herzens. In Versen
 
-Mit einer gewissen Bedrücktheit entschliesst sich Aljoscha, seinen Vater und ‒ ihrer Aufforderung nachkommend ‒ Katerina Iwanowna aufzusuchen. Eine Abkürzung nehmend trifft er zufällig auf Dmitrij, der in einem fremden Garten einem Geheimnis nachspüre.
+Mit einer gewissen Bedrücktheit entschliesst sich Aljoscha, seinen Vater und – ihrer Aufforderung nachkommend – Katerina Iwanowna aufzusuchen. Eine Abkürzung nehmend trifft er zufällig auf Dmitrij, der in einem fremden Garten einem Geheimnis nachspüre.
 
 Der angetrunkene Dmitrij erzählt Aljoscha, dass er sich in eine «Gemeine» verliebt abe und erledigt sei. Er ist dankbar für den Zufall, dass Aljoschas Weg zu Katerina Iwanowna und zu seinem Vater durch die gewählte Abkürzung zu ihm führte, denn Aljoscha soll bei Katerina Iwanowna und beim Vater für ihn ein Ende setzen, wozu er einen Engel vorbeischicken wolle.
 
@@ -210,7 +210,7 @@ Aljoscha hört ihm geduldig zu, während Dmitrij Schillers _Ode an die Freude_ r
 
 Dmitrij erzählt Aljoscha von seinen Frauengeschichten, bestreitet aber den Vorwurf seines Vaters, dafür tausende von Rubel verjubelt zu haben.
 
-Sein Vorgesetzter ‒ ein Oberst, zu dem sein Verhältnis zerrüttet ist ‒ hat zwei Töchter aus zwei Ehen, die er beide ohne Mitgift geschlossen hat: die ältere, etwas einfältige aber sehr reizende Agafja Iwanowna und die jüngere, gebildete, sehr hübsche und heiss umschwärmte Katerina Iwanowna. Zur ersten hat Dmitrij ein freundschaftliches Verhältnis, doch die zweite würdigt ihn keines Blickes ‒ sehr zu seiner Kränkung.
+Sein Vorgesetzter – ein Oberst, zu dem sein Verhältnis zerrüttet ist – hat zwei Töchter aus zwei Ehen, die er beide ohne Mitgift geschlossen hat: die ältere, etwas einfältige aber sehr reizende Agafja Iwanowna und die jüngere, gebildete, sehr hübsche und heiss umschwärmte Katerina Iwanowna. Zur ersten hat Dmitrij ein freundschaftliches Verhältnis, doch die zweite würdigt ihn keines Blickes – sehr zu seiner Kränkung.
 
 Zu dieser Zeit schlägt Dmitrij das Erbe aus, wofür er mit sechstausend Rubel ausbezahlt wird. Er erfährt davon, dass man dem Obersten eine Falle stellen und ihn der Veruntreuung bezichtigen wolle. Dmitrij erzählt Agafja von dieser Verschwörung und bietet ihr an, die nötigen viertausendfündhundert Rubel auszulegen, damit ihr Vater seine Ehre retten könne. Agafja reagiert empört und will nichts davon wissen, doch Dmitrij ist sich sicher, dass sie ihrer Schwester Katerina davon erzählen wird.
 
@@ -230,7 +230,7 @@ Dmitrij hält Iwan für den würdigeren Bräutigam und kann nachvollziehen, von 
 
 Er selber wolle zu Gruschenka gehen und sie heiraten. Von Katerina seien ihm dreitausend Rubel anvertraut worden, die er ihrer Schwester Agafja hätte zukommen lassen sollen. Stattdessen verjubelte er diese für Gruschenka. Aljoscha soll nun beim Vater um diese Summe bitten, damit er diese Katerina Iwanowna wenigstens zurückbezahlen könne.
 
-Dmitrij ist sich sicher, dass sein Vater ihm nichts geben werde ‒ aber von Smerdjakow wisse er auch, dass sein Vater ein für Gruschenka bestimmtes Couvert mit dreitausend Rubel bereithalte, damit sie ihn heirate. Nun lauert Dmitrij Gruschenka auf, um sie auf dem Weg zum Vater abzufangen.
+Dmitrij ist sich sicher, dass sein Vater ihm nichts geben werde – aber von Smerdjakow wisse er auch, dass sein Vater ein für Gruschenka bestimmtes Couvert mit dreitausend Rubel bereithalte, damit sie ihn heirate. Nun lauert Dmitrij Gruschenka auf, um sie auf dem Weg zum Vater abzufangen.
 
 Der Vater wolle Iwan unter einem gechäftlichem Vorwand ausser Haus schicken, damit er sie nicht zu sehen bekomme. Dmitrij glaubt an ein Wunder: noch heute solle Aljoscha mit den dreitausend Rubel zu Katerina Iwanowna gehen. Und falls Gruschenka doch noch heute beim Vater auftauchen werde, wolle Dmitrij ihn notfalls ermorden.
 
@@ -262,7 +262,7 @@ Nach diesem Streitgespräch schickt Fjodor Pawlowitsch die Diener fort. Er fragt
 
 Fjodor Pawlowitsch betrinkt sich und erzählt Geschichten vom Starez, den er des Unglaubens, der Lüsternheit und der Veruntreuung bezichtigt. Diese Vorwürfe gibt es aber sogleich als Lügen preis. In seiner Trunkenheit wird er immer streitlustiger.
 
-Über seine zweite Frau ‒ die Klikuscha, Iwans und Aljoschas Mutter ‒ erzählt er, dass sie zu viel gebetet habe, und er sie damit züchtigte, dass er eine ihrer Ikonen vor ihren Augen bespuckt habe, um ihr das auszutreiben. Aljoscha erleidet bei dieser Erzählung einen Weinkrampf ‒ genau wie seine Mutter damals. Dies erklärend wendet sich Fjodor Pawlowitsch an Iwan. Dabei vergisst er, dass sie auch dessen Mutter ist.
+Über seine zweite Frau – die Klikuscha, Iwans und Aljoschas Mutter – erzählt er, dass sie zu viel gebetet habe, und er sie damit züchtigte, dass er eine ihrer Ikonen vor ihren Augen bespuckt habe, um ihr das auszutreiben. Aljoscha erleidet bei dieser Erzählung einen Weinkrampf – genau wie seine Mutter damals. Dies erklärend wendet sich Fjodor Pawlowitsch an Iwan. Dabei vergisst er, dass sie auch dessen Mutter ist.
 
 In diesem Moment stürmt Dmitrij ins Haus, und sein Vater glaubt, dass er ihn umbringen wolle.
 
@@ -284,13 +284,13 @@ Iwan versteht nun den Konflikt zwischen Dmitrij und seinem Vater. Aljoscha gegen
 
 Bedrückt vom Erlebten und dem sich für Dmitrij abzeichnenden schlechten Ausgang der Geschichte begibt sich Aljoscha zu Katerina Iwanowna. Diese trifft er in freudiger Erregung an; sie wolle die ganze Wahrheit von ihm erfahren.
 
-Aljoscha richtet ihr aus, dass Dmitrij «sich empfehlen» lasse und auf diesen genauen Wortlaut bestanden habe. Katerina Iwanowna ist zunächst bestürzt, ahnt aber eine Verzweiflung hinter dieser Mitteilung ‒ und schöpft dadurch sogleich Hoffnung. Über die veruntreuten dreitausend Rubel wisse sie bescheid, doch solle sich Dmitrij deswegen vor ihr nicht schämen.
+Aljoscha richtet ihr aus, dass Dmitrij «sich empfehlen» lasse und auf diesen genauen Wortlaut bestanden habe. Katerina Iwanowna ist zunächst bestürzt, ahnt aber eine Verzweiflung hinter dieser Mitteilung – und schöpft dadurch sogleich Hoffnung. Über die veruntreuten dreitausend Rubel wisse sie bescheid, doch solle sich Dmitrij deswegen vor ihr nicht schämen.
 
-Aljoscha berichtet ihr vom Vorfall vorhin beim Vater und von Dmitrijs Absicht, Gruschenka heiraten zu wollen. Doch Katerina Iwanowna zeigt sich überzeugt davon, dass dies nicht passieren werde ‒ und bittet Gruschenka aus dem Nebenzimmer, in das sie sich bei Aljoschas Eintreten zurückgezogen hat, herein.
+Aljoscha berichtet ihr vom Vorfall vorhin beim Vater und von Dmitrijs Absicht, Gruschenka heiraten zu wollen. Doch Katerina Iwanowna zeigt sich überzeugt davon, dass dies nicht passieren werde – und bittet Gruschenka aus dem Nebenzimmer, in das sie sich bei Aljoschas Eintreten zurückgezogen hat, herein.
 
 Verzückt von der schönen zweiundzwanzigjährigen Gruschenka erzählt Katerina Iwanowna, dass deren frühere Liebe, ein Offizier, mittlerweile verwitwet und auf dem Weg zu ihr sei, um sie zu heiraten. Sie liebe nur ihn und habe Katerina Iwanowna versprochen, diesen Offizier und nicht Dmitrij zu heiraten.
 
-Doch diese will plötzlich nichts mehr von ihrem vorherigen Versprechen wissen, denn sie tue nur das, worauf sie gerade Lust habe, und nun wolle sie vielleicht doch lieber Dmitrij heiraten. Gruschenka lässt Katerina Iwanowna auch wissen, dass sie von Dmitrij davon erfahren habe, wie sie ihn damals um das Geld für ihren Vater ersucht ‒ und sich dadurch käuflich gemacht habe.
+Doch diese will plötzlich nichts mehr von ihrem vorherigen Versprechen wissen, denn sie tue nur das, worauf sie gerade Lust habe, und nun wolle sie vielleicht doch lieber Dmitrij heiraten. Gruschenka lässt Katerina Iwanowna auch wissen, dass sie von Dmitrij davon erfahren habe, wie sie ihn damals um das Geld für ihren Vater ersucht – und sich dadurch käuflich gemacht habe.
 
 Aljoscha und die zwei herbeigeeilten Tanten können verhindern, dass sich Katerina Iwanowna auf Gruschenka stürzt. Gruschenka fordert beim Verlassen der Szene Aljoscha auf, ihr zu folgen, was er ablehnt.
 
@@ -314,7 +314,7 @@ Bei seinem Gebet erinnert sich Aljoscha an den Brief, der ihm vorher überreicht
 
 Starez Sossima erwacht aus seinem Schlaf und möchte das Abendmahl empfangen, die Beichte ablegen sowie die letzte Ölung erhalten. Er spricht zu den Mönchen: Dadurch, dass sie hinter den Klostermauern lebten, seien sie nicht besser als die anderen; denn sie lebten nur im Kloster, weil sie ihre eigene Schlechtigkeit erkannt hätten.
 
-Aljoscha, der diese Rede später niederschreibt, wird wegen eines ankommenden Briefes der Chochlakowa herausgebeten. Darin schildert sie, wie der Sohn der Witwe Prochonowna, die sich vortags beim Starez wegen ihres Sohnes erkundigte, von dem sie schon lange auf ein Lebenszeichen warte, nun von sich habe hören lassen und auf dem Heimweg zu ihr sei ‒ genau wie es der Starez ihr gegenüber prophezeite! Aljoscha soll im Kloster von diesem «letzten Wunder» berichten. Dort verbreitet sich die Kunde davon schnell, sodass auch ein aus Obdorsk angereister Mönch davon erfährt.
+Aljoscha, der diese Rede später niederschreibt, wird wegen eines ankommenden Briefes der Chochlakowa herausgebeten. Darin schildert sie, wie der Sohn der Witwe Prochonowna, die sich vortags beim Starez wegen ihres Sohnes erkundigte, von dem sie schon lange auf ein Lebenszeichen warte, nun von sich habe hören lassen und auf dem Heimweg zu ihr sei – genau wie es der Starez ihr gegenüber prophezeite! Aljoscha soll im Kloster von diesem «letzten Wunder» berichten. Dort verbreitet sich die Kunde davon schnell, sodass auch ein aus Obdorsk angereister Mönch davon erfährt.
 
 Dieser sucht im Kloster Vater Verapont auf, der als Einsiedler lebend als grosser Schweiger und Faster gilt, aber auch als der Gegenspieler des Starez Sossima und als Gegner des Starzentums insgesamt. Vater Verapont befragt den Mönch darüber, wie er es mit dem Fasten halte, und erzählt wie er bei seinem letzten Besuch beim Abt verschiedene Teufel erblickte, die sich an seinen Besuchern festhielten oder bei diesen unter dem Rock oder im Bauch Unterschlupf gefunden hätten.
 
@@ -344,9 +344,9 @@ Aljoscha erkundigt sich darauf bloss bei ihm, was er ihm denn angetan habe. Doch
 
 ### IV) Bei Chochlakows
 
-Bei Chochlakows angekommen erkundigt sich die Hausherrin nach ihrem Brief über das sich gerade ereignete «Wunder». Aljoscha bestätigt, dass sich die Kunde davon im Kloster verbreitet habe ‒ und dass der Starez Sossima wohl noch am gleichen Tag sterben werde.
+Bei Chochlakows angekommen erkundigt sich die Hausherrin nach ihrem Brief über das sich gerade ereignete «Wunder». Aljoscha bestätigt, dass sich die Kunde davon im Kloster verbreitet habe – und dass der Starez Sossima wohl noch am gleichen Tag sterben werde.
 
-Die Chochlakowa erzählt Aljoscha, wie Lise eine sehr unruhige Nacht verbracht und bei seiner Ankunft gar einen hysterischen Anfall erlitten habe. Im Salon sei Katerina Iwanowna mit seinem Bruder ‒ Iwan, nicht Dmitrij! Sie wisse nicht, ob sich dort eine Komödie oder Tragödie abspiele. Sie sei verliebt in Iwan, rede sich aber ein, Dmitrij zu lieben.
+Die Chochlakowa erzählt Aljoscha, wie Lise eine sehr unruhige Nacht verbracht und bei seiner Ankunft gar einen hysterischen Anfall erlitten habe. Im Salon sei Katerina Iwanowna mit seinem Bruder – Iwan, nicht Dmitrij! Sie wisse nicht, ob sich dort eine Komödie oder Tragödie abspiele. Sie sei verliebt in Iwan, rede sich aber ein, Dmitrij zu lieben.
 
 Aljoscha unterbricht sie mit der Bitte, ihm ein sauberes Tuch für seine Wunde zu geben, worauf er von ihr und Lise sorgsam verarztet wird. Als Lise die Dienerin und ihre Mutter um Eis und Verbandsmeterial aus dem Zimmer schickt, verlangt sie von Aljoscha ihren gestrigen Brief zurück und bezeichnet ihre darin geschilderte Heiratsabsicht als dummen Spass. Aljoscha entgegnet, dass er den Brief nicht dabei habe und nicht an einen Spass glaube; der Starez habe von ihm verlangt, das Kloster nach seinem Ableben zu verlassen und zu heiraten, und darum wolle er sie zur gegebenen Zeit auch zur Frau nehmen.
 
@@ -354,7 +354,7 @@ Ihrer zurückkehrenden Mutter erzält Lise, dass Aljoscha die Absicht habe zu he
 
 ### V) Nadryw im Salon
 
-Bedrückt vom Gedanken, dass Katerina Iwanowna doch Iwan und nicht Dmitrij ‒ oder gar keinen der beiden ‒ lieben könnte, betritt Aljoscha den Salon.
+Bedrückt vom Gedanken, dass Katerina Iwanowna doch Iwan und nicht Dmitrij – oder gar keinen der beiden – lieben könnte, betritt Aljoscha den Salon.
 
 Katerina Iwanowna verkündet ihren Beschluss: Sie wolle stets zu Dmitrij halten; selbst wenn er Gruschenka heirate, wolle sie ihn immerhin wie eine Schwester lieben. Er solle sehen, wie treu sie ihm sei, auch wenn er selber untreu war. Iwan heisse diesen Beschluss gut, was dieser bestätigt: Sie spreche aufrichtig, wenn auch diese Rede aus dem Mund einer jeder anderen Frau unglaubwürdig wirkte.
 
@@ -390,7 +390,7 @@ Dmitrij könne er nicht vors Gericht bringen, weil Gruschenka ihm drohte, in die
 
 Seinem Sohn, der von Rachegelüsten erfüllt ist, hat er versprochen, niemals Geld von Dmitrij anzunehmen. Gerne würden sie in eine andere Stadt umziehen, wozu ihnen jedoch das Geld fehle. Seinen Sohn will er für den Vorfall mit Aljoscha nicht züchtigen. Diesem würde es genügen, wenn Snegirjow ihn mit seinem Sohn aussöhnen könnte.
 
-Aljoscha übergibt ihm die zweihundert Rubel, die nicht etwa von Dmitrij, sondern von einer Frau stammten, die ebenfalls von seinem Bruder gekränkt worden sei. Snegirjow kann sein Glück kaum fassen, denn vom Geld könne er nicht nur seine Frau und seine kranke Tochter medizinisch versorgen, sondern die zweite Tochter ihr Studium in St. Petersburg wieder aufnehmen ‒ und die ganze Familie in eine andere Stadt ziehen, wo eine Stelle für Snegirjow frei sei.
+Aljoscha übergibt ihm die zweihundert Rubel, die nicht etwa von Dmitrij, sondern von einer Frau stammten, die ebenfalls von seinem Bruder gekränkt worden sei. Snegirjow kann sein Glück kaum fassen, denn vom Geld könne er nicht nur seine Frau und seine kranke Tochter medizinisch versorgen, sondern die zweite Tochter ihr Studium in St. Petersburg wieder aufnehmen – und die ganze Familie in eine andere Stadt ziehen, wo eine Stelle für Snegirjow frei sei.
 
 Doch da zerknüllt er die Scheine, tritt sie wutentbrannt und voller Stolz in den Sand: Aljoscha solle Katerina Iwanowna ausrichten, dass er seine Ehre nicht verkaufe. Dann stürzt er weinend davon. Aljoscha hebt die zerknitterten Geldscheine auf, um damit zurück zu Katerina Iwanowna zu gehen.
 
@@ -406,7 +406,7 @@ Lise gesteht Aljoscha, dass ihr Brief doch ernst gemeint war, worüber sich Aljo
 
 Sie möchte Aljoscha, der sichtlich vom nahenden Tod des Starez und vom Konflikt zwischen seinen Brüdern mitgenommen ist, nicht länger aufhalten und verabschiedet sich von ihm.
 
-Dieser möchte das Haus verlassen, ohne sich von der Chochlakowa zu verabschieden, doch lauert sie ihm im Treppenhaus auf ‒ und hat offenbar alles mitbekommen. Sie hält die Liebeserklärung von Lise für eine Kinderei, und Aljoscha handle offenbar nur aus Mitleid. So wolle sie mit Lise verreisen. Doch Aljoscha besänftigt sie, dass es bis zur Eheschliessung noch lange dauern werde.
+Dieser möchte das Haus verlassen, ohne sich von der Chochlakowa zu verabschieden, doch lauert sie ihm im Treppenhaus auf – und hat offenbar alles mitbekommen. Sie hält die Liebeserklärung von Lise für eine Kinderei, und Aljoscha handle offenbar nur aus Mitleid. So wolle sie mit Lise verreisen. Doch Aljoscha besänftigt sie, dass es bis zur Eheschliessung noch lange dauern werde.
 
 Die Chochlakowa möchte unbedingt den Brief sehen, den Aljoscha (entgegen seiner früheren Behauptung gegenüber Lise) doch bei sich trägt und nicht im Kloster gelassen hat. Aljoscha verweigert dies und kehrt ins Kloster zurück.
 
@@ -414,7 +414,7 @@ Die Chochlakowa möchte unbedingt den Brief sehen, den Aljoscha (entgegen seiner
 
 Bevor er ins Kloster zurückkehrt, möchte Aljoscha unbedingt Dmitrij sehen, denn er glaubt, eine sich abzeichnende Katastrophe noch verhindern zu können. Er lauert ihm in der Gartenlaube auf, in der er sich gestern mit ihm unterhalten hat.
 
-Auf einer nahegelegenen Bank hat sich Smerdjakow singend und Gitarre spielend niedergelassen. Bei ihm sitzt die Nachbarstochter, die offenbar sehr von ihm angetan ist. Smerdjakow äussert sich abschätzig über Gedichte, das russische Volk ‒ und Karamasows, besonders über Dmitrij.
+Auf einer nahegelegenen Bank hat sich Smerdjakow singend und Gitarre spielend niedergelassen. Bei ihm sitzt die Nachbarstochter, die offenbar sehr von ihm angetan ist. Smerdjakow äussert sich abschätzig über Gedichte, das russische Volk – und Karamasows, besonders über Dmitrij.
 
 Nach diesem erkundigt sich nun Aljoscha bei ihm. Smerdjakow weiss nicht, wo Dmitrij ist, doch habe Iwan ihn heute morgen zu ihm geschickt, damit er ihn aufs Mittagessen ins Restaurant bestelle. Doch in seiner Wohnung sei er nicht anzutreffen gewesen, und seine Wirtsleute hätten gesagt, dass er bereits ausgegangen sei. Aljoscha solle aber niemandem sagen, dass er diese Information von ihm erhalten habe, denn Dmitrij habe ihm schon mehrmals gedroht, ihn umzubringen.
 
@@ -430,17 +430,17 @@ Katarina Iwanowna habe ihm gefallen, doch sei es wohl keine Liebe gewesen, da es
 
 Doch Iwan wolle sich nicht mehr darüber unterhalten, sondern über «die grossen Fragen», wie es eben alle jungen russischen Männer täten. Zwar habe er vortags die Existenz Gottes verneint, doch nur um Aljoscha damit zu necken. Tatsächlich nehme er hin, dass es Gott gebe. Ihm sei es egal, ob Gott die Menschheit erschaffen oder die Menschen Gott erfunden hätte.
 
-Habe Gott die Welt erschaffen, dann nach der euklidischen Geometrie, und den menschlichen Verstand nur mit der Vorstellung von drei Dimensionen. Da Spekulationen über eine nicht-euklidische Geometrie, nach der sich parallele Geraden in der Unendlichkeit schnitten, seinen Verstand überstiegen, würde er sich an noch höhere Fragen ‒ wie nach der Existenz Gottes ‒ nicht heranwagen. So nehme er Gott und seine für die Menschheit unergründlichen Ziele einfach als gegeben hin.
+Habe Gott die Welt erschaffen, dann nach der euklidischen Geometrie, und den menschlichen Verstand nur mit der Vorstellung von drei Dimensionen. Da Spekulationen über eine nicht-euklidische Geometrie, nach der sich parallele Geraden in der Unendlichkeit schnitten, seinen Verstand überstiegen, würde er sich an noch höhere Fragen – wie nach der Existenz Gottes – nicht heranwagen. So nehme er Gott und seine für die Menschheit unergründlichen Ziele einfach als gegeben hin.
 
-Die Welt, die Gott geschaffen habe, wolle er hingegen nicht hinnehmen. Seine Rede habe er möglichst einfältig gehalten, denn der Verstand sei ein Schurke ‒ doch die Einfalt ehrlich. Aljoscha wünscht sich, dass Iwan sich erkläre, warum er die Welt nicht hinnehme, was dieser gerne tun wolle.
+Die Welt, die Gott geschaffen habe, wolle er hingegen nicht hinnehmen. Seine Rede habe er möglichst einfältig gehalten, denn der Verstand sei ein Schurke – doch die Einfalt ehrlich. Aljoscha wünscht sich, dass Iwan sich erkläre, warum er die Welt nicht hinnehme, was dieser gerne tun wolle.
 
 ### IV) Die Revolte
 
 Iwan hält Nächstenliebe und Mitgefühl für unmöglich, da man den Menschen nicht lieben könne, wenn er sein wahres Gesicht zeige, und niemals im Stande sei zu wissen, wie sehr ein Anderer leide. Seinen Nächsten könne man nur abstrakt und aus der Ferne lieben, nicht konkret und in der Nähe.
 
-Er wolle über das Leiden der Kinder reden, denn diese seien liebenswert und noch unschuldig. Hierzu erzählt er verschiedene wahre Geschichten, in denen Kindern grosses Leid zugefügt worden ist: Von Türken, wie sie in Bulgarien Kinder unter den Augen ihrer Mütter umbrachten; von einem Jungen, der als uneheliches Kind geboren an Hirten verschenkt wird, die ihn verwahrlosen lassen, und er sich nach Erreichen des Erwachsenenalters davon macht, wegen Raubs und Totschlags zum Tode verurteilt wird, doch vor seiner Hinrichtung zum Christentum bekehrt werden kann, sodass man ihm mit der Gnade Gottes und als Bruder den Kopf abgeschlagen habe; von einem Vater, der wegen der Züchtigung seiner Tochter mit einer Rute vor Gericht landet ‒ und unter dem Beifall des Publikums freigesprochen wird; von einem Elternpaar, das seine Tochter schwer misshandelt und bei Frost über Nacht im Abort einsperrt; und schliesslich von einem General, der einen Achtjährigen vor den Augen seiner Mutter von seinen Hetzhunden zerfleischen liess, weil dieser seinen Lieblingshund mit einem Stein am Bein verletzt habe. Der Mensch habe den Teufel nach seinem Bilde erschaffen.
+Er wolle über das Leiden der Kinder reden, denn diese seien liebenswert und noch unschuldig. Hierzu erzählt er verschiedene wahre Geschichten, in denen Kindern grosses Leid zugefügt worden ist: Von Türken, wie sie in Bulgarien Kinder unter den Augen ihrer Mütter umbrachten; von einem Jungen, der als uneheliches Kind geboren an Hirten verschenkt wird, die ihn verwahrlosen lassen, und er sich nach Erreichen des Erwachsenenalters davon macht, wegen Raubs und Totschlags zum Tode verurteilt wird, doch vor seiner Hinrichtung zum Christentum bekehrt werden kann, sodass man ihm mit der Gnade Gottes und als Bruder den Kopf abgeschlagen habe; von einem Vater, der wegen der Züchtigung seiner Tochter mit einer Rute vor Gericht landet – und unter dem Beifall des Publikums freigesprochen wird; von einem Elternpaar, das seine Tochter schwer misshandelt und bei Frost über Nacht im Abort einsperrt; und schliesslich von einem General, der einen Achtjährigen vor den Augen seiner Mutter von seinen Hetzhunden zerfleischen liess, weil dieser seinen Lieblingshund mit einem Stein am Bein verletzt habe. Der Mensch habe den Teufel nach seinem Bilde erschaffen.
 
-Nach seiner Meinung gefragt antwortet Aljoscha, dass man diesen General erschiessen müsse. Iwan meint, dass der Mensch eben nach Vergeltung trachte ‒ hier und jetzt, und nicht später einmal in der Unendlichkeit. Was sei eine Harmonie wert, zu welcher die Mutter einem solchen General vergebe, und all die Tränen dieser Kinder ungesühnt blieben? So eine Mutter könne nur ihr eigenes Leid, doch niemals das durch ihr Kind erlittene vergeben.
+Nach seiner Meinung gefragt antwortet Aljoscha, dass man diesen General erschiessen müsse. Iwan meint, dass der Mensch eben nach Vergeltung trachte – hier und jetzt, und nicht später einmal in der Unendlichkeit. Was sei eine Harmonie wert, zu welcher die Mutter einem solchen General vergebe, und all die Tränen dieser Kinder ungesühnt blieben? So eine Mutter könne nur ihr eigenes Leid, doch niemals das durch ihr Kind erlittene vergeben.
 
 Eine solche Harmonie wolle er nicht hinnehmen, auch wenn er dadurch im Unrecht sei. Aljoscha bezeichnet dies als eine Revolte, doch Iwan entgegnet, ob es Ruhe und Frieden auf der Welt wert seien, wenn hierzu selbst nur ein einziges Kind zu Tode gemartert werden müsste, was Aljoscha verneint: Es gäbe nur ein einziges Wesen, das dies vergeben könne und hierzu auch das Recht hätte, weil es sein schuldloses Blut geopfert habe.
 
@@ -448,7 +448,7 @@ Darüber habe Iwan ein Poem verfasst, wovon er Aljoscha gerne erzählen wolle.
 
 ### V) Der Grossinquisitor
 
-Iwans Poem spielt im sechzehnten Jahrhundert in Sevilla ‒ zum Höhepunkt der Inquisition ‒ und handelt von der Wiederkunft Christi. Jesus tritt am Tag auf, nach dem der Grossinquisitor fast einhundert Heretiker auf dem Scheiterhaufen hat verbrennen lassen.
+Iwans Poem spielt im sechzehnten Jahrhundert in Sevilla – zum Höhepunkt der Inquisition – und handelt von der Wiederkunft Christi. Jesus tritt am Tag auf, nach dem der Grossinquisitor fast einhundert Heretiker auf dem Scheiterhaufen hat verbrennen lassen.
 
 Das Volk erkennt Jesus, strömt ihm entgegen und fällt ihm zu Füssen. Er heilt einen blinden Greis und erweckt ein Mädchen in ihrem Sarg liegend wieder zum Leben. Als der Grossinquisitor das sieht, lässt er Jesus von seiner Wache verhaften und in ein Verlies werfen.
 
@@ -456,15 +456,15 @@ Des Nachts besucht der greise Grossinquisitor den Gefangenen, fragt ihn, warum e
 
 Jesus habe ihnen die Freiheit gebracht, und die Menschheit hätte sich fünfzehn Jahrhunderte lang damit abgeplagt. Diese Freiheit ende nun (durch die Inquisition, so Iwan), und die Menschen könnten endlich glücklich werden, denn der Rebell könne bloss unglücklich sein.
 
-Die drei Versuchungen [Matthäus 4.1-11] ‒ auf die kein irdischer Verstand, sondern nur der absolute Geist kommen könne ‒ prophezeiten und enthielten die ganze künftige Menschheitsgeschichte. Wäre Jesus der Versuchung nicht widerstanden, hätte er dadurch das menschliche Leiden um tausend Jahre verkürzen können.
+Die drei Versuchungen [Matthäus 4.1-11] – auf die kein irdischer Verstand, sondern nur der absolute Geist kommen könne – prophezeiten und enthielten die ganze künftige Menschheitsgeschichte. Wäre Jesus der Versuchung nicht widerstanden, hätte er dadurch das menschliche Leiden um tausend Jahre verkürzen können.
 
 Freiheit und Brot für alle seien nicht miteinander vereinbar, denn die Menschen könnten nicht teilen. Millionen hätten für das irdische Brot Gehorsam gelernt, doch nur zehntausende folgten dem Pfad zum himmlischen Brot. Er habe es abgelehnt, die Menschneit unter dem Banner des irdischen Brotes in einem gemeinsamen Glauben zu einigen und dadurch in Kauf genommen, dass sich die Menschen aufgrund ihres unterschiedlichen Glaubens bekriegten.
 
 Ruhe und selbst der Tod seien dem Menschen lieber als die Wahl zwischen Gut und Böse. Durch das Widerstehen der drei Versuchungen habe er die drei Kräfte des Wunders, des Geheimnisses und der Autorität von sich gewiesen, womit man das Gewissen der Menschen hätte unterwerfen können.
 
-Der Mensch, der das Wunder verneine, verneine auch Gott ‒ und schaffe sich seine eigenen Wunder. Die Menschen seien Sklaven, und Jesus habe sie überschätzt und überfordert, als er ihnen die Freiheit schenkte anstelle des Wunders, als er es unterliess, vom Kreuz herabzusteigen.
+Der Mensch, der das Wunder verneine, verneine auch Gott – und schaffe sich seine eigenen Wunder. Die Menschen seien Sklaven, und Jesus habe sie überschätzt und überfordert, als er ihnen die Freiheit schenkte anstelle des Wunders, als er es unterliess, vom Kreuz herabzusteigen.
 
-Hätte er wirklich Mitleid mit den Menschen gehabt, hätte er ihnen eine solche Last nicht aufgebürdet. Nur wenige Starke ‒ die Jünger Jesu und ihre Nachfahren ‒ seien ihm aus eigener Kraft gefolgt. Der grosse Rest der armen Seelen musste von der Kirche geführt werden, um sie von ihrer schweren Last zu befreien.
+Hätte er wirklich Mitleid mit den Menschen gehabt, hätte er ihnen eine solche Last nicht aufgebürdet. Nur wenige Starke – die Jünger Jesu und ihre Nachfahren – seien ihm aus eigener Kraft gefolgt. Der grosse Rest der armen Seelen musste von der Kirche geführt werden, um sie von ihrer schweren Last zu befreien.
 
 Man folge nicht mehr ihm sondern dem Papst, und bald schon könne das Glück den Menschen auf der ganzen Welt zuteil werden. Jesus hätte dies tun können, wäre er der dritten Versuchung nicht widerstanden. Doch statt ein Weltreich ewigen Friedens zu gründen, habe er die Menschneit in den Abgrund der Sklaverei geführt. Man werde die zersprengte Herde wieder zusammenführen, und diese werde sich gehorsam unterwerfen.
 
@@ -474,9 +474,9 @@ Aljoscha sieht in diesem Grossinquisitor eine Widerspiegelung Roms, und nicht de
 
 Iwan ergänzt, dass der Grossinquisitor am Ende seines Lebens angekommen eingesehen habe, dass sich die Menschheit auf den Weg in die Vernichtung zumindest glücklich fühle, wenn sie sich der Versuchung hingeben dürfe und man ihnen die Täuschung aufrecht erhalte.
 
-Die Erzählung endet damit, dass der Gefangene, nachdem er sich die Rede des Grossinquisitor geduldigt angehört hat, diesem nicht antwortet, sondern ihm einen Kuss gibt, worauf der erschauernde Grossinquisitor ihn in die Freiheit entlässt ‒ mit der Anweisung, nie mehr wiederzukommen.
+Die Erzählung endet damit, dass der Gefangene, nachdem er sich die Rede des Grossinquisitor geduldigt angehört hat, diesem nicht antwortet, sondern ihm einen Kuss gibt, worauf der erschauernde Grossinquisitor ihn in die Freiheit entlässt – mit der Anweisung, nie mehr wiederzukommen.
 
-Iwan meint, dass er sich von der Formel, dass alles erlaubt sei, nicht lossagen könne ‒ und darum in Aljoschas Herzen kein Platz für ihn sei. Aljoscha entgegnet dies mit einem Kuss, den Iwan sogleich als Plagiat erkennt. Iwan verabschiedet sich mit der Bitte, dass Aljoscha das Besprochene und Dmitrij bei einem künftigen Treffen nicht ansprechen solle.
+Iwan meint, dass er sich von der Formel, dass alles erlaubt sei, nicht lossagen könne – und darum in Aljoschas Herzen kein Platz für ihn sei. Aljoscha entgegnet dies mit einem Kuss, den Iwan sogleich als Plagiat erkennt. Iwan verabschiedet sich mit der Bitte, dass Aljoscha das Besprochene und Dmitrij bei einem künftigen Treffen nicht ansprechen solle.
 
 ### VI) Ein vorerst noch höchst Unklares
 
@@ -484,7 +484,7 @@ Iwan kehrt zurück ins väterliche Haus, wobei ihn ein Widerwille plagt, über d
 
 Smerdjakow klagt, dass er von Fjodor Pawlowitsch und von Dmitrij belagert werde was den noch nicht erfolgten Besuch von Gruschenka betrifft. Er fürchte sich vor den beiden. Mit einem simulierten epileptischen Anfall, der durchaus mehrere Tage anhalten könne, wolle er sich aus der Affäre ziehen.
 
-Mit Fjodor Pawlowitsch, der sich des Nachts im Haus einschliesse, habe er geheime Klopfzeichen vereinbart ‒ diese jedoch unter Drohung an Dmitrij verraten. Wenn Dmitrij vorbeikomme und er (Smerdjakow) gerade einen Anfall erleide, könne er nicht einschreiten. Auch Grigorij falle wegen seiner Krankheit und einer von seiner Frau verabreichten Kur als Wächter aus.
+Mit Fjodor Pawlowitsch, der sich des Nachts im Haus einschliesse, habe er geheime Klopfzeichen vereinbart – diese jedoch unter Drohung an Dmitrij verraten. Wenn Dmitrij vorbeikomme und er (Smerdjakow) gerade einen Anfall erleide, könne er nicht einschreiten. Auch Grigorij falle wegen seiner Krankheit und einer von seiner Frau verabreichten Kur als Wächter aus.
 
 Dmitrij wisse vom versiegelten und für Gruschenka bestimmten Kuvert mit den dreitausend Rubel, die Dmitrij so dringend benötige. Gruschenka wolle keinen armen Schlucker wie Dmitrij heiraten. Falls der Alte, der kein Testament ausgestellt hat, sterben sollte, würden seine Söhne je vierzigtausend Rubel erben. Falls Gruschenka den Vater heirate, würden die Söhne jedoch leer ausgehen.
 
@@ -500,7 +500,7 @@ Iwan steckt das hierzu von seinem Vater ausgestellte Schreiben ein, wolle sich a
 
 Auf der Fahrt über diese Bemerkung rätselnd entscheidet sich Iwan bei der Poststation am Scheidepunkt seines Weges angekommen, dass er doch direkt nach Moskau fahre. Er lässt eine Kutsche zum Vater schicken um ihn darüber zu informieren, dass Iwan nicht nach Tscheremaschnja unterwegs sei.
 
-Bei diesem zu Hause stürzt Smerdjakow derweil von der Kellertreppe und erleidet dabei einen schweren epileptischen Anfall. Grigorij liegt gleichzeitig mit einem steifen Kreuz flach, sodass seine Frau Fjodor Pawlowitsch bekocht ‒ sehr zu dessen Unzufriedenheit. Doch dieser ist überzeugt davon, dass Gruschenka nun endlich auftauchen werde und wartet gespannt auf die vereinbarten Klopfzeichen.
+Bei diesem zu Hause stürzt Smerdjakow derweil von der Kellertreppe und erleidet dabei einen schweren epileptischen Anfall. Grigorij liegt gleichzeitig mit einem steifen Kreuz flach, sodass seine Frau Fjodor Pawlowitsch bekocht – sehr zu dessen Unzufriedenheit. Doch dieser ist überzeugt davon, dass Gruschenka nun endlich auftauchen werde und wartet gespannt auf die vereinbarten Klopfzeichen.
 
 ## Sechstes Buch: Der russische Mönch
 
@@ -508,13 +508,13 @@ Bei diesem zu Hause stürzt Smerdjakow derweil von der Kellertreppe und erleidet
 
 In der Zelle des Starez angekommen findet Aljoscha diesen auf einem Stuhl sitzend im Gespräch mit seinen langjährigen Freunden: die drei Priestermönche Vater Jossif, Vater Paissij und Vater Michail (der Vorsteher der Einsiedelei); Bruder Anfim, mit dem der Starez in jungen Jahren lange durch Russland gepilgert ist; sowie dem Zellendiener Porfirij, der die vortags erhaltene Spende der Frau, die mit ihrer kranken Tochter zum Starez kam, einer kinderreichen Frau überbrachte, deren Haus abgebrannt war.
 
-Der Starez erkundigt sich, ob Aljoscha den Bruder angetroffen habe. Aljoscha antwortet, dass er nur den einen Bruder finden konnte, den anderen jedoch vergebens suchte. Der Starez interessiert sich jedoch für diesen anderen ‒ vor dem er sich vortags bis zur Erde verneigte.
+Der Starez erkundigt sich, ob Aljoscha den Bruder angetroffen habe. Aljoscha antwortet, dass er nur den einen Bruder finden konnte, den anderen jedoch vergebens suchte. Der Starez interessiert sich jedoch für diesen anderen – vor dem er sich vortags bis zur Erde verneigte.
 
 Aljoscha müsse diesen am nächsten Tag unbedingt finden, um etwas Furchtbares zu verhindern. Denn er habe sich vor diesem wegen seines zukünftigen grossen Leidens verneigt. Einen solchen Blick wie den gestrigen von Dmitrij habe der Starez erst ein- oder zweimal in seinem Leben gesehen, und darin spiegelte sich das ganze Geschick dieses Menschen.
 
-Für sein Leben ausserhalb des Klosters prophezeit er Aljoscha, dass er viele Feinde haben werde, die ihn jedoch liebten, wobei Aljoscha glücklich sein werde. Aljoscha erinnere ihn ‒ trotz geringer äusserlicher, aber umso grösserer geistiger Ähnlichkeit ‒ an seinen älteren Bruder, der jedoch bereits mit siebzehn Jahren verstorben sei. Der Zellendiener Porfirij, der sich oftmals sichtlich gegenüber Aljoscha zurückgesetzt vorkam, tröstet er mit dieser Tatsache.
+Für sein Leben ausserhalb des Klosters prophezeit er Aljoscha, dass er viele Feinde haben werde, die ihn jedoch liebten, wobei Aljoscha glücklich sein werde. Aljoscha erinnere ihn – trotz geringer äusserlicher, aber umso grösserer geistiger Ähnlichkeit – an seinen älteren Bruder, der jedoch bereits mit siebzehn Jahren verstorben sei. Der Zellendiener Porfirij, der sich oftmals sichtlich gegenüber Aljoscha zurückgesetzt vorkam, tröstet er mit dieser Tatsache.
 
-Das folgende Gespräch, in welchem der Starez seine Lebenserinnerung schildert, wird von Aljoscha festgehalten ‒ und wohl auch um frühere Erzählungen darüber ergänzt.
+Das folgende Gespräch, in welchem der Starez seine Lebenserinnerung schildert, wird von Aljoscha festgehalten – und wohl auch um frühere Erzählungen darüber ergänzt.
 
 ### II) Aus der Vita des in Gott entschlafenen Hieromonachos Starez Sossima, nach seinen eigenen Worten zusammengestellt von Alexej Fjodorowitsch Karamasow
 
@@ -524,7 +524,7 @@ Das folgende Gespräch, in welchem der Starez seine Lebenserinnerung schildert, 
 
 Er, Sinowij, ist in eine zwar adelige, aber eher einfache Familie geboren worden. Der Vater starb, als er noch zwei Jahre alt war und hinterliess der Mutter eine Geldsumme gross genug für ein Auskommen mit ihren beiden Kindern.
 
-Sein Bruder Markel ist acht Jahre älter und eher schweigsam. Im Gymnasium hat er keine Freunde, besucht aber einen Winter lang einen freigeistigen Gelehrten, der aus Moskau in die Provinz verbannt worden ist. Bald darauf verweigert Martel das Fasten und streitet die Existenz Gottes ab ‒ sehr zum Schrecken seiner Mutter, seines Bruders und der Bediensteten.
+Sein Bruder Markel ist acht Jahre älter und eher schweigsam. Im Gymnasium hat er keine Freunde, besucht aber einen Winter lang einen freigeistigen Gelehrten, der aus Moskau in die Provinz verbannt worden ist. Bald darauf verweigert Martel das Fasten und streitet die Existenz Gottes ab – sehr zum Schrecken seiner Mutter, seines Bruders und der Bediensteten.
 
 Im Frühjahr erkrankt er unheilbar an der Schwindsucht, und seine Mutter drängt ihm zum Empfang des Abendmahls. Den Ernst der Lage erkennend, aber auch seiner Mutter zuliebe, empfängt er in der Karwoche zum ersten mal wieder die Sakramente.
 
@@ -538,9 +538,9 @@ Das Lesen lernt er aus einem Buch mit biblischen Geschichten, das er immer noch 
 
 Nun sei er zwar am Ende seines irdischen Lebens angelangt, doch erfülle ihn die Aussicht auf das nahende ewige Leben mit Freude.
 
-Von den Priestern vernehme man, dass sie wegen ihres geringen Auskommens ‒ gerade auf dem Lande ‒ Mühe hätten, die Gläubigen in der Kirche zu behalten. Die Priester sollten einmal wöchentlich die Kinder bei sich besammeln, worauf auch bald ihre Väter kommen würden. Man solle ihnen ohne grosse Reden aus der Bibel vorlesen, etwa die Geschichte von Joseph, der von seinen Brüdern in die Sklaverei verkauft worden ist, er diese aber trotzdem noch liebt und später wiederfindet. Auch im einfachen Volk werde man das alles verstehen.
+Von den Priestern vernehme man, dass sie wegen ihres geringen Auskommens – gerade auf dem Lande – Mühe hätten, die Gläubigen in der Kirche zu behalten. Die Priester sollten einmal wöchentlich die Kinder bei sich besammeln, worauf auch bald ihre Väter kommen würden. Man solle ihnen ohne grosse Reden aus der Bibel vorlesen, etwa die Geschichte von Joseph, der von seinen Brüdern in die Sklaverei verkauft worden ist, er diese aber trotzdem noch liebt und später wiederfindet. Auch im einfachen Volk werde man das alles verstehen.
 
-Als er einst auf Pilgerreise einen Jüngling trifft, der den Wald über alles liebt, erklärt er diesem, dass Gott auch mit den Tieren sei, denn in der Natur sei alles Wahrheit ‒ nur der Mensch sündige.
+Als er einst auf Pilgerreise einen Jüngling trifft, der den Wald über alles liebt, erklärt er diesem, dass Gott auch mit den Tieren sei, denn in der Natur sei alles Wahrheit – nur der Mensch sündige.
 
 ##### c) Erinnerungen an die Knaben- und Jugendjahre des Starez Sossima, als er noch in der Welt war. Das Duell
 
@@ -576,7 +576,7 @@ Nachdem er sich jahrelang gequält und endlich vom Vorfall beim Duell erfahren h
 
 Mittlerweile quält sich auch Sossima wegen seines Besuchers, doch dieser fasst endlich den Entschluss zu seinem Geständnis am darauffolgenden Tag, kehrt aber nach dieser Ankündigung tief in der Nacht zu Sossima zurück. Er betrachtet seinen Gastgeber nur schweigend und verabschiedet sich dann aufs Neue mit einem Kuss. Sossima solle sich dieses zweiten Besuches unbedingt erinnern, so der Gast zu ihm.
 
-Am darauffolgenden Tag ‒ an seinem Geburtstag, zu dem er Gäste aus der ganzen Stadt bei sich versammelt ‒ liest er eine an die Obrigkeit verfasste Selbstanzeige gegen sich vor und präsentiert die Beweisstücke, die er die ganzen Jahre lang bei sich aufbewahrte. Ein Verfahren wird zwar gegen ihn eröffnet, doch niemand will ihm glauben. Bald verdächtigt man Sossima: die Geschichte gehe auf seine Machenschaften zurück! 
+Am darauffolgenden Tag – an seinem Geburtstag, zu dem er Gäste aus der ganzen Stadt bei sich versammelt – liest er eine an die Obrigkeit verfasste Selbstanzeige gegen sich vor und präsentiert die Beweisstücke, die er die ganzen Jahre lang bei sich aufbewahrte. Ein Verfahren wird zwar gegen ihn eröffnet, doch niemand will ihm glauben. Bald verdächtigt man Sossima: die Geschichte gehe auf seine Machenschaften zurück! 
 
 Der reuige Täter erkrankt kurz nach seinem Geständnis und wird bald darauf für geisteskrank gehalten. Auf seinem Sterbebett, zu dem Sossima nach einigen Versuchen endlich vorgelassen wird, gesteht er diesem den Grund für seine damalige Rückkehr nach seinem letzten Besuch bei ihm: Er habe ihn ermorden wollen!
 
@@ -598,11 +598,11 @@ Der Weg des Mönches über Gehorsam, Gebet und Fasten führe in die Freiheit; in
 
 Die Sünde fresse sich von oben nach unten durch die Gesellschaft. Das Trinken führe zu Grausamkeit selbst an Kindern, die in der Fabrik arbeiten müssten statt sich des Lebens freuen zu können. Das Volk glaube noch an Gott, doch die Höheren wollten eine wissenschaftliche Ordnung ohne Gott errichten, wo es keine Sünde mehr gebe und also alles erlaubt sei.
 
-Die Mönche sollen den Glauben des Volkes bewahren, denn Gott habe das russische Volk errettet ‒ und errette es von Neuem. Der Reiche werde sich seines Reichtums schämen, und der Arme werde ihm diese Demut vergelten.
+Die Mönche sollen den Glauben des Volkes bewahren, denn Gott habe das russische Volk errettet – und errette es von Neuem. Der Reiche werde sich seines Reichtums schämen, und der Arme werde ihm diese Demut vergelten.
 
-Acht Jahre nach der Trennung von seinem Burschen Afanassij habe er diesen durch Zufall wiedergetroffen. Dieser sei gerührt gewesen von Sossimas Anblick ‒ und darüber, dass er sein Vermögen dem Kloster abtrat. Einst sei der eine Herr und der andere Diener gewesen ‒ da seien sie beide zu Brüdern geworden.
+Acht Jahre nach der Trennung von seinem Burschen Afanassij habe er diesen durch Zufall wiedergetroffen. Dieser sei gerührt gewesen von Sossimas Anblick – und darüber, dass er sein Vermögen dem Kloster abtrat. Einst sei der eine Herr und der andere Diener gewesen – da seien sie beide zu Brüdern geworden.
 
-Wenn der Mensch sich nicht länger andere Menschen zum Diener machen wolle und stattdessen zum Diener seiner Mitmenschen werde, bilde dies das Fundament für ein neues Zeitalter. Denn eine gerechte Ordnung entstehe nicht durch das Blutvergiessen, wodurch sich auch die letzten beiden Menschen noch ausrotten würden ‒ durch Mord und Selbstmord.
+Wenn der Mensch sich nicht länger andere Menschen zum Diener machen wolle und stattdessen zum Diener seiner Mitmenschen werde, bilde dies das Fundament für ein neues Zeitalter. Denn eine gerechte Ordnung entstehe nicht durch das Blutvergiessen, wodurch sich auch die letzten beiden Menschen noch ausrotten würden – durch Mord und Selbstmord.
 
 #### g) Vom Gebet, von der Liebe und von der Berührung mit anderen Welten
 
@@ -636,15 +636,15 @@ Nachdem Vater Paissij den Leichnam des Starez zur Beisetzung hergerichtet hat, w
 
 Menschenmengen strömen bald dem Kloster entgegen; viele bringen in Erwartung an eine Wunderheilung ihre Kranken mit. Vater Paissij hält dies für unschicklich, ja gar für eine Anfechtung. Besonders der Mönch aus Obdorsk und Rakitin beobachten das Treiben mit sehr geschäftiger Aufmerksamkeit; letzterer im Auftrag der Chochlakowa, der er alles schriftlich berichten soll.
 
-Vater Paissij findet Aljoscha am Grab des Starez Iow, einem Vorgänger Sossimas, weinend vor. Er solle bedenken, wo der Starez jetzt sei und sich seiner freuen; doch Vater Paissij kann die Tränen Aljoschas verstehen ‒ und ist ihnen selber sehr nahe.
+Vater Paissij findet Aljoscha am Grab des Starez Iow, einem Vorgänger Sossimas, weinend vor. Er solle bedenken, wo der Starez jetzt sei und sich seiner freuen; doch Vater Paissij kann die Tränen Aljoschas verstehen – und ist ihnen selber sehr nahe.
 
-Ab Mittag beginnt dem Sarg ein Verwesungsgeruch zu entströmen, der am Nachmittag ganz deutlich wahrnehmbar wird. Zwar ist dies selbst beim Leichnam eines Mönches nach einem redlich geführten Leben zu erwarten, doch gab es auch welche, deren Leichnam kein Verwesungsgeruch, sondern sogar einen Wohlgeruch ausgeströmt haben sollen ‒ wie etwa bei den Starzen Iow und Warssonofij ‒ beides Vorgänger Sossimas.
+Ab Mittag beginnt dem Sarg ein Verwesungsgeruch zu entströmen, der am Nachmittag ganz deutlich wahrnehmbar wird. Zwar ist dies selbst beim Leichnam eines Mönches nach einem redlich geführten Leben zu erwarten, doch gab es auch welche, deren Leichnam kein Verwesungsgeruch, sondern sogar einen Wohlgeruch ausgeströmt haben sollen – wie etwa bei den Starzen Iow und Warssonofij – beides Vorgänger Sossimas.
 
 Durch diesen Verwesungsgeruch fühlen sich viele Neider bestätigt, und schon bald gewinnt die Minderheit der Zweifler unter den Mönchen meinungsmässig Oberhand. Vater Jossif tritt den Lästerern entgegen, dass nicht der ausbleibende Verwesungsgeruch, sondern die Farbe der Gebeine (gelb statt schwarz) die Verherrlichung des Entschlafenen durch Gott anzeige. Die Spötter kann er damit nicht überzeugen, und schon bald werden überall Anschuldigungen betreffend des Lebenswandels und der Lehre des verstorbenen Starez laut.
 
-Vom Obdorsker Mönch über das Geschehen informiert betritt Vater Ferapont die Zelle, in der er zunächst lauthals die Teufel austreibt, wie er es beim Betreten eines jeden Raumes zu tun pflegt. Nach mehreren spöttischen Bemerkungen und Anschuldigungen schickt Vater Paissij ihn fort, worauf er draussen vor der Einsidelei triumphierend zur Sonne betet ‒ und bald eine Gefolgschaft, die sich um ihn versammelt, Ferapont für den wahren Heiligen hält.
+Vom Obdorsker Mönch über das Geschehen informiert betritt Vater Ferapont die Zelle, in der er zunächst lauthals die Teufel austreibt, wie er es beim Betreten eines jeden Raumes zu tun pflegt. Nach mehreren spöttischen Bemerkungen und Anschuldigungen schickt Vater Paissij ihn fort, worauf er draussen vor der Einsidelei triumphierend zur Sonne betet – und bald eine Gefolgschaft, die sich um ihn versammelt, Ferapont für den wahren Heiligen hält.
 
-Als die Glocke zum Gottesdienst läutet, geht Aljoscha an Vater Paissij vorbei ‒ doch nicht der Kirche entgegen. Er verlässt die Einsiedelei.
+Als die Glocke zum Gottesdienst läutet, geht Aljoscha an Vater Paissij vorbei – doch nicht der Kirche entgegen. Er verlässt die Einsiedelei.
 
 ### II) Eine ganz besondere Minute
 
@@ -664,17 +664,17 @@ Gruschenkas Gönner, der Kaufmann Samssonow, liess das damals achtzehnjährige M
 
 Aus dem einst mageren und mitleiderregenden Mädchien ist mittlerweile eine stattliche wie dreiste Schönheit geworden, die sich aufs Geschäftemachen versteht. Von Samssonow, zu dem sie ein gegenseitiges Vertrauensverhältnis unterhält, bekam sie achttausend Rubel; in seinem Testament taucht ihr Name jedoch nicht auf.
 
-Das Buhlen Fjodor Pawlowitschs um sie nimmt Samssonow mit Belustigung zur Kenntnis ‒ dasjenige von Dmitrij bereitet ihm hingegen Sorgen. Gruschenka solle sich nur auf den alten Karamasow einlassen, wenn er sie heirate und ihr vorher eine gewisse Summe überlasse. Auf Dmitrij solle sie sich hingegen nicht einlassen. Man sagt, dass sie ihn nur aus Angst vor ihm empfange.
+Das Buhlen Fjodor Pawlowitschs um sie nimmt Samssonow mit Belustigung zur Kenntnis – dasjenige von Dmitrij bereitet ihm hingegen Sorgen. Gruschenka solle sich nur auf den alten Karamasow einlassen, wenn er sie heirate und ihr vorher eine gewisse Summe überlasse. Auf Dmitrij solle sie sich hingegen nicht einlassen. Man sagt, dass sie ihn nur aus Angst vor ihm empfange.
 
 Über den unerwarteten Besuch Rakitins und Aljoschas ist sie sichtlich erschrocken, denn sie fürchtet sich einerseits vor dem Besuch Dmitrijs und wartet andererseits auf eine Nachricht. Gruschenka zeigt sich erfreut über Aljoschas Besuch und setzt sich sogleich auf dessen Schoss, wobei Aljoscha plötzlich keine Angst mehr vor ihr empfindet, sondern grosses Interesse für die im Gegensatz zum letzten Aufeinandertreffen völlig natürlich und unverstellt auftretende Gruschenka zeigt.
 
 Sie erwarte eine Nachricht von ihrem Offizier, brauche sich nun nicht mehr vor Dmitrij zu fürchten und sei darüber besorgt, dass ihr Aljoscha den Auftritt bei Katerina Iwanowna immer noch verüble. Sie liebe Aljoscha von ganzem Herzen, wenn auch auf eine andere Weise als ihren Offizier; Aljoscha sei ihr Gewissen.
 
-Als Rakitin ihr mitteilt, dass Starez Sossima verstorben sei, äussert sie Mitleid mit Aljoscha. Er meint, dass er sich sich zu ihr begeben habe, um zu sündigen, doch sie habe ihn geschont ‒ und er habe dadurch in ihr eine Schwester gefunden. Rakitin entgegnet, dass sie ihn gerade eben noch habe verschlingen wollen. Gruschenka reagiert empört, dass dies zwar stimme, sie aber trotz ihres bösen Charakters «ein Zwiebelchen gereicht» habe.
+Als Rakitin ihr mitteilt, dass Starez Sossima verstorben sei, äussert sie Mitleid mit Aljoscha. Er meint, dass er sich sich zu ihr begeben habe, um zu sündigen, doch sie habe ihn geschont – und er habe dadurch in ihr eine Schwester gefunden. Rakitin entgegnet, dass sie ihn gerade eben noch habe verschlingen wollen. Gruschenka reagiert empört, dass dies zwar stimme, sie aber trotz ihres bösen Charakters «ein Zwiebelchen gereicht» habe.
 
 Dieser Ausdruck entstamme einer Fabel: Als ein altes, böses Weib stirbt, wird sie von Teufeln in einen Feuersee geworfen. Ihr Schutzengel erinnert sich einer guten Tat von ihr: Sie habe einer Bettlerin ein Zwiebelchen aus ihrem Garten geschenkt. Als der Engel Gott davon erzählt, er laubt er es ihm, sie an diesem Zwiebelchen aus dem Feuersee zu ziehen. Wenn das Zwiebelchen halte, dürfe sie ins Paradies eingehen; sonst bleibe sie für immer in den Flammen. Als der Engel sie herauszieht, klammern sich andere Sünder an ihr fest, um ebenfalls errettet zu werden. Doch sie schlägt mit den Beiden um sich, um die anderen abzuschütteln: es sei _ihr_ Zwiebelchen! Da reisst das Zwiebelchen, und das Weib fällt für immer in die Flammen, worauf der Engel weinend davongeht.
 
-Gruschenka sei selber dieses böse Weib, und wenn Aljoscha sie lobe, so müsse sie sich dafür schämen. Rakitin habe sie fünfundzwanzig Rubel versprochen, wenn er Aljoscha zu ihr bringe ‒ diese bezahlt sie ihm auch sogleich aus. Rakitin streitet dies zwar ab, steckt aber das Geld ein. Er ist wütend darüber, dass Gruschenka ihm das Geld vor Aljoschas Augen gegeben hat.
+Gruschenka sei selber dieses böse Weib, und wenn Aljoscha sie lobe, so müsse sie sich dafür schämen. Rakitin habe sie fünfundzwanzig Rubel versprochen, wenn er Aljoscha zu ihr bringe – diese bezahlt sie ihm auch sogleich aus. Rakitin streitet dies zwar ab, steckt aber das Geld ein. Er ist wütend darüber, dass Gruschenka ihm das Geld vor Aljoschas Augen gegeben hat.
 
 Sie spricht zu Aljoscha: Sie sei eine bissige Hündin und habe ihn verschlingen und verderben wollen. Jahrelang habe sie Rachegelüste gegen ihren Offizier von damals gehegt. Vor einem Monat habe er ihr geschrieben, dass er nun verwitwet sei und zu ihr komme, und sie wolle schuldbewusst wie ein kleines Hündchen auf ihn zukriechen. Mit Dmitrij habe sie bloss gespielt.
 
@@ -694,7 +694,7 @@ Um neun Uhr kommt Aljoscha beim Kloster an, wo er entgegen der Regel noch Einlas
 
 Aljoscha kniet sich zum Gebet nieder, doch wird dabei immer wieder von losen Gedankenfetzen abgelenkt. Gerade wird vom ersten Wunder an der Hochzeit von Kana gelesen, wo Jesus das Wasser in Wein verwandelte. Im Traum sieht sich der kniend eingeschlafene Aljoscha an diesem Hochzeitsfest, wo auch Starez Sossima zugegen ist. Sie allen seien eingeladen, weil sie ein Zwiebelchen gereicht hätten. Auch Aljoscha habe an diesem Tag einer Dürstenden ein Zwiebelchen gereicht.
 
-Als er erwacht, schaut er zunächst zum Sarg, stürzt dann aus der Zelle. Er betrachtet den klaren Sternenhimmel, stürzt auf die Erde nieder, küsst und umarmt sie ‒ und tränkt sie schliesslich mit seinen Tränen der Verzückung. Da spürt er, wie sich etwas aus dem Himmelsgewölbe in seine Seele herabsenkt und erhebt sich, als sei er ein neuer Mensch geworden.
+Als er erwacht, schaut er zunächst zum Sarg, stürzt dann aus der Zelle. Er betrachtet den klaren Sternenhimmel, stürzt auf die Erde nieder, küsst und umarmt sie – und tränkt sie schliesslich mit seinen Tränen der Verzückung. Da spürt er, wie sich etwas aus dem Himmelsgewölbe in seine Seele herabsenkt und erhebt sich, als sei er ein neuer Mensch geworden.
 
 Er verlässt das Kloster drei Tage später, wie es ihn der Starez geheissen hat.
 
@@ -704,7 +704,7 @@ Er verlässt das Kloster drei Tage später, wie es ihn der Starez geheissen hat.
 
 Dmitrij, dessen Brüder ihn zwei Tage lang vergebens gesucht haben, quält sich derweil mit der Frage, ob Gruschenka sich für ihn oder für seinen Vater entscheiden werde. Im Offizier, der bald zu Gruschenka kommen möchte, wähnt er keinen Nebenbuhler, obwohl Gruschenka ihm dessen Brief vor einem Monat zeigte; zu fest ist Dmitrij auf den kommenden Zusammenstoss mit seinem Vater fokussiert.
 
-Mit Gruschenka, wenn sie sich denn für ihn entscheide, möchte er weit weg reisen um sich inkognito mit ihr niederzulassen ‒ um anschliessend mit ihr ein tugendhaftes Leben zu führen. Da ihm hierzu das Geld fehlt, er aus Stolz nicht von Gruschenkas Geld leben will und stärker werdende Gewissensbisse wegen der unterschlagenen dreitausend Rubel von Katerina Iwanowna hat, die er ihr zuallererst zurückgeben möchte, will er das fehlende Geld nun schnellstmöglich selber auftreiben.
+Mit Gruschenka, wenn sie sich denn für ihn entscheide, möchte er weit weg reisen um sich inkognito mit ihr niederzulassen – um anschliessend mit ihr ein tugendhaftes Leben zu führen. Da ihm hierzu das Geld fehlt, er aus Stolz nicht von Gruschenkas Geld leben will und stärker werdende Gewissensbisse wegen der unterschlagenen dreitausend Rubel von Katerina Iwanowna hat, die er ihr zuallererst zurückgeben möchte, will er das fehlende Geld nun schnellstmöglich selber auftreiben.
 
 In Gruschenkas Gönner Kusjma Samssonow sieht Dmitrij einen Verbündeten, von dem er glaubt, dass er Gruschenka lieber in der Ehe mit ihm als mit seinem Vater sehen würde. Er beschliesst, bei Samssonow wegen seines Plans vorzusprechen, wird aber erst zu ihm vorgelassen, als er diesen in einem Zettel darüber informiert, dass es eine dringende Angelegenheit Gruschenkas betreffe.
 
@@ -732,11 +732,11 @@ Dmitrij gehört zu der Sorte Eifersüchtiger, die sofort zum Verzeihen bereit si
 
 Da er all sein Geld für die Reise ausgegeben hat, versetzt er seine Duellierpistolen für zehn Rubel. Von der Nachbarin seines Vaters erfährt er, dass Iwan abgereist sei und Smerdjakow einen Sturz mit darauffolgendem Anfall erlitten habe. Es sei aber niemand zum väterlichen Haus gekommen.
 
-Nun schreitet Dmitrij zur Ausführung seines «Plans»: Er will seine Rechte am Dorf Tscheremaschnja der Chochlakowa als Pfand für ein Darlehen in der Höhe von dreitausend Rubel hinterlegen. Diese werde bestimmt darauf eingehen, da er sich mit diesem Geld von Katerina Iwanowna lösen könne, die dann seinen Bruder Iwan heiraten werde ‒ was ganz im Sinne der Chochlakowa sei.
+Nun schreitet Dmitrij zur Ausführung seines «Plans»: Er will seine Rechte am Dorf Tscheremaschnja der Chochlakowa als Pfand für ein Darlehen in der Höhe von dreitausend Rubel hinterlegen. Diese werde bestimmt darauf eingehen, da er sich mit diesem Geld von Katerina Iwanowna lösen könne, die dann seinen Bruder Iwan heiraten werde – was ganz im Sinne der Chochlakowa sei.
 
 Als Dmitrij bei ihr auftaucht, habe sie ihn angeblich bereits erwartet. Er werde nicht nur die verlangten dreitausend Rubel bekommen, sondern unendlich mehr, denn er werde eine Goldader entdecken und mit Goldminen reich werden! Statt der erhofften dreitausend Rubel überreicht sie ihm eine Ikone der Märtyrerin Warwara, die sie ihm sogleich umhängt, worauf er sich auf den Weg machen soll. Geld habe sie keines, und sie würde auch keines verleihen, wenn sie welches hätte.
 
-Erbost stürzt Dmitrij davon und überrennt draussen die Magd Samssonows. Von ihr erfährt er, dass Gruschenka kurz bei ihnen gewesen sei, sich über eine Geschichte Samssonows amüsiert habe ‒ aber darauf gleich wieder wegging. 
+Erbost stürzt Dmitrij davon und überrennt draussen die Magd Samssonows. Von ihr erfährt er, dass Gruschenka kurz bei ihnen gewesen sei, sich über eine Geschichte Samssonows amüsiert habe – aber darauf gleich wieder wegging. 
 
 Er eilt zu Gruschenka, die bei seiner Ankunft bereits zu ihrem Offizier abgereist ist. Ihre Zofe Fenja will von nichts wissen, was Dmitrij ihr nicht glaubt. Er stürmt aus dem Haus und greift sich beim Herausgehen noch einen herumstehenden Messing-Stössel aus einem Mörser. Fenja glaubt, dass er damit jemanden umbringen will!
 
@@ -744,7 +744,7 @@ Er eilt zu Gruschenka, die bei seiner Ankunft bereits zu ihrem Offizier abgereis
 
 Über einen Umweg gelangt Dmitrij zum Haus seines Vaters, wo er über den Zaun in den Garten gelangt. Er schleicht sich zum Fenster des Schlafzimmers, in dem eine Lampe brennt, und versteckt sich hinter den Büschen. Im Zimmer sieht er seinen Vater, der einen Morgenmantel und immer noch einen Verband um den Kopf trägt.
 
-Zwar vermutet er Gruschenka hinter dem Wandschirm im selben Zimmer, das Verhalten seines Vaters deutet aber eher darauf hin, dass er alleine ist. Er klopft das Zeichen, das gemäss Smerdjakows und Fjodor Pawlowitschs Abmachung die Ankunft Gruschenkas anzeigen soll, worauf letzterer ans Fenster tritt, es öffnet und nach Gruschenka fragt. Er erwähnt ein Geschenk, das es für sie bereithalte ‒ die dreitausend Rubel, denkt sich Dmitrij. Der Anblick von Fjodor Pawlowitschs Gesicht widert Dmitrij dermassen an, dass er den Stössel aus der Tasche zieht.
+Zwar vermutet er Gruschenka hinter dem Wandschirm im selben Zimmer, das Verhalten seines Vaters deutet aber eher darauf hin, dass er alleine ist. Er klopft das Zeichen, das gemäss Smerdjakows und Fjodor Pawlowitschs Abmachung die Ankunft Gruschenkas anzeigen soll, worauf letzterer ans Fenster tritt, es öffnet und nach Gruschenka fragt. Er erwähnt ein Geschenk, das es für sie bereithalte – die dreitausend Rubel, denkt sich Dmitrij. Der Anblick von Fjodor Pawlowitschs Gesicht widert Dmitrij dermassen an, dass er den Stössel aus der Tasche zieht.
 
 Zu dieser Zeit erwacht Grigorij und begibt sich in den Garten um dort nach dem Rechten zu sehen. Er schliesst das noch offenstehende Gartentor ab, worauf er im Garten das noch geöffnete und beleuchtete Fenster erblickt, in dem mittlerweile niemand mehr zu sehen ist.
 
@@ -756,23 +756,23 @@ Er gelangt zum Haus Gruschenkas, wo Fenjas Anweisung, Dmitrij auf keinen Fall ei
 
 ### V) Der überraschende Entschluss
 
-Mit blutverschmierten Händen und Blutflecken im Gesicht packt Dmitrij Fenja an der Kehle und will von ihr wissen, mit wem Gruschenka in Mokroje sei. Fenja antwortet, dass es sich um den Offizier von damals handle ‒ und Dmitrij versteht sofort alles.
+Mit blutverschmierten Händen und Blutflecken im Gesicht packt Dmitrij Fenja an der Kehle und will von ihr wissen, mit wem Gruschenka in Mokroje sei. Fenja antwortet, dass es sich um den Offizier von damals handle – und Dmitrij versteht sofort alles.
 
 Er wundert sich darüber, wie er den Offizier trotz Kenntnis seines Briefs an Gruschenka bloss ignorieren konnte. Er fragt Fenja über alle Einzelheiten aus, und sie antwortet ihm bereitwillig und aufrichtig. Nachdenklich verlässt er die Szene mit den Worten, dass er des Morgens über einen hohen und abweisenden Zaun setzen werde.
 
 Dmitrij geht weiter zu Pjotr Iljitsch Perchotin, dem er zuvor seine Duellierpistolen verpfändet hat. Diese will er nun bereits wieder auslösen, wozu er bereits einen Stoss Geldscheine in der rechten Hand bereithält. Perchotin fallen die Blutflecken an Händen, im Gesicht und an der Kleidung von Dmitrij auf, worauf er ihn an den Waschtisch führt.
 
-Da Dmitrij nur Hundert-Rubel-Scheine hat, und Perchotin ihm nicht auf zehn Rubel für die Pistolen herausgegben kann, schickt er seinen Burschen zu Plotnikows Feinkostgeschäft zum Geldwechseln. Da kommt Dmitrij ein Einfall: Der Bursche soll bei Plotnikows gleich Champagner und eine Vielzahl anderer Spezialitäten bestellen ‒ wie damals, als er mit Gruschenka in Mokroje war! Perchotin meint, dass Dmitrij besser selber vorbeigehe, da sein Bursche diese grosse Bestellung ansonsten durcheinander bringe.
+Da Dmitrij nur Hundert-Rubel-Scheine hat, und Perchotin ihm nicht auf zehn Rubel für die Pistolen herausgegben kann, schickt er seinen Burschen zu Plotnikows Feinkostgeschäft zum Geldwechseln. Da kommt Dmitrij ein Einfall: Der Bursche soll bei Plotnikows gleich Champagner und eine Vielzahl anderer Spezialitäten bestellen – wie damals, als er mit Gruschenka in Mokroje war! Perchotin meint, dass Dmitrij besser selber vorbeigehe, da sein Bursche diese grosse Bestellung ansonsten durcheinander bringe.
 
 Perchotin hilft Dmitrij beim Waschen und erkundigt sich, ob er sich geprügelt habe. Dieser antwortet ihm nur, dass er jemanden über den Haufen gerannt habe, aber mit dieser Person in Frieden auseinandergegangen sei. Als sich Perchotin über den plötzlichen Reichtum wundert und fragt, ob Dmitrij etwa eine Goldmine besitze, verweist dieser ihn an die Chochlakowa: bei ihr könne er sich morgen erkundigen, ob das Geld (dreitausend Rubel seien es) von ihr stamme.
 
 Dmitrij lädt eine Pistole, wobei er die Kugel im Kerzenlicht betrachtet. Auf Perchotins Frage, warum er das tue, antwortet er, dass es interessant sei sie anzusehen, wo sie doch in sein Gehirn eindringen werde, tut dies aber sogleich wieder als Blödsinn ab.
 
-Als der Bursche zurückkommt, Dmitrij über die Bestellung informiert und ihm das Wechselgeld übergibt, wovon Perchotin die zehn Rubel für die Pistolen zurückerhält, fordert Dmitrij Perchotin auf, mit ihm nach Mokroje zu kommen. Weiter gibt er ihm ein Rätsel auf: «Ich richte mich für mein ganzes Leben, mein ganzes Leben strafe ich!» ‒ Zeilen, die er sich gerade eben bei Perchotin auf ein Blatt Papier geschrieben hat.
+Als der Bursche zurückkommt, Dmitrij über die Bestellung informiert und ihm das Wechselgeld übergibt, wovon Perchotin die zehn Rubel für die Pistolen zurückerhält, fordert Dmitrij Perchotin auf, mit ihm nach Mokroje zu kommen. Weiter gibt er ihm ein Rätsel auf: «Ich richte mich für mein ganzes Leben, mein ganzes Leben strafe ich!» – Zeilen, die er sich gerade eben bei Perchotin auf ein Blatt Papier geschrieben hat.
 
 Die beiden begeben sich zu Plotnikows Geschäft, wo bereits eine Trojka auf Dmitrij wartet. Es soll Ware für vierhnundert Rubel eingepackt werden, wovon der grösste Teil mit einer zusätzlichen Trojka nachgeliefert werden soll. Im Hinterzimmer stossen die beiden mit Champagner an, wobei Dmitrij erwähnt, dass er ein «gewisses stinkendes Insekt austilgen» wolle.
 
-Nach Begleichung der Rechnung ‒ Perchotin konnte die Bestellung auf dreihundert Rubel verringern ‒ betritt Dmitrij die Kutsche, wobei er von der herbeigeeilten Fenja aufgehalten wird: Er solle Erbarmen mit Gruschanka und dem Offizier haben, fleht sie ihn an, worauf Perchotin die Pistolen zurückverlangt. Dmitrij wolle diese auf dem Weg in eine Pfütze werfen; er lässt abfahren.
+Nach Begleichung der Rechnung – Perchotin konnte die Bestellung auf dreihundert Rubel verringern – betritt Dmitrij die Kutsche, wobei er von der herbeigeeilten Fenja aufgehalten wird: Er solle Erbarmen mit Gruschanka und dem Offizier haben, fleht sie ihn an, worauf Perchotin die Pistolen zurückverlangt. Dmitrij wolle diese auf dem Weg in eine Pfütze werfen; er lässt abfahren.
 
 Perchotin vermutet, dass sich Dmitrij bloss prügeln werde und macht sich auf ins Gasthaus, wo er erfahren will, von wem die Blutflecken stammen. Beim Billard erzäht er vom Vorfall, verschweigt jedoch die Blutflecken. Auf dem Heimweg will er sich zuerst im Haus von Fjodor Pawlowitsch erkundigen, was er sogleich wieder verwirft, dann aber doch im Hause von Gruschenka vorbeigehen, wo bereits alles schläft.
 
@@ -782,7 +782,7 @@ Auf der Fahrt nach Mokroje empfindet Dmitrij nicht die leiseste Eifersucht gegen
 
 Auf seine geäusserte Befürchtung, dass schon alle schlafen könnten, entgegnet der Kutscher Andrej, dass er von seinem Kollegen erfahren habe, dass sie zuletzt in der Herberge mit dem Kartenspiel begonnen hätten und es also gut möglich sei, dass sie noch immer dabei sässen. Dmitrij erkundigt sich bei Andrej, ob dieser bereit sei, ihm für alles zu vergeben, wodurch diesem der Gedanke, Andrej in äusserster Eile ans Ziel zu bringen, langsam unangenehm wird.
 
-Beim Erreichen der Herberge brennt in dieser ‒ sehr zur Freude Dmitrijs ‒ in allen Fenstern Licht. Der sonst schon wohlhabende Wirt Plastunow, der sich an Dmitrijs letzter Orgie vor einem Monat eine goldene Nase verdiente, begrüsst ihn vor seiner Herberge.
+Beim Erreichen der Herberge brennt in dieser – sehr zur Freude Dmitrijs – in allen Fenstern Licht. Der sonst schon wohlhabende Wirt Plastunow, der sich an Dmitrijs letzter Orgie vor einem Monat eine goldene Nase verdiente, begrüsst ihn vor seiner Herberge.
 
 Dmitrij erkundigt sich nach den Gästen und erfährt, dass neben Gruschenka mit ihrem Polen (er sei kein Offizier, so Plastunow) auch Maximow mit einem Neffen Miussows (Kalganow) anwesend sei. Dmitrij will, dass der Wirt wie beim letzten Mal Zigeuner zum Musizieren herbeischaffe, doch es seien nur Juden und Dorfmädchen da, die der Wirt zur gebotenen Summe aber gerne aufwecken und herbringen wolle.
 
@@ -796,9 +796,9 @@ Dmitrij verkündet seine Absicht, nur diesen einen Abend als Durchreisender in i
 
 Der Pole ist klein, rundlich, trägt eine schäbige Perücke und ein feines Schnurrbärtchen. Er wird von einem gross gewachsenen Polen begleitet; offenbar eine Art «Leibwächter» von ihm. Maximow erzählt Geschichten aus seinem Leben: seine erste Frau sei aus Polen gekommen, seine zweite Frau habe ihm sein Gut abgenommen und sei dann durchgebrannt. Weiter vergleicht er sich mit der gleichnamigen Romanfigur Maximow aus Gogols «Toten Seelen», zumal er auch einmal ausgepeitscht worden sei.
 
-Dmitrij will mit den beiden Polen anstossen, da er bemerkt, wie sich die Stimmung anspannt: Zuerst auf Polen, dann auf Russland ‒ wobei der «Leibwächter» auf letzteres nur «in den Grenzen von 1772» trinken will. Darauf entbrennt ein Streit, den Dmitrij aber durch seine Entschuldigung schlichten kann.
+Dmitrij will mit den beiden Polen anstossen, da er bemerkt, wie sich die Stimmung anspannt: Zuerst auf Polen, dann auf Russland – wobei der «Leibwächter» auf letzteres nur «in den Grenzen von 1772» trinken will. Darauf entbrennt ein Streit, den Dmitrij aber durch seine Entschuldigung schlichten kann.
 
-Man beschliesst Karten zu spielen. Der kleine Pole besteht darauf, ein versiegeltes Kartenspiel vom Wirt zu verwenden. Dieser informiert Dmitrij sogleich über das Eintreffen der ersten Musikanten, denen Dmitrij sofort Anweisungen erteilen und vom mitgebrachten Naschwerk geben will. Zurück am Tisch verliert Dmitrij ein Spiel nach dem anderen; insgesamt zweihundert Rubel, bis Kalganow, der vorher bereits fünfzig Rubel an die beiden verloren hat, Dmitrij zum Aufhören drängt ‒ sehr zum Ärger der beiden Polen.
+Man beschliesst Karten zu spielen. Der kleine Pole besteht darauf, ein versiegeltes Kartenspiel vom Wirt zu verwenden. Dieser informiert Dmitrij sogleich über das Eintreffen der ersten Musikanten, denen Dmitrij sofort Anweisungen erteilen und vom mitgebrachten Naschwerk geben will. Zurück am Tisch verliert Dmitrij ein Spiel nach dem anderen; insgesamt zweihundert Rubel, bis Kalganow, der vorher bereits fünfzig Rubel an die beiden verloren hat, Dmitrij zum Aufhören drängt – sehr zum Ärger der beiden Polen.
 
 Da kommt Dmitrij eine Idee: er führt den kleinen Polen ins Nebenzimmer, wohin ihm auch dessen «Leibwächter» folgt. Dmitrij bietet ihm dreitausend, wenn er ein für alle mal verschwinde: fünfhundert sofort, den Rest morgen. Der kleine Pole will die Anzahlung zunächst auf siebenhundert Rubel erhöhen, lehnt dann aber doch ab und kehrt zurück zum Rest der Gesellschaft.
 
@@ -812,15 +812,15 @@ Nachdem sowohl die Trojka mit Wein und Speisen als auch die Musiker alle eingetr
 
 Immer wieder will Dmitrij sich mit Gruschenka unterhalten, wird aber dabei von ihr weggeschickt, denn er solle sich amüsieren gehen! Kalganow ist mittlerweile betrunken, ärgert sich über die unanständigen Lieder und Tänze der Bauernmädchen und schläft auf einem Sofa ein. Maximow amüsiert sich und führt allerlei Tänze auf.
 
-Dmitrij ringt mit der Frage, ob er sich mit der Pistole das Leben nehmen wolle, worauf ihn Gruschenka bereits angesprochen hat: Meint er es ernst damit? Vorher, als er Gruschenka schon für verloren glaubte, war das einfacher; aber jetzt hat er wieder einen Grund zum Leben ‒ und hofft, dass der am Zaun Niedergeschlagene lebt! Er ist bereit dazu, das Geld zurückzubezahlen und alles wiedergutzumachen!
+Dmitrij ringt mit der Frage, ob er sich mit der Pistole das Leben nehmen wolle, worauf ihn Gruschenka bereits angesprochen hat: Meint er es ernst damit? Vorher, als er Gruschenka schon für verloren glaubte, war das einfacher; aber jetzt hat er wieder einen Grund zum Leben – und hofft, dass der am Zaun Niedergeschlagene lebt! Er ist bereit dazu, das Geld zurückzubezahlen und alles wiedergutzumachen!
 
 Da finde er Gruschenka weinend vor: Sie habe den Polen wirklich geliebt für die letzten fünf Jahre, dieser sei aber von seiner Frau verdorben worden; jetzt schämt sie sich ihrer Liebe. Als Dmitrij am Abend eingetreten ist, habe sie verstanden, dass sie einzig und alleine ihn liebe. Im Rausch kündigt sie an, später ins Kloster gehen zu wollen, aber heute wolle sie noch tanzen und sich amüsieren.
 
-Dmitrij solle auch die beiden Polen mitfeiern lassen, doch diese beleidigen ihn bloss auf seine Anforderung hin. Als er Gruschenka ‒ mittlerweile völlig betrunken ‒ ins Bett trägt und sie küsst, will sie damit warten, denn in Zukunft soll bei ihnen alles in Ehren geschehen, am liebsten weit weg! Dmitrij gesteht ihr, dass er von Katerina Iwanowna Geld gestohlen habe, doch Gruschenka meint, dass er dieses notfalls von ihr nehmen könne.
+Dmitrij solle auch die beiden Polen mitfeiern lassen, doch diese beleidigen ihn bloss auf seine Anforderung hin. Als er Gruschenka – mittlerweile völlig betrunken – ins Bett trägt und sie küsst, will sie damit warten, denn in Zukunft soll bei ihnen alles in Ehren geschehen, am liebsten weit weg! Dmitrij gesteht ihr, dass er von Katerina Iwanowna Geld gestohlen habe, doch Gruschenka meint, dass er dieses notfalls von ihr nehmen könne.
 
-Von weitem ist ein Glöckchen zu hören, das plötzlich verstummt ‒ genau wie die Musik. Aus dem Nebenzimmer werden sie von den Angekommenen beobachtet. Dies sind: der Polizeichef Michail Makarytsch, der Zweite Staatsanwalt, der Ermittlungsrichter und der Landkommissar Mawrikij Mawrikitsch.
+Von weitem ist ein Glöckchen zu hören, das plötzlich verstummt – genau wie die Musik. Aus dem Nebenzimmer werden sie von den Angekommenen beobachtet. Dies sind: der Polizeichef Michail Makarytsch, der Zweite Staatsanwalt, der Ermittlungsrichter und der Landkommissar Mawrikij Mawrikitsch.
 
-Dmitrij versteht sofort, und der Polizeichef beschuldigt ihn ‒ des Vatermordes! Der Ermittlungsrichter ermahnt ihn zur Zurückhaltung. Dieser bezeichnet die ganze Szene ‒ der des Mordes Verdächtige mit blutverschmierten Kleidern in Gesellschaft einer Dirne ‒ als «Irrsinn». Der Ermittlungsrichter teilt Dmitrij mit, dass er unter Verdacht stehe seinen Vater ermordet zu haben.
+Dmitrij versteht sofort, und der Polizeichef beschuldigt ihn – des Vatermordes! Der Ermittlungsrichter ermahnt ihn zur Zurückhaltung. Dieser bezeichnet die ganze Szene – der des Mordes Verdächtige mit blutverschmierten Kleidern in Gesellschaft einer Dirne – als «Irrsinn». Der Ermittlungsrichter teilt Dmitrij mit, dass er unter Verdacht stehe seinen Vater ermordet zu haben.
 
 ## Neuntes Buch: Die Voruntersuchung
 
@@ -828,7 +828,7 @@ Dmitrij versteht sofort, und der Polizeichef beschuldigt ihn ‒ des Vatermordes
 
 Nachdem Perchotin zu später Stunde noch zu Fenja vorgelassen wird, befragt er sie zu Dmitrij. Sie berichtet, dass er den Stössel aus dem Mörser mitgenommen habe, aber ohne diesen dafür mit blutverschmierten Händen zu ihr zurückgekehrt sei. Zwar könne sie nicht mit Sicherheit sagen, ob er dazwischen bei seinem Vater war, aber er habe gestanden, dass es sich um Menschenblut an seinen Händen handle, und dass er jemand umgebracht habe. Sie hatte Angst, dass er nach Mokroje fahren werde um dort Gruschenka umzubringen, und sah, wie er die Kutsche dorthin mit sauberen Händen betrat.
 
-Um einen möglichen Skandal zu vermeiden geht Perchotin als nächstes nicht bei Fjodor Pawlowitsch vorbei, sondern möchte sich zuerst bei der Chochlakowa erkundigen, ob sie nicht vielleicht Dmitrij das Geld gegeben habe. Diese gibt Perchotin widerwillig Auskunft (sie ist bereits fürs Schlafengehen umgekleidet) und ärgert sich darüber, weiter wegen Dmitrij gequält zu werden. Er habe sie vor wenigen Stunden beinahe umbringen wollen, aber Geld habe sie ihm keines gegeben. Sie glaubt an ein Wunder, denn nur weil sie Dmitrij das Ikönchen um den Hals hängte, habe Gott über ihr gewacht ‒ und Dmitrij sie nicht umgebracht.
+Um einen möglichen Skandal zu vermeiden geht Perchotin als nächstes nicht bei Fjodor Pawlowitsch vorbei, sondern möchte sich zuerst bei der Chochlakowa erkundigen, ob sie nicht vielleicht Dmitrij das Geld gegeben habe. Diese gibt Perchotin widerwillig Auskunft (sie ist bereits fürs Schlafengehen umgekleidet) und ärgert sich darüber, weiter wegen Dmitrij gequält zu werden. Er habe sie vor wenigen Stunden beinahe umbringen wollen, aber Geld habe sie ihm keines gegeben. Sie glaubt an ein Wunder, denn nur weil sie Dmitrij das Ikönchen um den Hals hängte, habe Gott über ihr gewacht – und Dmitrij sie nicht umgebracht.
 
 Perchotin möchte nun zum Polizeichef gehen, doch die Chochlakowa will den jungen, gutaussehenden Beamten kaum gehen lassen. Auf seine Aufforderung hin stellt sie eine schriftliche Bestätigung aus, dass sie Dmitrij niemals Geld gegeben habe. Perchotin macht sich auf den Weg. Die Chochlakowa legt sich entzückt von ihrer neuen Bekanntschaft ins Bett, wo sie trotz der Aufregung bald einen ruhigen Schlaf findet.
 
@@ -846,7 +846,7 @@ Dort trifft Marfa Ignatjewna fünf Minuten vor Perchotin ein. Gemeinsam eilt man
 
 Aufgrund Perchotins Bericht über den auf den nächsten Morgen geplanten Selbstmord Dmitrijs beschliesst man keine Zeit zu verlieren und schickt sofort den Landkommissar Mawrikij Mawrikowitsch Schmerzow nach Mokroje. Dieser observiert Dmitrij so lange, bis der Rest eintrifft; eingeweiht ist nur der Wirt, der die Pistole Dmitrijs beiseite schafft und sicher versteckt.
 
-Als um fünf Uhr morgens der Rest der Gruppe in Mokroje eintrifft, wird Dmitrij mit dem Mordvorwurf konfrontiert. Einzig der Amtsarzt reist nicht mit, denn er will eine Obduktion an Fjodor Pawlowitsch vornehmen ‒ und Smerdjakows ungewöhnlich lange anhaltenden Anfall aus wissenschaftlichem Interesse beobachten. Er bezweifelt, dass dieser den nächsten Tag noch erleben werde.
+Als um fünf Uhr morgens der Rest der Gruppe in Mokroje eintrifft, wird Dmitrij mit dem Mordvorwurf konfrontiert. Einzig der Amtsarzt reist nicht mit, denn er will eine Obduktion an Fjodor Pawlowitsch vornehmen – und Smerdjakows ungewöhnlich lange anhaltenden Anfall aus wissenschaftlichem Interesse beobachten. Er bezweifelt, dass dieser den nächsten Tag noch erleben werde.
 
 ### III) Der Gang der Seele durch die Peinigungen. Die erste Peinigung
 
@@ -858,7 +858,7 @@ Grigorij habe Dmitrij mit seinen Aussagen schwer belastet, so der Staatsanwalt, 
 
 Nach seinem Motiv befragt gibt Dmitrij Hassgefühle an, die durch Eifersucht und Streitereien um Geld aufgekommen seien. So stünden ihm zwar bis zu zehntausend Rubel aus seinem Erbteil zu, doch habe er sich mit den dreitausend Rubel aus dem Kuvert für Gurschenka zufriedengegeben, die er nicht als gestohlen sondern als seinen rechtmässigen Besitz betrachtet. Zwar habe er selber sein ganzes Leben lang Schändlichkeiten begangen, sei aber dennoch ein nobler Mensch, und das Ehrlose seines Vaters habe ihm missfallen.
 
-Da stürmt Gruschenka plötzlich aus ihrem Zimmer, und als Dmitrij das merkt, stürzt er sofort ihr entgegen, worauf man die beiden gewaltsam auseinanderhalten muss. Nachdem man Gruschenka nach unten und Dmitrij zurück an den Tisch gebracht hat ‒ Gruschenka habe verstanden, dass sich Dmitrij unter solcherlei Aufregung möglicherweise nur selber belasten werde ‒ kann das Verhör fortgeführt werden.
+Da stürmt Gruschenka plötzlich aus ihrem Zimmer, und als Dmitrij das merkt, stürzt er sofort ihr entgegen, worauf man die beiden gewaltsam auseinanderhalten muss. Nachdem man Gruschenka nach unten und Dmitrij zurück an den Tisch gebracht hat – Gruschenka habe verstanden, dass sich Dmitrij unter solcherlei Aufregung möglicherweise nur selber belasten werde – kann das Verhör fortgeführt werden.
 
 ### IV) Die zweite Peinigung
 
@@ -874,9 +874,9 @@ Dmitrij erzählt, wie er über den Zaun in den Garten gelangt sei und sich dort 
 
 Der Staatsanwalt erkundigt sich, ob Dmitrij die offene Haustür zum Garten hin nicht aufgefallen sei, denn der Mord habe zweifelsfrei im Zimmer und nicht durchs offene Fenster stattgefunden, was Dmitrij verblüfft. Er selber habe die Tür nur geschlossen gesehen, und sie wäre auch höchstens auf das Klopfzeichen hin geöffnet worden, das nur ihm, seinem Vater und Smerdjakow bekannt gewesen sei.
 
-Auf die Nachfrage des Staatsanwalts weiht Dmitrij die Runde in die vereinbarten Klopfzeichen ein, und schildert, wie er damit die Ankunft Gruschenkas am Fenster des Vaters ankündigte. Als der Staatsanwalt bemerkt, dass demnach auch Smerdjakow unter Verdacht stehe, wittert Dmitrij eine Falle: Smerdjakow sei dafür zu feige und auch zu schwach; er komme nicht in Frage. Verhören habe man ihn, den man durchaus verdächtige, jedoch nicht können, zumal er einen eptileptischen Anfall nach dem anderen erleide ‒ und die Nacht wohl nicht überleben werde.
+Auf die Nachfrage des Staatsanwalts weiht Dmitrij die Runde in die vereinbarten Klopfzeichen ein, und schildert, wie er damit die Ankunft Gruschenkas am Fenster des Vaters ankündigte. Als der Staatsanwalt bemerkt, dass demnach auch Smerdjakow unter Verdacht stehe, wittert Dmitrij eine Falle: Smerdjakow sei dafür zu feige und auch zu schwach; er komme nicht in Frage. Verhören habe man ihn, den man durchaus verdächtige, jedoch nicht können, zumal er einen eptileptischen Anfall nach dem anderen erleide – und die Nacht wohl nicht überleben werde.
 
-Dmitrij schildert, wie er Grigorij ‒ noch auf dem Zaun sitzend ‒ niedergeschlagen habe, wobei sich der Staatsanwalt dafür interessiert, warum Dmitrij vom Zaun in den Garten heruntergesprungen sei, als Grigorij bereits am Boden gelegen habe. Dmitrij verschweigt, das er dies aus Mitleid getan habe, kann aber weder ausschliessen noch bestätigen, dass er Hilfe leisten wollte. Der Staatsanwalt schliesst daraus, dass sich Dmitrij vergewissern wollte, dass der einzige Zeuge seiner Tat auch wirklich tot war.
+Dmitrij schildert, wie er Grigorij – noch auf dem Zaun sitzend – niedergeschlagen habe, wobei sich der Staatsanwalt dafür interessiert, warum Dmitrij vom Zaun in den Garten heruntergesprungen sei, als Grigorij bereits am Boden gelegen habe. Dmitrij verschweigt, das er dies aus Mitleid getan habe, kann aber weder ausschliessen noch bestätigen, dass er Hilfe leisten wollte. Der Staatsanwalt schliesst daraus, dass sich Dmitrij vergewissern wollte, dass der einzige Zeuge seiner Tat auch wirklich tot war.
 
 Weiter erzählt Dmitrij, dass er noch ein rauschendes Fest feiern und sich danach am Morgen am Dorfrand die Kugel habe geben wollen, was er mit dem Abschiedsbrief belegt, den er noch bei Perchotin geschrieben hat. Nach dem Usprung des Geldes gefragt verweigert Dmitrij die Aussage; dies zu beantworten komme für ihn einer riesigen Schmach gleich; lieber bewahre er seinen Stolz.
 
@@ -886,11 +886,11 @@ Auch die Summe will er nicht nennen, wonach der Betrag von dreitausend Rubel gem
 
 Der Staatsanwalt und der Ermittlungsrichter untersuchen die Überkleider Dmitrijs nach Geld, wobei ihnen eingetrocknete Blutflecken an Überrock und Hose auffallen. Ein weiterer Blutfleck findet sich an der Manschette des Hemdes, das Dmitrij ebenfalls ausziehen muss, genau wie seine Strümpfe, weswegen er sich geniert und ärgert.
 
-Da seine Kleider für die Beweisaufnahme beschlagnahmt werden, muss er vorerst mit Ersatzkleidern vorlieb nehmen, die ihm Kalganow aus seinem Reisegepäck überlässt ‒ und die ihm leider etwas zu lang und zu eng sind, sodass Dmitrij sich kostümiert und zum Narren gehalten vorkommt.
+Da seine Kleider für die Beweisaufnahme beschlagnahmt werden, muss er vorerst mit Ersatzkleidern vorlieb nehmen, die ihm Kalganow aus seinem Reisegepäck überlässt – und die ihm leider etwas zu lang und zu eng sind, sodass Dmitrij sich kostümiert und zum Narren gehalten vorkommt.
 
 Das Verhör wird fortgesetzt, und man konfrontiert Dmitrij mit der Aussage Grigorijs, wonach die Haustür zum Garten hin bereits sperrangelweit offengestanden habe, als Dmitrij sich vom Fenster in Richtung Zaun in Bewegung setzte. Zwar habe Grigorij nicht gesehen, wie Dmitrij aus dieser Tür herausstürzte, sei sich dessen aber sicher. Dmitrij hält diese Aussage für eine Verleumdung Grigorijs, die ihren Ursprung darin habe, dass Grigorij ihm böse sei.
 
-Als man Dmitrij das an der Seite aufgerissene Kuvert zeigt, gibt er sofort zu erkennen, dass es sich hierbei um den Umschlag handeln müsse, der die dreitausend Rubel für Gruschenka enthielt. Er verdächigt nun lauthals Smerdjakow, da dieser als einziger gewusst habe, dass sich dieses Kuvert unter dem Kopfkissen seines Vaters befand ‒ obwohl Dmitrij sein Wissen um eben diesen Verwahrungsort vorhin zu Protokoll gegeben habe, so der Staatsanwalt. Dmitrij entgegnet, dass er dies bloss aus der Luft gegriffen habe.
+Als man Dmitrij das an der Seite aufgerissene Kuvert zeigt, gibt er sofort zu erkennen, dass es sich hierbei um den Umschlag handeln müsse, der die dreitausend Rubel für Gruschenka enthielt. Er verdächigt nun lauthals Smerdjakow, da dieser als einziger gewusst habe, dass sich dieses Kuvert unter dem Kopfkissen seines Vaters befand – obwohl Dmitrij sein Wissen um eben diesen Verwahrungsort vorhin zu Protokoll gegeben habe, so der Staatsanwalt. Dmitrij entgegnet, dass er dies bloss aus der Luft gegriffen habe.
 
 Smerdjakow müsse der Schuldige sein, denn einzig er habe die vereinbarten Klopfzeichen zum Öffnen der Tür gekannt. Der Staatsanwalt entgegnet, dass Kenntnisse der Klopfzeichen nicht nötig gewesen seien, zumal die Tür bereits offengestanden habe. Der Staatsanwalt weist Dmitrij angesichts dieser für ihn schlecht stehenden Indizienlage darauf hin, dass eine Auskunft über den Ursprung seines mitgeführten Geldes ihm wohl helfen könnte.
 
@@ -914,11 +914,11 @@ Der Wirt Trifon Borisowitsch meint, Dmitrij habe alleine den Zigeunern tausend R
 
 Kalganow will auch von den sechstausend Rubel gehört haben. Er bestätigt, dass die beiden Polen Falschspieler seien, und dass Dmitrijs Chancen bei Gruschenka nach deren beiden Auszug gestiegen seien.
 
-Die beiden Polen ‒ der kleine Pan Musiałowicz und der grosse Pan Wróblewski ‒ werden ebenfalls vernommen. Ersterer äussert sich derart feurig über seine Beziehung zu Gruschenka, dass Dmitrij ihn vor lauter Erregung mehrmals einen Schurken nennt. Pan Musiałowicz sagt aus, wie Dmitrij ihn mit dreitausend Rubel versucht habe zu bestechen, wobei der grössere Teil des Betrags (zweitausenddreihundert Rubel) in der Stadt bereitgelegen habe. Dmitrij meint, nachdem er dies widerwillig zugegeben hat, dass er den Betrag nicht in bar sondern durch das Abtreten seiner Rechte am Dorf Tscheremaschnja habe begleichen wollen. Das Falschspiel der Polen wird nicht weiter untersucht, sodass die beiden die zweihundert von Dmitrij ergaunerten Rubel behalten können.
+Die beiden Polen – der kleine Pan Musiałowicz und der grosse Pan Wróblewski – werden ebenfalls vernommen. Ersterer äussert sich derart feurig über seine Beziehung zu Gruschenka, dass Dmitrij ihn vor lauter Erregung mehrmals einen Schurken nennt. Pan Musiałowicz sagt aus, wie Dmitrij ihn mit dreitausend Rubel versucht habe zu bestechen, wobei der grössere Teil des Betrags (zweitausenddreihundert Rubel) in der Stadt bereitgelegen habe. Dmitrij meint, nachdem er dies widerwillig zugegeben hat, dass er den Betrag nicht in bar sondern durch das Abtreten seiner Rechte am Dorf Tscheremaschnja habe begleichen wollen. Das Falschspiel der Polen wird nicht weiter untersucht, sodass die beiden die zweihundert von Dmitrij ergaunerten Rubel behalten können.
 
 Maximow will eine grössere Summe in Dmitrijs Hand gesehen haben, denn er wisse, wie ein solcher Stapel regenbogenfarbener Geldscheine aussehe, habe ihm doch seine Frau ebenfalls einen solchen Geldstapel gezeigt, nachdem sie sein Gut verkaufte.
 
-Nach der Art ihrer Beziehung zu Dmitrij gefragt gibt Gruschenka an, dass sie sowohl Dmitrij als auch seinen Vater einen Monat lang aus Bosheit gequält habe, seien die beiden doch eifersüchtig aufeinander gewesen. Geliebt habe sie Dmitrij nicht, obwohl er ihr «manches Stündchen» gefallen habe. Von den dreitausend Rubel habe er mehrmals gesprochen ‒ vor anderen und unter vier Augen. Auch der Ursprung der ersten dreitausend (von Katerina Iwanowna) sei ihr bekannt. Dmitrij habe darauf gewartet, etwas von seinem Vater zu bekommen, aber auch mehrmals wissen lassen, dass er ihm nach dem Leben trachte, was sie jedoch nicht weiter ernst genommen habe. Dmitrij beteuert abermals seine Unschuld, und Gruschenka pflichtet ihm bei.
+Nach der Art ihrer Beziehung zu Dmitrij gefragt gibt Gruschenka an, dass sie sowohl Dmitrij als auch seinen Vater einen Monat lang aus Bosheit gequält habe, seien die beiden doch eifersüchtig aufeinander gewesen. Geliebt habe sie Dmitrij nicht, obwohl er ihr «manches Stündchen» gefallen habe. Von den dreitausend Rubel habe er mehrmals gesprochen – vor anderen und unter vier Augen. Auch der Ursprung der ersten dreitausend (von Katerina Iwanowna) sei ihr bekannt. Dmitrij habe darauf gewartet, etwas von seinem Vater zu bekommen, aber auch mehrmals wissen lassen, dass er ihm nach dem Leben trachte, was sie jedoch nicht weiter ernst genommen habe. Dmitrij beteuert abermals seine Unschuld, und Gruschenka pflichtet ihm bei.
 
 Während der Abfassung des Protokolls legt sich Dmitrij hin, schläft sofort ein und träumt: An einem kalten Novembertag fährt er mit einer Kutsche durch ein abgebranntes Dorf in der Steppe. An der Strasse stehen ausgemergelte Frauen, wovon eine junge Mutter ein weinendes Kind in den Armen hält. Dmitrij erkundigt sich beim Kutscher, warum das Kind schreie, warum diese Leute so arm und die Steppe so kahl sei, und warum «’s Klei’» nicht gestillt werde. Er spürt, dass er diesen Leuten mit all seiner Kraft etwas Gutes tun will. Auch hört er die Stimme Gruschenkas, die ihm nun das ganze Leben folgen und mit ihm zu neuem Licht aufbrechen wolle.
 
@@ -928,7 +928,7 @@ Dmitrij wird geweckt um das Protokoll zu unterschreiben. Er bemerkt, wie ihm off
 
 Der Ermittlungsrichter liest Dmitrij den offiziellen Beschluss vor: Der Beschuldigte bestreite seine Schuld, könne aber keine entlastenden Beweise vorbringen, weswegen er aus Verdunkelungsgefahr in Untersuchungshaft genommen werde. Hierzu soll er vom Landkommissar Mawrikij Mawrikijewitsch in die Stadt gebracht werden.
 
-Dmitrij nimmt diese Strafe als einen zu seiner Läuterung notwendigen Schicksalsschlag an; des Mordes sei er unschuldig ‒ der Absicht jedoch sehr wohl schuldig. Dmitrij wird erlaubt, sich noch von Gruschenka zu verabschieden, die beteuert, ihm überall hin folgen zu wollen.
+Dmitrij nimmt diese Strafe als einen zu seiner Läuterung notwendigen Schicksalsschlag an; des Mordes sei er unschuldig – der Absicht jedoch sehr wohl schuldig. Dmitrij wird erlaubt, sich noch von Gruschenka zu verabschieden, die beteuert, ihm überall hin folgen zu wollen.
 
 Die vor dem Wirtshaus um die beiden zum Abtransport bereitstehenden Kutschen versammelten Leute bittet Dmitrij um Vergebung. Der Wirt Trifon Borisowitsch erwidert Dmitrijs Abschiedsgruss beim Abfahren der beiden Gespanne nicht, jedoch kann der aus dem Wirtshaus berbeigeeilte Kalganow gerade noch Dmitrijs Hand zum Abschied reichen, wonach er sich im Flur des Wirtshauses verzweifelt hinsetzt und das Schicksal des Beschuldigten beweint.
 
@@ -942,7 +942,7 @@ Anna Fjodorowna Krassotkina ist seit vierzehn Jahren verwitwet und erzieht ihren
 
 Bei einem sommerlichen Besuch bei einer Verwandet am nächsten Ort mit einer Bahnstation schliesst sich Kolja einer Gruppe von Jungen an, die sich alle sehr für die Eisenbahn interessieren. Kolja geht eine Wette um zwei Rubel ein, dass er sich getraue bäuchlings zwischen den Schienen liegenzubleiben, während der Zug in voller Fahrt über ihn wegdonnert. Die Wette gelingt, wobei Kolja in Ohnmacht fällt, die er seinen Kameraden gegenüber als gespielt abtut, seiner nun noch stärker besorgten Mutter aber als echt eingesteht.
 
-Am Gymnasium sieht man auf das Bitten seiner Mutter über den Streich hinweg, nicht zuletzt aufgrund des Einflusses von Dardanelow, der bereits erfolglos um die Hand der Witwe Krassotkina anhielt ‒ und nun eine neue Chance wittert. Nach dem Streich mit dem Zug muss Kolja seiner Mutter vor ihren Ikonen das Versprechen abgeben, nie mehr einen solchen Unsinn aufzuführen, worauf Kolja ruhiger und nachdenklicher wird ‒ und auch nicht mehr mit Andeutungen preisgibt, dass er das Werben Dardanelows um seine Mutter durchschaue.
+Am Gymnasium sieht man auf das Bitten seiner Mutter über den Streich hinweg, nicht zuletzt aufgrund des Einflusses von Dardanelow, der bereits erfolglos um die Hand der Witwe Krassotkina anhielt – und nun eine neue Chance wittert. Nach dem Streich mit dem Zug muss Kolja seiner Mutter vor ihren Ikonen das Versprechen abgeben, nie mehr einen solchen Unsinn aufzuführen, worauf Kolja ruhiger und nachdenklicher wird – und auch nicht mehr mit Andeutungen preisgibt, dass er das Werben Dardanelows um seine Mutter durchschaue.
 
 Zu dieser Zeit zähmt er einen räudigen Hund, den er Pereswon nennt, und dem er bald alle möglichen Kunststücke beibringt. Es war auch Kolja, den der Mitschüler Iljuscha (Sohn Snegirjows) mit dem Federmesser in die Hüfte stach, nachdem Kolja und seine Kameraden ihn mit der Bezeichnung «Bastwisch» seines Vaters wegen hänselten.
 
@@ -950,7 +950,7 @@ Zu dieser Zeit zähmt er einen räudigen Hund, den er Pereswon nennt, und dem er
 
 Im Haus der Witwe Krassotkina ist eine kleine Wohnung an eine Ärztefamilie vermietet. Die Frau ist mit Anna Fjodorowna Krassotkina befreundet. Ihr Mann, der Arzt, ist auf einer einjährigen Reise nach Orenburg und Taschkent und hat schon ein halbes Jahr nichts mehr von sich hören lassen.
 
-An einem Sonntagvormittag im November soll ihre Magd Katerina ‒ überraschend für alle ‒ ein Kind zur Welt bringen, wozu die Frau Doktor sie ins Haus einer Hebamme begleitet. Da auch Anna Fjodorowna in einer bestimmten Angelegenheit ausgegangen ist, und ihre Magd Agafja auf dem Markt Einkäufe tätigt, muss sich Kolja um die beiden Kinder der Frau Doktor ‒ Nastja und Kostja ‒ kümmern, obwohl er um elf Uhr unbedingt «in einer wichtigen Sache» aus dem Haus gehen möchte.
+An einem Sonntagvormittag im November soll ihre Magd Katerina – überraschend für alle – ein Kind zur Welt bringen, wozu die Frau Doktor sie ins Haus einer Hebamme begleitet. Da auch Anna Fjodorowna in einer bestimmten Angelegenheit ausgegangen ist, und ihre Magd Agafja auf dem Markt Einkäufe tätigt, muss sich Kolja um die beiden Kinder der Frau Doktor – Nastja und Kostja – kümmern, obwohl er um elf Uhr unbedingt «in einer wichtigen Sache» aus dem Haus gehen möchte.
 
 Zunächst unterhalten sich die beiden «Küken» mit einem Kinderbuch, das Kolja ihnen von sich mitgebracht hat, wobei die ältere Nastja dem jüngeren Kostja daraus vorliest. Dann aber fasst Kolja den Beschluss, den beiden Kindern das Versprechen abzunehmen, während seiner Abwesenheit nicht zu Weinen und keinen Unsinn anzustellen, da er die beiden alleine lassen müsse.
 
@@ -968,13 +968,13 @@ Kolja möchte Alexej kennenlernen, der ihm ein Rätsel sei, obschon er sich bere
 
 Auf dem Weg zu Snegirjow durchqueren die beiden den Jahrmarkt. Dabei eröffnet Kolja Smurow, dass er Sozialist sei, was Smurow nicht versteht, wozu er schliesslich auch noch zu klein sei, so Kolja. Die Gewohnheit sei der Haupttrieb des Menschen, selbst in politischer Beziehung, meint Kolja.
 
-Auf dem Jahrmarkt spricht Kolja verschiedene Bauern und Händler an, um sich über sie lustig zu machen. Dabei gelingt es ihm, mit rätselhaften Andeutungen einen Burschen derart zu verwirren, dass zwischen ihm und einigen Marktfrauen ein hitziges Gespräch entsteht ‒ sehr zum Vergnügen Koljas und Smurows, die nun das Weite suchen.
+Auf dem Jahrmarkt spricht Kolja verschiedene Bauern und Händler an, um sich über sie lustig zu machen. Dabei gelingt es ihm, mit rätselhaften Andeutungen einen Burschen derart zu verwirren, dass zwischen ihm und einigen Marktfrauen ein hitziges Gespräch entsteht – sehr zum Vergnügen Koljas und Smurows, die nun das Weite suchen.
 
 Bei Snegirjow angekommen schckt Kolja Smurow vor: Er solle Alexej zu ihm hinausbringen, damit er diesen in Ruhe kennenlernen könne.
 
 ### IV) Schutschka
 
-Kolja wartet am Zaun vor dem Haus auf Aljoscha, wobei er sich Gedanken über sein Äusseres, seine geringe Körpergrösse und sein noch junges Alter von knapp vierzehn Jahren macht. Aljoscha, der nun nicht mehr die Kutte sondern einen modischen Gehrock und einen Hut über seinem nun kurzgeschnittenen Haar trägt, kommt Kolja ‒ sehr zu dessen Freude ‒ strahlend entgegen; seinen Mantel hat er im Haus gelassen. Aljoscha meint, dass Kolja sehr spät komme, zumal Iljuscha unweigerlich bald sterben werde, und er schon längere Zeit nach ihm, Kolja, verlangt habe.
+Kolja wartet am Zaun vor dem Haus auf Aljoscha, wobei er sich Gedanken über sein Äusseres, seine geringe Körpergrösse und sein noch junges Alter von knapp vierzehn Jahren macht. Aljoscha, der nun nicht mehr die Kutte sondern einen modischen Gehrock und einen Hut über seinem nun kurzgeschnittenen Haar trägt, kommt Kolja – sehr zu dessen Freude – strahlend entgegen; seinen Mantel hat er im Haus gelassen. Aljoscha meint, dass Kolja sehr spät komme, zumal Iljuscha unweigerlich bald sterben werde, und er schon längere Zeit nach ihm, Kolja, verlangt habe.
 
 Kolja erzählt Aljoscha die Vorgeschichte: Als Iljuscha ins Gymnasium eingetreten ist, habe man ihn wegen seiner Schwäche und schäbiger Kleidung wegen gehänselt. Da er sich aber nicht unterordnen wollte sondern sich wehrte, habe Kolja Gefallen an ihm gefunden und Iljuschas Peiniger verprügelt, sodass Iljuscha fortan seinen Schutz genoss. Einerseits sei Iljuscha ihm sklavisch ergeben gewesen, andererseits habe er dabei dennoch seinen Stolz gewahrt.
 
@@ -982,7 +982,7 @@ Zwar wirke es im Gymnasium komisch, wenn sich ältere Schüler um jüngere kümm
 
 Zu dieser Zeit habe Smerdjakow Iljuscha einen bösen Streich beigebracht: Man präpariert einen Bissen Brot mit einer Stecknadel; ein ausgehungerter Hofhund werde diesen Bissen dann unzerkaut verschlingen, worauf dieser endlos winsle und herumrenne. Dies habe Iljuscha am Hund Schutschka ausprobiert, der dann verschwunden sei. Iljuscha habe sich wegen seiner Gewissensbisse bei ihm ausgeheult, worauf er ihm fortan die kalte Schulter zeigte, um ihm eine Lektion zu erteilen.
 
-Über Smurow liess Kolja Iljuscha ausrichten, dass er nicht mehr mit ihm verkehren werde. Smurow überbrachte ihm zur Antwort, dass Iljuscha fortan mit allen Hunden so verfahren werde wie mit Schutschka ‒ eine Meuterei, in Koljas Augen! Zu dieser Zeit habe sich auch die Geschichte mit Iljuschas Vater ereignet. Und da nun Iljuscha nicht mehr die Protektion durch Kolja genoss, habe man ihn mit dem «Bastwisch» zu hänseln begonnen.
+Über Smurow liess Kolja Iljuscha ausrichten, dass er nicht mehr mit ihm verkehren werde. Smurow überbrachte ihm zur Antwort, dass Iljuscha fortan mit allen Hunden so verfahren werde wie mit Schutschka – eine Meuterei, in Koljas Augen! Zu dieser Zeit habe sich auch die Geschichte mit Iljuschas Vater ereignet. Und da nun Iljuscha nicht mehr die Protektion durch Kolja genoss, habe man ihn mit dem «Bastwisch» zu hänseln begonnen.
 
 Obwohl Kolja ihn zunächst schützen wollte, habe dieser ihn mit dem Federmesser verletzt, wonach sich die Jungen gegenseitig mit Steinen bewarfen, wobei auch Aljoscha von Iljuscha gebissen worden sei. Leider habe Kolja es verpasst, sich damals sofort wieder mit Iljuscha zu vertragen, was er nun bedauere.
 
@@ -1000,7 +1000,7 @@ Der häufige Besuch der Schuljungen ist für Snegirjow ein Grund zur Freude. Er 
 
 Nachdem Kolja eingetreten ist und alle Familienangehörigen begrüsst hat, erschreckt er über den abgemagerten Iljuscha mit seinem wächsernen Gesicht. Mit den Tränen ringend lenkt er das Gespräch auf den Welpen, den Iljuscha vortags geschenkt bekommen hat. Dabei kommt auch das Gespräch auf den mitgebrachten Hund Pereswon, der noch immer vor der Tür ausharrt, und auf den Hund Schutschka, der gemäss Kolja wohl «verreckt» sei.
 
-Trotz der eindringlichen Bitte, seinen Hund besser bei einer anderen Gelegenheit vorzuführen, pfeifft Kolja ihn herbei ‒ und Iljuscha erkennt diesen sofort als Schutschka! Kolja habe ihn anhand Iljuschas Beschreibung ‒ eingerissenes Ohr, blind auf einem Auge ‒ finden können. Mit der Nadel habe er sich bloss den Mund zerstochen, sie dann aber ausgespuckt und darum auch überlebt. Zwei Wochen lang habe er den Hund versteckt und dressiert; Smurow habe ihn heute als erster von den Jungen gesehen.
+Trotz der eindringlichen Bitte, seinen Hund besser bei einer anderen Gelegenheit vorzuführen, pfeifft Kolja ihn herbei – und Iljuscha erkennt diesen sofort als Schutschka! Kolja habe ihn anhand Iljuschas Beschreibung – eingerissenes Ohr, blind auf einem Auge – finden können. Mit der Nadel habe er sich bloss den Mund zerstochen, sie dann aber ausgespuckt und darum auch überlebt. Zwei Wochen lang habe er den Hund versteckt und dressiert; Smurow habe ihn heute als erster von den Jungen gesehen.
 
 Mit weiteren Kunststücken des Hundes und dem mitgebrachten Messingkanönchen, das am allermeisten der Mutter gefällt, unterhält er Iljuscha, dessen Familie und die übrigen Anwesenden weiter. Kolja erzählt davon, wie er das Schiesspulver herstellte; wie er einen Burschen auf dem Markt dazu anstiftete, eine Gans mit einem Wagenrad zu enthaupten, und wie er hierfür mit diesem zusammen vor dem Friedensrichter antreten musste; wie der Lehrer Kolbassnikow, der alte Sprachen unterrichtet, über diese Geschichte mit der Gans aufgebracht war, und dass dieser jüngst eine hässliche Frau geheiratet habe, und die Schüler sich mit einem Epigramm über ihn lustig machten.
 
@@ -1042,17 +1042,17 @@ Gruschenka hat nach Aljoscha geschickt, den sie nun öfters empfängt. Sie habe 
 
 Gruschenka ärgert sich darüber, dass Dmitrij nur zum Schein eifersüchtig sei. Würde er gar keine Eifersucht zeigen, wäre sie gar beleidigt. Sie selber sei auf Katerina Iwanowna eifersüchtig. Diese habe zur Dmitrijs Gerichtsverhaldung für zweitausend Rubel einen Arzt aus Moskau kommen lassen. Auch am Honorar für den Advokaten Fetjukowitsch habe sie sich mit tausend Rubel beteiligt; die restlichen zweitausend stammten je zur Hälfte von Iwan und von ihm, ergänzt Aljoscha. Der Arzt sei gekommen, um Dmitrij geistige Umnachtung zum Tatzeitpunkt zu attestieren, was dieser jedoch ablehne, zumal er unschuldig sei. Smerdjakow habe man streng vernommen, doch dieser leide seit der Tat immer noch an seiner schweren Krankheit, berichtet ihr Aljsocha.
 
-Gruschenka verplappert sich: Iwan, der nach der Tat sofort in die Stadt zurückgekehrt war, habe Dmitrij schon zweimal besucht, was dieser aber gegenüber Aljoscha geheim halten sollte. Iwan weiche ihm aus, meint Aljoscha. Gruschenka vermutet ein Geheimnis unter Dmitrij, Iwan und Katerina Iwanowna. Dmitrij habe ihr gegenüber behauptet, dass Iwan Katerina Iwanowna liebe, was Gruschenka aber nicht glaube ‒ und Aljoscha ebenfalls bezweifelt. Aljoscha ist davon überzeugt, dass Dmitrij Gruschenka und nicht Katerina Iwanowna liebe, und dass das Geheimnis zwischen Dmitrij und Iwan nicht Katerina Iwanowna betreffe. Er wolle ihr mehr berichten, sollte er etwas Näheres darüber erfahren, doch nun müsse er Gruschenka leider verlassen, ohne die Weinende trösten zu können, da er noch viel vorhabe.
+Gruschenka verplappert sich: Iwan, der nach der Tat sofort in die Stadt zurückgekehrt war, habe Dmitrij schon zweimal besucht, was dieser aber gegenüber Aljoscha geheim halten sollte. Iwan weiche ihm aus, meint Aljoscha. Gruschenka vermutet ein Geheimnis unter Dmitrij, Iwan und Katerina Iwanowna. Dmitrij habe ihr gegenüber behauptet, dass Iwan Katerina Iwanowna liebe, was Gruschenka aber nicht glaube – und Aljoscha ebenfalls bezweifelt. Aljoscha ist davon überzeugt, dass Dmitrij Gruschenka und nicht Katerina Iwanowna liebe, und dass das Geheimnis zwischen Dmitrij und Iwan nicht Katerina Iwanowna betreffe. Er wolle ihr mehr berichten, sollte er etwas Näheres darüber erfahren, doch nun müsse er Gruschenka leider verlassen, ohne die Weinende trösten zu können, da er noch viel vorhabe.
 
 ### II) Das kranke Füsschen
 
-Aljoscha besucht zunächst die Chochlakowa, die seit drei Wochen mit einem geschwollenen Fuss zu Hause liegt. Ihre Tochter Lise hat in einer dringenden Angelegenheit nach Aljoscha geschickt. Diese könne wieder laufen und habe das Heiratsversprechen gegenüber Aljoscha in der Zwischenzeit wieder zurückgenommen. Die Chochlakowa wolle beim Prozess aussagen und glaubt, dass Katerina Iwanowna Dmitrij nach Sibirien folgen werde ‒ und Iwan ihr.
+Aljoscha besucht zunächst die Chochlakowa, die seit drei Wochen mit einem geschwollenen Fuss zu Hause liegt. Ihre Tochter Lise hat in einer dringenden Angelegenheit nach Aljoscha geschickt. Diese könne wieder laufen und habe das Heiratsversprechen gegenüber Aljoscha in der Zwischenzeit wieder zurückgenommen. Die Chochlakowa wolle beim Prozess aussagen und glaubt, dass Katerina Iwanowna Dmitrij nach Sibirien folgen werde – und Iwan ihr.
 
 Über einen Zeitungsbericht, in dem erwähnt wird, wie sie Dmitrij vor dem Mord aufgefordert habe, mit ihr zu den Goldminen zu gehen, ist sie sichtlich erregt, wobei sie zwar nicht namentlich erwähnt, aber mit ihren «vierzigjährigen Reizen» umschrieben wird. Sie glaubt, dass Rakitkin diesen Zeitungsbericht verfasst habe, denn er sei in sie verliebt gewesen, werde in ihrem Haus aber nicht mehr empfangen.
 
 Das habe sich so zugetragen: Rakitin besuchte sie seit etwa einem Monat öfters und hat ein Gedicht über ihr krankes Füsschen verfasst. Er habe zu seinen Versen etwas sagen wollen, doch sei dabei zu seinem Ärger durch das Eintreffen von Perchotin unterbrochen worden, der sie seit der Mordnacht regelmässig besuche. Perchotin habe sich über das Gedicht lustig gemacht und wohl Rakitin sofort als dessen Autor erkannt. Rakitin habe Perchotin darauf angechrien, wofür sie ihn vor die Tür stellte. Er habe am gleichen Tag noch den Zeitungsbericht geschrieben und abgeschickt, sodass er in der Zwischenzeit habe erscheinen können.
 
-Weiter glaubt die Chochlakowa, dass Dmitrij am Abend der Tat «den Affekt bekommen» habe. Gemordet habe jedoch Grigorij, der nach dem von Dmitrij auf seinen Kopf erhaltenen Schlag ebenfalls den Affekt bekommen habe und sich darum an nichts mehr erinnern könne. Es sei jedoch günstiger, wenn das Gericht Dmitrij als den Täter ausmache ‒ und gleich freispreche, da er doch im Affekt gehandelt habe, was seine Schuld minderen würde.
+Weiter glaubt die Chochlakowa, dass Dmitrij am Abend der Tat «den Affekt bekommen» habe. Gemordet habe jedoch Grigorij, der nach dem von Dmitrij auf seinen Kopf erhaltenen Schlag ebenfalls den Affekt bekommen habe und sich darum an nichts mehr erinnern könne. Es sei jedoch günstiger, wenn das Gericht Dmitrij als den Täter ausmache – und gleich freispreche, da er doch im Affekt gehandelt habe, was seine Schuld minderen würde.
 
 Auch ihre Tochter Lise habe neulich den Affekt bekommen. Die Chochlakowa erzählt Aljoscha, dass sein Bruder Iwan bei Lise gewesen sei, worüber Aljoscha sehr erstaunt ist. Anschliessend habe sie einen hysterischen Anfall erlitten und dabei von ihrer Mutter verlangt, Iwan nicht mehr zu empfangen. Aljoscha solle Lise nun zu allem ausfragen und ihr gleich davon berichten kommen. Aljoscha geht zu ihr, doch verspricht der Chochlakowa nicht, gleich zu ihr zurückzukehren, da er unbedingt noch zu Dmitrij wolle. Da trifft auch gerade Perchotin bei ihr ein.
 
@@ -1064,9 +1064,9 @@ Sie schäme sich nicht vor ihm, achte ihn zwar nicht, aber liebe ihn. Sie wolle 
 
 Sie wolle Böses tun und es in Kauf nehmen, vor aller Augen als schlechter Mensch dazustehen. Die Leute lügten, das Schlechte zu verabscheuen, denn eigentlich fänden sie Gefallen daran. Sie wolle sich selber zerstören, wie der «glückliche» Junge, der sich zwischen die Schienen gelegt habe, und ein Zug über ihn hinwegrollte.
 
-Dmitrij komme vor Gericht, dabei möchten es doch alle leiden, dass er seinen eigenen Vater umgebracht habe. Sie träume manchmal von Teufeln in ihrem Zimmer, die sie durch das Bekreuzigen vertreibe und durch Gotteslästerungen wieder anlocke ‒ und zeigt sich erstaunt darüber, dass Aljoscha diesen Traum auch manchmal hatte.
+Dmitrij komme vor Gericht, dabei möchten es doch alle leiden, dass er seinen eigenen Vater umgebracht habe. Sie träume manchmal von Teufeln in ihrem Zimmer, die sie durch das Bekreuzigen vertreibe und durch Gotteslästerungen wieder anlocke – und zeigt sich erstaunt darüber, dass Aljoscha diesen Traum auch manchmal hatte.
 
-Sie habe von einem Juden gelesen, der einem Jungen alle Finger abgeschnitten und ihn gekreuzigt haben soll ‒ und habe auch noch Gefallen an dieser Geschichte gefunden. In der Nacht darauf habe sie Weinkrämpfe gehabt und am nächsten Morgen jemand per Brief zu sich bestellt und diesem Besucher erzählt, dass diese Geschichte gut sei. Der Besucher habe dies lachend bestätigt und sei gleich darauf wieder gegangen. Aljoscha meint, dass sich dieser Mensch ihr gegenüber ehrenhaft verhalten habe. Er verachte sie nicht, glaube aber auch niemandem und achte darum auch keinen.
+Sie habe von einem Juden gelesen, der einem Jungen alle Finger abgeschnitten und ihn gekreuzigt haben soll – und habe auch noch Gefallen an dieser Geschichte gefunden. In der Nacht darauf habe sie Weinkrämpfe gehabt und am nächsten Morgen jemand per Brief zu sich bestellt und diesem Besucher erzählt, dass diese Geschichte gut sei. Der Besucher habe dies lachend bestätigt und sei gleich darauf wieder gegangen. Aljoscha meint, dass sich dieser Mensch ihr gegenüber ehrenhaft verhalten habe. Er verachte sie nicht, glaube aber auch niemandem und achte darum auch keinen.
 
 Sie fände alles ekelhaft und wolle sich umbringen. Sie lässt sich von Aljoscha versichern, dass er um sie weinen werde, denn ihr liege nur an seinen Tränen; alle anderen könnten sie ruhig verurteilen, denn sie liebe niemand und hasse alle.
 
@@ -1076,7 +1076,7 @@ Sie drängt ihn plötzlich dazu, nun zu seinem Bruder ins Gefängnis zu gehen un
 
 Obwohl Aljoscha erst spät im Gefängnis eintrifft, wird er problemlos zu Dmitrij vorgelassen. Dieser verabschiedet sich gerade von seinem vorherigen Besucher Rakitin, der Aljoscha keines Blickes würdigt. Rakitin besuche ihn öfters, weil er über den Prozess schreiben wolle, wobei ihm eine sozialistische Tendenz vorschwebe: Das Milieu habe Dmitrij zum Mörder gemacht.
 
-Rakitin wolle Karriere als Kritiker machen, auch wenn er seine Ansichten ‒ dass ohne Gott und ohne künftiges Leben alles erlaubt sei ‒ nicht unverblümt äussern könne. Der Chochlakowa, die er für dumm und sentimental halte, mache er den Hof, um an ihre hundertfünfzigtausend Rubel heranzukommen. Mit dem Kapital wolle er eine Zeitung herausgeben und ein Mietshaus in Petersburg kaufen.
+Rakitin wolle Karriere als Kritiker machen, auch wenn er seine Ansichten – dass ohne Gott und ohne künftiges Leben alles erlaubt sei – nicht unverblümt äussern könne. Der Chochlakowa, die er für dumm und sentimental halte, mache er den Hof, um an ihre hundertfünfzigtausend Rubel heranzukommen. Mit dem Kapital wolle er eine Zeitung herausgeben und ein Mietshaus in Petersburg kaufen.
 
 Der Chochlakowa habe Rakitin ein Gedicht über ihr krankes Füsschen geschrieben, das dieser für wertvoller als die Verse Puschkins halte, da er seinem Gedicht eine soziale Problematik untergeschoben habe. Auch das Aneignen ihres Kapitals wisse er so zu rechtfertigen, da er doch damit der Allgemeinheit besser zu dienen wüsste als die ungebildete Chochlakowa. Rakitin sei nun schlechter Laune, weil sie ihn vor die Tür gesetzt habe. Aljoscha meint, dass Rakitin es ihr mit seinem Artikel bereits zurückbezahlt habe. Dmitrij, der die betreffende Glosse bereits kennt, hält es für glaubwürdig, dass Rakitin deren Autor ist.
 
@@ -1088,9 +1088,9 @@ Der Arzt und der Advokat, die beide von Katerina Iwanowna bestellt worden sind, 
 
 Auf Aljoschas Frage, warum er Gruschenka für seine Eifersucht nicht um Verzeihung gebeten habe, antwortet Dmitrij, dass man eine Frau nie um Verzeihung bitten solle, da man so nur mit Vorwürfen zugeschüttet würde. Lieber solle man ihr unentschuldigt etwas zuliebe tun.
 
-Mit Iwan teile er ein Geheimnis, in das er Aljoscha erst nach dem Prozess einweihen wollte, da er, Aljoscha, hierzu eine Entscheidung für ihn, Dmitrij, zu treffen habe. Dennoch soll Aljoscha dieses Geheimnis nun bereits erfahren, dürfe sich aber in keinster Weise dazu äussern: Iwan plane Dmitrijs Flucht nach Amerika, wohin ihn auch Gruschenka begleiten soll, zumal er sie als Häftling nicht heriaten könne. Iwan dränge sehr auf diesen Plan und verlange von Dmitrij, mit niemandem darüber zu reden ‒ und ausdrücklich nicht mit Aljoscha.
+Mit Iwan teile er ein Geheimnis, in das er Aljoscha erst nach dem Prozess einweihen wollte, da er, Aljoscha, hierzu eine Entscheidung für ihn, Dmitrij, zu treffen habe. Dennoch soll Aljoscha dieses Geheimnis nun bereits erfahren, dürfe sich aber in keinster Weise dazu äussern: Iwan plane Dmitrijs Flucht nach Amerika, wohin ihn auch Gruschenka begleiten soll, zumal er sie als Häftling nicht heriaten könne. Iwan dränge sehr auf diesen Plan und verlange von Dmitrij, mit niemandem darüber zu reden – und ausdrücklich nicht mit Aljoscha.
 
-Dmitrij habe es nicht fertig gebracht, Iwan zu fragen, ob er von seiner Unschuld überzeugt sei. Aljoscha versichert ihm, dass er völlig von seiner Unschuld überzeugt sei, worüber Dmitrij augenblichklich äusserst erleichtert ist. Den Abgrund ahnend, in den sein verzweifelter Bruder nun blicken müsse, macht sich Aljoscha tränenüberströmt auf den Weg zu Iwan ‒ ein Besuch, der ihn sehr quält.
+Dmitrij habe es nicht fertig gebracht, Iwan zu fragen, ob er von seiner Unschuld überzeugt sei. Aljoscha versichert ihm, dass er völlig von seiner Unschuld überzeugt sei, worüber Dmitrij augenblichklich äusserst erleichtert ist. Den Abgrund ahnend, in den sein verzweifelter Bruder nun blicken müsse, macht sich Aljoscha tränenüberströmt auf den Weg zu Iwan – ein Besuch, der ihn sehr quält.
 
 ### V) Du nicht, du nicht!
 
@@ -1118,7 +1118,7 @@ Iwan hat Smerdjakow bereits zweimal besucht: Das erste Mal direkt nach seiner R�
 
 Als Iwan Dmitrij besucht, argumentiert dieser sehr verworren und verhält sich Iwan gegenüber geradezu feindselig, worauf Iwan Smerdjakow im städtischen Krankenhaus besucht. Das Gespräch zwischen Smerdjakow und ihm am Abend vor seiner Abreise erwähnte er gegenüber dem Ermittlungsrichter bisher nicht, obwohl er aber alles zu Protokoll geben möchte, nachdem er sich mit Smerdjakow unterhalten hat. Die Ärzte versichern Iwan, dass die epileptischen Anfälle echt waren und dass man diese nicht voraussagen könne.
 
-Auf Iwans Frage, wie Smerdjakow seinen Anfall am Tag der Tat so genau hat vorhersagen können, anwortet dieser, er habe bloss eine Vorahnung gehabt, die sich mit seiner Angst vor dem Anfall beim Gang in den Keller eben bewahrheitet habe. Dies und das Gespräch darüber mit Iwan am Vorabend habe er bereits zu Protokoll gegeben ‒ wodurch Iwan ihm gegenüber nun kein Druckmittel mehr hat.
+Auf Iwans Frage, wie Smerdjakow seinen Anfall am Tag der Tat so genau hat vorhersagen können, anwortet dieser, er habe bloss eine Vorahnung gehabt, die sich mit seiner Angst vor dem Anfall beim Gang in den Keller eben bewahrheitet habe. Dies und das Gespräch darüber mit Iwan am Vorabend habe er bereits zu Protokoll gegeben – wodurch Iwan ihm gegenüber nun kein Druckmittel mehr hat.
 
 Von seiner damals behaupteten Fähigkeit einen solchen Anfall vortäuschen zu können, habe er jedoch niemandem erzählt. Den Hinweis an Iwan, dass er sich durch seine Abreise vom drohenden Unheil fernhalten solle, habe dieser falsch verstanden: So hätte er nur ins nahe gelegene Tscheremaschnja und nicht ins weit entfernte Moskau abreisen sollen, um notfalls vor Ort sein zu können; ja er hätte besser zum Schutz seines Vaters da bleiben sollen.
 
@@ -1126,11 +1126,11 @@ Er habe höchstens mit dem Raub der dreitausend Rubel, aber niemals mit einem Mo
 
 Dmitrij beschuldige ihn bloss, weil ihm gar nichts anderes übrig bliebe. Hätte er den Mord geplant, hätte er niemals gegenüber Iwan behauptet, einen eptileptischen Anfall vorspielen zu können, da er ihm damit einen Beweis für seine Schuld geliefert hätte. Iwan verlässt ihn mit dem Hinweis, dass er nicht erwähnen solle, dass er einen Anfall vortäuschen könne. Smerdjakow entgegnet, dass wenn Iwan es auch nicht erwähnen würde, er auch über das Gespräch am Vorabend vor Iwans Abreise nichts erzählen wolle. (Dies steht im Widerspruch zu Smerdjakows früherer Behauptung, dass er dies bereirs zu Protokoll gegeben habe.)
 
-Iwan ist sich nun sicher, dass Dmitrij der Mörder und Smerdjakow unschuldig sei, was ihn komischerweise beruhigt, worüber er aber nicht weiter nachdenken mag. Auch weitere Zeugenaussagen ‒ von Grigorij die offenstehende Tür betreffend; und von dessen Frau, dass Smerdjakow die ganze Nacht stöhnend im Bett gelegen habe ‒ bestärken Iwan in seiner Meinung, dass Dmitrij der Schuldige sei.
+Iwan ist sich nun sicher, dass Dmitrij der Mörder und Smerdjakow unschuldig sei, was ihn komischerweise beruhigt, worüber er aber nicht weiter nachdenken mag. Auch weitere Zeugenaussagen – von Grigorij die offenstehende Tür betreffend; und von dessen Frau, dass Smerdjakow die ganze Nacht stöhnend im Bett gelegen habe – bestärken Iwan in seiner Meinung, dass Dmitrij der Schuldige sei.
 
-Gleichzeitig flammt auch seine Liebe zu Katerina Iwanowna wieder auf, die er jedoch abstreitet und stattdessen nur seinen Hass ihr gegenüber zugibt ‒ der darin begründet liegt, dass Katerina Iwanowna Dmitrij gegenüber Schuldgefühle empfindet und sich darum nicht Iwan hingeben will.
+Gleichzeitig flammt auch seine Liebe zu Katerina Iwanowna wieder auf, die er jedoch abstreitet und stattdessen nur seinen Hass ihr gegenüber zugibt – der darin begründet liegt, dass Katerina Iwanowna Dmitrij gegenüber Schuldgefühle empfindet und sich darum nicht Iwan hingeben will.
 
-Weiter quält Iwan der Gedanke daran, dass er am Abend vor seiner Abreise seinen Vater belauschte und sich auf seiner Reise selber als «Schuft» bezeichnete. Iwan erkundigt sich deswegen bei Aljoscha, ob er nach Dmitrijs damaligen Übergriff auf den Vater an ihm, Iwan, den Wunsch erkannte, dass Dmitrij den Vater umbringen würde ‒ was Aljoscha zögernd bejaht. Seither weicht er Aljoscha aus, sucht aber Smerdjakow darauf erneut auf.
+Weiter quält Iwan der Gedanke daran, dass er am Abend vor seiner Abreise seinen Vater belauschte und sich auf seiner Reise selber als «Schuft» bezeichnete. Iwan erkundigt sich deswegen bei Aljoscha, ob er nach Dmitrijs damaligen Übergriff auf den Vater an ihm, Iwan, den Wunsch erkannte, dass Dmitrij den Vater umbringen würde – was Aljoscha zögernd bejaht. Seither weicht er Aljoscha aus, sucht aber Smerdjakow darauf erneut auf.
 
 ### VII) Der zweite Besuch bei Smerdjakow
 
@@ -1138,13 +1138,13 @@ Iwan besucht den mittlerweile genesenen Smerdjakow in seiner neuen Wohnung im Ha
 
 Für letztere Bemerkung versetzt Iwan Smerdjakow einen Faustschlag an die Schulter, worauf Smerdjakow zu weinen anfängt und lamentiert, dass es eine Schande sei, einen schwachen Menschen zu schlagen. Er habe ihn damals am Tor angesprochen, um herauszufinden, ob er den Tod seines Vaters wünsche. Aus Angst habe er damals jeden verdächtigt, traute Iwan aber nicht den Mord, wohl aber den Wunsch darauf zu.
 
-Hätte der Vater Gruschenka geheiratet, wären die Söhne ohne Erbe dagestanden. Andernfalls hätten alle drei je vierzigtausend Rubel geerbt ‒ ausser wenn Dmitrij durch den Mord sein Erbrecht verwirkt hätte, dann wären es für Iwan und Aljoscha je sechzigtausend Rubel geworden. So habe Iwan fest mit Dmitrij als Täter gerechnet. Iwan entgegnet, dass er damals eher Smerdjakow verdächtigt habe, worauf dieser antwortet, dass Iwan ihm durch seine Abreise die Tat erlaubt hätte.
+Hätte der Vater Gruschenka geheiratet, wären die Söhne ohne Erbe dagestanden. Andernfalls hätten alle drei je vierzigtausend Rubel geerbt – ausser wenn Dmitrij durch den Mord sein Erbrecht verwirkt hätte, dann wären es für Iwan und Aljoscha je sechzigtausend Rubel geworden. So habe Iwan fest mit Dmitrij als Täter gerechnet. Iwan entgegnet, dass er damals eher Smerdjakow verdächtigt habe, worauf dieser antwortet, dass Iwan ihm durch seine Abreise die Tat erlaubt hätte.
 
 Iwan hätte ihn für seine Rede zur Polizei bringen oder zumindest ohrfeigen können, was er verpasst habe. Nun verdächtigt Iwan doch Smerdjakow als den Täter. Er bringe ihn nur deswegen nicht um, weil er ihn noch vor Gericht bringen wolle. Smerdjakow antwortet damit, dass er dann vor Gericht alles erzählen werde, was Iwan vor dem Publikum in Verruf brächte.
 
 Mit dem Gedanken ringend, Smerdjakow umbringen zu wollen, begibt sich Iwan zu Katerina Iwanowna. Diese zeigt Iwan eine Brief von Dmitrij, den er am Abend des Tages, an dem Aljoscha die Szene zwischen Gruschenka und ihr mitbekommen hatte, in betrunkenem Zustand schrieb. Darin steht, dass Dmitrij ihre dreitausend Rubel beschaffen wolle. Gelänge ihm das nicht, wolle er dem Vater den Schädel einschlagen und die dreitausend rauben sobald Iwan abgereist sei. Auch das Versteck des Geldes unter des Vaters Matratze ist darin erwähnt.
 
-Für Iwan ist klar: Dmitrij ist der Täter und nicht Smerdjakow ‒ und er selber ist damit nicht der Komplize Smerdjakows und also unschuldig. Dennoch macht ihn in den darauffolgenden Wochen der Gedanke wahnsinnig, dass er der Schuldige sei. Die Bemerkung Smerdjakows, dass die Verurteilung Dmitrijs Iwans Erbteil erhöhe, kränkt ihn derart, dass er für Dmitrij einen Fluchtplan ausarbeitet, den er selber mit dreissigtausend Rubel finanziert.
+Für Iwan ist klar: Dmitrij ist der Täter und nicht Smerdjakow – und er selber ist damit nicht der Komplize Smerdjakows und also unschuldig. Dennoch macht ihn in den darauffolgenden Wochen der Gedanke wahnsinnig, dass er der Schuldige sei. Die Bemerkung Smerdjakows, dass die Verurteilung Dmitrijs Iwans Erbteil erhöhe, kränkt ihn derart, dass er für Dmitrij einen Fluchtplan ausarbeitet, den er selber mit dreissigtausend Rubel finanziert.
 
 Nach dem Auseinandergehen mit Aljoscha fällt Iwan ein, wie Katerina Iwanowna vorher ihm gegenüber bemerkte, dass Iwan sie von Dmitrijs Schuld überzeugt habe, wo doch sie ihm Dmitrijs Brief als Beweis vorlegte! Sie bemerkte auch, dass sie bei Smerdjakow gewesen sei, was für Zweifel ihrerseits an der Täterschaft Dmitrijs spricht. Iwan beschliesst, sofort zu Smerdjakow zu gehen.
 
@@ -1164,13 +1164,13 @@ Er dachte, dass Dmitrij zwar seinen Vater erschlagen, aber dann das Geld nicht f
 
 Er wolle Iwan die ganze Wahrheit erzählen, da ja am Ende doch er, Iwan, für den Mord schuldig sei. Er habe mit Iwans Einwilligung gehandelt und sei sich dessen sicher gewesen, dass Iwan ihn dafür schützen, ja ihn gar wegen das ihm dadurch zugefallene Erbe gar belohnen würde. Wäre Iwan dageblieben, wäre nichts passiert; durch seine Abreise habe er den Plan abgesegnet, den er damals offenbar verstanden habe. Gegen ihn, Smerdjakow, hätte er so oder so nichts in der Hand gehabt, wohl aber ein Motiv, ihn anzustiften: das Erbe, das andernfalls an Gruschenka übergegangen wäre.
 
-Weiter habe es sich so ereignet: Smerdjakow sei durch Schreie geweckt worden und habe im Garten nachgeschaut. Der Vater habe am Fenster gestanden und ihm gesagt, dass Dmitrij da gewesen sei und Grigorij umgebracht habe. Diesen habe er bewusstlos vorgefunden, sodass er zwar den Überfall durch Dmitrij bezeugen könne ‒ aber nicht das, was sich weiter ereignete.
+Weiter habe es sich so ereignet: Smerdjakow sei durch Schreie geweckt worden und habe im Garten nachgeschaut. Der Vater habe am Fenster gestanden und ihm gesagt, dass Dmitrij da gewesen sei und Grigorij umgebracht habe. Diesen habe er bewusstlos vorgefunden, sodass er zwar den Überfall durch Dmitrij bezeugen könne – aber nicht das, was sich weiter ereignete.
 
 Smerdjakow habe gegenüber Fjodor Pawlowitsch behauptet, dass Gruschenka sich in den Büschen verstecke. Mit dem Klopfzeichen habe er den Vater zum Öffnen der Tür gebracht. (Grigorijs Aussage, die Tür habe bereits vorher offengestanden, war falsch.) Um den Vater zurück ins Zimmer zu bekommen, habe er behauptet, Gruschenka warte unter dem Fenster. Als sich Fjodor Pawlowitsch aus dem Fenster lehnte, habe er ihn mit einem gusseisernen Briefbeschwerer erschlagen.
 
 Das Geld habe er aus dem Umschlag genommen und diesen mitsamt der Schleife am Tatort liegen lassen. Anschliessend habe er es im Garten in einem hohlen Baumstamm versteckt, wofür er dort bereits einen Stofflappen bereitgelegt habe. Das Geld habe er erst zwei Wochen später herausgenommen, als er aus dem Krankenhaus entlassen worden sei. Nachdem er sich zurück ins Bett gelegt habe, sei auch schon Marfa erwacht und habe nach Grigorij geschaut, wonach alles seinen Lauf genommen habe.
 
-Das Kuvert habe er am Tatort liegen lassen, damit der Verdacht auf einen unerfahrenen Verbrecher falle, der sich noch am Tatort von dessen Inhalt überzeugen müsse ‒ und in seiner Unerfahrenheit ein Indiz gegen sich selber liegen lasse.
+Das Kuvert habe er am Tatort liegen lassen, damit der Verdacht auf einen unerfahrenen Verbrecher falle, der sich noch am Tatort von dessen Inhalt überzeugen müsse – und in seiner Unerfahrenheit ein Indiz gegen sich selber liegen lasse.
 
 Iwan kündigt an, dies alles vor Gericht auszusagen und sich selber anzuzeigen. Smerdjakow entgegnet, dass weder er selber noch Iwan vor Gericht erscheinen würden, und dass er das soeben Erzählte einfach abstreiten könnte. Iwan würde man keinen Glauben schenken, das Geld könne er aber gerne mitnehmen. Iwan liebe das Leben in Wohlstand und Unabhängigkeit zu sehr, um es durch eine Selbstanzeige aufs Spiel zu setzen. Von allen Kindern Fjodor Pawlowitschs sei er ihm schliesslich am ähnlichsten. Aus Stolz habe Iwan ihn, Smerdjakow, unterschätzt.
 
@@ -1186,7 +1186,7 @@ Zu dieser Zeit begann Iwans Nervenfieber, und obwohl er diese Krankheit durch Wi
 
 Dieser erinnert Iwan daran, dass er von Smerdjakow entgegen seinem Vorsatz nichts vom Besuch Katerina Iwanownas bei ihm in Erfahrung habe bringen können. Iwan entgegnet, dass dies nun nicht mehr relevant sei, und dass er sich dessen selber erinnerte. Er sei sich sicher, dass er phantasiere, und dass er mit sich selber spreche. Mit einem Handtuch, das er in kaltes Wasser taucht und sich um den Kopf bindet, versucht er seine Einbildung zu vertreiben. Er sehe ihn nicht als etwas Wahres an, sondern als etwas, das seiner Krankheit entspringe.
 
-Als der Teufel von Aljoscha und Iwans vorherigem Beschluss zu reden beginnt, droht ihm Iwan Fusstritte an ‒ worüber sich dieser freut, zumal er damit von Iwan als real anerkannt wäre. Er schnappe nur seine Übelsten und dümmsten Gedanken auf, entgegnet Iwan.
+Als der Teufel von Aljoscha und Iwans vorherigem Beschluss zu reden beginnt, droht ihm Iwan Fusstritte an – worüber sich dieser freut, zumal er damit von Iwan als real anerkannt wäre. Er schnappe nur seine Übelsten und dümmsten Gedanken auf, entgegnet Iwan.
 
 Man sehe ihn oft als gefallenen Engel an, doch könner er sich nicht vorstellen, je ein Engel gewesen zu sein. Als gläubiges Bauernweib zu reinkarnieren und vor den Ikonen eine Kerze anzuzünden wäre seine Rettung, so der Teufel. Er sei zwar eine Halluzination, spreche aber gelegentlich einen originellen Gedanken aus, auf den Iwan selber nie gekommen wäre. Er sei zum Verneinen bestimmt, und ohne ihn würde auf Erden alles vernünftig ablaufen und nichts passieren. Ein Leben ohne Leiden verkomme zu einem endlosen Dankgebet und wäre äusserst langweilig. Auf Iwans Frage, ob es einen Gott gäbe, antwortet der Teufel, dass er es nicht wisse, was Iwan darin bestärkt, dass dieser Besucher nur seiner Einbildung entstamme.
 
@@ -1220,7 +1220,7 @@ Als Iwans Rede immer wirrer und unverständlicher wird, bringt Aljoscha ihn zu B
 
 ### I) Der verhängnisvolle Tag
 
-Das Verfahren gegen Dmitrij wird am folgenden Tag um zehn Uhr am Bezirksgericht eröffnet. Der Prozess wird im Vorfeld eifrig in ganz Russland diskutiert, sodass der Saal bis auf den letzten Platz mit angereisten Juristen und zahlreichen Damen gefüllt ist, letztere grösstenteils auf Dmitrijs Seite stehend ‒ im Gegensatz zu ihren Männern, was zu einigen Ehestreitigkeiten geführt haben soll.
+Das Verfahren gegen Dmitrij wird am folgenden Tag um zehn Uhr am Bezirksgericht eröffnet. Der Prozess wird im Vorfeld eifrig in ganz Russland diskutiert, sodass der Saal bis auf den letzten Platz mit angereisten Juristen und zahlreichen Damen gefüllt ist, letztere grösstenteils auf Dmitrijs Seite stehend – im Gegensatz zu ihren Männern, was zu einigen Ehestreitigkeiten geführt haben soll.
 
 Von Katerina Iwanowna wird erzählt, sie wolle den Angeklagten im Falle einer Verurteilung nach Sibirien begleiten. Von ihrer Kontrahentin Gruschenka ist man verwundert, wie eine solche Kleinbürgerin, die nicht einmal besonders hübsch sei, Vater und Sohn um den Verstand bringen und ins Verderben habe stürzen können.
 
@@ -1230,7 +1230,7 @@ Auf einem Tisch in der Mitte des Saals sind die Beweisstücke ausgestellt: der b
 
 Die zwölf Geschworenen setzen sich aus vier niedrigen Beamten, zwei Kaufleuten sowie sechs Bauern und Kleinbürgern zusammen, denen man im Allgemeinen die Fähigkeit abstreitet, in so einer Sache urteilen zu können.
 
-Als der Angeklagte hereingeführt wird, herrscht äusserste und angespannte Ruhe im Saal. Dmitrij trägt einen neuen Gehrock, den er sich von seinem früheren Schneider eigens zum Prozess hat anfertigen lassen. Vier Zeugen sind abwesend: Miussow, der sich in Paris aufhalte; Maximow und die Chochlakowa wegen Krankheit; und Smerdjakow, der plötzlich verstorben sei ‒ was zu Tuscheln im Saal führt, und wodurch sich Dmitrij zum Ausruf «Dem Hund ein Hundetod!» verführen lässt, wofür er gleich gemassregelt wird. Nach dem Verlesen der Anklageschrift bekennt sich Dmitrij «des Müssiggangs und der Skandale» schuldig, aber nicht des Mordes und des Raubes: er sei zwar ein Schuft, aber kein Dieb.
+Als der Angeklagte hereingeführt wird, herrscht äusserste und angespannte Ruhe im Saal. Dmitrij trägt einen neuen Gehrock, den er sich von seinem früheren Schneider eigens zum Prozess hat anfertigen lassen. Vier Zeugen sind abwesend: Miussow, der sich in Paris aufhalte; Maximow und die Chochlakowa wegen Krankheit; und Smerdjakow, der plötzlich verstorben sei – was zu Tuscheln im Saal führt, und wodurch sich Dmitrij zum Ausruf «Dem Hund ein Hundetod!» verführen lässt, wofür er gleich gemassregelt wird. Nach dem Verlesen der Anklageschrift bekennt sich Dmitrij «des Müssiggangs und der Skandale» schuldig, aber nicht des Mordes und des Raubes: er sei zwar ein Schuft, aber kein Dieb.
 
 Anschliessend werden die Zeugen zur Eidesleistung hereingeführt; die beiden Brüder sind jedoch auch ohne Eid zur Aussage zugelassen.
 
@@ -1250,7 +1250,7 @@ Der Zeuge Snegirjow erscheint verwahrlost und betrunken und will nicht gegen Dmi
 
 Der Zeuge Trifon Borisowitsch (der Wirt in Mokroje) kann überzeugend schildern, dass Dmitrij bei seinem ersten Gelage dreitausend und nicht etwa nur eintausendfünfhundert Rubel ausgegeben habe, zumal dieser das Geld den Bauern und Mägden geradezu vor die Füsse geworfen habe.
 
-Fetjukowitsch konfrontiert ihn damit, dass ihm vom Kutscher Timofej und vom Bauern Akim ein Hundertrubelschein übergeben worden sei, den Dmitrij auf dem Flur des Wirtshauses habe fallen lassen. Diesen habe er Dmitrij aufgrund seiner damaligen Trunkenheit nicht zurückgegeben, dies aber später beabsichtigt zu tun ‒ was aber offenbar noch immer nicht passiert ist, wodurch ein weiterer Zeuge mit befleckter Reputation abtritt.
+Fetjukowitsch konfrontiert ihn damit, dass ihm vom Kutscher Timofej und vom Bauern Akim ein Hundertrubelschein übergeben worden sei, den Dmitrij auf dem Flur des Wirtshauses habe fallen lassen. Diesen habe er Dmitrij aufgrund seiner damaligen Trunkenheit nicht zurückgegeben, dies aber später beabsichtigt zu tun – was aber offenbar noch immer nicht passiert ist, wodurch ein weiterer Zeuge mit befleckter Reputation abtritt.
 
 Die beiden Polen treten selbstbewusst auf und bezeugen, dass Dmitrij sie mit dreitausend Rubel hat kaufen wollen. Doch als Fetjukowitsch deren Betrug beim Kartenspiel nachweisen kann, treten auch diese beiden Zeugen ruhmlos und unter Gelächter des Publikums ab.
 
@@ -1278,7 +1278,7 @@ Aljoscha rückt Dmitrij mit seiner Aussage in ein eher günstiges Licht. Zwar se
 
 Ihm gegenüber habe Dmitrij seinen Hass geäussert, den er für seinen Vater empfinde, und dass er ihn in einer Minute der Abscheu umbringen könnte. Doch sei er stets davon überzeugt gewesen, dass ein höheres Gefühl Dmitrij in einer solchen Minute retten würde. Er glaube an die Unschuld seines Bruders und an die Schuld Smerdjakows, denn Dmitrij würde ihn nicht anlügen, das habe er seinem Gesicht angesehen, aber einen anderen Beweis könne er nicht vorbringen.
 
-Von Fetjukowitsch auf seine letzte Begegnung mit Dmitrij vor der Tat angesprochen fällt Aljoscha ein, dass sich Dmitrij damals auf die Brust geschlagen und dabei ein Mittel erwähnt habe, um seine Ehre wiederherzustellen. Dabei habe er jedoch nicht auf sein Herz gedeutet, sondern bemerkenswerterweise auf eine Stelle weiter oben an der Brust ‒ wo sich wohl das Amulett mit den tausendfünfhundert Rubel befunden habe. Dmitrij habe auch davon geredet, wie er damit _die Hälfte_ seiner Schuld tilgen könne, es aber aufgrund seiner Charakterschwäche nicht tun werde. Dmitrij bestätigt diese Aussage und bedankt sich bei Aljoscha.
+Von Fetjukowitsch auf seine letzte Begegnung mit Dmitrij vor der Tat angesprochen fällt Aljoscha ein, dass sich Dmitrij damals auf die Brust geschlagen und dabei ein Mittel erwähnt habe, um seine Ehre wiederherzustellen. Dabei habe er jedoch nicht auf sein Herz gedeutet, sondern bemerkenswerterweise auf eine Stelle weiter oben an der Brust – wo sich wohl das Amulett mit den tausendfünfhundert Rubel befunden habe. Dmitrij habe auch davon geredet, wie er damit _die Hälfte_ seiner Schuld tilgen könne, es aber aufgrund seiner Charakterschwäche nicht tun werde. Dmitrij bestätigt diese Aussage und bedankt sich bei Aljoscha.
 
 Katerina Iwanowna sagt aus, dass ihr die Geldnöte Dmitrijs bekannt gewesen seien. Die dreitausend Rubel, die sie ihm anvertraute, hätte er auch nicht sofort ihrer Schwester überweisen sollen, sondern erst nachdem er sein Geld vom Vater erhalten habe. Sie glaubt, dass der Vater Dmitrij übervorteilt habe und war sich dessen bewusst, das die beiden im Streit lebten.
 
@@ -1322,7 +1322,7 @@ Dabei lässt sich der Staatsanwalt unter Beifall aus dem Publikum dazu hinreisse
 
 Aus dem vernachlässigten Kind sei ein Jüngling und Offizier geworden, der randaliert und sich duelliert habe und dafür strafversetzt worden sei. Darauf habe er dringend Geld gebraucht und sich nach langen Streitereien mit seinem Vater auf sechstausend Rubel geeinigt, wobei er auf weitere Forderungen verzichtet haben soll.
 
-Gegenüber seiner künftigen Braut habe er zunächst edelmütig gehandelt, als er ihr das Geld zu ihrer Ehrrettung selbstlos überlassen habe; aber anschliessend niederträchtig, als er die dreitausend Rubel von ihr angenommen habe, um sie damit zu betrügen. Darin bestehe das Karamasowsche: die Vereinigung der krassesten Gegensätze ‒ von höchsten Idealen und der gemeinsten Verworfenheit.
+Gegenüber seiner künftigen Braut habe er zunächst edelmütig gehandelt, als er ihr das Geld zu ihrer Ehrrettung selbstlos überlassen habe; aber anschliessend niederträchtig, als er die dreitausend Rubel von ihr angenommen habe, um sie damit zu betrügen. Darin bestehe das Karamasowsche: die Vereinigung der krassesten Gegensätze – von höchsten Idealen und der gemeinsten Verworfenheit.
 
 Dass der Angeklagte von den dreitausend Rubel die Hälfte in einem Amulett aufbewahrt habe, sei unglaubwürdig. Hätte er über diesen Betrag verfügt, wäre er nicht Hals über Kopf herumgereist, um an noch mehr Geld zu kommen, ja hätte es bei der ersten Gelegenheit (etwa in einem Wirtshaus) angetastet. Ob er nun die Hälfte des Betrags oder noch weniger davon zurückbringen würde, hätte am Ende auch keine Rolle mehr gespielt, und so hätte er ebensogut gleich alles verschwenden können.
 
@@ -1332,15 +1332,15 @@ Kurz: Die Geschichte mit den eintausendfünfhundert in ein Amulett eingenähten 
 
 Der Angeklagte sei zum Zeitpunkt der Tat geistig voll zurechnungsfähig und leide insofern an einer Manie, dass er auf die dreitausend Rubel seines Vaters fixiert sei. Das Problem sei seine geistige Labilität; seinen Wutausbrüchen liege einzig die Eifersucht zugrunde.
 
-Ein verhängnisvoller Zufall habe es gewollt, dass Vater und Sohn sich gleichzeitig in die selbe Frau verlieben ‒ eine durchaus Karamasowsche Leidenschaft. Bald seien beide Männer dieser Frau zu Füssen gelegen, und diese habe sich nur über ihre beiden Verehrer lustig gemacht. Reue dafür habe sie erst bei der Verhaftung gezeigt. Wie Rakitin richtigerweise geschrieben habe, sei die von ihrem Verführer verlassene junge Frau früh verbittert gewesen, worauf sie sich mit ihrem Spiel an der Gesellschaft habe rächen wollen.
+Ein verhängnisvoller Zufall habe es gewollt, dass Vater und Sohn sich gleichzeitig in die selbe Frau verlieben – eine durchaus Karamasowsche Leidenschaft. Bald seien beide Männer dieser Frau zu Füssen gelegen, und diese habe sich nur über ihre beiden Verehrer lustig gemacht. Reue dafür habe sie erst bei der Verhaftung gezeigt. Wie Rakitin richtigerweise geschrieben habe, sei die von ihrem Verführer verlassene junge Frau früh verbittert gewesen, worauf sie sich mit ihrem Spiel an der Gesellschaft habe rächen wollen.
 
 Der Angeklagte habe zu Beginn in Wirtshäusern randaliert, dann Drohungen gegen seinen Vater ausgesprochen und ihn schliesslich bei ihm zu Hause nach dem Mittagessen überfallen. Der Brief an Katerina Iwanowna habe schliesslich die Mordabsicht unbestreitbar dokumentiert, dessen er, der Staatsanwalt, sich bis dahin nicht sicher gewesen sei.
 
-Der Brief dokumentiere einen im Voraus wohlüberlegten Plan. Auch wenn er im Zustand der Trunkenheit niedergeschrieben worden sei, entstamme der ihm zugrundeliegende Plan doch einem nüchternen Geist. Den Vorsatz habe er im Voraus überall herumposaunt, da es zunächst nur ein Wunsch und noch kein der Verheimlichung würdiger Plan gewesen sei. Er habe versucht, die dreitausend Rubel aufzutreiben, und wenn ihm das misslingen sollte, werde er eben den Vater umbringen und das Geld von ihm rauben. So habe es im Brief gestanden ‒ und so habe er es auch ausgeführt.
+Der Brief dokumentiere einen im Voraus wohlüberlegten Plan. Auch wenn er im Zustand der Trunkenheit niedergeschrieben worden sei, entstamme der ihm zugrundeliegende Plan doch einem nüchternen Geist. Den Vorsatz habe er im Voraus überall herumposaunt, da es zunächst nur ein Wunsch und noch kein der Verheimlichung würdiger Plan gewesen sei. Er habe versucht, die dreitausend Rubel aufzutreiben, und wenn ihm das misslingen sollte, werde er eben den Vater umbringen und das Geld von ihm rauben. So habe es im Brief gestanden – und so habe er es auch ausgeführt.
 
 Gepeinigt und erschöpft sei er vom gescheiterten Versuch das Geld aufzutreiben in die Stadt zurückgekehrt und habe Posten bezogen, wobei er erfahren habe, dass die beiden Diener seines Vaters ausser Gefecht lägen. Den vernünftigen Rat der Chochlakowa ignorierend, seine überschäumenden Kräfte in den sibirischen Goldminen gewinnbringend einzusetzen, habe er seine Angebetete nicht bei Samssonow antreffen können und den Aufenthaltsort seiner Angebeteten beim Vater vermutet.
 
-So habe er sich zur Tat entschlossen, wozu er die erstbeste Tatwaffe eingesteckt habe ‒ den Messingstössel. Dass der Angeklagte nun entgegen seiner Absicht und unverrichteter Dinge einfach aus dem Garten seines Vaters fliehen würde, passe nicht in das Bild, dass dieser die ganze Zeit von sich gezeichnet habe.
+So habe er sich zur Tat entschlossen, wozu er die erstbeste Tatwaffe eingesteckt habe – den Messingstössel. Dass der Angeklagte nun entgegen seiner Absicht und unverrichteter Dinge einfach aus dem Garten seines Vaters fliehen würde, passe nicht in das Bild, dass dieser die ganze Zeit von sich gezeichnet habe.
 
 So widmet sich der Staatsanwalt der Teorie, dass Smerdjakow der Täter gewesen sein könnte, mit der er ein für alle mal aufräumen will.
 
@@ -1388,7 +1388,7 @@ Doch schenkte man dem Staatsanwalt Glauben, hätte Dmitrij sich nicht damit aufg
 
 Hätte der Angeklagte zunächst seinen Vater ermordert, hätte er anschliessend für dessen Diener kein Mitleid mehr empfinden können. Doch bis zum Niederschlag Grigorijs sei Dmitrijs Gewissen rein gewesen, weswegen er sich dann aus Mitleid auch um diesen gekümmert habe. Mit der gleichen Psychologie könne man also das eine wie auch dessen Gegenteil glaubhaft machen, so der Verteidiger.
 
-### XI) Kein Geld ‒ kein Raub
+### XI) Kein Geld – kein Raub
 
 Der Verteidiger führt sein Plädoyer fort, indem er den Tatbestand des Raubes bestreitet, zumal niemand wisse, ob die vermeintlich geraubten dreitausend Rubel wirklich existierten. Gesehen hätte das Geld nur Smerdjakow; davon erfahren hätten neben dem Angeklagten nur sein Bruder Iwan und Gruschenka, für die das Geld bestimmt gewesen sei.
 
@@ -1400,7 +1400,7 @@ Der Angeklagte habe nachweislich höchstens eintausendfünfhundert Rubel auf sic
 
 Die soeben angehörten Zeugen, die behaupteten, dass Dmitrij dreitausend Rubel bei seinem Gelage durchgebracht habe, seien offensichtlich alle unglaubwürdig. Da Katerina Iwanowna ihrer ersten Aussage widersprochen habe, könne man der zweiten auch nicht glauben, zumal sie diese voller Verbitterung und Rachegefühle gemacht habe.
 
-Der Angeklagte könne durchaus die eine Hälfte der von ihr erhaltenen dreitausend Rubel an einem Gelage verjubeln und die andere Hälfte zur Aufbewahrung in ein Amulett einnähen, denn so sei eben die Karamasowsche Natur beschaffen, die gleichzeitig in zwei Abgründe blicken könne: Die eine Hälfte für die Verführung Gruschenkas, die andere für die gemeinsame Flucht ‒ oder um sie doch noch Katerina Iwanowna zurückzubringen? Erst als er seine Aussicht auf weitere dreitausend Rubel vom Vater durch seinen Angriff auf diesen verwirkte, habe er sich für ersteres entschieden, was er bei seiner nächtlichen Begegnung mit Aljoscha auch andeutete.
+Der Angeklagte könne durchaus die eine Hälfte der von ihr erhaltenen dreitausend Rubel an einem Gelage verjubeln und die andere Hälfte zur Aufbewahrung in ein Amulett einnähen, denn so sei eben die Karamasowsche Natur beschaffen, die gleichzeitig in zwei Abgründe blicken könne: Die eine Hälfte für die Verführung Gruschenkas, die andere für die gemeinsame Flucht – oder um sie doch noch Katerina Iwanowna zurückzubringen? Erst als er seine Aussicht auf weitere dreitausend Rubel vom Vater durch seinen Angriff auf diesen verwirkte, habe er sich für ersteres entschieden, was er bei seiner nächtlichen Begegnung mit Aljoscha auch andeutete.
 
 Das Haus des Vaters habe er dann nicht mit einer Mordabsicht aufgesucht, sondern um sich zu vergewissern, ob Gruschenka bei ihm sei. Der Raub könne also nicht nachgewiesen werden, doch wie sehe es nun mit dem Mord aus?
 
@@ -1408,7 +1408,7 @@ Das Haus des Vaters habe er dann nicht mit einer Mordabsicht aufgesucht, sondern
 
 Der Angeklagte sei in der Mordnacht einzig durch die Stadt gerannt, um Gruschenka zu finden. Den Messingstössel habe er nicht aus Berechnung mitgenommen, sondern weil dieser zufälligerweise gerade herumgestanden sei. Hätte er eine Mordabsicht verfolgt, wäre es am Vorabend im Wirtshaus nicht zu einem erneuten Krawall durch ihn gekommen; denn dann hätte er Heimlichkeit gesucht.
 
-Nur weil er im Garten gewesen sei, habe er noch lange nicht gemordet. Und durch das Fenster habe er durchaus erkennen können, dass Gruschenka nicht bei seinem Vater gewesen sei, da diesem vielleicht eine entsprechende Bemerkung entfahren sei. Zur offenen Tür zum Garten liege nur eine einzige Aussage vor ‒ von einem Zeugen, der sich zum Tatzeitpunkt in einem fragwürdigen Zustand befunden habe.
+Nur weil er im Garten gewesen sei, habe er noch lange nicht gemordet. Und durch das Fenster habe er durchaus erkennen können, dass Gruschenka nicht bei seinem Vater gewesen sei, da diesem vielleicht eine entsprechende Bemerkung entfahren sei. Zur offenen Tür zum Garten liege nur eine einzige Aussage vor – von einem Zeugen, der sich zum Tatzeitpunkt in einem fragwürdigen Zustand befunden habe.
 
 Der Mordtat doch noch entronnen habe sich der Angeklagte dann reinen Herzens um den niedergeschlagenen Grigorij gekümmert. Als sich dann für ihn das Liebesglück doch noch abgezeichnet habe, hätte er als Schuldiger erst recht zur Pistole gegriffen.
 
@@ -1426,7 +1426,7 @@ Man laufe Gefahr, den Angeklagten einzig aufgrund eines Haufens unzusammenhänge
 
 Die an sich nichtigen Indizien würden nur als bedeutend angesehen, weil man es vermeintlich mit einem Vatermord zu tun habe. Wahrlich sei es grausam, seinen eigenen Vater umzubringen, der sich jahrelang für einen aufgeopfert habe. Doch einen solchen Vater habe Dmitrij Karamasow nie gehabt, höchstens einen Lebensspender, der noch mit dessen Geld um seine Geliebte rivalisiert und auch den eigenen Sohn angeschwärzt habe.
 
-Einer aufbrausenden und derart verletzten Seele dürste es nach Zärtlichkeit und Gerechtigkeit. Der Angeklagte könne dem Opfer gegenüber gar nicht die Liebe eines Sohnes gegenüber seines Vaters empfunden haben, da ihm keine väterliche Liebe zuteil geworden sei ‒ und aus dem Nichts könne nur Gott etwas schöpfen. In einer echten Familie könne der Sohn vor den Vater treten und auf die Frage, warum er ihn lieben solle, eine Antwort bekommen ‒ und dürfte ihn andernfalls als seinen Feind betrachten.
+Einer aufbrausenden und derart verletzten Seele dürste es nach Zärtlichkeit und Gerechtigkeit. Der Angeklagte könne dem Opfer gegenüber gar nicht die Liebe eines Sohnes gegenüber seines Vaters empfunden haben, da ihm keine väterliche Liebe zuteil geworden sei – und aus dem Nichts könne nur Gott etwas schöpfen. In einer echten Familie könne der Sohn vor den Vater treten und auf die Frage, warum er ihn lieben solle, eine Antwort bekommen – und dürfte ihn andernfalls als seinen Feind betrachten.
 
 Der Angeklagte sei nicht mit der Absicht auf Mord oder Raub zum Vater gegangen, sondern um sich zu vergewissern, ob seine Geliebte bei ihm sei. Und selbst wenn es hierbei zu einem Totschlag gekommen sei, könne man deswegen noch lange nicht von einem Vatermord reden. Doch habe selbst kein Totschlag durch den Angeklagten stattgefunden, und wenn man ihn dafür verurteilte, würde er das vergossene Blut nur verfluchen aber nicht bereuen.
 
@@ -1458,11 +1458,11 @@ Am fünften Tag nach der Gerichtsverhandlung besucht Aljoscha Katerina Iwanowna,
 
 Über diesen Plan hätten sich Iwan und Katerina Iwanowna bereits vor der Gerichtsverhandlung gestritten, als es darum gegangen sei, ob Gruschenka Dmitrij auf seiner Flucht begleiten solle. Iwan habe ihren Zorn auf Gruschenka als Eifersucht missverstanden.
 
-Den Fluchtplan habe Iwan ‒ sein Nervenfieber vorausahnend ‒ Katerina Iwanowna überlassen, mitsamt den zehntausend Rubel, die der Staatsanwalt bereits in seinem Plädoyer erwähnte. Sie sei es gewesen, die Iwan von der Schuld Dmitrijs überzeugt habe ‒ und nicht umgekehrt.
+Den Fluchtplan habe Iwan – sein Nervenfieber vorausahnend – Katerina Iwanowna überlassen, mitsamt den zehntausend Rubel, die der Staatsanwalt bereits in seinem Plädoyer erwähnte. Sie sei es gewesen, die Iwan von der Schuld Dmitrijs überzeugt habe – und nicht umgekehrt.
 
 Katerina Iwanowna ist sich sicher: Dmitrij werde sich zur Flucht entscheiden, und bis dahin werde Iwan wieder gesund sein, sodass er die Ausführung des Plans in seine Hände nehmen könne. Gruschenka dürfe nicht zu Dmitrij mit ins Zuchthaus, und er könne nicht ohne sie leben.
 
-Sie hat Aljoscha zu sich gebeten, damit er dem Plan seinen Segen gebe und ihr dabei helfe, Dmitrij zur Flucht zu überreden. Aljoscha hat keine moralischen Gründe dagegen einzuwenden, doch müsse Katerina Iwanowna sich bei Dmitrij im Gefängnis zeigen. Sie willigt ein ‒ unter der Bedingung, dass Aljoscha vorausgehe und ihren Besuch Dmitrij gegenüber nicht ankündige.
+Sie hat Aljoscha zu sich gebeten, damit er dem Plan seinen Segen gebe und ihr dabei helfe, Dmitrij zur Flucht zu überreden. Aljoscha hat keine moralischen Gründe dagegen einzuwenden, doch müsse Katerina Iwanowna sich bei Dmitrij im Gefängnis zeigen. Sie willigt ein – unter der Bedingung, dass Aljoscha vorausgehe und ihren Besuch Dmitrij gegenüber nicht ankündige.
 
 ### II) Für einen Augenblick wird Lüge zur Wahrheit
 
@@ -1496,7 +1496,7 @@ Aljoscha und Kolja wollen am Abend zu Snegirjow zurückkehren, jedoch ohne die a
 
 Er bleibe nur noch kurze Zeit bei seinen beiden Brüdern und werde dann die Stadt für längere Zeit verlassen. Hier am Stein sollen sie sich alle vornehmen, Iljuschetschka und einander nie zu vergessen. Für immer sollen sie des Jungen gedenken, den sie einst mit Steinen beworfen und sich dann mit ihm angefreundet haben.
 
-Schon eine einzige gute Erinnerung könne einen in einer schweren Stunde retten. Und wer etwas Arges vorhabe, solle sich nur an diese Stunde erinnern, um von dieser schlechten Tat zurückgehalten zu werden. Er selber wolle sich für immer an jedes Gesicht der hier versammelten Jungen erinnern. Sie alle sollen einander in ihr Herz schliessen ‒ und Iljuschetschka ganz besonders.
+Schon eine einzige gute Erinnerung könne einen in einer schweren Stunde retten. Und wer etwas Arges vorhabe, solle sich nur an diese Stunde erinnern, um von dieser schlechten Tat zurückgehalten zu werden. Er selber wolle sich für immer an jedes Gesicht der hier versammelten Jungen erinnern. Sie alle sollen einander in ihr Herz schliessen – und Iljuschetschka ganz besonders.
 
 Alle pflichten Aljoscha bei und stimmen ein Hurra auf ihn ein. Koljas Frage, ob sie alle von den Toten auferstehen werden, bejaht Aljoscha: Es werde ein freudiges Wiedersehen mit ihnen und Iljuschetschka geben! Hand in Hand gehen Aljsocha und die Jungen zum Totenmahl.
 
