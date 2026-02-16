@@ -1,1 +1,0 @@
-- Basiswissen Softwaretest: 3 (S. 12)
