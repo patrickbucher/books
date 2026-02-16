@@ -391,3 +391,36 @@ The agile idea of having a regression test suite, which is especially promoted b
 
 Unfortunately, the agile insistence on programming just for the "here and now" that deems creating an extensible architecture wasteful rather impedes change than enabling it. A software design that supports change requires upfront thinking, which the agile literature rejects.
 
+## Develop Iteratively
+
+Agile projects are handled iteratively without any upfront requirements or design phase. There are two approaches to iterative development:
+
+- The _vertical_ approach produces different layers iteratively: from persistence over networking and business logic to user interface. This technology-focused approach only delivers an end-to-end user experience late in the project.
+- The _horizonal_ approach produces a working system in every iteration, providing a new end-to-end user experience frequently at the expense of the completeness of the technical mechanisms involved.
+
+Agile methods favour the horizontal approach. This dichotomy is related to the multiplicative and additive kinds of complexity, with the former being better suited for the vertical and the latter for the horizontal—agile—approach.
+
+Agile projects are split up into iterations of the same duration, typically a couple of weeks up to a (calendar) month. The deadline is firm, but the scope is more flexible: What is not finished during an iteration is moved to a later iteration or dropped entirely.
+
+When developers make their own estimates and are not allowed any extra time, progress becomes more predictable, and the developers strive to deliver what they have promised.
+
+Constraints of external customers still apply, so it is hardly ever permissible to postpone unfinished tasks for multiple iterations.
+
+"Big Bang" approaches have a bad track record: A team diverging from the customer for a long time will make inconsistent assumptions and ultimately come back with a product not suiting the customer's needs.
+
+Frequent iterations such as a nightly build that must not break, are a reasonable approach to prevent this kind of divergence. However, the insistence on frequent _working_ iterations can be wasteful, because it requires keeping up a facade of visible progress while the architecture might crumble in the background.
+
+Just like other engineering efforts, software requires a solid foundation. Therefore, a compromise between engineering work done in the background and an enhanced user experience delivered in the foreground must be found. Neither a fragile system with many features nor a perfect engineering effort without any user interaction will satisfy the customer.
+
+### The Order of Tasks
+
+In which order shall tasks be tackled? Risk management suggests to do the hardest parts first, so a project bound to fail does so quickly without wasting a lot of resources.
+
+However, the agile literature argues against this, because early failure might depress a promising team, which might otherwise become able to pull off hard things once it started working together properly and managed to build up the required motivation from succeeding with some easier tasks.
+
+While this is sound advice for a team working the first time together in a given configuration, experienced teams should not build up unjusified confidence by delivering some trivial functionality and postponing the hard work until there is no time left for the project.
+
+The agile literature suggests to pick up the tasks with the highest business value first. This might sound attractive to some types of managers but ignores that features are implemented as systems, and the architecture of such a system must also support the features with the second and third highest business value.
+
+A possible solution to this conflict is _dual development_, in which architecture work in the background and delivery of the end-to-end user experience in the foreground is done seperately. This can happen in distinct phases or during the same time by different members of the team.
+
