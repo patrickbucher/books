@@ -424,3 +424,40 @@ The agile literature suggests to pick up the tasks with the highest business val
 
 A possible solution to this conflict is _dual development_, in which architecture work in the background and delivery of the end-to-end user experience in the foreground is done seperately. This can happen in distinct phases or during the same time by different members of the team.
 
+## Treat Tests as a Key Resource
+
+As the industry does at large, agile methods see testing as the means to achieve software quality. Dijkstra remakred that testing cannot prove the correctness of software, but only show the presence of errors. This is already helpful: finding the errors in development before the customer does.
+
+Testing is central to agile methods and implemented as a _regression test suite_: an automatically executable set of all test cases tried so far. This test suite is supposed to discover _regressions_: errors that reapper after having mistakenly considered being fixed. Regressions are surprisingly frequent in software development and have different reasons:
+
+- A fix cured the symptom rather than the its underlying issue.
+- Erroneous reasoning was used to fix a problem, which now produces other errors.
+- The corrected version of an artifact is not used due to erroneous configuration.
+
+All the test cases shall be implemented as a test script asserting a property of production code executed based on hand-picked examples. This allows to execute the entire regression test suite as an automated process. The term "automatic testing" is an exaggeration, since only the execution rather than the implementation happens automatically.
+
+A software project needs to prioritize between an ever-growing list of feature requests and a backlog of discovered errors in the existing software awaiting correction. Agile methods have a clear answer to this dilemma: Do not move on until all tests pass.
+
+Errors have different severities: some are blocking, others are major or minor annoyances. A more pragmatic approach suggests classifying failing regression test cases along those severities and then deciding if a fix is more urgent than implementing new features, or if the faulty functionality shall be deactivated or removed for the time being.
+
+### Test First
+
+Agile methods, especially Extreme Programming, require the programmer to first write a (yet failing) test before adding the required new functionality for two distinct reasons:
+
+1. _Specification_: In a project devoid of any written specifications, test cases serve as a substitute to express the required functionality.
+2. _Falsification_: Every test case must prove that the desired behaviour is not yet encoded in the system before it is modified or extended.
+
+This way of working also avoids _scope creep_, because every desired behaviour must first be expressed as an executable scenario, which raises the entry barrier for new code being added.
+
+Once the test has been implemented, the production code can be modified. It then must satisfy the entire regression test suite, including the test case just added to it.
+
+If that test case has to be written before the production code or immediately afterwards is often debated, but a fundamental rule is undisputed: _no code without test_.
+
+## Express Requirements Through Scenarios
+
+Test cases cannot replace requirements. Agile methods use scenario-based methods to express requirements: _use cases_ describe the interaction as a walk through the entire systems; _user stories_ describe an elementary unit of interaction with the system.
+
+Requirements are general (describing _all_ cases) while scenarios are specific (describing a _single_ case). A collection of scenarios describes a set of behaviours, lacking the abstract definition of a proper requirement defining a general rule encompassing all those—and possibly additional—behaviours. The number series $1,4,9,16,25$ might imply a rule, but only the definition $y=f(x)=x^2$ removes all ambiguity.
+
+Many applications implemented using scenarios suffer from this ailment: They work for all the scenarios explicitly described, but fall apart for plausible user interactions that have not been foreseen during development. A traditional requirements process is capable of delivering better results, because one is required to go from specific to general and to abstract form individual examples.
+
