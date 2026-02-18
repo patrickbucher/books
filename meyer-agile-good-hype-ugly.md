@@ -461,3 +461,15 @@ Requirements are general (describing _all_ cases) while scenarios are specific (
 
 Many applications implemented using scenarios suffer from this ailment: They work for all the scenarios explicitly described, but fall apart for plausible user interactions that have not been foreseen during development. A traditional requirements process is capable of delivering better results, because one is required to go from specific to general and to abstract form individual examples.
 
+# Agile Roles
+
+Agile methods shift the duties and privileges of various project members compared to traditional approaches. This concerns managers, customers, and developers.
+
+## Manager
+
+Agile texts state the duties of managers mostly in the negative, i.e. things managers are no longer supposed to do: assigning tasks to individual team members and directing their work, asking them for status reports, and deciding which functionality is going to be implemented.
+
+The manager's role becomes _supportive_, which includes establishing a work environment for the team that allows it to strive in and ensuring the smooth interaction with the rest of the company, especially the parts that don't follow the agile method (yet). The manager also handles resources, such as suppliers and outsourcing partners.
+
+Scrum does not even include a manager role, which further dilutes the responsibilities among the entire team.
+
