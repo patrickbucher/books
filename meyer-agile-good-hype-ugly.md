@@ -473,3 +473,21 @@ The manager's role becomes _supportive_, which includes establishing a work envi
 
 Scrum does not even include a manager role, which further dilutes the responsibilities among the entire team.
 
+## Product Owner
+
+In Scrum, the _product owner_ defines the _product backlog_: a list of features that shall be implemented, from which items are selected for the next iteration. A product owner has the last say on what goes into the product and needs to explain the business value of those items to the team. At the end of every iteration, the product owner evaluates the team's implementation.
+
+Those items describe functionality on the product level rather than individual tasks to be done in order to gain said functionality. The tasks will be defined by the team itself upon implementation.
+
+Separating the job of defining what needs to be implemented from the daily management of how this implementation happens on the team level is a major contribution of Scrum.
+
+## Team
+
+Agile teams are _self-organizing_. Tasks are not assigned by a manager, but selected by individual team members from the _sprint backlog_, which contains work items the team picks together with the product owner from the product backlog.
+
+Team members are supposed to report the status of their tasks on a daily basis to the rest of the team for the sake of collaboration rather than to report the progress (or lack thereof) to a superior.
+
+Agile teams are also _cross-functional_, i.e. their work is organized along features rather than areas of technical competence. The team delivers the end-to-end user experience by handling the entire stack: infrastructure, database, backend, and frontend.
+
+There is no long-term specialization along certain parts of a product nor any ownership of such areas. Iterations are planned along the priorities in the product backlog instead. A team's focus can shift during a project.
+
