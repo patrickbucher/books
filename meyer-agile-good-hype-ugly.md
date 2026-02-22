@@ -491,3 +491,30 @@ Agile teams are also _cross-functional_, i.e. their work is organized along feat
 
 There is no long-term specialization along certain parts of a product nor any ownership of such areas. Iterations are planned along the priorities in the product backlog instead. A team's focus can shift during a project.
 
+
+## Customer
+
+Traditional methods involve the customer only during the requirements and acceptance testing phases—i.e. at the beginning and end of the project. Some environments actively discourage or outright forbid the developers to get in touch with the customer in between.
+
+Agile methods, to the contrary, put the customer at the center and emphasize the importance of frequent or even permanent exchange between customer and team. Scrum designates the _product owner_ as an internal proxy for the customer. Extreme Programming (XP) insists on including a representative of the actual customer in the team.
+
+While Scrum bears the risk of a product owner not representing the various stakeholders properly, the XP approach might include a person in the team that is not very useful in that capacity either: The customer hardly will dispense a valuable and competent employee from his regular duties for an extended period to sit mostly idle around while the team discusses technical details that make up most of the daily development business.
+
+Chances are the customer designates an unqualified and not representative employee, which can be let go if the project fails. Regular meetings between the team implementing the product and the most relevant (and valuable) stakeholders from the customer's side are probably a collaborative approach that is both more effective and efficient.
+
+## Coaching Role
+
+Extreme Programming appoints a _coach_, Scrum a _Scrum Master_ to oversee and enforce the proper application of the respective method by the team. This role, henceforth labeled as _coaching role_ when both methods are meant, is about advising rather than prescribing. The coaching role involves removing techical and organizational impediments identified during the daily meetings as well as protecting the team from distractions, so that individuals can focus on a single task.
+
+A Scrum Master is widely supposed to only serve in his coaching capacity rather than helping out with development tasks. If the project is small, a Scrum Master shall rather be working for multiple projects coaching multiple teams rather than directly contributing as a developer in order to keep an objective viewpoint from a certain distance. Otherwise, a Scrum Master will start prescribing by doing rather than just advising.
+
+However, developers tend to have have little respect for talk-only advisors without any of their skin in the game. Advising a team requires understanding its members' day-to-day issues, for which a Scrum Master rather come "too close" than remain "too far away" in order to be a useful contributer. Assigning a (former) manager with a sufficiently technical background to the coaching role rather than a (former) developer can also work fine.
+
+---
+
+Separating the product owner role from other management responsibilities works especially well in settings where product development is separated from the main business of the organization, i.e. for internal projects or for software developed by companies with another core business. In technical companies, where the software _is_ the business, such a distinction between a product and a business side of things can hardly been made.
+
+Separating the product owner from the coaching role is a good idea: Dealing with a product and its requirements (_things_) requires a different perspective and skill set than dealing with the daily issues of a team (_people_).
+
+Separating the coaching from the developer role hardly makes any sense. The common practice to assign an experienced developer with decent people skills or a manager with a technical background to the coaching role makes a lot more sense, contrary to what some agile texts suggest.
+
