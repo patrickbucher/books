@@ -491,7 +491,6 @@ Agile teams are also _cross-functional_, i.e. their work is organized along feat
 
 There is no long-term specialization along certain parts of a product nor any ownership of such areas. Iterations are planned along the priorities in the product backlog instead. A team's focus can shift during a project.
 
-
 ## Customer
 
 Traditional methods involve the customer only during the requirements and acceptance testing phases—i.e. at the beginning and end of the project. Some environments actively discourage or outright forbid the developers to get in touch with the customer in between.
@@ -517,4 +516,20 @@ Separating the product owner role from other management responsibilities works e
 Separating the product owner from the coaching role is a good idea: Dealing with a product and its requirements (_things_) requires a different perspective and skill set than dealing with the daily issues of a team (_people_).
 
 Separating the coaching from the developer role hardly makes any sense. The common practice to assign an experienced developer with decent people skills or a manager with a technical background to the coaching role makes a lot more sense, contrary to what some agile texts suggest.
+
+# Agile Practices: Managerial
+
+In software development, an activity or a mode of working is a _technique_. Applied repeatedly and enforced systematically, a technique becomes a _practice_.
+
+## Iteration/Sprint
+
+Agile development is performed iteratively with frequent deliveries. In Scrum, an iteration is called a sprint. Every iteration creates an increment by implementing items from a task list—or user stories from a sprint backlog in the case of Scrum. An iteration only lasts for a few weeks. Some organizations use two weeks, others an entire (calendar) month.
+
+During an iteration, no work must be added to its backlog, and no exceptions are allowed. Additional work will be considered for the subsequent iterations earliest, which is only one month in the future in the worst case. (In Scrum terms: new stories coming up during an active sprint are placed in the _product_ rather than the _sprint_ backlog.) However, the product owner has the authority to terminate an ongoing sprint early in an absolute emergency.
+
+For the lack of an established name, this restriction shall be called the _closed window rule_. It is the most important countermeasure against an obstacle that derails many software projects: _disruptive feature creep_. Whereas feature creep itself is a sign of a successful product that its users whish to extend in order to make it even more useful, th disruptive kind of feature creep messes up the priorities of the development team and lowers its morale.
+
+The closed window rule does not fight feature creep, but channels it. Many ideas considered urgent in the first place loose their appeal and urgency after a short cool down phase. Delaying such disruption of priorities established before by the same stakeholders by pointing out the costs of such a disruption—a cancelled iteration leaving developers idle and demoralized for days—helps to keep development on track.
+
+Ironically, this brillant idea contradicts or at least restricts the agile principle to "welcome change"—but in a very useful way.
 
