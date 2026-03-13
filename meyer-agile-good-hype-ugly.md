@@ -519,17 +519,35 @@ Separating the coaching from the developer role hardly makes any sense. The comm
 
 # Agile Practices: Managerial
 
-In software development, an activity or a mode of working is a _technique_. Applied repeatedly and enforced systematically, a technique becomes a _practice_.
+In software development, an activity or a mode of working is a _technique_. Applied repeatedly and enforced systematically, a technique becomes a _practice_. Agile methods prescribe various managerial practices.
 
 ## Iteration/Sprint
 
-Agile development is performed iteratively with frequent deliveries. In Scrum, an iteration is called a _sprint_. Every iteration creates an increment by implementing items from a task list—or _user stories_ from a _sprint backlog_ in the case of Scrum. An iteration only lasts for a few weeks. Some organizations use two weeks, others an entire (calendar) month.
+Agile development is performed iteratively with frequent deliveries. In Scrum, an iteration is called a _sprint_. Every iteration creates an increment by implementing items from a task list—or _user stories_ from a _sprint backlog_ in the case of Scrum. An iteration only lasts a few weeks. Some organizations use two weeks, others an entire (calendar) month.
 
-During an iteration, no work must be added to its backlog, and no exceptions are allowed. Additional work will be considered for the subsequent iteration earliest, which is only one month in the future in the worst case. (In Scrum terms: new stories coming up during an active sprint are placed in the _product_ rather than the _sprint_ backlog.) However, the product owner has the authority to terminate an ongoing sprint early in an absolute emergency.
+During an iteration, no work must be added to its backlog, and no exceptions are allowed. Additional work will be considered for the subsequent iteration earliest, which is only one month in the future in the worst case. (In Scrum terms: New stories coming up during an active sprint are placed in the _product_ rather than the _sprint_ backlog.) However, the product owner has the authority to terminate an ongoing sprint early in the case of an emergency.
 
-For the lack of an established name, this restriction shall be called the _closed window rule_. It is the most important countermeasure against an obstacle that derails many software projects: _disruptive feature creep_. Whereas feature creep itself is a sign of a successful product that its users whish to extend in order to make it even more useful, the disruptive kind of feature creep messes up the priorities of the development team and lowers its morale.
+For the lack of an established name, this restriction shall be called the _closed window rule_. It is the most important countermeasure against an obstacle that derails many software projects: _disruptive feature creep_. Whereas feature creep itself is a sign of a successful product that its users wish to extend in order to make it even more useful, the disruptive kind of feature creep messes up the priorities of the development team and lowers its morale.
 
-The closed window rule does not fight feature creep, but channels it. Many ideas considered urgent in the first place loose their appeal and urgency after a short cool down phase. Delaying such disruption of priorities (that have been established before by the same stakeholders) by pointing out the costs of such a disruption—a cancelled iteration leaving developers idle and demoralized for days—helps to keep development on track.
+The closed window rule does not fight feature creep but channels it. Many ideas considered urgent in the first place loose their appeal after a short cool-down phase. Delaying such a disruption of priorities (that have been established before by the same stakeholders) by pointing out the costs of such an intervention—a cancelled iteration leaving developers idle and demoralized for days—helps to keep development on track.
 
 Ironically, this brillant idea contradicts or at least restricts the agile principle to "welcome change"—but in a very useful way.
+
+## Daily Meeting
+
+The _daily meeting_ or _daily scrum_ takes place at the beginning of every working day and must not take longer than 15 minutes. Since participants are required to stand in order to make it short, it is often called a _stand-up meeting_.
+
+The participants take turns answering the following questions: 1) "What did I do since the last daily meeting?", 2) "What will I do until the next daily meeting?", and 3) "What impediments, if any, do I face?"
+
+The first two questions serve two purposes: First, to inform the rest of the team about ongoing work. Second, to make a realistic commitment concerning the progress to be expected. In this order, today's promise follows yesterday's reckoning.
+
+The third question addresses organizational and technical impediments, which are either resolved immediately—if the resolution fits within the short time window allotted. Otherwise, a follow-up meeting is organized, for which only the people required to resolve those issues are gathered.
+
+In Scrum, it is the Scrum Master's responsibility to remove the impediments. It is also the Scrum Master's duty to make sure that everybody gets to speak within the allotted time frame, which requires cutting short discussions and moving them to separate meetings, if needed.
+
+The practice of the daily meeting needs to be adjusted for different circumstances: Distributed teams might require some additional setup time for video conferencing. They might also have different schedules, possibly with different time zones: As the work day on the US West Coast begins, it is about to end in Europe.
+
+It can also be more efficient to exceed the allotted time frame of 15 minutes to quickly resolve an issue than to organize yet another meeting, which leaves impediments unresolved in the meantime—and developers unproductive.
+
+While the daily meeting can be a very useful and efficient practice, dogmatism can render it a useless ceremony. Teams need to adapt the practice to their respective circumstances and needs to get the most value out of it. While the daily 15 minute stand-up meeting serves some teams well, two or three 30 minute video calls per week might be the better fit for others.
 
