@@ -551,3 +551,31 @@ It can also be more efficient to exceed the allotted time frame of 15 minutes to
 
 While the daily meeting can be a very useful and efficient practice, dogmatism can render it a useless ceremony. Teams need to adapt the practice to their respective circumstances and needs to get the most value out of it. While the daily 15 minute stand-up meeting serves some teams well, two or three 30 minute video calls per week might be the better fit for others.
 
+## Planning (Cost Estimation)
+
+Agile methods focus on a subset of planning: cost estimation for individual work items, for which Extreme Programming uses the _planning game_, while Scrum applies _planning poker_. Even though Scrum mostly relies on _story points_ as a metric to indicate the size of a work item, both methods work with any metric, such as developer days or man hours.
+
+### Planning Game
+
+The planning game is not a game that creates winners and loosers. Instead, it refers to game theory and aims to find a compromise between two different parties that both strive to maximize the outcome by their own criteria. These two parties are the customers, which want to get as many features done as fast as possible, and the developers, which are capable to estimate the work involved to deliver the desired functionality.
+
+The customers assign priorities to individual work items. The developers then estimate the effort it will take to deliver those work items. Priorities and estimations are then discussed and adjusted until a set of high-priority tasks fitting within the budget has been identified.
+
+### Planning Poker
+
+Scrum's planning poker gathers a panel consisting of developers, the product owner, and, optionally, customer representatives to estimate the size (story points) of individual work items (user stories). The process is repeated until a consensus is found among the panel.
+
+The sizes are usually drawn from a pre-defined set such as the the Fibonacci sequence (0, 1, 2, 3, 5, 8, etc.) or "T-shirt sizes" (XS, S, M, L, XL). Using such distinct values avoids discussions about small differences.
+
+Consensus is reached using a variant of the Delphi decision method that leverages the wisdom of the crowd by avoiding intimidation of individuals holding initial ideas deviating from the majority. Divergence is thereby revealed and discussed rather than buried in the following process:
+
+1. The product owner or another member of the panel explains a work item.
+2. The participants discuss the work item and ask questions as needed.
+3. Every participant privately picks an estimation, e.g. from a deck of planning poker cards.
+4. All the picks are revealed at the same time.
+5. If the participants all agree, the picked size is assigned to the work item. The process continues for the next work item at step 1.
+6. Otherwise, the members argue for their individual choice. The process is repeated from step 3 until a consensus is reached.
+7. If no consensus is reached within a reasonable time, the work item needs to be revised with the respective stakeholders, after which it will be estimated in an upcoming planning session.
+
+Even though this method ensures the revelation and discussion of initial divergence, the true expert with a qualified opinion and deviant estimation might fail to convince the rest of the panel, after which the most educated guess still could be overridden by an ignorant crowd.
+
