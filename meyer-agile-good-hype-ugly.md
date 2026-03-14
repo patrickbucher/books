@@ -426,7 +426,7 @@ A possible solution to this conflict is _dual development_, in which architectur
 
 ## Treat Tests as a Key Resource
 
-As the industry does at large, agile methods see testing as the means to achieve software quality. Dijkstra remakred that testing cannot prove the correctness of software, but only show the presence of errors. This is already helpful: finding the errors in development before the customer does.
+As the industry does at large, agile methods see testing as the means to achieve software quality. Dijkstra remarked that testing cannot prove the correctness of software, but only show the presence of errors. This is already helpful: finding the errors in development before the customer does.
 
 Testing is central to agile methods and implemented as a _regression test suite_: an automatically executable set of all test cases tried so far. This test suite is supposed to discover _regressions_: errors that reapper after having mistakenly considered being fixed. Regressions are surprisingly frequent in software development and have different reasons:
 
