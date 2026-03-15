@@ -579,3 +579,18 @@ Consensus is reached using a variant of the Delphi decision method that leverage
 
 Even though this method ensures the revelation and discussion of initial divergence, the true expert with a qualified opinion and deviant estimation might fail to convince the rest of the panel, after which the most educated guess still could be overridden by an ignorant crowd.
 
+## Open Space
+
+Agile methods consider informal and spontaneous in-person interactions crucial for collaboration and self-organization. Private offices and cubicles, which prevent such interactions, are therefore despised by agilists, some of which consider silence a bad sign.
+
+Instead, the development team shall work in an open space setting with desks located not too far away from each other so that individuals can overhear discussions and join them spontaneously. The walls shall be covered with whiteboards, and quiet meeting rooms shall be available for longer discussions.
+
+Contrary to the stereotype of the introverted programmer, many developers reportedly like this kind of spatial organization of their working environment. However, programmers still need time to think alone without being distracted by ongoing discussions, of which the common sight of people wearing noise-cancelling headphones in open space settings bears witness to.
+
+Silence is not always a bad sign: Programming is an intellectually demanding activity, and its research part is usually best done alone and in silence, while the design and implementation parts of it certainly can profit from the occasional interaction.
+Developers need both interaction and silence; some of them more of the former or of the latter. Treating programmers respectfully as professionals requires taking such individual preferences into account.
+
+However, it is not only the individual preference that determines the best mode of work, but also the nature of the task at hand: For example, gathering requirements requires steady personal interaction with relevant stakeholders, whereas analyzing the gathered requirements is best done in silent concentration.
+
+Constant chatter can be very distracting for many individuals and, thus, detrimental to their project's progress. Different people and tasks call for different working modes and spatial arrangements.
+
