@@ -594,3 +594,19 @@ However, it is not only the individual preference that determines the best mode 
 
 Constant chatter can be very distracting for many individuals and, thus, detrimental to their project's progress. Different people and tasks call for different working modes and spatial arrangements.
 
+## Iteration Planning
+
+Each iteration starts with its planning meeting, in which the team and Product Owner gather for at most an entire working day, during which:
+
+1. an iteration goal is stated in a few sentences understandable by all stakeholders;
+2. work items are selected from the product backlog for the iteration backlog, which are then decomposed into individual tasks, whose costs are estimated using the planning game or planning poker; and
+3. acceptance criteria are defined for all the tasks.
+
+Since participants commit to a goal in this meeting, bystanders potentially influencing scope and goal-setting are excluded.
+
+## Review Meeting & Retrospective
+
+At the end of the iteration, a _review meeting_ mirroring the planning meeting is held. The developmet team presents the increment to the stakeholders. The accomplishment of the iteration goal is assessed and discussed among participants. The focus is on the result.
+
+The process is discussed and analyzed in the _retrospective_, in which the team discusses issues faced in the iteration just finished. Team members bring up suggestions for improvements to prevent the identified issues in the future. The retrospective is inward-looking. Therefore, a product owner or any other stakeholder do not take part in it. The meeting is moderated by the coach.
+
