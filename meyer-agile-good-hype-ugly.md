@@ -612,3 +612,27 @@ At the end of the iteration, a _review meeting_ mirroring the planning meeting i
 
 The process is discussed and analyzed in the _retrospective_, in which the team discusses issues faced in the iteration just finished. Team members bring up suggestions for improvements to prevent the identified issues in the future. The retrospective is inward-looking. Therefore, a product owner or any other stakeholder do not take part in it. The meeting is moderated by the coach.
 
+## Collective Code Ownership
+
+_Code ownership_ is the technical authority over a piece of code by an individual. Changes to that code by another developer require permission and a review by its owner.
+
+This model of _individual code ownership_ ensures consistency and integrity within a module. Responsibility for code avoids creeping featurism, for the code's owner will not accept changes that do not fit into the scope of a particular module.
+
+On the downside, individual code ownership can lead to the balkanization of the code base with different styles under different rule. Knowledge is concentrated on individuals, which goes against the agile ideal of cross-functional teams with interchangable developers. However, some projects do require deep and specialized knowledge.
+
+Agile methods opt for _collective code ownership_ instead. Code can be changed by any member of the team, as long as that change falls within the scope of an agreed-upon task.
+
+XP further limits such changes to a pair of programmers, which enforces the four-eye principle with an informal review by at least a second developer. Some projects require a more formal review of every change by a second developer—before or after the change is committed.  A comprehensive regression test suite catches mistakes as they are introduced into the code base, thereby providing an additional guardrail against detrimental code changes.
+
+An issue with collective code ownership is the reluctance to discard old and bad code, which then rots like forgotten food in a collectively owned fridge: nobody feels responsible to keep it clean.
+
+A policy needs to be established for each project individually. While collective code ownership is feasible for run-of-the-mill projects with only additive complexity, projects with multiplicative complexity require specialization and are better served with individual ownership over at least some parts over the code base.
+
+## Miscellaneous
+
+Agile methods promote some additional minor practices:
+
+- _Onsite Customer_: A customer representative or a proxy of the customer in the role of the Product Owner is embedded into the team.
+- _Process Miniature_: A software process is applied to a non-software task (say, folding paper planes) in order to get the team acquainted with it for better understanding of its roles and a first evaluation.
+- _Scrum of Scrums_: Scrum is scaled up to multiple teams, where one representative per team takes part in an additional Scrum meeting (for coordination of interface changes and interdependencies between sub-projects) that takes place to two three times per week.
+
