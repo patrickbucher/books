@@ -1,0 +1,25 @@
+body {
+  font-family: serif;
+  font-size: 16px;
+  margin: 0 auto;
+  max-width: 960px;
+}
+
+main {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+main :nth-child(odd) {
+  width: 465px;
+}
+
+main :nth-child(even) {
+  width: 465px;
+}
+
+p {
+  text-align: justify;
+  hyphens: auto;
+}

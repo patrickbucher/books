@@ -1,12 +1,22 @@
+---
+title: 'Каковы твои мысли, таково и жизнь твоя'
+subtitle: 'Wie deine Gedanken, so dein Leben'
+author: 'Faddej Vitovnitskij'
+---
+
+<main>
+
 # Каковы твои мысли, таково и жизнь твоя
 
-Поучение старца Фаддея Витовницкого
-
 # Wie deine Gedanken, so dein Leben
+
+Поучение старца Фаддея Витовницкого
 
 Unterweisungen des Starez Faddej Vitovnitskij
 
 ## О цели жизни
+
+## Über das Ziel des Lebens
 
 — Прощу меня простить, если иногда, во время этой вечерней беседыб я отойду от темы. [Здесь и далее – разговорная речь автора. _Примеч. ред._] Вы сами видите, какова наша жизнь здесь на земном шаре. Мы, христиане, желаем спасения, как себе, так и своим ближним, и стремимся к совершенству. Те, кто не религиозен, желают достичь совершенства в материальной сфере жизни.
 
@@ -16,3 +26,4 @@ Unterweisungen des Starez Faddej Vitovnitskij
 
 Von meiner frühen Jugend an machte ich mich daran, Gott zu dienen. Ich war schlechter Gesundheit, und ich dachte, dass ich den Rest meines Lebens so verbringen werde, wie es Gott verlangt. Gott sei Dank, dass er mich gleich zu den rastlos tätigen russischen Mönchen ins Kloster Milkovo sandte. Im Kloster lebten grösstenteils emigrierte russische Mönche, und unter ihnen konnte man Heilige antreffen; und obwohl ich noch ein Kind war, nahm ich alles auf, was man mir erzählte.
 
+</main>
