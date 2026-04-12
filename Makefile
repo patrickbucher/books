@@ -9,7 +9,8 @@ ALL=linz-spillner-basiswissen-softwaretest.pdf \
 	dobelli_kunst-des-digitalen-lebens.pdf \
 	dostojewskij_brueder-karamasow.pdf \
 	hennrich_cloud-computing-dsgvo.pdf \
-	meyer-agile-good-hype-ugly.pdf
+	meyer-agile-good-hype-ugly.pdf \
+	schwab_sagen.pdf
 
 .PHONY: all clean
 
