@@ -32,3 +32,14 @@ Doch bereits nach dreissig Jahren kam der ratsuchende Herakles bei diesem vorbei
 
 Prometheus musste fortan einen eisernen Ring mit einem Stück Felsen an sich tragen, damit sich Zeus weiter dessen rümen konnte, dass sein Feind nach wie vor an den Kaukasos gekettet sei.
 
+### Die Menschenalter
+
+Die ersten Menschen schufen die Götter als goldenes Geschlecht. Sie lebten ohne Sorge und hatten grosse Herden. Von allen Gütern hatten sie genug und von den Früchten der Erde im Überfluss. Ihren Tod fanden sie ohne Leiden in sanften Schlaf fallend. Das Schicksal liess sie von der Erde verschwinden, welche sie fortan als Schutzgötter durchwandelten.
+
+So schufen die Götter ein zweites Menschengeschlecht aus Silber. Dessen Knaben wuchsen fast hundert Jahre verzärtelt im Elternhaus auf, bevor sie endlich das Jünglingsalter erreichten und bald darauf starben. Unter diesen Menschen herrschte Zwietracht. Und da sie die Götter nicht ehrten, liess Zeus sie von der Erde verschwinden. Fortan wandelten sie als sterbliche Dämonen auf der Erde.
+
+Zeus schuf ein drittes Menschengeschlecht aus Erz. Dieses hatte nur den Krieg im Sinne und ass nur Fleisch und keine Früchte der Felder. Ihr Körperbau war ungeheuerlich: Hände wuchsen ihnen aus den Schultern. Eisen kannten sie nicht und machten alles aus Erz. Der schwarze Tod verbannte sie schliesslich in die Unterwelt.
+
+Ein viertes Geschlecht brachte Zeus als edleres und gerechteres auf Erden: die Heroen oder Halbgötter. Diese wurden vor den Toren Thebens und auf den Feldern Troias im Krieg vertilgt. Nach ihrem Erdenleben wies Zeus ihnen einen Platz auf der Insel der Seligen zu, wo sie nach ihrem Tod ein friedliches Leben in Fülle geniessen konnten.
+
+Das fünfte und jetzige Menschengeschlecht ist schliesslich ein eisernes. Beständig schicken die Götter den Menschen Kummer und Sorgen. Unter ihnen herrscht Zwietracht. Die Jugend zeigt keine Achtung vor dem Alter. An das Göttergericht denken die Menschen nicht. Es herrschen Faustrecht und Lüge. Dadurch sind die Menschen neidisch auf einander und unglücklich. Für dieses sterbliche Menschengeschlecht gibt es keine Rettung sondern nur Elend.
