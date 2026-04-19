@@ -13,7 +13,7 @@ author: 'Patrick Bucher'
 7. _News bestätigen unsere Irrtümer._ Wir nehmen systematisch das auf, was unsere Meinung bestätigt – und filtern gegenteilige Informationen aus.
 8. _News verstärken den Hindsight Bias._ Sie lassen die Welt einfacher und erklärbarer – und dadurch vorausschaubarer – erscheinen, als sie ist.
 9. _News verstärken den Availability Bias._ Unsichtbares wird mit Unwichtigem verwechselt; was wichtig wäre, erscheint nicht.
-10. _News lassen den Meinungsvulkan brodern._ Man braucht nicht zu allem eine Meinung zu haben – wie es die News suggerieren.
+10. _News lassen den Meinungsvulkan brodeln._ Man braucht nicht zu allem eine Meinung zu haben – wie es die News suggerieren.
 11. _News hemmen das Denken._ Sie rauben uns die Aufmerksamkeit und zerstören unsere Konzentration.
 12. _News verändern unser Gehirn._ Wir trainieren damit unser Gehirn, auf Ablenkungen zu achten und verlieren unsere Konzentrationsfähigkeit.
 13. _News produzieren Fake Fame._ Es wird über sogenannte "Promis" berichtet, statt über Leute, die wirklich etwas leisten.
