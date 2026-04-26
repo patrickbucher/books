@@ -43,3 +43,20 @@ Zeus schuf ein drittes Menschengeschlecht aus Erz. Dieses hatte nur den Krieg im
 Ein viertes Geschlecht brachte Zeus als edleres und gerechteres auf Erden: die Heroen oder Halbgötter. Diese wurden vor den Toren Thebens und auf den Feldern Troias im Krieg vertilgt. Nach ihrem Erdenleben wies Zeus ihnen einen Platz auf der Insel der Seligen zu, wo sie nach ihrem Tod ein friedliches Leben in Fülle geniessen konnten.
 
 Das fünfte und jetzige Menschengeschlecht ist schliesslich ein eisernes. Beständig schicken die Götter den Menschen Kummer und Sorgen. Unter ihnen herrscht Zwietracht. Die Jugend zeigt keine Achtung vor dem Alter. An das Göttergericht denken die Menschen nicht. Es herrschen Faustrecht und Lüge. Dadurch sind die Menschen neidisch auf einander und unglücklich. Für dieses sterbliche Menschengeschlecht gibt es keine Rettung sondern nur Elend.
+
+### Deukalion und Pyrrha
+
+Zeus stieg in Menschengestalt auf Erden herab um herauszufinden, wie schlimm es um das eherne Menschengeschlecht bestellt sei. Es liess seine Ankunft bei Lykaon, dem König der Arkadier, durch einige Wunderzeichen ankündigen, worauf sich das Volk vor Zeus auf die Knie warf.
+
+Lykaon jedoch zweifelte die Göttlichkeit seines Gastes an und setzte ihm zum Gastmahl einen Gefangenen vor, den er zuerst kochen und braten liess, worauf er seinen Gast auch umbringen wollte. Doch Zeus durchschaute dies, liess die Burg in Flammen aufgehen und den flüchtenden König sich in einen Wolf verwandeln.
+
+Zurück auf dem Olymp hielt Zeus mit den Göttern Rat, wie mit diesem gotteslästerlichen Menschengeschlecht zu verfahren sei. Zunächst wollte er die Erde mit Donnerkeilen in Brand stecken und sie in Flammen aufgehen lassen, fürchtete aber, dass der Äther Feuer fangen und die Achse des Weltalls verlodern könnte.
+
+So sandte er Regen aus, der bald alles überflutete. Sein Bruder Poseidon liess die Gewässer über ihre Ufer treten, sodass bald das ganze Land überschwemmt war, die Menschen in der Flut starben und nur noch wenige Bergipfel aus dem Wasser ragten.
+
+Einzig Deukalion, Sohn des Prometheus, und seine Gattin Pyrrha – ein gottesfürchtiges Paar – überlebte die Flut in ihrem Schiff. Als Zeus den Regen aufhören und Poseidon die Gewässer zurücktreten liess, bemerkten Deukalion und Pyrrha, dass sie die letzten verbliebenen Menschen auf Erden waren.
+
+Am Altar der Göttin Themis um Rat fragend gab sie diesen die Anweisung, die Gebeine ihrer verstorbenen Mutter über ihre Schulter hinter sich zu werfen. Deukalion verstand bald, was sich hinter dieser scheinbar frevelhaften Anweisung verbarg: Sie sollten Steine – die Knochen von Mutter Erde – hinter sich werfen.
+
+Als sie dies – zunächst misstrauisch – taten, verwandelten sich die Steine bald in Menschen: die von Deukalion hinter sich geworfenen in Männer, und diejenigen der Pyrrha in  Frauen. So entstand aus Stein ein neues, hartes und zur Arbeit taugliches Menschengeschlecht.
+
