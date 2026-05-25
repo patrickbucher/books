@@ -23,6 +23,10 @@ main :nth-child(even) {
   width: 465px;
 }
 
+main ol {
+  width: 430px !important;
+}
+
 p {
   text-align: justify;
   hyphens: auto;
@@ -31,4 +35,13 @@ p {
 p.subtitle,
 p.author {
   text-align: center;
+}
+
+hr {
+  text-align: center;
+  border: 0;
+}
+
+hr:after {
+  content: "⁂";
 }
