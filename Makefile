@@ -11,7 +11,8 @@ ALL=linz-spillner-basiswissen-softwaretest.pdf \
 	hennrich_cloud-computing-dsgvo.pdf \
 	meyer-agile-good-hype-ugly.pdf \
 	schwab_sagen.pdf \
-	faddej-vinovickiy_kakovy-tvoi-mysli-takova-i-zhizn-tvoya.html
+	faddej-vinovickiy_kakovy-tvoi-mysli-takova-i-zhizn-tvoya.html \
+	50-russkich-tekstov.html
 
 .PHONY: all clean
 
@@ -27,6 +28,9 @@ meyer-agile-good-hype-ugly.pdf: meyer-agile-good-hype-ugly.md
 	pandoc -s -N $(DOC_OPTS) $(PDF_OPTS) $(FONT_OPTS) $(DATE) $< -o $@
 
 faddej-vinovickiy_kakovy-tvoi-mysli-takova-i-zhizn-tvoya.html: faddej-vinovickiy_kakovy-tvoi-mysli-takova-i-zhizn-tvoya.md
+	pandoc -s --css parallel.css -A parallel.js $< -o $@
+
+50-russkich-tekstov.html: 50-russkich-tekstov.md
 	pandoc -s --css parallel.css -A parallel.js $< -o $@
 
 .SUFFIXES: .md .pdf
