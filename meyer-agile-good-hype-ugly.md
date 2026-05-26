@@ -668,4 +668,19 @@ Without individual code ownerhip (see last chapter) and thanks to constant refac
 
 While team standards are a useful practice to some degree, individual brillance still should be allowed to shine. Ironically enough, early agile software projects such as JUnit are such showcases for great individual achievements.
 
+## Refactoring
+
+Refactoring is the agile way's antidote to upfront design. The developres just write the code they need here and now, which is then scanned heuristically for _code smells_ to be eliminated by applying refactoring recipes addressing those imperfections. A typical code smell is duplicated code, which is eliminated by identifying the common parts and introducing an appropriate abstraction such as a function or a class.
+
+Refactoring must not alter the semantics of the code, but improve its quality and architecture. This process is made fast and safe using appropriate tools: renaming identifiers is not only a daunting but also a risky task, which can be performed reliably by an IDE.
+
+In this context, quality criteria are often stated in the negative by showing examples of low quality: code smells and anti-patterns. According to Kent Beck, a good refactoring makes the code simpler by reducing duplication.
+
+While refactoring is evidentially useful, it cannot replace replace proper upfront design. Simplicity can stand in the way of adaptability. Some refactorings are small, but others can be quite large tasks that not only require days or weeks of focused work, but also some degree of upfront thinking about the goal of the refactoring.
+
+Here, the "garbage in, garbage out" principle holds true: a bad design cannot be refactored into something good, e.g. when the wrong abstractions have been chosen early in the process. Refactoring is most useful when performed on a sound code base with a solid design.
+
+There are different kinds of imperfections to be found in the code: _incidental_ issues such as bad naming or a method grown too large on one side, and _essential_ issues such as the wrong choice of abstractions on the other side. Incidental issues can be resolved by applying small refactorings, one small step at a time, while essential refactorings require a more focused effort.
+
+Those two kinds of imperfections are related to different kinds of complexity: incidental changes affect additive complexity, essential changes affect multiplicative complexity. The former kind of change can be handled step by step using appropriate tools, while the latter requires upfront thinking. If a project fails to identify the most important abstractions early on, no amount of refactoring will turn the mess into an extensible code base.
 
