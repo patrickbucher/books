@@ -636,3 +636,18 @@ Agile methods promote some additional minor practices:
 - _Process Miniature_: A software process is applied to a non-software task (say, folding paper planes) in order to get the team acquainted with it for better understanding of its roles and a first evaluation.
 - _Scrum of Scrums_: Scrum is scaled up to multiple teams, where one representative per team takes part in an additional Scrum meeting (for coordination of interface changes and interdependencies between sub-projects) that takes place to two three times per week.
 
+# Agile Practics: Technical
+
+Many of the managerial practices originate from Scrum, which is a lean organizational framework. The technical practices, however, mostly come from Extreme Programming (XP), which was designed by programmers for programmers.
+
+## Continuous Integration and Daily Build
+
+Integration means compiling all the modules of a software together and running the regression suite on the resulting artifact. Continuous Integration (CI) is the process of running those compilation and testing steps after every code change that is shared by a developer with the rest of the team. Thanks to modern revision control, build, and testing tools, CI became practicable in recent years.
+
+CI is the antidote to the _Big Bang_ integration of yore: having specified all the components and their interfaces, developers go their way to implement their parts in isolation of one another, only to return to the team once their work is done. This process usually fails, because the developers' assumptions quickly diverge as they focus only on their respective part of the system.
+
+Microsoft's _daily build_ practice is a predecessor of CI. The software is built towards the end of every working day. If compilation fails, the developer causing the error must stay in the office until the issue is resolved, and the software can be compiled successfully again. CI also adds the requirement that all tests must pass for a build to be considered successful.
+
+There is a debate on how often changes shall be integrated. While integration after every couple of hours, or after any code is shared with the team, is feasible for many projects, this high-frequency build-and-fix cycle might slow down overall progress due to frequent interruptions. More important than a high integration frequency is the team's capability to integrate changes regularly and to resolve arising issues together effectively. Every project needs to find its proper pace.
+
+
