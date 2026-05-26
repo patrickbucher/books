@@ -662,3 +662,10 @@ The discussion about pair programming often ignores that people are different: s
 
 The programming profession has adopted pair programming as a useful tool—which is taken out of the toolbox as needed and put back there afterwards. However, the industry decided to not make this practice mandatory due to a lack of decisive evidence in favour of it.
 
+## Coding Standards
+
+Without individual code ownerhip (see last chapter) and thanks to constant refactoring (see next section), code written in an agile setting does not display the individual style of a single programmer, but rather a team-wide style according to a more or less codified standard. This property even becomes a goal in an agile setting under the notion of _egoless programming_: it must not be possible to attribute a piece of code to its author by its style.
+
+While team standards are a useful practice to some degree, individual brillance still should be allowed to shine. Ironically enough, early agile software projects such as JUnit are such showcases for great individual achievements.
+
+
