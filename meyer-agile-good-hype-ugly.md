@@ -650,4 +650,15 @@ Microsoft's _daily build_ practice is a predecessor of CI. The software is built
 
 There is a debate on how often changes shall be integrated. While integration after every couple of hours, or after any code is shared with the team, is feasible for many projects, this high-frequency build-and-fix cycle might slow down overall progress due to frequent interruptions. More important than a high integration frequency is the team's capability to integrate changes regularly and to resolve arising issues together effectively. Every project needs to find its proper pace.
 
+## Pair Programming
+
+XP insists on pair programming: all productive code shall be written by two developers sharing a workstation. Most programmers are willing to program in pairs on occasion, because its benefits are apparent: the code is being peer-reviewed as it is written, the developers keep one another focused at the task, brainstorming is possible while coding, and ideas can be clarified as they are implemented.
+
+Pair programming also increases the accountability of the developers and helps them overcoming mental blockades. In an industry where a daily contribution averages to 20 lines of code per developer and day, the higher quality of the code being written while pairing makes up for its possibly lower quantity. However, there is no conclusive evidence if the alleged quality improvements warrant this practice to be made mandatory.
+
+Some organizations promote pair programming as a mentoring technique. Unfortunately, pairing up a senior with a junior developer can lead to mutual frustration, because the former is slowed down by the latter, while the mentee feels rushed by its mentor, who focuses on getting the task done rather than spreading knowledge. Pair programming works best among peers, i.e. when both developers work roughly at the same level.
+
+The discussion about pair programming often ignores that people are different: some strive for personal interaction, while others need time for uninterrupted thinking. Some of the greatest programmers such as Donald Knuth work best in isolation; the idea that forcing him to pair up for all of his productive work would have a positive effect on the quality of his work is laughable.
+
+The programming profession has adopted pair programming as a useful tool—which is taken out of the toolbox as needed and put back there afterwards. However, the industry decided to not make this practice mandatory due to a lack of decisive evidence in favour of it.
 
