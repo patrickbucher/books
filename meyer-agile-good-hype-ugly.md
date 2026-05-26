@@ -642,13 +642,13 @@ Many of the managerial practices originate from Scrum, which is a lean organizat
 
 ## Continuous Integration and Daily Build
 
-Integration means compiling all the modules of a software together and running the regression suite on the resulting artifact. Continuous Integration (CI) is the process of running those compilation and testing steps after every code change that is shared by a developer with the rest of the team. Thanks to modern revision control, build, and testing tools, CI became practicable in recent years.
+Integration means compiling all the modules of a software together and running the regression test suite on the resulting artifact. Continuous Integration (CI) is the process of running those compilation and testing steps after every code change that is shared by a developer with the rest of the team. Thanks to modern revision control, build, and testing tools, CI became practicable in recent years.
 
-CI is the antidote to the _Big Bang_ integration of yore: having specified all the components and their interfaces, developers go their way to implement their parts in isolation of one another, only to return to the team once their work is done. This process usually fails, because the developers' assumptions quickly diverge as they focus only on their respective part of the system.
+CI is the antidote to the _Big Bang_ integration of yore: having specified all the components and their interfaces, developers go their way to implement their parts in isolation of one another, only to return to the team once their work is done. This process usually fails, because the assumptions made by the developers quickly diverge as they focus only on their respective part of the system.
 
-Microsoft's _daily build_ practice is a predecessor of CI. The software is built towards the end of every working day. If compilation fails, the developer causing the error must stay in the office until the issue is resolved, and the software can be compiled successfully again. CI also adds the requirement that all tests must pass for a build to be considered successful.
+Microsoft's _daily build_ practice is a predecessor of CI. The software is built towards the end of every working day. If compilation fails, the developer causing the error must stay at work until the issue is resolved, and the software can be compiled successfully again. CI also adds the requirement that all tests must pass for a build to be considered successful.
 
-There is a debate on how often changes shall be integrated. While integration after every couple of hours, or after any code is shared with the team, is feasible for many projects, this high-frequency build-and-fix cycle might slow down overall progress due to frequent interruptions. More important than a high integration frequency is the team's capability to integrate changes regularly and to resolve arising issues together effectively. Every project needs to find its proper pace.
+There is a debate on how often changes shall be integrated. While integration after every couple of hours or after any code is shared with the team is feasible for many projects, this high-frequency build-and-fix cycle might slow down overall progress due to frequent interruptions. More important than a high integration frequency is the team's capability to integrate changes regularly and to resolve arising issues together effectively. Every project needs to find its proper pace.
 
 ## Pair Programming
 
@@ -656,7 +656,7 @@ XP insists on pair programming: all productive code shall be written by two deve
 
 Pair programming also increases the accountability of the developers and helps them overcoming mental blockades. In an industry where a daily contribution averages to 20 lines of code per developer and day, the higher quality of the code being written while pairing makes up for its possibly lower quantity. However, there is no conclusive evidence if the alleged quality improvements warrant this practice to be made mandatory.
 
-Some organizations promote pair programming as a mentoring technique. Unfortunately, pairing up a senior with a junior developer can lead to mutual frustration, because the former is slowed down by the latter, while the mentee feels rushed by its mentor, who focuses on getting the task done rather than spreading knowledge. Pair programming works best among peers, i.e. when both developers work roughly at the same level.
+Some organizations promote pair programming as a mentoring technique. Unfortunately, pairing up a senior with a junior developer can lead to mutual frustration, because the former is slowed down by the latter, while the mentee feels rushed by its mentor, who focuses on getting the task done rather than spreading knowledge. Pair programming works best among peers, i.e. when both developers work roughly at the same level and pace.
 
 The discussion about pair programming often ignores that people are different: some strive for personal interaction, while others need time for uninterrupted thinking. Some of the greatest programmers such as Donald Knuth work best in isolation; the idea that forcing him to pair up for all of his productive work would have a positive effect on the quality of his work is laughable.
 
@@ -670,13 +670,13 @@ While team standards are a useful practice to some degree, individual brillance 
 
 ## Refactoring
 
-Refactoring is the agile way's antidote to upfront design. The developres just write the code they need here and now, which is then scanned heuristically for _code smells_ to be eliminated by applying refactoring recipes addressing those imperfections. A typical code smell is duplicated code, which is eliminated by identifying the common parts and introducing an appropriate abstraction such as a function or a class.
+Refactoring is the agile way's antidote to upfront design. The developers just write the code they need here and now, which is then scanned heuristically for _code smells_ to be eliminated by applying refactoring recipes addressing those imperfections. A typical code smell is duplicated code, which is eliminated by identifying the common parts and introducing an appropriate abstraction such as a function or a class.
 
-Refactoring must not alter the semantics of the code, but improve its quality and architecture. This process is made fast and safe using appropriate tools: renaming identifiers is not only a daunting but also a risky task, which can be performed reliably by an IDE.
+Refactoring must not alter the semantics of the code, but improve its quality and architecture. This process is made fast and safe using appropriate tools: renaming identifiers is not only a daunting but also a risky task, which can be performed fast and reliably by an IDE.
 
 In this context, quality criteria are often stated in the negative by showing examples of low quality: code smells and anti-patterns. According to Kent Beck, a good refactoring makes the code simpler by reducing duplication.
 
-While refactoring is evidentially useful, it cannot replace replace proper upfront design. Simplicity can stand in the way of adaptability. Some refactorings are small, but others can be quite large tasks that not only require days or weeks of focused work, but also some degree of upfront thinking about the goal of the refactoring.
+While refactoring is evidentially useful, it cannot replace proper upfront design. Simplicity can stand in the way of adaptability. Some refactorings are small, but others can be quite large tasks that not only require days or weeks of focused work, but also some degree of upfront thinking about the goal of the refactoring.
 
 Here, the "garbage in, garbage out" principle holds true: a bad design cannot be refactored into something good, e.g. when the wrong abstractions have been chosen early in the process. Refactoring is most useful when performed on a sound code base with a solid design.
 
@@ -696,9 +696,9 @@ Test-Driven Development (TDD) is not only a testing technique, but a full softwa
 
 This process has different implications: First, the test code is written before the production code. Second, this process is incremental, since only one new test is added at the time, defining a single new case. Third, the last step—refactoring—becomes crucial, because otherwise one ends up with one big `if`, `else if`, `else` construct that handles all the cases defined by the test cases individually. Fourth, one can only proceed when all the tests are running successfully.
 
-Thus, the test suite grows in lockstep with the production code. It is crucial for this method that the new test initially fails. Only a failing test breaks new ground, thereby granting the developer the permission to change production code. This process is only feasible test runners (e.g. of the xUnit variety) are applied, which execute the entire test suite at the push of a button.
+Thus, the test suite grows in lockstep with the production code. It is crucial for this method that the new test initially fails. Only a failing test breaks new ground, thereby granting the developer the permission to change production code. This process is only feasible when test runners (e.g. of the xUnit variety) are applied, which execute the entire test suite at the push of a button.
 
-A major issue of the TDD method is he assumption thta tests are sufficient to express the desired behaviour of the software. Tests, however, are even more specific than user stories. A proper specification requires abstracting from the examples to find general rules. Tests can be generated from specifications, but not the other way around.
+A major issue of the TDD method is the assumption thta tests are sufficient to express the desired behaviour of the software. Tests, however, are even more specific than user stories. A proper specification requires abstracting from the examples to find general rules. Tests can be generated from specifications, but not the other way around.
 
 The most important contribution of the TDD method is the implication that any new code is accompanied by a corresponding test case. If this test is written before or after the production code is secondary.
 
