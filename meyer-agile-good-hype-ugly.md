@@ -684,3 +684,21 @@ There are different kinds of imperfections to be found in the code: _incidental_
 
 Those two kinds of imperfections are related to different kinds of complexity: incidental changes affect additive complexity, essential changes affect multiplicative complexity. The former kind of change can be handled step by step using appropriate tools, while the latter requires upfront thinking. If a project fails to identify the most important abstractions early on, no amount of refactoring will turn the mess into an extensible code base.
 
+## Test-Driven Development
+
+Test-Driven Development (TDD) is not only a testing technique, but a full software development method. Kent Beck describes TDD as the repetition of the following steps:
+
+1. write a new test
+2. run all the tests and see the new test fail
+3. make a change to the production code
+4. run all the tests and see them all succeed
+5. refactor the production code
+
+This process has different implications: First, the test code is written before the production code. Second, this process is incremental, since only one new test is added at the time, defining a single new case. Third, the last step—refactoring—becomes crucial, because otherwise one ends up with one big `if`, `else if`, `else` construct that handles all the cases defined by the test cases individually. Fourth, one can only proceed when all the tests are running successfully.
+
+Thus, the test suite grows in lockstep with the production code. It is crucial for this method that the new test initially fails. Only a failing test breaks new ground, thereby granting the developer the permission to change production code. This process is only feasible test runners (e.g. of the xUnit variety) are applied, which execute the entire test suite at the push of a button.
+
+A major issue of the TDD method is he assumption thta tests are sufficient to express the desired behaviour of the software. Tests, however, are even more specific than user stories. A proper specification requires abstracting from the examples to find general rules. Tests can be generated from specifications, but not the other way around.
+
+The most important contribution of the TDD method is the implication that any new code is accompanied by a corresponding test case. If this test is written before or after the production code is secondary.
+
